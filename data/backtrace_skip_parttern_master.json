@@ -1,0 +1,44 @@
+[
+  {
+    "Code": 1,
+    "RegexTargetType": 1,
+    "Parttern": ".*RemoteProviderException\\s*:\\s*Unable to load asset bundle from\\s*:.*acb.*",
+    "SendCount": 1
+  },
+  {
+    "Code": 2,
+    "RegexTargetType": 1,
+    "Parttern": ".*System\\.Exception\\s*:\\s*CriResourceProvider unable to load from url\\s*https:.*acb.*",
+    "SendCount": 1
+  },
+  {
+    "Code": 3,
+    "RegexTargetType": 1,
+    "Parttern": ".*Error:E2022030924:Rendering Failed.*",
+    "SendCount": 1
+  },
+  {
+    "Code": 4,
+    "RegexTargetType": 1,
+    "Parttern": ".*can't be loaded because another AssetBundle with the same files is already loaded.*",
+    "SendCount": 1
+  },
+  {
+    "Code": 5,
+    "RegexTargetType": 1,
+    "Parttern": ".*RenderingCommandBuffer\\s*:\\s*shader Hidden\\/Universal Render Pipeline\\/Bloom\\s*:\\s*invalid pass index 2 in DrawProcedural.*",
+    "SendCount": 1
+  },
+  {
+    "Code": 6,
+    "RegexTargetType": 1,
+    "Parttern": ".*Failed setting triangles\\s*.\\s*The number of supplied triangle indices must be a multiple of 3.*",
+    "SendCount": 1
+  },
+  {
+    "Code": 7,
+    "RegexTargetType": 1,
+    "Parttern": ".*Touch was already deallocated.*",
+    "SendCount": 1
+  }
+]

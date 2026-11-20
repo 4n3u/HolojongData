@@ -1,0 +1,30 @@
+[
+  {
+    "GraphicsDeviceName": "Adreno 730",
+    "PresetType": 4
+  },
+  {
+    "GraphicsDeviceName": "Adreno 740",
+    "PresetType": 4
+  },
+  {
+    "GraphicsDeviceName": "Adreno 750",
+    "PresetType": 4
+  },
+  {
+    "GraphicsDeviceName": "Immortalis-G715 MP11",
+    "PresetType": 4
+  },
+  {
+    "GraphicsDeviceName": "Mali-G615 MP6",
+    "PresetType": 4
+  },
+  {
+    "GraphicsDeviceName": "Mali-G78",
+    "PresetType": 2
+  },
+  {
+    "GraphicsDeviceName": "Xclipse 940",
+    "PresetType": 4
+  }
+]

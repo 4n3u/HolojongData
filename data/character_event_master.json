@@ -1,0 +1,7697 @@
+[
+  {
+    "Code": 1001010002,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001010101,
+    "CostumeCode": 100101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001010102,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001010201,
+    "CostumeCode": 100101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001010202,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001010301,
+    "CostumeCode": 100101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001010302,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001010401,
+    "CostumeCode": 100101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1001010402,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1001010501,
+    "CostumeCode": 100101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1001010502,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1001010601,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1001010701,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1001010801,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1001010901,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1001011001,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1001012101,
+    "CostumeCode": 100101,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001012102,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001012201,
+    "CostumeCode": 100101,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001012202,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001014001,
+    "CostumeCode": 100101,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001014002,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1001014003,
+    "CostumeCode": 100101,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010002,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010100,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010101,
+    "CostumeCode": 100201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010102,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010201,
+    "CostumeCode": 100201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010202,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010301,
+    "CostumeCode": 100201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010302,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002010401,
+    "CostumeCode": 100201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1002010402,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1002010501,
+    "CostumeCode": 100201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1002010502,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1002010601,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1002010701,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1002010801,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1002010901,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1002011001,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1002012101,
+    "CostumeCode": 100201,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002012102,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002012201,
+    "CostumeCode": 100201,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002012202,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002014001,
+    "CostumeCode": 100201,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002014002,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1002014003,
+    "CostumeCode": 100201,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003010002,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003010101,
+    "CostumeCode": 100301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003010102,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003010201,
+    "CostumeCode": 100301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003010202,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003010301,
+    "CostumeCode": 100301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003010302,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003010401,
+    "CostumeCode": 100301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1003010402,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1003010501,
+    "CostumeCode": 100301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1003010502,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1003010601,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1003010701,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1003010801,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1003010901,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1003011001,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1003012101,
+    "CostumeCode": 100301,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003012102,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003012201,
+    "CostumeCode": 100301,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003012202,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003014001,
+    "CostumeCode": 100301,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003014002,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1003014003,
+    "CostumeCode": 100301,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010002,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010100,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010101,
+    "CostumeCode": 100401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010102,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010201,
+    "CostumeCode": 100401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010202,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010301,
+    "CostumeCode": 100401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010302,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004010401,
+    "CostumeCode": 100401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1004010402,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1004010501,
+    "CostumeCode": 100401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1004010502,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1004010601,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1004010701,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1004010801,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1004010901,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1004011001,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1004012101,
+    "CostumeCode": 100401,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004012102,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004012201,
+    "CostumeCode": 100401,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004012202,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004014001,
+    "CostumeCode": 100401,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004014002,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1004014003,
+    "CostumeCode": 100401,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006010002,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006010101,
+    "CostumeCode": 100601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006010102,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006010201,
+    "CostumeCode": 100601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006010202,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006010301,
+    "CostumeCode": 100601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006010302,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006010401,
+    "CostumeCode": 100601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1006010402,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1006010501,
+    "CostumeCode": 100601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1006010502,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1006010601,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1006010701,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1006010801,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1006010901,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1006011001,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1006012101,
+    "CostumeCode": 100601,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006012102,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006012201,
+    "CostumeCode": 100601,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006012202,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006014001,
+    "CostumeCode": 100601,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006014002,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1006014003,
+    "CostumeCode": 100601,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007010002,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007010101,
+    "CostumeCode": 100701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007010102,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007010201,
+    "CostumeCode": 100701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007010202,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007010301,
+    "CostumeCode": 100701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007010302,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007010401,
+    "CostumeCode": 100701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1007010402,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1007010501,
+    "CostumeCode": 100701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1007010502,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1007010601,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1007010701,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1007010801,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1007010901,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1007011001,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1007012101,
+    "CostumeCode": 100701,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007012102,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007012201,
+    "CostumeCode": 100701,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007012202,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007014001,
+    "CostumeCode": 100701,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007014002,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1007014003,
+    "CostumeCode": 100701,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008010002,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008010101,
+    "CostumeCode": 100801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008010102,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008010201,
+    "CostumeCode": 100801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008010202,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008010301,
+    "CostumeCode": 100801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008010302,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008010401,
+    "CostumeCode": 100801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1008010402,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1008010501,
+    "CostumeCode": 100801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1008010502,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1008010601,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1008010701,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1008010801,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1008010901,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1008011001,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1008012101,
+    "CostumeCode": 100801,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008012102,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008012201,
+    "CostumeCode": 100801,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008012202,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008014001,
+    "CostumeCode": 100801,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008014002,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1008014003,
+    "CostumeCode": 100801,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010002,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010100,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010101,
+    "CostumeCode": 100901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010102,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010201,
+    "CostumeCode": 100901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010202,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010301,
+    "CostumeCode": 100901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010302,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009010401,
+    "CostumeCode": 100901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1009010402,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1009010501,
+    "CostumeCode": 100901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1009010502,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1009010601,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1009010701,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1009010801,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1009010901,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1009011001,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1009012101,
+    "CostumeCode": 100901,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009012102,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009012201,
+    "CostumeCode": 100901,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009012202,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009014001,
+    "CostumeCode": 100901,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009014002,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1009014003,
+    "CostumeCode": 100901,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011010002,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011010101,
+    "CostumeCode": 101101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011010102,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011010201,
+    "CostumeCode": 101101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011010202,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011010301,
+    "CostumeCode": 101101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011010302,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011010401,
+    "CostumeCode": 101101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1011010402,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1011010501,
+    "CostumeCode": 101101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1011010502,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1011010601,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1011010701,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1011010801,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1011010901,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1011011001,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1011012101,
+    "CostumeCode": 101101,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011012102,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011012201,
+    "CostumeCode": 101101,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011012202,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011014001,
+    "CostumeCode": 101101,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011014002,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1011014003,
+    "CostumeCode": 101101,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012010002,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012010101,
+    "CostumeCode": 101201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012010102,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012010201,
+    "CostumeCode": 101201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012010202,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012010301,
+    "CostumeCode": 101201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012010302,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012010401,
+    "CostumeCode": 101201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1012010402,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1012010501,
+    "CostumeCode": 101201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1012010502,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1012010601,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1012010701,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1012010801,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1012010901,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1012011001,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1012012101,
+    "CostumeCode": 101201,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012012102,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012012201,
+    "CostumeCode": 101201,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012012202,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012014001,
+    "CostumeCode": 101201,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012014002,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1012014003,
+    "CostumeCode": 101201,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013010002,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013010101,
+    "CostumeCode": 101301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013010102,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013010201,
+    "CostumeCode": 101301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013010202,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013010301,
+    "CostumeCode": 101301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013010302,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013010401,
+    "CostumeCode": 101301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1013010402,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1013010501,
+    "CostumeCode": 101301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1013010502,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1013010601,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1013010701,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1013010801,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1013010901,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1013011001,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1013012101,
+    "CostumeCode": 101301,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013012102,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013012201,
+    "CostumeCode": 101301,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013012202,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013014001,
+    "CostumeCode": 101301,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013014002,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1013014003,
+    "CostumeCode": 101301,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015010002,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015010101,
+    "CostumeCode": 101501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015010102,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015010201,
+    "CostumeCode": 101501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015010202,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015010301,
+    "CostumeCode": 101501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015010302,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015010401,
+    "CostumeCode": 101501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1015010402,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1015010501,
+    "CostumeCode": 101501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1015010502,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1015010601,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1015010701,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1015010801,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1015010901,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1015011001,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1015012101,
+    "CostumeCode": 101501,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015012102,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015012201,
+    "CostumeCode": 101501,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015012202,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015014001,
+    "CostumeCode": 101501,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015014002,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1015014003,
+    "CostumeCode": 101501,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016010002,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016010101,
+    "CostumeCode": 101601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016010102,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016010201,
+    "CostumeCode": 101601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016010202,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016010301,
+    "CostumeCode": 101601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016010302,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016010401,
+    "CostumeCode": 101601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1016010402,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1016010501,
+    "CostumeCode": 101601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1016010502,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1016010601,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1016010701,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1016010801,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1016010901,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1016011001,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1016012101,
+    "CostumeCode": 101601,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016012102,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016012201,
+    "CostumeCode": 101601,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016012202,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016014001,
+    "CostumeCode": 101601,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016014002,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1016014003,
+    "CostumeCode": 101601,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017010002,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017010101,
+    "CostumeCode": 101701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017010102,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017010201,
+    "CostumeCode": 101701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017010202,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017010301,
+    "CostumeCode": 101701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017010302,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017010401,
+    "CostumeCode": 101701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1017010402,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1017010501,
+    "CostumeCode": 101701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1017010502,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1017010601,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1017010701,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1017010801,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1017010901,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1017011001,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1017012101,
+    "CostumeCode": 101701,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017012102,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017012201,
+    "CostumeCode": 101701,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017012202,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017014001,
+    "CostumeCode": 101701,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017014002,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1017014003,
+    "CostumeCode": 101701,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018010002,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018010101,
+    "CostumeCode": 101801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018010102,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018010201,
+    "CostumeCode": 101801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018010202,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018010301,
+    "CostumeCode": 101801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018010302,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018010401,
+    "CostumeCode": 101801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1018010402,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1018010501,
+    "CostumeCode": 101801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1018010502,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1018010601,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1018010701,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1018010801,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1018010901,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1018011001,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1018012101,
+    "CostumeCode": 101801,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018012102,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018012201,
+    "CostumeCode": 101801,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018012202,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018014001,
+    "CostumeCode": 101801,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018014002,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1018014003,
+    "CostumeCode": 101801,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020010002,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020010101,
+    "CostumeCode": 102001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020010102,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020010201,
+    "CostumeCode": 102001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020010202,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020010301,
+    "CostumeCode": 102001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020010302,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020010401,
+    "CostumeCode": 102001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1020010402,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1020010501,
+    "CostumeCode": 102001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1020010502,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1020010601,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1020010701,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1020010801,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1020010901,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1020011001,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1020012101,
+    "CostumeCode": 102001,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020012102,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020012201,
+    "CostumeCode": 102001,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020012202,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020014001,
+    "CostumeCode": 102001,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020014002,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1020014003,
+    "CostumeCode": 102001,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021010002,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021010101,
+    "CostumeCode": 102101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021010102,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021010201,
+    "CostumeCode": 102101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021010202,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021010301,
+    "CostumeCode": 102101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021010302,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021010401,
+    "CostumeCode": 102101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1021010402,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1021010501,
+    "CostumeCode": 102101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1021010502,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1021010601,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1021010701,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1021010801,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1021010901,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1021011001,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1021012101,
+    "CostumeCode": 102101,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021012102,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021012201,
+    "CostumeCode": 102101,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021012202,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021014001,
+    "CostumeCode": 102101,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021014002,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1021014003,
+    "CostumeCode": 102101,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022010002,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022010101,
+    "CostumeCode": 102201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022010102,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022010201,
+    "CostumeCode": 102201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022010202,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022010301,
+    "CostumeCode": 102201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022010302,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022010401,
+    "CostumeCode": 102201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1022010402,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1022010501,
+    "CostumeCode": 102201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1022010502,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1022010601,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1022010701,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1022010801,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1022010901,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1022011001,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1022012101,
+    "CostumeCode": 102201,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022012102,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022012201,
+    "CostumeCode": 102201,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022012202,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022014001,
+    "CostumeCode": 102201,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022014002,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1022014003,
+    "CostumeCode": 102201,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024010002,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024010101,
+    "CostumeCode": 102401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024010102,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024010201,
+    "CostumeCode": 102401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024010202,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024010301,
+    "CostumeCode": 102401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024010302,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024010401,
+    "CostumeCode": 102401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1024010402,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1024010501,
+    "CostumeCode": 102401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1024010502,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1024010601,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1024010701,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1024010801,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1024010901,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1024011001,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1024012101,
+    "CostumeCode": 102401,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024012102,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024012201,
+    "CostumeCode": 102401,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024012202,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024014001,
+    "CostumeCode": 102401,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024014002,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1024014003,
+    "CostumeCode": 102401,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025010002,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025010101,
+    "CostumeCode": 102501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025010102,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025010201,
+    "CostumeCode": 102501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025010202,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025010301,
+    "CostumeCode": 102501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025010302,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025010401,
+    "CostumeCode": 102501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1025010402,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1025010501,
+    "CostumeCode": 102501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1025010502,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1025010601,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1025010701,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1025010801,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1025010901,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1025011001,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1025012101,
+    "CostumeCode": 102501,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025012102,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025012201,
+    "CostumeCode": 102501,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025012202,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025014001,
+    "CostumeCode": 102501,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025014002,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1025014003,
+    "CostumeCode": 102501,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026010002,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026010101,
+    "CostumeCode": 102601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026010102,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026010201,
+    "CostumeCode": 102601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026010202,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026010301,
+    "CostumeCode": 102601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026010302,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026010401,
+    "CostumeCode": 102601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1026010402,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1026010501,
+    "CostumeCode": 102601,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1026010502,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1026010601,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1026010701,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1026010801,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1026010901,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1026011001,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1026012101,
+    "CostumeCode": 102601,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026012102,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026012201,
+    "CostumeCode": 102601,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026012202,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026014001,
+    "CostumeCode": 102601,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026014002,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1026014003,
+    "CostumeCode": 102601,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027010002,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027010101,
+    "CostumeCode": 102701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027010102,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027010201,
+    "CostumeCode": 102701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027010202,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027010301,
+    "CostumeCode": 102701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027010302,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027010401,
+    "CostumeCode": 102701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1027010402,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1027010501,
+    "CostumeCode": 102701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1027010502,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1027010601,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1027010701,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1027010801,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1027010901,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1027011001,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1027012101,
+    "CostumeCode": 102701,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027012102,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027012201,
+    "CostumeCode": 102701,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027012202,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027014001,
+    "CostumeCode": 102701,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027014002,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1027014003,
+    "CostumeCode": 102701,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028010002,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028010101,
+    "CostumeCode": 102801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028010102,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028010201,
+    "CostumeCode": 102801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028010202,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028010301,
+    "CostumeCode": 102801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028010302,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028010401,
+    "CostumeCode": 102801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1028010402,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1028010501,
+    "CostumeCode": 102801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1028010502,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1028010601,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1028010701,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1028010801,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1028010901,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1028011001,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1028012101,
+    "CostumeCode": 102801,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028012102,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028012201,
+    "CostumeCode": 102801,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028012202,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028014001,
+    "CostumeCode": 102801,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028014002,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1028014003,
+    "CostumeCode": 102801,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029010002,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029010101,
+    "CostumeCode": 102901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029010102,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029010201,
+    "CostumeCode": 102901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029010202,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029010301,
+    "CostumeCode": 102901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029010302,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029010401,
+    "CostumeCode": 102901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1029010402,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1029010501,
+    "CostumeCode": 102901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1029010502,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1029010601,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1029010701,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1029010801,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1029010901,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1029011001,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1029012101,
+    "CostumeCode": 102901,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029012102,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029012201,
+    "CostumeCode": 102901,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029012202,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029014001,
+    "CostumeCode": 102901,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029014002,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1029014003,
+    "CostumeCode": 102901,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031010002,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031010101,
+    "CostumeCode": 103101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031010102,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031010201,
+    "CostumeCode": 103101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031010202,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031010301,
+    "CostumeCode": 103101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031010302,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031010401,
+    "CostumeCode": 103101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1031010402,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1031010501,
+    "CostumeCode": 103101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1031010502,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1031010601,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1031010701,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1031010801,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1031010901,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1031011001,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1031012101,
+    "CostumeCode": 103101,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031012102,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031012201,
+    "CostumeCode": 103101,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031012202,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031014001,
+    "CostumeCode": 103101,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031014002,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1031014003,
+    "CostumeCode": 103101,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032010002,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032010101,
+    "CostumeCode": 103201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032010102,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032010201,
+    "CostumeCode": 103201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032010202,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032010301,
+    "CostumeCode": 103201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032010302,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032010401,
+    "CostumeCode": 103201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1032010402,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1032010501,
+    "CostumeCode": 103201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1032010502,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1032010601,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1032010701,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1032010801,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1032010901,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1032011001,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1032012101,
+    "CostumeCode": 103201,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032012102,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032012201,
+    "CostumeCode": 103201,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032012202,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032014001,
+    "CostumeCode": 103201,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032014002,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1032014003,
+    "CostumeCode": 103201,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033010002,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033010101,
+    "CostumeCode": 103301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033010102,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033010201,
+    "CostumeCode": 103301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033010202,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033010301,
+    "CostumeCode": 103301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033010302,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033010401,
+    "CostumeCode": 103301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1033010402,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1033010501,
+    "CostumeCode": 103301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1033010502,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1033010601,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1033010701,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1033010801,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1033010901,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1033011001,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1033012101,
+    "CostumeCode": 103301,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033012102,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033012201,
+    "CostumeCode": 103301,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033012202,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033014001,
+    "CostumeCode": 103301,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033014002,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1033014003,
+    "CostumeCode": 103301,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035010002,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035010101,
+    "CostumeCode": 103501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035010102,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035010201,
+    "CostumeCode": 103501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035010202,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035010301,
+    "CostumeCode": 103501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035010302,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035010401,
+    "CostumeCode": 103501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1035010402,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1035010501,
+    "CostumeCode": 103501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1035010502,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1035010601,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1035010701,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1035010801,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1035010901,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1035011001,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1035012101,
+    "CostumeCode": 103501,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035012102,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035012201,
+    "CostumeCode": 103501,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035012202,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035014001,
+    "CostumeCode": 103501,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035014002,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1035014003,
+    "CostumeCode": 103501,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010002,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010100,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010101,
+    "CostumeCode": 103701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010102,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010201,
+    "CostumeCode": 103701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010202,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010301,
+    "CostumeCode": 103701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010302,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037010401,
+    "CostumeCode": 103701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1037010402,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1037010501,
+    "CostumeCode": 103701,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1037010502,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1037010601,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1037010701,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1037010801,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1037010901,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1037011001,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1037012101,
+    "CostumeCode": 103701,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037012102,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037012201,
+    "CostumeCode": 103701,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037012202,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037014001,
+    "CostumeCode": 103701,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037014002,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1037014003,
+    "CostumeCode": 103701,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038010002,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038010101,
+    "CostumeCode": 103801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038010102,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038010201,
+    "CostumeCode": 103801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038010202,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038010301,
+    "CostumeCode": 103801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038010302,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038010401,
+    "CostumeCode": 103801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1038010402,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1038010501,
+    "CostumeCode": 103801,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1038010502,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1038010601,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1038010701,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1038010801,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1038010901,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1038011001,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1038012101,
+    "CostumeCode": 103801,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038012102,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038012201,
+    "CostumeCode": 103801,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038012202,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038014001,
+    "CostumeCode": 103801,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038014002,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1038014003,
+    "CostumeCode": 103801,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039010002,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039010101,
+    "CostumeCode": 103901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039010102,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039010201,
+    "CostumeCode": 103901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039010202,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039010301,
+    "CostumeCode": 103901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039010302,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039010401,
+    "CostumeCode": 103901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1039010402,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1039010501,
+    "CostumeCode": 103901,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1039010502,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1039010601,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1039010701,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1039010801,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1039010901,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1039011001,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1039012101,
+    "CostumeCode": 103901,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039012102,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039012201,
+    "CostumeCode": 103901,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039012202,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039014001,
+    "CostumeCode": 103901,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039014002,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1039014003,
+    "CostumeCode": 103901,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040010002,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040010101,
+    "CostumeCode": 104001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040010102,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040010201,
+    "CostumeCode": 104001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040010202,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040010301,
+    "CostumeCode": 104001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040010302,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040010401,
+    "CostumeCode": 104001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1040010402,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1040010501,
+    "CostumeCode": 104001,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1040010502,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1040010601,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1040010701,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1040010801,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1040010901,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1040011001,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1040012101,
+    "CostumeCode": 104001,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040012102,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040012201,
+    "CostumeCode": 104001,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040012202,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040014001,
+    "CostumeCode": 104001,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040014002,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1040014003,
+    "CostumeCode": 104001,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041010002,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041010101,
+    "CostumeCode": 104101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041010102,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041010201,
+    "CostumeCode": 104101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041010202,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041010301,
+    "CostumeCode": 104101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041010302,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041010401,
+    "CostumeCode": 104101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1041010402,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1041010501,
+    "CostumeCode": 104101,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1041010502,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1041010601,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1041010701,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1041010801,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1041010901,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1041011001,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1041012101,
+    "CostumeCode": 104101,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041012102,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041012201,
+    "CostumeCode": 104101,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041012202,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041014001,
+    "CostumeCode": 104101,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041014002,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1041014003,
+    "CostumeCode": 104101,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042010002,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042010101,
+    "CostumeCode": 104201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042010102,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042010201,
+    "CostumeCode": 104201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042010202,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042010301,
+    "CostumeCode": 104201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042010302,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042010401,
+    "CostumeCode": 104201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1042010402,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1042010501,
+    "CostumeCode": 104201,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1042010502,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1042010601,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1042010701,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1042010801,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1042010901,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1042011001,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1042012101,
+    "CostumeCode": 104201,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042012102,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042012201,
+    "CostumeCode": 104201,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042012202,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042014001,
+    "CostumeCode": 104201,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042014002,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1042014003,
+    "CostumeCode": 104201,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043010002,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043010101,
+    "CostumeCode": 104301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043010102,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043010201,
+    "CostumeCode": 104301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043010202,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043010301,
+    "CostumeCode": 104301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043010302,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043010401,
+    "CostumeCode": 104301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1043010402,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1043010501,
+    "CostumeCode": 104301,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1043010502,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1043010601,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1043010701,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1043010801,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1043010901,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1043011001,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1043012101,
+    "CostumeCode": 104301,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043012102,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043012201,
+    "CostumeCode": 104301,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043012202,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043014001,
+    "CostumeCode": 104301,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043014002,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1043014003,
+    "CostumeCode": 104301,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044010002,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044010101,
+    "CostumeCode": 104401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044010102,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044010201,
+    "CostumeCode": 104401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044010202,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044010301,
+    "CostumeCode": 104401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044010302,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044010401,
+    "CostumeCode": 104401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1044010402,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1044010501,
+    "CostumeCode": 104401,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1044010502,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1044010601,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1044010701,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1044010801,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1044010901,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1044011001,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1044012101,
+    "CostumeCode": 104401,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044012102,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044012201,
+    "CostumeCode": 104401,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044012202,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044014001,
+    "CostumeCode": 104401,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044014002,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1044014003,
+    "CostumeCode": 104401,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045010002,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 1,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045010101,
+    "CostumeCode": 104501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045010102,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045010201,
+    "CostumeCode": 104501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045010202,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045010301,
+    "CostumeCode": 104501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045010302,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045010401,
+    "CostumeCode": 104501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1045010402,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1045010501,
+    "CostumeCode": 104501,
+    "IllustrationType": 2,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1045010502,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 3,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1045010601,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 1
+  },
+  {
+    "Code": 1045010701,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 2
+  },
+  {
+    "Code": 1045010801,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 3
+  },
+  {
+    "Code": 1045010901,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 4
+  },
+  {
+    "Code": 1045011001,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 2,
+    "Weight": 1,
+    "UnlockTrigger": 1,
+    "UnlockValue": 5
+  },
+  {
+    "Code": 1045012101,
+    "CostumeCode": 104501,
+    "IllustrationType": 2,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045012102,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 3,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045012201,
+    "CostumeCode": 104501,
+    "IllustrationType": 2,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045012202,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 4,
+    "Weight": 1,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045014001,
+    "CostumeCode": 104501,
+    "IllustrationType": 2,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045014002,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 7,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  },
+  {
+    "Code": 1045014003,
+    "CostumeCode": 104501,
+    "IllustrationType": 1,
+    "TalkTrigger": 8,
+    "Weight": 0,
+    "UnlockTrigger": 0,
+    "UnlockValue": 0
+  }
+]

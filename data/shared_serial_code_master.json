@@ -1,0 +1,34 @@
+[
+  {
+    "Code": "4gamermentanpin",
+    "Name": "4Gamer シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      99000003
+    ]
+  },
+  {
+    "Code": "INSIDESSRB",
+    "Name": "インサイド シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      99000005
+    ]
+  },
+  {
+    "Code": "ReGLOSS1129wkwk",
+    "Name": "ReGLOSS麻雀最強化計画 シリアルコード報酬",
+    "TimeLimit": "2027-12-31T14:59:59+00:00",
+    "RewardCode": [
+      99000001
+    ]
+  },
+  {
+    "Code": "gamespahardcore",
+    "Name": "Game*Spark シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      99000004
+    ]
+  }
+]

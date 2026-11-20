@@ -1,0 +1,2107 @@
+[
+  {
+    "Id": 1,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 90,
+    "Action": 1,
+    "ActionValue": "25000",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 2,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 100,
+    "Action": 1,
+    "ActionValue": "30000",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 3,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 110,
+    "Action": 1,
+    "ActionValue": "2",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 4,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 130,
+    "Action": 1,
+    "ActionValue": "30000",
+    "Conditions": [
+      {
+        "Id": 120,
+        "Value": "True"
+      }
+    ],
+    "Priority": 150
+  },
+  {
+    "Id": 5,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 140,
+    "Action": 1,
+    "ActionValue": "3000",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 6,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 160,
+    "Action": 1,
+    "ActionValue": "300",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 7,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 270,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 8,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 270,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 10,
+    "TriggerId": 10,
+    "TriggerValue": "4",
+    "TargetId": 390,
+    "Action": 1,
+    "ActionValue": "30000",
+    "Conditions": [
+      {
+        "Id": 380,
+        "Value": "True"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 11,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 90,
+    "Action": 1,
+    "ActionValue": "35000",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 12,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 100,
+    "Action": 1,
+    "ActionValue": "40000",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 13,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 110,
+    "Action": 1,
+    "ActionValue": "7",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 14,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 130,
+    "Action": 1,
+    "ActionValue": "40000",
+    "Conditions": [
+      {
+        "Id": 120,
+        "Value": "True"
+      }
+    ],
+    "Priority": 150
+  },
+  {
+    "Id": 15,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 140,
+    "Action": 1,
+    "ActionValue": "2000",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 16,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 160,
+    "Action": 1,
+    "ActionValue": "200",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 17,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 270,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 18,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 270,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 21,
+    "TriggerId": 10,
+    "TriggerValue": "3",
+    "TargetId": 390,
+    "Action": 1,
+    "ActionValue": "20000",
+    "Conditions": [
+      {
+        "Id": 380,
+        "Value": "True"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 22,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 90,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 23,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 90,
+    "Action": 1,
+    "ActionValue": "25000",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 24,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 90,
+    "Action": 1,
+    "ActionValue": "35000",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 25,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 100,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 26,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 100,
+    "Action": 1,
+    "ActionValue": "30000",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 27,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 100,
+    "Action": 1,
+    "ActionValue": "40000",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 28,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 110,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 29,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 110,
+    "Action": 1,
+    "ActionValue": "2",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 30,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 110,
+    "Action": 1,
+    "ActionValue": "7",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 31,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 120,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 32,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 120,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 33,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 130,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 34,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 130,
+    "Action": 1,
+    "ActionValue": "0",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 35,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 130,
+    "Action": 1,
+    "ActionValue": "0",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 36,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 140,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 37,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 140,
+    "Action": 1,
+    "ActionValue": "3000",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 38,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 140,
+    "Action": 1,
+    "ActionValue": "2000",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 39,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 150,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 40,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 150,
+    "Action": 1,
+    "ActionValue": "1000",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 41,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 160,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 42,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 160,
+    "Action": 1,
+    "ActionValue": "300",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 43,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 160,
+    "Action": 1,
+    "ActionValue": "200",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 44,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 170,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 45,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 170,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 46,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 190,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 47,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 190,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 48,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 200,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 49,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 200,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 50,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 210,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 51,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 210,
+    "Action": 1,
+    "ActionValue": "2",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 52,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 230,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 53,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 230,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 54,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 240,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 55,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 240,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 56,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 250,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 57,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 250,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 58,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 260,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 59,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 260,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 60,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 270,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 61,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 270,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 62,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 270,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 63,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 280,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 64,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 280,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 65,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 290,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 66,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 290,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 67,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 300,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 68,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 300,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 69,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 310,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 70,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 310,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 71,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 320,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 72,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 320,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 73,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 330,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 74,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 330,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 75,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 340,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 76,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 340,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 77,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 360,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 78,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 360,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 79,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 370,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 80,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 370,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 81,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 380,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 82,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 380,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 83,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 390,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 84,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 390,
+    "Action": 1,
+    "ActionValue": "0",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 85,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 400,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 86,
+    "TriggerId": 70,
+    "TriggerValue": "1",
+    "TargetId": 400,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 87,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 90,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 88,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 100,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 89,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 110,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 90,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 120,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 91,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 130,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [
+      {
+        "Id": 120,
+        "Value": "True"
+      }
+    ],
+    "Priority": 200
+  },
+  {
+    "Id": 92,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 140,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 93,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 150,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 94,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 160,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 95,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 170,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 96,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 190,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 97,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 200,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 98,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 210,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 99,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 230,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 100,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 240,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 101,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 240,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 102,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 250,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 103,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 260,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 104,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 260,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 105,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 270,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 106,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 270,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 107,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 270,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 108,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 280,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 109,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 290,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 110,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 300,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 111,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 310,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 112,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 310,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 113,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 320,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 114,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 320,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 115,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 330,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 116,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 330,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 117,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 340,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 118,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 340,
+    "Action": 1,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 119,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 360,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 120,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 370,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 121,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 380,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 122,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 390,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 123,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 390,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [
+      {
+        "Id": 380,
+        "Value": "True"
+      }
+    ],
+    "Priority": 200
+  },
+  {
+    "Id": 124,
+    "TriggerId": 70,
+    "TriggerValue": "2",
+    "TargetId": 400,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 125,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 90,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 126,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 100,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 127,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 110,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 128,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 120,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 129,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 130,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [
+      {
+        "Id": 120,
+        "Value": "True"
+      }
+    ],
+    "Priority": 200
+  },
+  {
+    "Id": 130,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 140,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 131,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 150,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 132,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 160,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 133,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 170,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 134,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 190,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 135,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 200,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 136,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 210,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 137,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 230,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 138,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 240,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 139,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 250,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 140,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 260,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 141,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 270,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 142,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 270,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 143,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 280,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 144,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 290,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 145,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 300,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 146,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 310,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 147,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 320,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 148,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 330,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 149,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 340,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 150,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 360,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 151,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 370,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 152,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 380,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 153,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 390,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 154,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 390,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [
+      {
+        "Id": 380,
+        "Value": "True"
+      }
+    ],
+    "Priority": 200
+  },
+  {
+    "Id": 155,
+    "TriggerId": 70,
+    "TriggerValue": "3",
+    "TargetId": 400,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 156,
+    "TriggerId": 90,
+    "TriggerValue": "",
+    "TargetId": 130,
+    "Action": 2,
+    "ActionValue": "5000",
+    "Conditions": [
+      {
+        "Id": 120,
+        "Value": "True"
+      }
+    ],
+    "Priority": 310
+  },
+  {
+    "Id": 157,
+    "TriggerId": 120,
+    "TriggerValue": "False",
+    "TargetId": 130,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 400
+  },
+  {
+    "Id": 158,
+    "TriggerId": 120,
+    "TriggerValue": "False",
+    "TargetId": 130,
+    "Action": 1,
+    "ActionValue": "0",
+    "Conditions": [],
+    "Priority": 410
+  },
+  {
+    "Id": 159,
+    "TriggerId": 120,
+    "TriggerValue": "True",
+    "TargetId": 130,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 300
+  },
+  {
+    "Id": 160,
+    "TriggerId": 380,
+    "TriggerValue": "True",
+    "TargetId": 390,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 161,
+    "TriggerId": 380,
+    "TriggerValue": "True",
+    "TargetId": 390,
+    "Action": 1,
+    "ActionValue": "30000",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "4"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 162,
+    "TriggerId": 380,
+    "TriggerValue": "True",
+    "TargetId": 390,
+    "Action": 1,
+    "ActionValue": "20000",
+    "Conditions": [
+      {
+        "Id": 10,
+        "Value": "3"
+      }
+    ],
+    "Priority": 100
+  },
+  {
+    "Id": 163,
+    "TriggerId": 380,
+    "TriggerValue": "False",
+    "TargetId": 390,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 164,
+    "TriggerId": 380,
+    "TriggerValue": "False",
+    "TargetId": 390,
+    "Action": 1,
+    "ActionValue": "0",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 168,
+    "TriggerId": 470,
+    "TriggerValue": "1",
+    "TargetId": 480,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 169,
+    "TriggerId": 470,
+    "TriggerValue": "1",
+    "TargetId": 480,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 170,
+    "TriggerId": 470,
+    "TriggerValue": "2",
+    "TargetId": 480,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 171,
+    "TriggerId": 470,
+    "TriggerValue": "2",
+    "TargetId": 480,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 172,
+    "TriggerId": 470,
+    "TriggerValue": "4",
+    "TargetId": 480,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 173,
+    "TriggerId": 470,
+    "TriggerValue": "1",
+    "TargetId": 490,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 174,
+    "TriggerId": 470,
+    "TriggerValue": "1",
+    "TargetId": 490,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 175,
+    "TriggerId": 470,
+    "TriggerValue": "2",
+    "TargetId": 490,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 176,
+    "TriggerId": 470,
+    "TriggerValue": "2",
+    "TargetId": 490,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 177,
+    "TriggerId": 470,
+    "TriggerValue": "4",
+    "TargetId": 490,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 178,
+    "TriggerId": 520,
+    "TriggerValue": "1",
+    "TargetId": 530,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 179,
+    "TriggerId": 520,
+    "TriggerValue": "1",
+    "TargetId": 530,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 180,
+    "TriggerId": 520,
+    "TriggerValue": "2",
+    "TargetId": 530,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 181,
+    "TriggerId": 520,
+    "TriggerValue": "2",
+    "TargetId": 530,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 182,
+    "TriggerId": 520,
+    "TriggerValue": "3",
+    "TargetId": 530,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 183,
+    "TriggerId": 520,
+    "TriggerValue": "4",
+    "TargetId": 530,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 184,
+    "TriggerId": 520,
+    "TriggerValue": "1",
+    "TargetId": 540,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 185,
+    "TriggerId": 520,
+    "TriggerValue": "2",
+    "TargetId": 540,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 186,
+    "TriggerId": 520,
+    "TriggerValue": "3",
+    "TargetId": 540,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 187,
+    "TriggerId": 520,
+    "TriggerValue": "3",
+    "TargetId": 540,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 188,
+    "TriggerId": 520,
+    "TriggerValue": "3",
+    "TargetId": 550,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 189,
+    "TriggerId": 520,
+    "TriggerValue": "3",
+    "TargetId": 550,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 190,
+    "TriggerId": 520,
+    "TriggerValue": "4",
+    "TargetId": 540,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 191,
+    "TriggerId": 520,
+    "TriggerValue": "4",
+    "TargetId": 540,
+    "Action": 1,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 192,
+    "TriggerId": 520,
+    "TriggerValue": "4",
+    "TargetId": 550,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 193,
+    "TriggerId": 520,
+    "TriggerValue": "4",
+    "TargetId": 550,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 194,
+    "TriggerId": 540,
+    "TriggerValue": "True",
+    "TargetId": 550,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 195,
+    "TriggerId": 540,
+    "TriggerValue": "False",
+    "TargetId": 550,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 196,
+    "TriggerId": 540,
+    "TriggerValue": "False",
+    "TargetId": 550,
+    "Action": 1,
+    "ActionValue": "1",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 197,
+    "TriggerId": 560,
+    "TriggerValue": "True",
+    "TargetId": 570,
+    "Action": 0,
+    "ActionValue": "True",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 198,
+    "TriggerId": 560,
+    "TriggerValue": "True",
+    "TargetId": 570,
+    "Action": 1,
+    "ActionValue": "5400",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 199,
+    "TriggerId": 560,
+    "TriggerValue": "False",
+    "TargetId": 570,
+    "Action": 0,
+    "ActionValue": "False",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 200,
+    "TriggerId": 560,
+    "TriggerValue": "False",
+    "TargetId": 570,
+    "Action": 1,
+    "ActionValue": "0",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 201,
+    "TriggerId": 580,
+    "TriggerValue": "",
+    "TargetId": 590,
+    "Action": 2,
+    "ActionValue": "7.00:00:00",
+    "Conditions": [],
+    "Priority": 100
+  },
+  {
+    "Id": 202,
+    "TriggerId": 600,
+    "TriggerValue": "",
+    "TargetId": 610,
+    "Action": 2,
+    "ActionValue": "7.00:00:00",
+    "Conditions": [],
+    "Priority": 100
+  }
+]

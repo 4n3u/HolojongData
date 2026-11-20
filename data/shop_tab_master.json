@@ -1,0 +1,30 @@
+[
+  {
+    "Code": 100,
+    "TabName": "ポイント購入",
+    "ImageAddress": "UI_Textures_Sprites_Shop_ShopTab_001",
+    "DisplayOrder": 11,
+    "ShowRightsButton": true
+  },
+  {
+    "Code": 200,
+    "TabName": "パッケージ",
+    "ImageAddress": "UI_Textures_Sprites_Shop_ShopTab_002",
+    "DisplayOrder": 21,
+    "ShowRightsButton": true
+  },
+  {
+    "Code": 300,
+    "TabName": "ポイント交換",
+    "ImageAddress": "UI_Textures_Sprites_Shop_ShopTab_003",
+    "DisplayOrder": 31,
+    "ShowRightsButton": false
+  },
+  {
+    "Code": 400,
+    "TabName": "交換券",
+    "ImageAddress": "UI_Textures_Sprites_Shop_ShopTab_005",
+    "DisplayOrder": 41,
+    "ShowRightsButton": false
+  }
+]

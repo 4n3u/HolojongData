@@ -1,0 +1,4722 @@
+[
+  {
+    "Code": 111001010101,
+    "VoiceCode": 111001010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001010101,
+    "VoiceCode": 111001010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010201,
+    "VoiceCode": 111001010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001010201,
+    "VoiceCode": 111001010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010301,
+    "VoiceCode": 111001010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001010301,
+    "VoiceCode": 111001010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010401,
+    "VoiceCode": 111001010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001010401,
+    "VoiceCode": 111001010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010501,
+    "VoiceCode": 111001010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010501,
+    "VoiceCode": 111001010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001010601,
+    "VoiceCode": 111001010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001010601,
+    "VoiceCode": 111001010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010701,
+    "VoiceCode": 111001010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001010701,
+    "VoiceCode": 111001010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010801,
+    "VoiceCode": 111001010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001010801,
+    "VoiceCode": 111001010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010901,
+    "VoiceCode": 111001010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001010901,
+    "VoiceCode": 111001010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001011001,
+    "VoiceCode": 111001011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001011001,
+    "VoiceCode": 111001011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111001011101,
+    "VoiceCode": 111001011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111001011101,
+    "VoiceCode": 111001011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010101,
+    "VoiceCode": 111002010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002010101,
+    "VoiceCode": 111002010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010201,
+    "VoiceCode": 111002010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002010201,
+    "VoiceCode": 111002010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010301,
+    "VoiceCode": 111002010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002010301,
+    "VoiceCode": 111002010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010401,
+    "VoiceCode": 111002010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010401,
+    "VoiceCode": 111002010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002010501,
+    "VoiceCode": 111002010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010501,
+    "VoiceCode": 111002010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002010601,
+    "VoiceCode": 111002010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010601,
+    "VoiceCode": 111002010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002010701,
+    "VoiceCode": 111002010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002010701,
+    "VoiceCode": 111002010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010801,
+    "VoiceCode": 111002010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002010801,
+    "VoiceCode": 111002010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010901,
+    "VoiceCode": 111002010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002010901,
+    "VoiceCode": 111002010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002011001,
+    "VoiceCode": 111002011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002011001,
+    "VoiceCode": 111002011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111002011101,
+    "VoiceCode": 111002011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111002011101,
+    "VoiceCode": 111002011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010101,
+    "VoiceCode": 111003010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010101,
+    "VoiceCode": 111003010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010201,
+    "VoiceCode": 111003010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010201,
+    "VoiceCode": 111003010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010301,
+    "VoiceCode": 111003010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010301,
+    "VoiceCode": 111003010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010401,
+    "VoiceCode": 111003010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010401,
+    "VoiceCode": 111003010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010501,
+    "VoiceCode": 111003010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010501,
+    "VoiceCode": 111003010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010601,
+    "VoiceCode": 111003010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010601,
+    "VoiceCode": 111003010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010701,
+    "VoiceCode": 111003010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010701,
+    "VoiceCode": 111003010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010801,
+    "VoiceCode": 111003010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003010801,
+    "VoiceCode": 111003010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010901,
+    "VoiceCode": 111003010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003010901,
+    "VoiceCode": 111003010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003011001,
+    "VoiceCode": 111003011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111003011001,
+    "VoiceCode": 111003011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003011101,
+    "VoiceCode": 111003011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111003011101,
+    "VoiceCode": 111003011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004010101,
+    "VoiceCode": 111004010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004010101,
+    "VoiceCode": 111004010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004010201,
+    "VoiceCode": 111004010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004010201,
+    "VoiceCode": 111004010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004010301,
+    "VoiceCode": 111004010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004010301,
+    "VoiceCode": 111004010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004010401,
+    "VoiceCode": 111004010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004010401,
+    "VoiceCode": 111004010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004010501,
+    "VoiceCode": 111004010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004010501,
+    "VoiceCode": 111004010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004010601,
+    "VoiceCode": 111004010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004010601,
+    "VoiceCode": 111004010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004010701,
+    "VoiceCode": 111004010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004010701,
+    "VoiceCode": 111004010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004010901,
+    "VoiceCode": 111004010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004010901,
+    "VoiceCode": 111004010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004011001,
+    "VoiceCode": 111004011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004011001,
+    "VoiceCode": 111004011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111004011101,
+    "VoiceCode": 111004011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111004011101,
+    "VoiceCode": 111004011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010101,
+    "VoiceCode": 111006010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010101,
+    "VoiceCode": 111006010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010201,
+    "VoiceCode": 111006010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010201,
+    "VoiceCode": 111006010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010301,
+    "VoiceCode": 111006010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010301,
+    "VoiceCode": 111006010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010401,
+    "VoiceCode": 111006010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010401,
+    "VoiceCode": 111006010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010501,
+    "VoiceCode": 111006010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010501,
+    "VoiceCode": 111006010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010601,
+    "VoiceCode": 111006010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010601,
+    "VoiceCode": 111006010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010701,
+    "VoiceCode": 111006010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010701,
+    "VoiceCode": 111006010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010801,
+    "VoiceCode": 111006010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010801,
+    "VoiceCode": 111006010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006010901,
+    "VoiceCode": 111006010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006010901,
+    "VoiceCode": 111006010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006011001,
+    "VoiceCode": 111006011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111006011001,
+    "VoiceCode": 111006011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006011101,
+    "VoiceCode": 111006011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111006011101,
+    "VoiceCode": 111006011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010101,
+    "VoiceCode": 111007010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010101,
+    "VoiceCode": 111007010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010201,
+    "VoiceCode": 111007010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010201,
+    "VoiceCode": 111007010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010301,
+    "VoiceCode": 111007010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010301,
+    "VoiceCode": 111007010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010401,
+    "VoiceCode": 111007010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010401,
+    "VoiceCode": 111007010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010501,
+    "VoiceCode": 111007010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010501,
+    "VoiceCode": 111007010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010601,
+    "VoiceCode": 111007010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010601,
+    "VoiceCode": 111007010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010701,
+    "VoiceCode": 111007010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010701,
+    "VoiceCode": 111007010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010801,
+    "VoiceCode": 111007010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007010801,
+    "VoiceCode": 111007010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010901,
+    "VoiceCode": 111007010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007010901,
+    "VoiceCode": 111007010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007011001,
+    "VoiceCode": 111007011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111007011001,
+    "VoiceCode": 111007011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007011101,
+    "VoiceCode": 111007011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111007011101,
+    "VoiceCode": 111007011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010101,
+    "VoiceCode": 111008010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010101,
+    "VoiceCode": 111008010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008010201,
+    "VoiceCode": 111008010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010201,
+    "VoiceCode": 111008010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008010301,
+    "VoiceCode": 111008010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010301,
+    "VoiceCode": 111008010301,
+    "WaitTime": 1.0
+  },
+  {
+    "Code": 111008010401,
+    "VoiceCode": 111008010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010401,
+    "VoiceCode": 111008010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008010501,
+    "VoiceCode": 111008010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008010501,
+    "VoiceCode": 111008010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010601,
+    "VoiceCode": 111008010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010601,
+    "VoiceCode": 111008010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008010701,
+    "VoiceCode": 111008010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008010701,
+    "VoiceCode": 111008010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010801,
+    "VoiceCode": 111008010801,
+    "WaitTime": 0.75
+  },
+  {
+    "Code": 111008010801,
+    "VoiceCode": 111008010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010901,
+    "VoiceCode": 111008010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008010901,
+    "VoiceCode": 111008010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008011001,
+    "VoiceCode": 111008011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111008011001,
+    "VoiceCode": 111008011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008011101,
+    "VoiceCode": 111008011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111008011101,
+    "VoiceCode": 111008011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010101,
+    "VoiceCode": 111009010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010101,
+    "VoiceCode": 111009010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010201,
+    "VoiceCode": 111009010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010201,
+    "VoiceCode": 111009010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010301,
+    "VoiceCode": 111009010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010301,
+    "VoiceCode": 111009010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010401,
+    "VoiceCode": 111009010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010401,
+    "VoiceCode": 111009010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010501,
+    "VoiceCode": 111009010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010501,
+    "VoiceCode": 111009010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010601,
+    "VoiceCode": 111009010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010601,
+    "VoiceCode": 111009010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010701,
+    "VoiceCode": 111009010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010701,
+    "VoiceCode": 111009010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010801,
+    "VoiceCode": 111009010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010801,
+    "VoiceCode": 111009010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009010901,
+    "VoiceCode": 111009010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009010901,
+    "VoiceCode": 111009010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009011001,
+    "VoiceCode": 111009011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111009011001,
+    "VoiceCode": 111009011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009011101,
+    "VoiceCode": 111009011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111009011101,
+    "VoiceCode": 111009011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010101,
+    "VoiceCode": 111011010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010101,
+    "VoiceCode": 111011010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011010201,
+    "VoiceCode": 111011010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010201,
+    "VoiceCode": 111011010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011010301,
+    "VoiceCode": 111011010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010301,
+    "VoiceCode": 111011010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011010401,
+    "VoiceCode": 111011010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010401,
+    "VoiceCode": 111011010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011010501,
+    "VoiceCode": 111011010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010501,
+    "VoiceCode": 111011010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011010601,
+    "VoiceCode": 111011010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010601,
+    "VoiceCode": 111011010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011010701,
+    "VoiceCode": 111011010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010701,
+    "VoiceCode": 111011010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011010801,
+    "VoiceCode": 111011010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010801,
+    "VoiceCode": 111011010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011010901,
+    "VoiceCode": 111011010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011010901,
+    "VoiceCode": 111011010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011011001,
+    "VoiceCode": 111011011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011011001,
+    "VoiceCode": 111011011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111011011101,
+    "VoiceCode": 111011011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111011011101,
+    "VoiceCode": 111011011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010101,
+    "VoiceCode": 111012010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012010101,
+    "VoiceCode": 111012010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010201,
+    "VoiceCode": 111012010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012010201,
+    "VoiceCode": 111012010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010301,
+    "VoiceCode": 111012010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012010301,
+    "VoiceCode": 111012010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010401,
+    "VoiceCode": 111012010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012010401,
+    "VoiceCode": 111012010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010501,
+    "VoiceCode": 111012010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012010501,
+    "VoiceCode": 111012010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010601,
+    "VoiceCode": 111012010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010601,
+    "VoiceCode": 111012010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012010701,
+    "VoiceCode": 111012010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010701,
+    "VoiceCode": 111012010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012010801,
+    "VoiceCode": 111012010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012010801,
+    "VoiceCode": 111012010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010901,
+    "VoiceCode": 111012010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012010901,
+    "VoiceCode": 111012010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012011001,
+    "VoiceCode": 111012011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012011001,
+    "VoiceCode": 111012011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111012011101,
+    "VoiceCode": 111012011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111012011101,
+    "VoiceCode": 111012011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010101,
+    "VoiceCode": 111013010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010101,
+    "VoiceCode": 111013010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013010201,
+    "VoiceCode": 111013010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010201,
+    "VoiceCode": 111013010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013010301,
+    "VoiceCode": 111013010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010301,
+    "VoiceCode": 111013010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013010401,
+    "VoiceCode": 111013010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010401,
+    "VoiceCode": 111013010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013010501,
+    "VoiceCode": 111013010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010501,
+    "VoiceCode": 111013010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013010601,
+    "VoiceCode": 111013010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010601,
+    "VoiceCode": 111013010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013010701,
+    "VoiceCode": 111013010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013010701,
+    "VoiceCode": 111013010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010801,
+    "VoiceCode": 111013010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013010801,
+    "VoiceCode": 111013010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010901,
+    "VoiceCode": 111013010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013010901,
+    "VoiceCode": 111013010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013011001,
+    "VoiceCode": 111013011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013011001,
+    "VoiceCode": 111013011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111013011101,
+    "VoiceCode": 111013011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111013011101,
+    "VoiceCode": 111013011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010101,
+    "VoiceCode": 111015010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010101,
+    "VoiceCode": 111015010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010201,
+    "VoiceCode": 111015010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010201,
+    "VoiceCode": 111015010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010301,
+    "VoiceCode": 111015010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010301,
+    "VoiceCode": 111015010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010401,
+    "VoiceCode": 111015010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010401,
+    "VoiceCode": 111015010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010501,
+    "VoiceCode": 111015010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010501,
+    "VoiceCode": 111015010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010601,
+    "VoiceCode": 111015010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010601,
+    "VoiceCode": 111015010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010701,
+    "VoiceCode": 111015010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010701,
+    "VoiceCode": 111015010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010801,
+    "VoiceCode": 111015010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010801,
+    "VoiceCode": 111015010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015010901,
+    "VoiceCode": 111015010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015010901,
+    "VoiceCode": 111015010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015011001,
+    "VoiceCode": 111015011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015011001,
+    "VoiceCode": 111015011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111015011101,
+    "VoiceCode": 111015011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111015011101,
+    "VoiceCode": 111015011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010101,
+    "VoiceCode": 111016010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010101,
+    "VoiceCode": 111016010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010201,
+    "VoiceCode": 111016010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010201,
+    "VoiceCode": 111016010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010301,
+    "VoiceCode": 111016010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010301,
+    "VoiceCode": 111016010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010401,
+    "VoiceCode": 111016010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010401,
+    "VoiceCode": 111016010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010501,
+    "VoiceCode": 111016010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010501,
+    "VoiceCode": 111016010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010601,
+    "VoiceCode": 111016010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010601,
+    "VoiceCode": 111016010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010701,
+    "VoiceCode": 111016010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010701,
+    "VoiceCode": 111016010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010801,
+    "VoiceCode": 111016010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010801,
+    "VoiceCode": 111016010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016010901,
+    "VoiceCode": 111016010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016010901,
+    "VoiceCode": 111016010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016011001,
+    "VoiceCode": 111016011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016011001,
+    "VoiceCode": 111016011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111016011101,
+    "VoiceCode": 111016011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111016011101,
+    "VoiceCode": 111016011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010101,
+    "VoiceCode": 111017010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017010101,
+    "VoiceCode": 111017010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010201,
+    "VoiceCode": 111017010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017010201,
+    "VoiceCode": 111017010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010301,
+    "VoiceCode": 111017010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010301,
+    "VoiceCode": 111017010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017010401,
+    "VoiceCode": 111017010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010401,
+    "VoiceCode": 111017010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017010501,
+    "VoiceCode": 111017010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010501,
+    "VoiceCode": 111017010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017010601,
+    "VoiceCode": 111017010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017010601,
+    "VoiceCode": 111017010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010701,
+    "VoiceCode": 111017010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010701,
+    "VoiceCode": 111017010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017010801,
+    "VoiceCode": 111017010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010801,
+    "VoiceCode": 111017010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017010901,
+    "VoiceCode": 111017010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017010901,
+    "VoiceCode": 111017010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017011001,
+    "VoiceCode": 111017011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111017011001,
+    "VoiceCode": 111017011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017011101,
+    "VoiceCode": 111017011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111017011101,
+    "VoiceCode": 111017011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010101,
+    "VoiceCode": 111018010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018010101,
+    "VoiceCode": 111018010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010201,
+    "VoiceCode": 111018010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010201,
+    "VoiceCode": 111018010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018010301,
+    "VoiceCode": 111018010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010301,
+    "VoiceCode": 111018010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018010401,
+    "VoiceCode": 111018010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018010401,
+    "VoiceCode": 111018010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010501,
+    "VoiceCode": 111018010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010501,
+    "VoiceCode": 111018010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018010701,
+    "VoiceCode": 111018010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010701,
+    "VoiceCode": 111018010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018010801,
+    "VoiceCode": 111018010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010801,
+    "VoiceCode": 111018010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018010901,
+    "VoiceCode": 111018010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018010901,
+    "VoiceCode": 111018010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018011001,
+    "VoiceCode": 111018011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018011001,
+    "VoiceCode": 111018011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111018011101,
+    "VoiceCode": 111018011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111018011101,
+    "VoiceCode": 111018011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020010101,
+    "VoiceCode": 111020010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020010101,
+    "VoiceCode": 111020010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020010201,
+    "VoiceCode": 111020010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020010201,
+    "VoiceCode": 111020010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020010301,
+    "VoiceCode": 111020010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020010301,
+    "VoiceCode": 111020010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020010401,
+    "VoiceCode": 111020010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020010401,
+    "VoiceCode": 111020010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020010601,
+    "VoiceCode": 111020010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020010601,
+    "VoiceCode": 111020010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020010701,
+    "VoiceCode": 111020010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020010701,
+    "VoiceCode": 111020010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020010801,
+    "VoiceCode": 111020010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020010801,
+    "VoiceCode": 111020010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020010901,
+    "VoiceCode": 111020010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020010901,
+    "VoiceCode": 111020010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020011001,
+    "VoiceCode": 111020011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020011001,
+    "VoiceCode": 111020011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111020011101,
+    "VoiceCode": 111020011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111020011101,
+    "VoiceCode": 111020011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010101,
+    "VoiceCode": 111021010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010101,
+    "VoiceCode": 111021010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021010201,
+    "VoiceCode": 111021010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021010201,
+    "VoiceCode": 111021010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010301,
+    "VoiceCode": 111021010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021010301,
+    "VoiceCode": 111021010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010401,
+    "VoiceCode": 111021010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021010401,
+    "VoiceCode": 111021010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010501,
+    "VoiceCode": 111021010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021010501,
+    "VoiceCode": 111021010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010601,
+    "VoiceCode": 111021010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021010601,
+    "VoiceCode": 111021010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010701,
+    "VoiceCode": 111021010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010701,
+    "VoiceCode": 111021010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021010801,
+    "VoiceCode": 111021010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010801,
+    "VoiceCode": 111021010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021010901,
+    "VoiceCode": 111021010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021010901,
+    "VoiceCode": 111021010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021011001,
+    "VoiceCode": 111021011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111021011001,
+    "VoiceCode": 111021011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021011101,
+    "VoiceCode": 111021011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111021011101,
+    "VoiceCode": 111021011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010101,
+    "VoiceCode": 111022010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022010101,
+    "VoiceCode": 111022010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010201,
+    "VoiceCode": 111022010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022010201,
+    "VoiceCode": 111022010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010301,
+    "VoiceCode": 111022010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010301,
+    "VoiceCode": 111022010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022010401,
+    "VoiceCode": 111022010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010401,
+    "VoiceCode": 111022010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022010501,
+    "VoiceCode": 111022010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010501,
+    "VoiceCode": 111022010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022010601,
+    "VoiceCode": 111022010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022010601,
+    "VoiceCode": 111022010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010701,
+    "VoiceCode": 111022010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010701,
+    "VoiceCode": 111022010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022010801,
+    "VoiceCode": 111022010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010801,
+    "VoiceCode": 111022010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022010901,
+    "VoiceCode": 111022010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022010901,
+    "VoiceCode": 111022010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111022011001,
+    "VoiceCode": 111022011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111022011001,
+    "VoiceCode": 111022011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010101,
+    "VoiceCode": 111024010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010101,
+    "VoiceCode": 111024010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010201,
+    "VoiceCode": 111024010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010201,
+    "VoiceCode": 111024010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010301,
+    "VoiceCode": 111024010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010301,
+    "VoiceCode": 111024010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010401,
+    "VoiceCode": 111024010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010401,
+    "VoiceCode": 111024010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010501,
+    "VoiceCode": 111024010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010501,
+    "VoiceCode": 111024010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010601,
+    "VoiceCode": 111024010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010601,
+    "VoiceCode": 111024010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010701,
+    "VoiceCode": 111024010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010701,
+    "VoiceCode": 111024010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010801,
+    "VoiceCode": 111024010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024010801,
+    "VoiceCode": 111024010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010901,
+    "VoiceCode": 111024010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024010901,
+    "VoiceCode": 111024010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024011001,
+    "VoiceCode": 111024011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024011001,
+    "VoiceCode": 111024011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111024011101,
+    "VoiceCode": 111024011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111024011101,
+    "VoiceCode": 111024011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010101,
+    "VoiceCode": 111025010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025010101,
+    "VoiceCode": 111025010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010201,
+    "VoiceCode": 111025010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025010201,
+    "VoiceCode": 111025010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010301,
+    "VoiceCode": 111025010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025010301,
+    "VoiceCode": 111025010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010401,
+    "VoiceCode": 111025010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025010401,
+    "VoiceCode": 111025010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010501,
+    "VoiceCode": 111025010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010501,
+    "VoiceCode": 111025010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025010601,
+    "VoiceCode": 111025010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025010601,
+    "VoiceCode": 111025010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010701,
+    "VoiceCode": 111025010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010701,
+    "VoiceCode": 111025010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025010801,
+    "VoiceCode": 111025010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010801,
+    "VoiceCode": 111025010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025010901,
+    "VoiceCode": 111025010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025010901,
+    "VoiceCode": 111025010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025011001,
+    "VoiceCode": 111025011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111025011001,
+    "VoiceCode": 111025011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025011101,
+    "VoiceCode": 111025011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111025011101,
+    "VoiceCode": 111025011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010101,
+    "VoiceCode": 111026010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010101,
+    "VoiceCode": 111026010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026010201,
+    "VoiceCode": 111026010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010201,
+    "VoiceCode": 111026010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026010301,
+    "VoiceCode": 111026010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010301,
+    "VoiceCode": 111026010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026010401,
+    "VoiceCode": 111026010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010401,
+    "VoiceCode": 111026010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026010501,
+    "VoiceCode": 111026010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026010501,
+    "VoiceCode": 111026010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010601,
+    "VoiceCode": 111026010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026010601,
+    "VoiceCode": 111026010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010701,
+    "VoiceCode": 111026010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026010701,
+    "VoiceCode": 111026010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010801,
+    "VoiceCode": 111026010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010801,
+    "VoiceCode": 111026010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026010901,
+    "VoiceCode": 111026010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026010901,
+    "VoiceCode": 111026010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026011001,
+    "VoiceCode": 111026011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111026011001,
+    "VoiceCode": 111026011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026011101,
+    "VoiceCode": 111026011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111026011101,
+    "VoiceCode": 111026011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010101,
+    "VoiceCode": 111027010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010101,
+    "VoiceCode": 111027010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027010201,
+    "VoiceCode": 111027010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010201,
+    "VoiceCode": 111027010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027010301,
+    "VoiceCode": 111027010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027010301,
+    "VoiceCode": 111027010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010401,
+    "VoiceCode": 111027010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027010401,
+    "VoiceCode": 111027010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010501,
+    "VoiceCode": 111027010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027010501,
+    "VoiceCode": 111027010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010601,
+    "VoiceCode": 111027010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010601,
+    "VoiceCode": 111027010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027010701,
+    "VoiceCode": 111027010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010701,
+    "VoiceCode": 111027010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027010801,
+    "VoiceCode": 111027010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027010801,
+    "VoiceCode": 111027010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027011001,
+    "VoiceCode": 111027011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111027011001,
+    "VoiceCode": 111027011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027011101,
+    "VoiceCode": 111027011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111027011101,
+    "VoiceCode": 111027011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028010101,
+    "VoiceCode": 111028010101,
+    "WaitTime": 0.75
+  },
+  {
+    "Code": 111028010101,
+    "VoiceCode": 111028010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010201,
+    "VoiceCode": 111028010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010201,
+    "VoiceCode": 111028010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028010301,
+    "VoiceCode": 111028010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010301,
+    "VoiceCode": 111028010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028010401,
+    "VoiceCode": 111028010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010401,
+    "VoiceCode": 111028010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028010501,
+    "VoiceCode": 111028010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028010501,
+    "VoiceCode": 111028010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010601,
+    "VoiceCode": 111028010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010601,
+    "VoiceCode": 111028010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028010701,
+    "VoiceCode": 111028010701,
+    "WaitTime": 0.75
+  },
+  {
+    "Code": 111028010701,
+    "VoiceCode": 111028010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010801,
+    "VoiceCode": 111028010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028010801,
+    "VoiceCode": 111028010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010901,
+    "VoiceCode": 111028010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028010901,
+    "VoiceCode": 111028010901,
+    "WaitTime": 0.75
+  },
+  {
+    "Code": 111028011001,
+    "VoiceCode": 111028011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111028011001,
+    "VoiceCode": 111028011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028011101,
+    "VoiceCode": 111028011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111028011101,
+    "VoiceCode": 111028011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010101,
+    "VoiceCode": 111029010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029010101,
+    "VoiceCode": 111029010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010201,
+    "VoiceCode": 111029010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029010201,
+    "VoiceCode": 111029010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010301,
+    "VoiceCode": 111029010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029010301,
+    "VoiceCode": 111029010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010401,
+    "VoiceCode": 111029010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029010401,
+    "VoiceCode": 111029010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010501,
+    "VoiceCode": 111029010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010501,
+    "VoiceCode": 111029010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029010601,
+    "VoiceCode": 111029010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029010601,
+    "VoiceCode": 111029010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010701,
+    "VoiceCode": 111029010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029010701,
+    "VoiceCode": 111029010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010801,
+    "VoiceCode": 111029010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010801,
+    "VoiceCode": 111029010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029010901,
+    "VoiceCode": 111029010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029010901,
+    "VoiceCode": 111029010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029011001,
+    "VoiceCode": 111029011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029011001,
+    "VoiceCode": 111029011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111029011101,
+    "VoiceCode": 111029011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111029011101,
+    "VoiceCode": 111029011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010101,
+    "VoiceCode": 111031010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010101,
+    "VoiceCode": 111031010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010201,
+    "VoiceCode": 111031010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010201,
+    "VoiceCode": 111031010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010301,
+    "VoiceCode": 111031010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010301,
+    "VoiceCode": 111031010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010401,
+    "VoiceCode": 111031010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010401,
+    "VoiceCode": 111031010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010501,
+    "VoiceCode": 111031010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010501,
+    "VoiceCode": 111031010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010601,
+    "VoiceCode": 111031010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010601,
+    "VoiceCode": 111031010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010701,
+    "VoiceCode": 111031010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010701,
+    "VoiceCode": 111031010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010801,
+    "VoiceCode": 111031010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010801,
+    "VoiceCode": 111031010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031010901,
+    "VoiceCode": 111031010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031010901,
+    "VoiceCode": 111031010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031011001,
+    "VoiceCode": 111031011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031011001,
+    "VoiceCode": 111031011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111031011101,
+    "VoiceCode": 111031011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111031011101,
+    "VoiceCode": 111031011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032010101,
+    "VoiceCode": 111032010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032010101,
+    "VoiceCode": 111032010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032010201,
+    "VoiceCode": 111032010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032010201,
+    "VoiceCode": 111032010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032010301,
+    "VoiceCode": 111032010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032010301,
+    "VoiceCode": 111032010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032010401,
+    "VoiceCode": 111032010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032010401,
+    "VoiceCode": 111032010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032010501,
+    "VoiceCode": 111032010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032010501,
+    "VoiceCode": 111032010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032010701,
+    "VoiceCode": 111032010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032010701,
+    "VoiceCode": 111032010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032010801,
+    "VoiceCode": 111032010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032010801,
+    "VoiceCode": 111032010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032010901,
+    "VoiceCode": 111032010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032010901,
+    "VoiceCode": 111032010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032011001,
+    "VoiceCode": 111032011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032011001,
+    "VoiceCode": 111032011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111032011101,
+    "VoiceCode": 111032011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111032011101,
+    "VoiceCode": 111032011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010101,
+    "VoiceCode": 111033010101,
+    "WaitTime": 0.6499999761581421
+  },
+  {
+    "Code": 111033010101,
+    "VoiceCode": 111033010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010201,
+    "VoiceCode": 111033010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033010201,
+    "VoiceCode": 111033010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010301,
+    "VoiceCode": 111033010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033010301,
+    "VoiceCode": 111033010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010401,
+    "VoiceCode": 111033010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033010401,
+    "VoiceCode": 111033010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010501,
+    "VoiceCode": 111033010501,
+    "WaitTime": 0.550000011920929
+  },
+  {
+    "Code": 111033010501,
+    "VoiceCode": 111033010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010601,
+    "VoiceCode": 111033010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033010601,
+    "VoiceCode": 111033010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010701,
+    "VoiceCode": 111033010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010701,
+    "VoiceCode": 111033010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033010801,
+    "VoiceCode": 111033010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033010801,
+    "VoiceCode": 111033010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033010901,
+    "VoiceCode": 111033010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033010901,
+    "VoiceCode": 111033010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033011001,
+    "VoiceCode": 111033011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111033011001,
+    "VoiceCode": 111033011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033011101,
+    "VoiceCode": 111033011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111033011101,
+    "VoiceCode": 111033011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010101,
+    "VoiceCode": 111035010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035010101,
+    "VoiceCode": 111035010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010201,
+    "VoiceCode": 111035010201,
+    "WaitTime": 0.6499999761581421
+  },
+  {
+    "Code": 111035010201,
+    "VoiceCode": 111035010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010301,
+    "VoiceCode": 111035010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035010301,
+    "VoiceCode": 111035010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010401,
+    "VoiceCode": 111035010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035010401,
+    "VoiceCode": 111035010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010501,
+    "VoiceCode": 111035010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035010501,
+    "VoiceCode": 111035010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010601,
+    "VoiceCode": 111035010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035010601,
+    "VoiceCode": 111035010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010701,
+    "VoiceCode": 111035010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035010701,
+    "VoiceCode": 111035010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010801,
+    "VoiceCode": 111035010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035010801,
+    "VoiceCode": 111035010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035010901,
+    "VoiceCode": 111035010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035010901,
+    "VoiceCode": 111035010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035011001,
+    "VoiceCode": 111035011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035011001,
+    "VoiceCode": 111035011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111035011101,
+    "VoiceCode": 111035011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111035011101,
+    "VoiceCode": 111035011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010101,
+    "VoiceCode": 111037010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037010101,
+    "VoiceCode": 111037010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010201,
+    "VoiceCode": 111037010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037010201,
+    "VoiceCode": 111037010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010301,
+    "VoiceCode": 111037010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037010301,
+    "VoiceCode": 111037010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010401,
+    "VoiceCode": 111037010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037010401,
+    "VoiceCode": 111037010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010501,
+    "VoiceCode": 111037010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037010501,
+    "VoiceCode": 111037010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010601,
+    "VoiceCode": 111037010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010601,
+    "VoiceCode": 111037010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037010701,
+    "VoiceCode": 111037010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037010701,
+    "VoiceCode": 111037010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010801,
+    "VoiceCode": 111037010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037010801,
+    "VoiceCode": 111037010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010901,
+    "VoiceCode": 111037010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037010901,
+    "VoiceCode": 111037010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037011001,
+    "VoiceCode": 111037011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037011001,
+    "VoiceCode": 111037011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111037011101,
+    "VoiceCode": 111037011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111037011101,
+    "VoiceCode": 111037011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010101,
+    "VoiceCode": 111038010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010101,
+    "VoiceCode": 111038010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038010201,
+    "VoiceCode": 111038010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010201,
+    "VoiceCode": 111038010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038010301,
+    "VoiceCode": 111038010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010301,
+    "VoiceCode": 111038010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038010401,
+    "VoiceCode": 111038010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010401,
+    "VoiceCode": 111038010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038010501,
+    "VoiceCode": 111038010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038010501,
+    "VoiceCode": 111038010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010601,
+    "VoiceCode": 111038010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010601,
+    "VoiceCode": 111038010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038010701,
+    "VoiceCode": 111038010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010701,
+    "VoiceCode": 111038010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038010801,
+    "VoiceCode": 111038010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010801,
+    "VoiceCode": 111038010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038010901,
+    "VoiceCode": 111038010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038010901,
+    "VoiceCode": 111038010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038011001,
+    "VoiceCode": 111038011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111038011001,
+    "VoiceCode": 111038011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038011101,
+    "VoiceCode": 111038011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111038011101,
+    "VoiceCode": 111038011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010101,
+    "VoiceCode": 111039010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039010101,
+    "VoiceCode": 111039010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010301,
+    "VoiceCode": 111039010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039010301,
+    "VoiceCode": 111039010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010401,
+    "VoiceCode": 111039010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010401,
+    "VoiceCode": 111039010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039010501,
+    "VoiceCode": 111039010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039010501,
+    "VoiceCode": 111039010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010601,
+    "VoiceCode": 111039010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039010601,
+    "VoiceCode": 111039010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010701,
+    "VoiceCode": 111039010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039010701,
+    "VoiceCode": 111039010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010801,
+    "VoiceCode": 111039010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010801,
+    "VoiceCode": 111039010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039010901,
+    "VoiceCode": 111039010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039010901,
+    "VoiceCode": 111039010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039011001,
+    "VoiceCode": 111039011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039011001,
+    "VoiceCode": 111039011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111039011101,
+    "VoiceCode": 111039011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111039011101,
+    "VoiceCode": 111039011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010101,
+    "VoiceCode": 111040010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010101,
+    "VoiceCode": 111040010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010201,
+    "VoiceCode": 111040010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010201,
+    "VoiceCode": 111040010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010301,
+    "VoiceCode": 111040010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010301,
+    "VoiceCode": 111040010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010401,
+    "VoiceCode": 111040010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010401,
+    "VoiceCode": 111040010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010501,
+    "VoiceCode": 111040010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010501,
+    "VoiceCode": 111040010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010601,
+    "VoiceCode": 111040010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010601,
+    "VoiceCode": 111040010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010701,
+    "VoiceCode": 111040010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010701,
+    "VoiceCode": 111040010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010801,
+    "VoiceCode": 111040010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010801,
+    "VoiceCode": 111040010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040010901,
+    "VoiceCode": 111040010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040010901,
+    "VoiceCode": 111040010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040011001,
+    "VoiceCode": 111040011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111040011001,
+    "VoiceCode": 111040011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040011101,
+    "VoiceCode": 111040011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111040011101,
+    "VoiceCode": 111040011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010101,
+    "VoiceCode": 111041010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041010101,
+    "VoiceCode": 111041010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010201,
+    "VoiceCode": 111041010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041010201,
+    "VoiceCode": 111041010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010301,
+    "VoiceCode": 111041010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010301,
+    "VoiceCode": 111041010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041010401,
+    "VoiceCode": 111041010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010401,
+    "VoiceCode": 111041010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041010501,
+    "VoiceCode": 111041010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010501,
+    "VoiceCode": 111041010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041010601,
+    "VoiceCode": 111041010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010601,
+    "VoiceCode": 111041010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041010701,
+    "VoiceCode": 111041010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010701,
+    "VoiceCode": 111041010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041010801,
+    "VoiceCode": 111041010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010801,
+    "VoiceCode": 111041010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041010901,
+    "VoiceCode": 111041010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041010901,
+    "VoiceCode": 111041010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041011001,
+    "VoiceCode": 111041011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111041011001,
+    "VoiceCode": 111041011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041011101,
+    "VoiceCode": 111041011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111041011101,
+    "VoiceCode": 111041011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010101,
+    "VoiceCode": 111042010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010101,
+    "VoiceCode": 111042010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010201,
+    "VoiceCode": 111042010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010201,
+    "VoiceCode": 111042010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010301,
+    "VoiceCode": 111042010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010301,
+    "VoiceCode": 111042010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010401,
+    "VoiceCode": 111042010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010401,
+    "VoiceCode": 111042010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010501,
+    "VoiceCode": 111042010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010501,
+    "VoiceCode": 111042010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010601,
+    "VoiceCode": 111042010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010601,
+    "VoiceCode": 111042010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010701,
+    "VoiceCode": 111042010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010701,
+    "VoiceCode": 111042010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010801,
+    "VoiceCode": 111042010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010801,
+    "VoiceCode": 111042010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042010901,
+    "VoiceCode": 111042010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042010901,
+    "VoiceCode": 111042010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042011001,
+    "VoiceCode": 111042011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042011001,
+    "VoiceCode": 111042011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111042011101,
+    "VoiceCode": 111042011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111042011101,
+    "VoiceCode": 111042011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043010101,
+    "VoiceCode": 111043010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043010101,
+    "VoiceCode": 111043010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043010201,
+    "VoiceCode": 111043010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043010201,
+    "VoiceCode": 111043010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043010301,
+    "VoiceCode": 111043010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043010301,
+    "VoiceCode": 111043010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043010501,
+    "VoiceCode": 111043010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043010501,
+    "VoiceCode": 111043010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043010601,
+    "VoiceCode": 111043010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043010601,
+    "VoiceCode": 111043010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043010701,
+    "VoiceCode": 111043010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043010701,
+    "VoiceCode": 111043010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043010801,
+    "VoiceCode": 111043010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043010801,
+    "VoiceCode": 111043010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043010901,
+    "VoiceCode": 111043010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043010901,
+    "VoiceCode": 111043010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043011001,
+    "VoiceCode": 111043011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043011001,
+    "VoiceCode": 111043011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111043011101,
+    "VoiceCode": 111043011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111043011101,
+    "VoiceCode": 111043011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010101,
+    "VoiceCode": 111044010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044010101,
+    "VoiceCode": 111044010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010301,
+    "VoiceCode": 111044010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010301,
+    "VoiceCode": 111044010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044010401,
+    "VoiceCode": 111044010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044010401,
+    "VoiceCode": 111044010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010501,
+    "VoiceCode": 111044010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044010501,
+    "VoiceCode": 111044010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010601,
+    "VoiceCode": 111044010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044010601,
+    "VoiceCode": 111044010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010701,
+    "VoiceCode": 111044010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044010701,
+    "VoiceCode": 111044010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010801,
+    "VoiceCode": 111044010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044010801,
+    "VoiceCode": 111044010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010901,
+    "VoiceCode": 111044010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044010901,
+    "VoiceCode": 111044010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044011001,
+    "VoiceCode": 111044011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044011001,
+    "VoiceCode": 111044011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111044011101,
+    "VoiceCode": 111044011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111044011101,
+    "VoiceCode": 111044011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010101,
+    "VoiceCode": 111045010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010101,
+    "VoiceCode": 111045010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010201,
+    "VoiceCode": 111045010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010201,
+    "VoiceCode": 111045010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010301,
+    "VoiceCode": 111045010301,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010301,
+    "VoiceCode": 111045010302,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010401,
+    "VoiceCode": 111045010402,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010401,
+    "VoiceCode": 111045010401,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010501,
+    "VoiceCode": 111045010501,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010501,
+    "VoiceCode": 111045010502,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010601,
+    "VoiceCode": 111045010602,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010601,
+    "VoiceCode": 111045010601,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010701,
+    "VoiceCode": 111045010701,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010701,
+    "VoiceCode": 111045010702,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010801,
+    "VoiceCode": 111045010802,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045010801,
+    "VoiceCode": 111045010801,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010901,
+    "VoiceCode": 111045010901,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045010901,
+    "VoiceCode": 111045010902,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045011001,
+    "VoiceCode": 111045011002,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045011001,
+    "VoiceCode": 111045011001,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 111045011101,
+    "VoiceCode": 111045011102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 111045011101,
+    "VoiceCode": 111045011101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121001010101,
+    "VoiceCode": 121001010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121001010101,
+    "VoiceCode": 121001010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121001010201,
+    "VoiceCode": 121001010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121001010201,
+    "VoiceCode": 121001010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121002010101,
+    "VoiceCode": 121002010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121002010101,
+    "VoiceCode": 121002010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121002010201,
+    "VoiceCode": 121002010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121002010201,
+    "VoiceCode": 121002010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121003010101,
+    "VoiceCode": 121003010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121003010101,
+    "VoiceCode": 121003010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121003010201,
+    "VoiceCode": 121003010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121003010201,
+    "VoiceCode": 121003010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121004010101,
+    "VoiceCode": 121004010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121004010101,
+    "VoiceCode": 121004010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121004010201,
+    "VoiceCode": 121004010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121004010201,
+    "VoiceCode": 121004010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121006010101,
+    "VoiceCode": 121006010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121006010101,
+    "VoiceCode": 121006010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121006010201,
+    "VoiceCode": 121006010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121006010201,
+    "VoiceCode": 121006010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121007010101,
+    "VoiceCode": 121007010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121007010101,
+    "VoiceCode": 121007010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121007010201,
+    "VoiceCode": 121007010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121007010201,
+    "VoiceCode": 121007010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121008010101,
+    "VoiceCode": 121008010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121008010101,
+    "VoiceCode": 121008010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121008010201,
+    "VoiceCode": 121008010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121008010201,
+    "VoiceCode": 121008010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121009010101,
+    "VoiceCode": 121009010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121009010101,
+    "VoiceCode": 121009010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121009010201,
+    "VoiceCode": 121009010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121009010201,
+    "VoiceCode": 121009010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121011010101,
+    "VoiceCode": 121011010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121011010101,
+    "VoiceCode": 121011010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121011010201,
+    "VoiceCode": 121011010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121011010201,
+    "VoiceCode": 121011010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121012010101,
+    "VoiceCode": 121012010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121012010101,
+    "VoiceCode": 121012010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121012010201,
+    "VoiceCode": 121012010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121012010201,
+    "VoiceCode": 121012010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121013010101,
+    "VoiceCode": 121013010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121013010101,
+    "VoiceCode": 121013010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121013010201,
+    "VoiceCode": 121013010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121013010201,
+    "VoiceCode": 121013010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121015010101,
+    "VoiceCode": 121015010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121015010101,
+    "VoiceCode": 121015010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121015010201,
+    "VoiceCode": 121015010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121015010201,
+    "VoiceCode": 121015010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121016010101,
+    "VoiceCode": 121016010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121016010101,
+    "VoiceCode": 121016010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121016010201,
+    "VoiceCode": 121016010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121016010201,
+    "VoiceCode": 121016010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121017010101,
+    "VoiceCode": 121017010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121017010101,
+    "VoiceCode": 121017010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121017010201,
+    "VoiceCode": 121017010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121017010201,
+    "VoiceCode": 121017010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121018010101,
+    "VoiceCode": 121018010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121018010101,
+    "VoiceCode": 121018010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121018010201,
+    "VoiceCode": 121018010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121018010201,
+    "VoiceCode": 121018010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121020010101,
+    "VoiceCode": 121020010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121020010101,
+    "VoiceCode": 121020010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121020010201,
+    "VoiceCode": 121020010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121020010201,
+    "VoiceCode": 121020010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121021010101,
+    "VoiceCode": 121021010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121021010101,
+    "VoiceCode": 121021010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121021010201,
+    "VoiceCode": 121021010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121021010201,
+    "VoiceCode": 121021010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121022010101,
+    "VoiceCode": 121022010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121022010101,
+    "VoiceCode": 121022010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121022010201,
+    "VoiceCode": 121022010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121022010201,
+    "VoiceCode": 121022010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121024010101,
+    "VoiceCode": 121024010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121024010101,
+    "VoiceCode": 121024010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121024010201,
+    "VoiceCode": 121024010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121024010201,
+    "VoiceCode": 121024010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121025010101,
+    "VoiceCode": 121025010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121025010101,
+    "VoiceCode": 121025010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121025010201,
+    "VoiceCode": 121025010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121025010201,
+    "VoiceCode": 121025010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121026010101,
+    "VoiceCode": 121026010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121026010101,
+    "VoiceCode": 121026010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121026010201,
+    "VoiceCode": 121026010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121026010201,
+    "VoiceCode": 121026010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121027010101,
+    "VoiceCode": 121027010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121027010101,
+    "VoiceCode": 121027010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121027010201,
+    "VoiceCode": 121027010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121027010201,
+    "VoiceCode": 121027010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121028010101,
+    "VoiceCode": 121028010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121028010101,
+    "VoiceCode": 121028010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121028010201,
+    "VoiceCode": 121028010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121028010201,
+    "VoiceCode": 121028010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121029010101,
+    "VoiceCode": 121029010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121029010101,
+    "VoiceCode": 121029010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121029010201,
+    "VoiceCode": 121029010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121029010201,
+    "VoiceCode": 121029010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121031010101,
+    "VoiceCode": 121031010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121031010101,
+    "VoiceCode": 121031010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121031010201,
+    "VoiceCode": 121031010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121031010201,
+    "VoiceCode": 121031010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121032010101,
+    "VoiceCode": 121032010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121032010101,
+    "VoiceCode": 121032010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121032010201,
+    "VoiceCode": 121032010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121032010201,
+    "VoiceCode": 121032010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121033010101,
+    "VoiceCode": 121033010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121033010101,
+    "VoiceCode": 121033010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121033010201,
+    "VoiceCode": 121033010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121033010201,
+    "VoiceCode": 121033010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121035010101,
+    "VoiceCode": 121035010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121035010101,
+    "VoiceCode": 121035010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121035010201,
+    "VoiceCode": 121035010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121035010201,
+    "VoiceCode": 121035010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121037010101,
+    "VoiceCode": 121037010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121037010101,
+    "VoiceCode": 121037010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121037010201,
+    "VoiceCode": 121037010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121037010201,
+    "VoiceCode": 121037010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121038010101,
+    "VoiceCode": 121038010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121038010101,
+    "VoiceCode": 121038010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121038010201,
+    "VoiceCode": 121038010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121038010201,
+    "VoiceCode": 121038010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121039010101,
+    "VoiceCode": 121039010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121039010101,
+    "VoiceCode": 121039010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121039010201,
+    "VoiceCode": 121039010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121039010201,
+    "VoiceCode": 121039010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121040010101,
+    "VoiceCode": 121040010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121040010101,
+    "VoiceCode": 121040010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121040010201,
+    "VoiceCode": 121040010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121040010201,
+    "VoiceCode": 121040010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121041010101,
+    "VoiceCode": 121041010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121041010101,
+    "VoiceCode": 121041010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121041010201,
+    "VoiceCode": 121041010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121041010201,
+    "VoiceCode": 121041010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121042010101,
+    "VoiceCode": 121042010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121042010101,
+    "VoiceCode": 121042010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121042010201,
+    "VoiceCode": 121042010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121042010201,
+    "VoiceCode": 121042010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121043010101,
+    "VoiceCode": 121043010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121043010101,
+    "VoiceCode": 121043010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121043010201,
+    "VoiceCode": 121043010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121043010201,
+    "VoiceCode": 121043010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121044010101,
+    "VoiceCode": 121044010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121044010101,
+    "VoiceCode": 121044010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121044010201,
+    "VoiceCode": 121044010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121044010201,
+    "VoiceCode": 121044010202,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121045010101,
+    "VoiceCode": 121045010101,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121045010101,
+    "VoiceCode": 121045010102,
+    "WaitTime": 0.0
+  },
+  {
+    "Code": 121045010201,
+    "VoiceCode": 121045010201,
+    "WaitTime": 0.5
+  },
+  {
+    "Code": 121045010201,
+    "VoiceCode": 121045010202,
+    "WaitTime": 0.0
+  }
+]

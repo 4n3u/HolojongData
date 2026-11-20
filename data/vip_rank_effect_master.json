@@ -1,0 +1,27 @@
+[
+  {
+    "VipEffectType": 1,
+    "Description": "1日のプレゼント回数上限増加",
+    "FirstAppearanceRank": 1
+  },
+  {
+    "VipEffectType": 2,
+    "Description": "デイリーショップの無料更新回数上限",
+    "FirstAppearanceRank": 1
+  },
+  {
+    "VipEffectType": 3,
+    "Description": "デイリーショップの有料更新回数上限",
+    "FirstAppearanceRank": 0
+  },
+  {
+    "VipEffectType": 4,
+    "Description": "牌譜のブックマーク上限増加",
+    "FirstAppearanceRank": 1
+  },
+  {
+    "VipEffectType": 6,
+    "Description": "対局による親密度獲得量倍率",
+    "FirstAppearanceRank": 0
+  }
+]

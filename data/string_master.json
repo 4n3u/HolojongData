@@ -1,0 +1,6842 @@
+[
+  {
+    "Key": "ACCESSORY_CHANGE_PRESET_NAME_MESSAGE",
+    "Text": "プリセット名を入力してください。"
+  },
+  {
+    "Key": "ACCESSORY_CHANGE_PRESET_NAME_TITLE",
+    "Text": "プリセット名変更"
+  },
+  {
+    "Key": "ACCESSORY_DEFAULT_PRESET_NAME",
+    "Text": "プリセット{0}"
+  },
+  {
+    "Key": "ACCESSORY_DETAIL_TITLE",
+    "Text": "アクセサリー詳細"
+  },
+  {
+    "Key": "ACCESSORY_EMPTY_LIST",
+    "Text": "対象が見つかりません。"
+  },
+  {
+    "Key": "ACCESSORY_LIST_SORT_DEFAULT",
+    "Text": "デフォルト"
+  },
+  {
+    "Key": "ACCESSORY_PRESET_DIALOG_TITLE",
+    "Text": "プリセット選択"
+  },
+  {
+    "Key": "ACCESSORY_PRESET_SAVE_WARNING_MESSAGE",
+    "Text": "変更された項目がありますが、\nプリセットに保存せずに移動しますか？"
+  },
+  {
+    "Key": "ACCESSORY_PRESET_SAVE_WARNING_NEGATIVE_BUTTON",
+    "Text": "キャンセル"
+  },
+  {
+    "Key": "ACCESSORY_PRESET_SAVE_WARNING_POSITIVE_BUTTON",
+    "Text": "移動する"
+  },
+  {
+    "Key": "ACCESSORY_PRESET_SHOP_TRANSITION_MESSAGE",
+    "Text": "ショップ画面へ移動します。\nよろしいですか？"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_ARM",
+    "Text": "打ち手"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_FULOU_EFFECT",
+    "Text": "鳴き待機"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_HULE_EFFECT",
+    "Text": "和了演出"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_ICON_FRAME",
+    "Text": "アイコンフレーム"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_LIZHI_BANG",
+    "Text": "リーチ棒"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_LIZHI_BGM",
+    "Text": "リーチBGM"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_LIZHI_EFFECT",
+    "Text": "リーチ演出"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_MAHJONG_BGM",
+    "Text": "対局BGM"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_PAI_BACK",
+    "Text": "雀牌"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_PAI_FRONT",
+    "Text": "図柄"
+  },
+  {
+    "Key": "ACCESSORY_TYPE_TABLE",
+    "Text": "雀卓"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_COMFIRM_DIALOG_DESC",
+    "Text": "アカウント削除を行いますか？"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_COMFIRM_DIALOG_MESSAGE",
+    "Text": "注意事項\n\n削除したデータの復旧はお受けできません。\n「所持中の有償通貨」を含む全てのデータが削除されます。"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_COMFIRM_DIALOG_TITLE",
+    "Text": "アカウント削除"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_COMPLETED_DIALOG_MESSAGE",
+    "Text": "アカウント削除が完了しました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_COMPLETED_DIALOG_TITLE",
+    "Text": "アカウント削除完了"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_DIALOG_MESSAGE",
+    "Text": "アカウント削除を行うことで、プレイ状況を初期化します。\n\n<color=red>削除したアカウントは、二度と戻すことができません。</color>\nアカウント削除を行いますか？"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_DIALOG_TITLE",
+    "Text": "アカウント削除"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_ERROR_DIALOG_MESSAGE",
+    "Text": "アカウントがありません。"
+  },
+  {
+    "Key": "ACCOUNT_DELETE_ERROR_DIALOG_TITLE",
+    "Text": "エラー"
+  },
+  {
+    "Key": "ACCOUNT_HANDING_CAUTION_DIALOG_TITLE",
+    "Text": "アカウント引継注意事項"
+  },
+  {
+    "Key": "ACCOUNT_LINK_COMPLETED_DIALOG_MESSAGE",
+    "Text": "アカウント連携が完了しました。タイトルに戻ります。"
+  },
+  {
+    "Key": "ACCOUNT_LINK_COMPLETED_DIALOG_MESSAGE_FOR_INGAME",
+    "Text": "アカウント連携が完了しました。"
+  },
+  {
+    "Key": "ACCOUNT_LINK_COMPLETED_DIALOG_TITLE",
+    "Text": "アカウント連携完了"
+  },
+  {
+    "Key": "ACCOUNT_LINK_COMPLETED_DIALOG_TITLE_FOR_INGAME",
+    "Text": "アカウント連携完了"
+  },
+  {
+    "Key": "ACCOUNT_LINK_CONFIRM_DIALOG_MESSAGE",
+    "Text": "以前のプレイ状況を引継ぎします、よろしいですか？\n<color=red>事前にアカウント連携をしていた場合、以前のアプリデータでプレイできます。\n異なるOSにデータ連携した場合でも、所有するジュエルの数は引継ぎます。</color>"
+  },
+  {
+    "Key": "ACCOUNT_LINK_CONFIRM_DIALOG_MESSAGE_FOR_INGAME",
+    "Text": "現在のプレイ状況を連携します、よろしいですか？\n<color=red>異なるOSにデータ連携した場合でも、所有するジュエルの数は引継ぎます。</color>"
+  },
+  {
+    "Key": "ACCOUNT_LINK_CONFIRM_DIALOG_TITLE",
+    "Text": "アカウント引継ぎ"
+  },
+  {
+    "Key": "ACCOUNT_LINK_CONFIRM_DIALOG_TITLE_FOR_INGAME",
+    "Text": "アカウント連携"
+  },
+  {
+    "Key": "ACCOUNT_LINK_ERROR_DIALOG_MESSAGE",
+    "Text": "アカウント引継ぎ時エラーが発生しました。"
+  },
+  {
+    "Key": "ACCOUNT_LINK_ERROR_DIALOG_MESSAGE_FOR_INGAME",
+    "Text": "アカウント連携時エラーが発生しました。"
+  },
+  {
+    "Key": "ACCOUNT_LINK_ERROR_DIALOG_TITLE",
+    "Text": "アカウント引継ぎエラー"
+  },
+  {
+    "Key": "ACCOUNT_LINK_ERROR_DIALOG_TITLE_FOR_INGAME",
+    "Text": "アカウント連携エラー"
+  },
+  {
+    "Key": "ACCOUNT_LINK_SELECT_DIALOG_MESSAGE",
+    "Text": "アカウント連携方法を選択してください。"
+  },
+  {
+    "Key": "ACCOUNT_LINK_SELECT_DIALOG_MESSAGE_FOR_INGAME",
+    "Text": "アカウント連携方法を選択してください。"
+  },
+  {
+    "Key": "ACCOUNT_LINK_SELECT_DIALOG_TITLE",
+    "Text": "連携方法選択"
+  },
+  {
+    "Key": "ACCOUNT_LINK_SELECT_DIALOG_TITLE_FOR_INGAME",
+    "Text": "連携方法選択"
+  },
+  {
+    "Key": "ACCOUNT_LINK_SELECT_DIALOG_UNLINK",
+    "Text": "アカウント連携解除"
+  },
+  {
+    "Key": "ACCOUNT_LINK_UNLINK_COMPLETED_DIALOG_MESSAGE",
+    "Text": "アカウントを連携解除しました。タイトルに戻ります。"
+  },
+  {
+    "Key": "ACCOUNT_LINK_UNLINK_COMPLETED_DIALOG_MESSAGE_FOR_INGAME",
+    "Text": "アカウントを連携解除しました。"
+  },
+  {
+    "Key": "ACCOUNT_LINK_UNLINK_COMPLETED_DIALOG_TITLE",
+    "Text": "アカウント連携解除済み"
+  },
+  {
+    "Key": "ACCOUNT_LINK_UNLINK_CONFIRM_DIALOG_MESSAGE",
+    "Text": "アカウントを連携解除します。よろしいですか？"
+  },
+  {
+    "Key": "ACCOUNT_LINK_UNLINK_CONFIRM_DIALOG_TITLE",
+    "Text": "アカウント連携解除"
+  },
+  {
+    "Key": "ACCOUNT_LINK_WAITING_DIALOG_MESSAGE",
+    "Text": "連携が完了すると自動的にアプリへ戻ります。\n戻らない場合は手動でアプリへ戻ってください。\nキャンセルする場合は「閉じる」を押してください。"
+  },
+  {
+    "Key": "ACHIEVEMENT_CHALLENGE",
+    "Text": "挑戦"
+  },
+  {
+    "Key": "ACHIEVEMENT_RECEIVE",
+    "Text": "受け取る"
+  },
+  {
+    "Key": "ACHIEVEMENT_RECEIVE_ALL",
+    "Text": "すべて受け取る"
+  },
+  {
+    "Key": "ACHIEVEMENT_TITLE_NAME",
+    "Text": "実績"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_BODY_PLAY_GAME",
+    "Text": "貴方は\n{0} {1}と\n{2} {3}において\n対局されたことをここに証します。"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_BODY_WIN",
+    "Text": "貴方は\n{0} {1}に\n{2} {3}において\n勝利されたことをここに証します。"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_BUTTON_TEXT",
+    "Text": "対局証明"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_DIALOG_MESSAGE",
+    "Text": "対局証明書を端末に保存・共有できます。"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_DIALOG_MESSAGE_STANDALONE",
+    "Text": "対局証明書を端末に保存できます。"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_DIALOG_TITLE_TEXT",
+    "Text": "対局証明書"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_PLAYER_NAME",
+    "Text": "{0}殿"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_SAVE_MESSAGE",
+    "Text": "画像を保存しました。"
+  },
+  {
+    "Key": "ACTUAL_PERSON_CERTIFICATION_SHARE_MESSAGE",
+    "Text": "ホロライブ麻雀 -ホロじゃん-で{0}さんと対局したよ"
+  },
+  {
+    "Key": "ADDRESSABLE_DOWNLOAD_ERROR_TITLE",
+    "Text": "エラー"
+  },
+  {
+    "Key": "ADV_SKIP_DIALOG_NEGATIVE_BUTTON",
+    "Text": "キャンセル"
+  },
+  {
+    "Key": "ADV_SKIP_DIALOG_POSITIVE_BUTTON",
+    "Text": "決定"
+  },
+  {
+    "Key": "ADV_SKIP_DIALOG_TEXT",
+    "Text": "\n{0}\n\n<color=#ff0000>ストーリーをスキップしてもよろしいですか？</color>"
+  },
+  {
+    "Key": "ADV_SKIP_DIALOG_TITLE",
+    "Text": "スキップ確認"
+  },
+  {
+    "Key": "ADV_TUTORIAL_INTRO_TITLE",
+    "Text": "推しとの出会い"
+  },
+  {
+    "Key": "ADV_TUTORIAL_TITLE",
+    "Text": "導入ストーリー"
+  },
+  {
+    "Key": "AGE_CONFIRM_AGE_LIMIT_MIDDLE",
+    "Text": "16歳～17歳"
+  },
+  {
+    "Key": "AGE_CONFIRM_AGE_LIMIT_MIDDLE_DMM_PRICE",
+    "Text": "1ヶ月 30,000ptまで"
+  },
+  {
+    "Key": "AGE_CONFIRM_AGE_LIMIT_MIDDLE_PRICE",
+    "Text": "1ヶ月 30,000円まで"
+  },
+  {
+    "Key": "AGE_CONFIRM_AGE_LIMIT_UNDER",
+    "Text": "15歳以下"
+  },
+  {
+    "Key": "AGE_CONFIRM_AGE_LIMIT_UNDER_DMM_PRICE",
+    "Text": "1ヶ月 5,000ptまで"
+  },
+  {
+    "Key": "AGE_CONFIRM_AGE_LIMIT_UNDER_PRICE",
+    "Text": "1ヶ月 5,000円まで"
+  },
+  {
+    "Key": "AGE_CONFIRM_AGE_LIMIT_UPPER",
+    "Text": "18歳以上"
+  },
+  {
+    "Key": "AGE_CONFIRM_AGE_LIMIT_UPPER_PRICE",
+    "Text": "制限なし"
+  },
+  {
+    "Key": "AGE_CONFIRM_CAUTION",
+    "Text": "※生年月は後から変更することはできませんので、ご注意ください。"
+  },
+  {
+    "Key": "AGE_CONFIRM_EMPTY_LOCK_MESSAGE",
+    "Text": "生年月を入力してください。"
+  },
+  {
+    "Key": "AGE_CONFIRM_INVALID_LOCK_MESSAGE",
+    "Text": "正しい生年月を入力してください。"
+  },
+  {
+    "Key": "AGE_CONFIRM_MESSAGE",
+    "Text": "未成年がアイテムを購入するには、 保護者もしくは親権者の同意が必要です。 年齢確認のため、正しい生年月を入力してください。"
+  },
+  {
+    "Key": "AGE_CONFIRM_MONTH",
+    "Text": "月"
+  },
+  {
+    "Key": "AGE_CONFIRM_MONTH_PLACE_HOLDER",
+    "Text": "11"
+  },
+  {
+    "Key": "AGE_CONFIRM_TITLE",
+    "Text": "年齢確認"
+  },
+  {
+    "Key": "AGE_CONFIRM_YEAR",
+    "Text": "年"
+  },
+  {
+    "Key": "AGE_CONFIRM_YEAR_PLACE_HOLDER",
+    "Text": "2008"
+  },
+  {
+    "Key": "AGE_INPUT_CONFIRM_BIRTH_FORMAT",
+    "Text": "あなたの生年月：{0}年{1}月"
+  },
+  {
+    "Key": "AGE_INPUT_CONFIRM_MESSAGE",
+    "Text": "下記内容で年齢確認を確定いたします。よろしいでしょうか。 "
+  },
+  {
+    "Key": "AGE_INPUT_CONFIRM_TITLE",
+    "Text": "年齢入力確認"
+  },
+  {
+    "Key": "APPLICATION_QUIT_DIALOG_MESSAGE",
+    "Text": "アプリを終了しようとしています。\nアプリを終了してよろしいですか？"
+  },
+  {
+    "Key": "APPLICATION_QUIT_DIALOG_TITLE",
+    "Text": "確認"
+  },
+  {
+    "Key": "ASSET_REPAIR_DIALOG_MESSAGE",
+    "Text": "アプリデータ修復を行うと動作が軽くなることがあります。\nプレイ中のデータは削除されません。\n通信状態により、データダウンロードに時間がかかる場合があります。\nデータ修復を行いますか？"
+  },
+  {
+    "Key": "ASSET_REPAIR_DIALOG_TITLE",
+    "Text": "アプリデータ修復"
+  },
+  {
+    "Key": "AddressableDownloadError.InsufficientStorage",
+    "Text": "空き容量が不足しているため、\nダウンロードに失敗しました。\n空き容量をご確認のうえ、\n再度お試しください。"
+  },
+  {
+    "Key": "AddressableDownloadError.Other",
+    "Text": "通信中にエラーが発生しました。\n電波状況をご確認のうえ\n再度お試しください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_APPLICATION_PERIOD",
+    "Text": "参加期間"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_NOT_TARGET_AUDIENCE_ERROR_MESSAGE",
+    "Text": "チャットは許可されたサポーターのみ可能です。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_ADD_HEADING",
+    "Text": "ホワイトリスト追加"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_ALREADY_EXIST_ERROR_MESSAGE",
+    "Text": "そのサポーターは既にホワイトリストに入っています。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_CONFIRM_REMOVE_USER",
+    "Text": "{0}をホワイトリストから除外しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_HEADING",
+    "Text": "チャット設定編集"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_INFORMATION_MESSAGE",
+    "Text": "ホワイトリスト設定をONにした場合、\nホワイトリストに追加されたサポーターのみがチャットをすることができます。\nホワイトリストに追加できるサポーターは大会の参加者のみです。\n管理者はホワイトリストに追加されていなくても、チャットをすることができます。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_LIST_HEADING",
+    "Text": "ホワイトリスト一覧"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_MEMBER_EXCEEDED_ERROR_MESSAGE",
+    "Text": "ホワイトリストの人数が上限に達しています。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_NOT_ADD_USER_ERROR_MESSAGE",
+    "Text": "そのサポーターはホワイトリストに追加できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_NOT_JOINED_STATUS_ERROR_MESSAGE",
+    "Text": "大会参加者ではないため、ホワイトリストに追加できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_SETTING_HEADING",
+    "Text": "ホワイトリスト設定"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_WHITE_LIST_WINDOW_UNAVAILABLE_ADD_MANAGER",
+    "Text": "主催者・管理者をホワイトリストに追加することはできません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_COMPLETED_TERMINATE_WINDOW_MESSAGE",
+    "Text": "対局を中断しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CONFIRM_TERMINATE_WINDOW_AVAILABLE_TOGGLE_TEXT",
+    "Text": "対局を中断する"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CONFIRM_TERMINATE_WINDOW_DISABLE_TERMINATE_ERROR_MESSAGE",
+    "Text": "オーナーではないためこの機能を使用できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CONFIRM_TERMINATE_WINDOW_MESSAGE",
+    "Text": "対局を中断します。\n本当によろしいですか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CONFIRM_TERMINATE_WINDOW_TITLE",
+    "Text": "対局中断"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_ADD_CPU",
+    "Text": "NPC追加"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_ALERT_ALL_RESET_GAME",
+    "Text": "対局予約の全リセットを実行しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_ALERT_AUTO_RESERVED_GAMES",
+    "Text": "自動割り振りを実行しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_ALERT_TRANSITION",
+    "Text": "保存できていないデータが存在します。\n本当に画面を移動しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_ALL_CPU_ERROR_MESSAGE",
+    "Text": "メンバーを1人以上設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_ALREADY_SET_PLAYER_ERROR_MESSAGE",
+    "Text": "他の対局に予約済みのサポーターが存在します、更新してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_APPLY_BUTTON_TEXT",
+    "Text": "自動割り振り"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_APPLY_DESCRIPTION",
+    "Text": "上記の時間で参加者を自動で割り振ります。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_APPLY_SUPPLEMENT_TEXT",
+    "Text": "すでに設定されている参加者の対局設定は維持されます。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_BULK_SETTING_HEADING",
+    "Text": "対局の自動割り振り"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_DEFAULT_TABLE_NAME",
+    "Text": "卓No.{0}"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_DELETE_MESSAGE",
+    "Text": "対局を削除しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_EMPTY_TABLE_NAME_ERROR_MESSAGE",
+    "Text": "卓名を入力してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_INVALID_AFTER_END_DATE_ERROR_MESSAGE",
+    "Text": "予約時刻は対局期間終了日時の5分前までの時刻を設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_INVALID_BEFORE_START_DATE_ERROR_MESSAGE",
+    "Text": "対局期間開始日時より後の日時を設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_INVALID_DELETE_ERROR_MESSAGE",
+    "Text": "対局予定時間の5分前を過ぎているため、変更できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_MATCH_CHECK_TOGGLE_FORMAT",
+    "Text": "{0}回戦"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_NOT_ENOUGH_PEOPLE_MESSAGE",
+    "Text": "卓の人数が不足しています。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_OVER_CAPACITY_ERROR_MESSAGE",
+    "Text": "サポーターの人数が上限に達しているため、追加できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_RESERVATION",
+    "Text": "予約"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_RESET_BUTTON_TEXT",
+    "Text": "すべてリセット"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_RESET_HEADING",
+    "Text": "すべての対局予約をリセット"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_SAVE_MESSAGE",
+    "Text": "対局を予約しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_START_TIME_ANNOTATION",
+    "Text": "※この時間は手動設定でも使用可能です。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_START_TIME_HEADING",
+    "Text": "開始時間 ："
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_TABLE_ASSIGNED_HEADING",
+    "Text": "卓割り振り"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_UNABLE_TO_ALL_RESET",
+    "Text": "対局予約の全リセットができません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_UNABLE_TO_AUTO_ASSIGN",
+    "Text": "対局予約の自動割り振りができません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_ALERT_APPLICATION_PERIOD_OVER_ONE_YEAR",
+    "Text": "参加期間終了日時を参加期間開始日時の１年以内に設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_ALERT_APPLICATION_PERIOD_REVERSE",
+    "Text": "参加期間開始日時を参加期間終了日時よりも前の時間に設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_ALERT_GAME_PERIOD_OVER_ONE_YEAR",
+    "Text": "対局期間終了日時を対局期間開始日時の１年以内に設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_ALERT_GAME_PERIOD_REVERSE",
+    "Text": "対局期間開始日時を対局期間終了日時よりも前の時間に設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_ALERT_INTRODUCTION_EMPTY",
+    "Text": "大会紹介の入力内容が正しくないため、保存されませんでした。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_ALERT_INVALID_SCHEDULE_SETTING_MESSAGE",
+    "Text": "設定された日付が有効ではありません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_ALERT_NAME_EMPTY",
+    "Text": "大会名が入力されていないため、保存されませんでした。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_CHAMPIONSHIP_INTRODUCTION_GUIDE_TEXT",
+    "Text": "大会紹介を入力してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_CHAMPIONSHIP_NAME_GUIDE_TEXT",
+    "Text": "大会名を入力してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_PURCHASE_WINDOW_ATTENTION_MESSAGE",
+    "Text": "※大会作成後に即時消費及び反映されキャンセルはできません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_PURCHASE_WINDOW_JEWEL_SHORTAGE_MESSAGE",
+    "Text": "ジュエルが足りません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_PURCHASE_WINDOW_MESSAGE_FORMAT",
+    "Text": "有償ジュエルを{0}個消費して、大会を作成します。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_PURCHASE_WINDOW_POSITIVE_BUTTON_TEXT",
+    "Text": "作成"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_PURCHASE_WINDOW_TITLE",
+    "Text": "大会作成"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_RANK_RESTRICTION_ACE",
+    "Text": "A"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_RANK_RESTRICTION_ELITE",
+    "Text": "B"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_RANK_RESTRICTION_HOPE",
+    "Text": "C"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_RANK_RESTRICTION_LEGEND",
+    "Text": "L"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_RANK_RESTRICTION_MASTER",
+    "Text": "S"
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_WINDOW_RANK_RESTRICTION_ROOKIE",
+    "Text": "D"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_BULK_SETTING_CATEGORY_TAB",
+    "Text": "一括設定"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_COMMON_ERROR_MESSAGE",
+    "Text": "エラーが発生しました。\nロビー画面に戻ります。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_CREATE_MATCH",
+    "Text": "対局作成"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_END_ROOM_MESSAGE",
+    "Text": "この大会は終了しました。\nロビー画面に戻ります。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_GAME_SCHEDULE",
+    "Text": "対局予定"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_HOME",
+    "Text": "ホーム"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_INVALID_ROOM_MESSAGE",
+    "Text": "この大会は削除されました。\nロビー画面に戻ります。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_MANAGE_PARTICIPANTS",
+    "Text": "参加者管理"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_MANAGE_TEAM",
+    "Text": "チーム管理"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_MANUAL_SETTING_CATEGORY_TAB",
+    "Text": "手動設定"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_MATCHING_FAILED_TEXT",
+    "Text": "マッチングに失敗しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_MATCHING_FAILED_TITLE",
+    "Text": "マッチング失敗"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_NOT_INVITATION_MESSAGE",
+    "Text": "招待されたサポーターのみが参加可能です。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_NOT_MET_JOIN_CONDITION_MESSAGE",
+    "Text": "参加条件を満たしていないため、参加できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_PAIPU",
+    "Text": "牌譜"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_PARTICIPANTS_LIST",
+    "Text": "参加者一覧"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_RANKING",
+    "Text": "ランキング"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_SPECTATE_GAME",
+    "Text": "観戦"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_TEAM_LIST",
+    "Text": "チーム一覧"
+  },
+  {
+    "Key": "CHAMPIONSHIP_DETAIL_SCREEN_TITLE",
+    "Text": "詳細"
+  },
+  {
+    "Key": "CHAMPIONSHIP_EMPTY",
+    "Text": "-"
+  },
+  {
+    "Key": "CHAMPIONSHIP_GAME_PERIOD",
+    "Text": "対局期間"
+  },
+  {
+    "Key": "CHAMPIONSHIP_GAME_SCHEDULE_AUTOMATICALLY_ASSIGNING_ERROR_MESSAGE",
+    "Text": "対局の自動割り振り中のため表示できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_GAME_SCHEDULE_CHECK_ONLY_MY_GAME",
+    "Text": "自分の対局のみ"
+  },
+  {
+    "Key": "CHAMPIONSHIP_GAME_SCHEDULE_HEADING",
+    "Text": "対局予定一覧"
+  },
+  {
+    "Key": "CHAMPIONSHIP_GAME_SCHEDULE_RESETTING_ERROR_MESSAGE",
+    "Text": "対局の全リセット中のため表示できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_AGGREGATING_MY_SCORE",
+    "Text": "集計中"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_BEFORE_OPEN",
+    "Text": "開催前"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_BEFORE_REGISTER",
+    "Text": "解放前"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CHANGE_TAB_ON_WAITING_TIME_ERROR_MESSAGE",
+    "Text": "対局準備中のため表示できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CHAT_ALL_TAB",
+    "Text": "すべて"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CHAT_GM_TAB",
+    "Text": "管理者"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_COMPLETE_PREPARATION",
+    "Text": "マッチング中"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_COMPLETE_ROOM_DELETE",
+    "Text": "大会が削除されました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CONFIRM",
+    "Text": "ルール確認"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CONFIRM_REMAINING_TIME_HOUR_MESSAGE",
+    "Text": "対局まで{0}時間です。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CONFIRM_REMAINING_TIME_MINUTES_MESSAGE",
+    "Text": "対局まで{0}分です。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CONFIRM_REMAINING_TIME_SECONDS",
+    "Text": "あと{0}秒"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CONFIRM_SCHEDULE",
+    "Text": "時刻確認中"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CURRENT_ORDER_FORMAT",
+    "Text": "{0}位"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_CURRENT_ORDER_HEADING",
+    "Text": "暫定順位"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_DELETE_ROOM_CONFIRMATION",
+    "Text": "大会を削除します。\n本当によろしいですか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_DELETE_ROOM_CONFIRMATION_TITLE",
+    "Text": "大会削除"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_DIFFERENT_FROM_FIRST_PLACE_HEADING",
+    "Text": "1位との差"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_DIFFERENT_FROM_FIRST_PLACE_TOPCOUNT_FORMAT",
+    "Text": "{0}回"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_EDIT",
+    "Text": "ルール変更"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_END_SCHEDULE",
+    "Text": "終了: {0}"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_EXPIRED_LOBBY_CREATION_ERROR_MESSAGE",
+    "Text": "期限切れの対局です。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_FAILED_DELETE_ROOM_MESSAGE",
+    "Text": "対局期間開始日時より後の時間であるため、\n大会を削除できませんでした。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_FINISHED",
+    "Text": "終了"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_FIXED_ORDER_HEADING",
+    "Text": "順位"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_JOIN_CONDITION_ANYONE",
+    "Text": "誰でも参加"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_JOIN_CONDITION_HEADING",
+    "Text": "参加制限"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_JOIN_CONDITION_INVITATION_ONLY",
+    "Text": "招待のみ"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_JOIN_CONDITION_RANK_LIMIT",
+    "Text": "以上"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_MATCHING_COUNT_FORMAT",
+    "Text": "{0}回"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_MATCHING_COUNT_HEADING",
+    "Text": "対局回数"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_MATCHING_SUCCESS_MESSAGE",
+    "Text": "マッチングしました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_MY_GAME_SCHEDULE",
+    "Text": "対局予定"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_MY_SCHEDULE_IS_OUTDATED",
+    "Text": "予定していた対局が終了したため、対局できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_MY_SCHEDULE_NOT_EXIST_MESSAGE",
+    "Text": "対局予定が存在しません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_MY_SCHEDULE_WINDOW_HEADING",
+    "Text": "あなたの対局予定"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_NOT_EXIST_GAME_MESSAGE",
+    "Text": "対局予定がありません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_OPENING",
+    "Text": "開催中"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_PARITICIPATE",
+    "Text": "参加する"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_PARTICIPANT_COUNT_HEADING",
+    "Text": "参加人数"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_PERIOD_ENDED_UPDATE_MESSAGE",
+    "Text": "期間が終了したため、最新の状態に更新します。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_PLAYING_RANDOM_MATCH_COUNT",
+    "Text": "対局中人数 {0}人"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_PREPARING",
+    "Text": "準備する"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_RULE_CHANGE_DIALOG_HEADING",
+    "Text": "ルール変更"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_RULE_CHECK_DIALOG_HEADING",
+    "Text": "ルール確認"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_RULE_HEADING",
+    "Text": "ルール"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_SCORE_NORMAL_HEADING",
+    "Text": "スコア"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_SCORE_TOPCOUNT_FORMAT",
+    "Text": "{0}回"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_SCORE_TOPCOUNT_HEADING",
+    "Text": "トップ回数"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_SEND",
+    "Text": "送信"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_START_SCHEDULE",
+    "Text": "開始: {0}"
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_SCREEN_WAITINIG_GAME",
+    "Text": "開始待ち"
+  },
+  {
+    "Key": "CHAMPIONSHIP_INPUT_INTRODUCTION_DIALOG_TITLE",
+    "Text": "大会紹介入力"
+  },
+  {
+    "Key": "CHAMPIONSHIP_INPUT_NAME_DIALOG_TITLE",
+    "Text": "大会名入力"
+  },
+  {
+    "Key": "CHAMPIONSHIP_INPUT_TABLENAME_DIALOG_TITLE",
+    "Text": "卓名入力"
+  },
+  {
+    "Key": "CHAMPIONSHIP_INPUT_TEAMNAME_DIALOG_TITLE",
+    "Text": "チーム名入力"
+  },
+  {
+    "Key": "CHAMPIONSHIP_JOIN_CANCEL_BUTTON",
+    "Text": "キャンセル"
+  },
+  {
+    "Key": "CHAMPIONSHIP_JOIN_ERROR_MESSAGE",
+    "Text": "パスワードが違います。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_JOIN_MESSAGE",
+    "Text": "大会のパスワードを入力してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_JOIN_SUBMIT_BUTTON",
+    "Text": "決定"
+  },
+  {
+    "Key": "CHAMPIONSHIP_JOIN_TITLE",
+    "Text": "パスワード入力"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_APPLICATION_RECEPTION",
+    "Text": "参加受付中"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_BEFORE_OPEN",
+    "Text": "開催前"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_BEFORE_REGISTERING",
+    "Text": "解放前"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_COMMON_TAB",
+    "Text": "一覧"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_CREATE",
+    "Text": "大会作成"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_EMPTY_MESSAGE",
+    "Text": "該当する大会が見つかりません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_FINISHED",
+    "Text": "終了"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_MODE_FOUR_PLAYER",
+    "Text": "四麻"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_MODE_THREE_PLAYER",
+    "Text": "三麻"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_OPENING",
+    "Text": "開催中"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_PARTICIPATION",
+    "Text": "参加中"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_PRIVATE_TAB",
+    "Text": "個人"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_RECOMMENDATION_TAB",
+    "Text": "おすすめ"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_SCREEN_TITLE",
+    "Text": "大会"
+  },
+  {
+    "Key": "CHAMPIONSHIP_LOBBY_WEB_TOOL_BUTTON",
+    "Text": "大会管理ボード"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ADD_BLACKLIST_HEADING",
+    "Text": "ブラックリスト追加"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ADD_FRIEND_WINDOW_HEADING",
+    "Text": "フレンドを追加"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ADD_FROM_FRIEND",
+    "Text": "追加"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ADD_MANAGER_MESSAGE",
+    "Text": "管理者に追加しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ADD_OWNER_FOR_BLACKLIST",
+    "Text": "大会の作成者は除外できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ADD_PARTICIPANTS_MESSAGE",
+    "Text": "参加者に追加しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ADD_USER_FORMAT",
+    "Text": "{0}追加"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ALREADY_BLACKLIST_ERROR_MESSAGE",
+    "Text": "そのサポーターは既にブラックリストに入っています。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ALREADY_MANAGER_ERROR_MESSAGE",
+    "Text": "そのサポーターは既に管理者です。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_ALREADY_MEMBER_ERROR_MESSAGE",
+    "Text": "そのサポーターは既に参加者です。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_BLACK_LIST_TAB",
+    "Text": "ブラックリスト"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_CONFIRM_ADD_BLACKLIST_MESSAGE",
+    "Text": "{0}をブラックリストへ追加しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_CONFIRM_KICK_MESSAGE",
+    "Text": "{0}を{1}から除外しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_EDIT_BLACK_LIST_TITLE",
+    "Text": "ブラックリスト編集"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_EDIT_MANAGER_TITLE",
+    "Text": "管理者編集"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_EDIT_PARTICIPANTS_TITLE",
+    "Text": "参加者編集"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_FRIEND_ADD_ERROR_MESSAGE",
+    "Text": "こちらのフレンドは追加できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_KICK_HEADING",
+    "Text": "除外"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_KICK_OWNER",
+    "Text": "このサポーターは大会から除外できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_LIMITED_MANAGER",
+    "Text": "管理者の人数が上限に達しています。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_LIMITED_PARTICIPANTS",
+    "Text": "参加者の人数が上限に達しています。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_MANAGER_TAB",
+    "Text": "管理者"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_PARTICIPANTS_TAB",
+    "Text": "参加者"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_REMOVE_OWNER",
+    "Text": "このサポーターは管理者から除外できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_TARGET_LIST_FORMAT",
+    "Text": "{0}一覧"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_ALERT_ALL_RESET_TEAM",
+    "Text": "チームの全リセットを実行しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_ALERT_LIMITED_USER_GUIDE_MESSAGE",
+    "Text": "1チームあたりの人数上限に達しています。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_ALERT_TRANSITION_TO_NEXT_SCREEN_MESSAGE",
+    "Text": "保存できていないデータが存在します。\n本当に画面を移動しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_ALERT_TRANSITION_TO_NEXT_TEAM_MESSAGE",
+    "Text": "保存できていないデータが存在します。\n本当にチームを変更しますか？"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_APPLY_BUTTON_TEXT",
+    "Text": "自動割り振り"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_APPLY_DESCRIPTION",
+    "Text": "参加者を自動でチームに割り振ります。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_APPLY_SUPPLEMENT_TEXT",
+    "Text": "すでに設定されているチーム設定は維持されます。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_ASSIGNED_PARTICIPANTS_HEADING",
+    "Text": "チーム割り振り"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_AUTOMATICALLY_ASSIGNING_ERROR_MESSAGE",
+    "Text": "チームの自動割り振り中のため表示できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_AUTO_ASSINMENT",
+    "Text": "自動割り振り"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_BULK_SETTING_HEADING",
+    "Text": "チームの自動割り振り"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_EMPTY_MEMBER_ERROR_MESSAGE",
+    "Text": "メンバーを1人以上設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_INVALID_RESERVED_DATA_MESSAGE",
+    "Text": "データに不備があります。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_MEMBER_FORMAT",
+    "Text": "メンバー{0}"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_RESETTING_ERROR_MESSAGE",
+    "Text": "チームの全リセット中のため表示できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_RESET_BUTTON_TEXT",
+    "Text": "すべてリセット"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_RESET_HEADING",
+    "Text": "すべてのチーム設定をリセット"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_RESET_MESSAGE",
+    "Text": "チームをリセットしました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_SAVE",
+    "Text": "保存"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_SAVE_MESSAGE",
+    "Text": "チームを保存しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_SET_AUTO_RESERVE_TEAM_COUNT",
+    "Text": "自動で割り振るチーム数を設定してください。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_TEAM_FORMAT",
+    "Text": "チーム{0}"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_UNABLE_TO_ALL_RESET",
+    "Text": "チームの全リセットができません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_UNABLE_TO_AUTO_ASSIGN",
+    "Text": "チームの自動割り振りができません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_UNASSIGNED_PARTICIPANTS_HEADING",
+    "Text": "未割り振り参加者"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MATCHING_LOBBY_RETURN_BUTTON_ERROR_MESSAGE",
+    "Text": "サポーターが揃っているため操作できません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MATCHING_MODE_DESIGNATE",
+    "Text": "指定対局"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MATCHING_MODE_RANDOM",
+    "Text": "ランダムマッチ"
+  },
+  {
+    "Key": "CHAMPIONSHIP_MATCHING_MODE_TOURNAMENT",
+    "Text": "トーナメント"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_CURRENT_RULE_HEADING_FORMAT",
+    "Text": "現在の集計ルール ："
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_NOT_FOUND_DATA",
+    "Text": "対象が見つかりません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_NOT_PARTICIPATED_TEAM",
+    "Text": "対象が見つかりません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_ORDER",
+    "Text": "順位"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_PERSONAL_GRADES_HEADING_FORMAT",
+    "Text": "{0} -個人成績-"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_PERSONAL_HEADING",
+    "Text": "個人"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_PLAYER_NAME",
+    "Text": "サポーター名"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_PLAY_GAME_COUNT",
+    "Text": "対局数"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_RANK",
+    "Text": "ランク"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_SCORE",
+    "Text": "スコア"
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_TEAM_HEADING",
+    "Text": "チーム"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SEARCH_ID_AND_NAME",
+    "Text": "ID・名前検索"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SEARCH_NOT_PARTICIPANTS_TEXT",
+    "Text": "該当する参加者が見つかりません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SEARCH_NOT_PLAYER_TEXT",
+    "Text": "該当するサポーターが見つかりません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SPECTATE_GAME_DISPLAY_ONLY_FRIEND_GAME",
+    "Text": "フレンドがいる対戦のみ表示"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SPECTATE_GAME_UPDATE",
+    "Text": "更新"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SPECTATE_SETTING_MODE_TITLE_1",
+    "Text": "四人麻雀"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SPECTATE_SETTING_MODE_TITLE_2",
+    "Text": "三人麻雀"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SPECTATE_START_WAITING_DIALOG_COUNT_SECONDS",
+    "Text": "秒"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SPECTATE_START_WAITING_DIALOG_MESSAGE",
+    "Text": "観戦開始まであと"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SPECTATE_START_WAITING_DIALOG_TITLE",
+    "Text": "観戦待機中"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_FOUR_PLAYER_BATTLE_END",
+    "Text": "【対局終了】1位 {0}（{1}） / 2位 {2}（{3}） / 3位 {4}（{5}） / 4位 {6}（{7}）"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_FOUR_PLAYER_BATTLE_START",
+    "Text": "【対局開始】{0}、{1}、{2}、{3}"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_MATCHING_AUTO_RESET_ALL",
+    "Text": "対局の全リセットが完了しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_MATCHING_AUTO_SET_UP",
+    "Text": "対局の自動割り振りが完了しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_MATCHING_INTERRUPTION",
+    "Text": "中断された対局があります。ご確認をお願いします。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_RULE_CHANGE",
+    "Text": "【ルール変更】ルールの変更がありました。ご確認をお願いします。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_TEAMS_AUTO_RESET_ALL",
+    "Text": "チームの全リセットが完了しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_TEAMS_AUTO_SET_UP",
+    "Text": "チームの自動割り振りが完了しました。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_THREE_PLAYER_BATTLE_END",
+    "Text": "【対局終了】1位 {0}（{1}） / 2位 {2}（{3}） / 3位 {4}（{5}）"
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_THREE_PLAYER_BATTLE_START",
+    "Text": "【対局開始】{0}、{1}、{2}"
+  },
+  {
+    "Key": "CHAMPIONSHIP_TEAM_LIST_EMPTY_MY_TEAM_TEXT",
+    "Text": "チームに所属していません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_TEAM_LIST_EMPTY_TEAM_TEXT",
+    "Text": "チームがありません。"
+  },
+  {
+    "Key": "CHAMPIONSHIP_TEAM_LIST_MEMBERS_WINDOW_HEADING",
+    "Text": "チームメンバー一覧"
+  },
+  {
+    "Key": "CHAMPIONSHIP_TEAM_LIST_MY_TEAM_CELL_HEADING",
+    "Text": "あなたのチーム"
+  },
+  {
+    "Key": "CHARACTER_CHANGE_SKIN",
+    "Text": "着せ替える"
+  },
+  {
+    "Key": "CHARACTER_CLOSENESS_POINT_MAX",
+    "Text": "MAX"
+  },
+  {
+    "Key": "CHARACTER_COLLECTION",
+    "Text": "キャラクターコレクション"
+  },
+  {
+    "Key": "CHARACTER_CONTRACT",
+    "Text": "絆を結ぶ"
+  },
+  {
+    "Key": "CHARACTER_CONTRACTED",
+    "Text": "契約済み"
+  },
+  {
+    "Key": "CHARACTER_CONTRACTED_CLOSE",
+    "Text": "タップして閉じる"
+  },
+  {
+    "Key": "CHARACTER_CONTRACTED_TITLE",
+    "Text": "絆を結んだ"
+  },
+  {
+    "Key": "CHARACTER_CONTRACTED_UNLOCKED_STAMP",
+    "Text": "スタンプ「{0}」が解放されました。"
+  },
+  {
+    "Key": "CHARACTER_CONTRACTED_UNLOCKED_STORY",
+    "Text": "ストーリー「{0}」が解放されました。"
+  },
+  {
+    "Key": "CHARACTER_CONTRACTED_UNLOCKED_VOICE",
+    "Text": "一部のボイスが解放されました。"
+  },
+  {
+    "Key": "CHARACTER_CONTRACTING",
+    "Text": "絆を結ぶ"
+  },
+  {
+    "Key": "CHARACTER_CONTRACT_DIALOG_MESSAGE",
+    "Text": "アイテムを使用して、キャラクターと絆を結びますか？"
+  },
+  {
+    "Key": "CHARACTER_CONTRACT_DIALOG_MESSAGE_NOT_ENOUGH_CLOSENESS",
+    "Text": "<color=#FF9090>親密度レベルが最大ではないため、絆を結ぶことができません。</color>"
+  },
+  {
+    "Key": "CHARACTER_CONTRACT_DIALOG_MESSAGE_NOT_ENOUGH_ITEM",
+    "Text": "<color=#FF9090>必要なアイテムが不足しています。</color>"
+  },
+  {
+    "Key": "CHARACTER_CUSTOMIZE_COSTUME",
+    "Text": "カスタム"
+  },
+  {
+    "Key": "CHARACTER_DETAIL",
+    "Text": "キャラクター詳細"
+  },
+  {
+    "Key": "CHARACTER_DETAIL_BUTTON",
+    "Text": "詳細"
+  },
+  {
+    "Key": "CHARACTER_ENOUGH_REQUIRED_ITEM_COUNT",
+    "Text": "<color=#C8C8F8>{0}</color>/{1}"
+  },
+  {
+    "Key": "CHARACTER_INTRODUCTION",
+    "Text": "キャラクター紹介"
+  },
+  {
+    "Key": "CHARACTER_IN_USE",
+    "Text": "<size='32'>サポート中</size>"
+  },
+  {
+    "Key": "CHARACTER_IS_CONTRACTED",
+    "Text": "絆を結んだ後"
+  },
+  {
+    "Key": "CHARACTER_IS_NOT_CONTRACTED",
+    "Text": "絆を結ぶ前"
+  },
+  {
+    "Key": "CHARACTER_LIST_EMPTY",
+    "Text": "対象が見つかりません。"
+  },
+  {
+    "Key": "CHARACTER_LIST_FILTER_GROUP",
+    "Text": "グループ"
+  },
+  {
+    "Key": "CHARACTER_LIST_FILTER_NONE",
+    "Text": "None"
+  },
+  {
+    "Key": "CHARACTER_LIST_FILTER_NOT_OWNED",
+    "Text": "未所持"
+  },
+  {
+    "Key": "CHARACTER_LIST_FILTER_OWNED",
+    "Text": "所持"
+  },
+  {
+    "Key": "CHARACTER_LIST_FILTER_OWNED_STATUS",
+    "Text": "所持状態"
+  },
+  {
+    "Key": "CHARACTER_LIST_IN_USE_GUIDE_MESSAGE",
+    "Text": "このキャラクターはサポート中です。"
+  },
+  {
+    "Key": "CHARACTER_LIST_NOT_OWNED_GUIDE_MESSAGE",
+    "Text": "未所持のキャラクターのため、サポートできません。"
+  },
+  {
+    "Key": "CHARACTER_LIST_SORT_CHARACTER_CODE",
+    "Text": "キャラクター順"
+  },
+  {
+    "Key": "CHARACTER_LIST_SORT_CLOSENESS_LEVEL",
+    "Text": "親密度順"
+  },
+  {
+    "Key": "CHARACTER_LIST_SORT_LIMIT_BREAK",
+    "Text": "スターランク順"
+  },
+  {
+    "Key": "CHARACTER_NOT_ENOUGH_REQUIRED_ITEM_COUNT",
+    "Text": "<color=#FF9090>{0}</color>/{1}"
+  },
+  {
+    "Key": "CHARACTER_SKIN",
+    "Text": "着せ替え"
+  },
+  {
+    "Key": "CHARACTER_SP_VOICE",
+    "Text": "SPボイス"
+  },
+  {
+    "Key": "CHARACTER_STAMP_GET",
+    "Text": "スタンプ解放"
+  },
+  {
+    "Key": "CHARACTER_STORY_ALREADY_READ",
+    "Text": "閲覧済み"
+  },
+  {
+    "Key": "CHARACTER_STORY_LOCKED_AND_CONDITION",
+    "Text": "{0}\n&{1}"
+  },
+  {
+    "Key": "CHARACTER_STORY_LOCKED_CLOSENESS",
+    "Text": "親密度レベル{0}で解放"
+  },
+  {
+    "Key": "CHARACTER_STORY_LOCKED_CONTRACT",
+    "Text": "絆を結んで解放"
+  },
+  {
+    "Key": "CHARACTER_STORY_LOCKED_MISSION",
+    "Text": "コレクションミッションクリアで解放"
+  },
+  {
+    "Key": "CHARACTER_STORY_LOCKED_STORY",
+    "Text": "{0}を閲覧"
+  },
+  {
+    "Key": "CHARACTER_STORY_TYPE_CHARACTER",
+    "Text": "キャラクターストーリー第{0}話"
+  },
+  {
+    "Key": "CHARACTER_STORY_TYPE_CLOSENESS",
+    "Text": "絆ストーリー"
+  },
+  {
+    "Key": "CHARACTER_STORY_TYPE_SITUATION",
+    "Text": "シチュエーションストーリー"
+  },
+  {
+    "Key": "CHARACTER_USE",
+    "Text": "サポートする"
+  },
+  {
+    "Key": "CHARACTER_VOICE_COMMON",
+    "Text": "共通ボイス"
+  },
+  {
+    "Key": "CHARACTER_VOICE_UNLOCK_CLOSENESS",
+    "Text": "親密度{0}で解放"
+  },
+  {
+    "Key": "CHARACTER_VOICE_UNLOCK_CONTRACT",
+    "Text": "絆を結んで解放"
+  },
+  {
+    "Key": "CHARACTER_VOICE_UNLOCK_LIMIT_BREAK",
+    "Text": "★{0}で解放"
+  },
+  {
+    "Key": "CHAT_RECONNECTING",
+    "Text": "再接続しています。"
+  },
+  {
+    "Key": "CLIENT_UPDATE_ERROR_DIALOG_MESSAGE",
+    "Text": "最新のクライアントにアップデートしてください。"
+  },
+  {
+    "Key": "CLIENT_UPDATE_ERROR_DIALOG_TITLE",
+    "Text": "最新クライアント確認"
+  },
+  {
+    "Key": "CLOSENESS_LEVEL_UP_CLOSE",
+    "Text": "タップして閉じる"
+  },
+  {
+    "Key": "CLOSENESS_LEVEL_UP_STORY_UNLOCK",
+    "Text": "ストーリーが{0}件解放されました。"
+  },
+  {
+    "Key": "CLOSENESS_LEVEL_UP_TITLE",
+    "Text": "親密度レベルアップ！"
+  },
+  {
+    "Key": "CLOSENESS_LEVEL_UP_VOICE_UNLOCK",
+    "Text": "ボイスが{0}件解放されました。"
+  },
+  {
+    "Key": "COLLECTION_ACCESSORY_TITLE",
+    "Text": "アクセサリー"
+  },
+  {
+    "Key": "COLLECTION_COSTUME_TITLE",
+    "Text": "コスチューム"
+  },
+  {
+    "Key": "COLLECTION_FIRST_ILLUST_UNLOCK_DIALOG_MESSAGE",
+    "Text": "シチュエーションが解放され、\nキャラクターの見た目が切り替わりました。\n\n見た目は各画面でいつでも切り替えることができます。"
+  },
+  {
+    "Key": "COLLECTION_FIRST_ILLUST_UNLOCK_DIALOG_TITLE",
+    "Text": "シチュエーション解放"
+  },
+  {
+    "Key": "COLLECTION_HONOR_TITLE",
+    "Text": "称号"
+  },
+  {
+    "Key": "COLLECTION_ILLUST_UNLOCK_BANNER_TEXT",
+    "Text": "シチュエーション解放！"
+  },
+  {
+    "Key": "COLLECTION_ITEM_COUNT",
+    "Text": "{0}/{1}"
+  },
+  {
+    "Key": "COLLECTION_MISSION_CLAIM_ALL_REWARD",
+    "Text": "すべて受け取る"
+  },
+  {
+    "Key": "COLLECTION_MISSION_CLAIM_DESCRIPTION",
+    "Text": "上限に達したアイテムはプレゼントボックスに送られます。"
+  },
+  {
+    "Key": "COLLECTION_MISSION_CLAIM_REWARD",
+    "Text": "受け取り"
+  },
+  {
+    "Key": "COLLECTION_SCREEN_TITLE",
+    "Text": "コレクション"
+  },
+  {
+    "Key": "COLLECTION_STAMP_TITLE",
+    "Text": "スタンプ"
+  },
+  {
+    "Key": "COLLECTION_TAB_COLLECTION",
+    "Text": "コレクション"
+  },
+  {
+    "Key": "COLLECTION_TAB_MISSION",
+    "Text": "ミッション"
+  },
+  {
+    "Key": "COMMON_ADMIN_NAME",
+    "Text": "運営"
+  },
+  {
+    "Key": "COMMON_API_CRITICAL_ERROR_MESSAGE",
+    "Text": "予期せぬエラーが発生しました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "COMMON_API_DISCONNECTED_MESSAGE",
+    "Text": "通信が切断されました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "COMMON_API_ERROR_TITLE",
+    "Text": "エラー"
+  },
+  {
+    "Key": "COMMON_API_NON_FATAL_ERROR_MESSAGE",
+    "Text": "予期せぬエラーが発生しました。\nホームに戻ります。"
+  },
+  {
+    "Key": "COMMON_API_UNHANDLED_ERROR_MESSAGE",
+    "Text": "予期せぬエラーが発生しました。"
+  },
+  {
+    "Key": "COMMON_BACK_BUTTON_TEXT",
+    "Text": "戻る"
+  },
+  {
+    "Key": "COMMON_CAMPAIGN_MESSAGE",
+    "Text": "キャンペーン中"
+  },
+  {
+    "Key": "COMMON_CANCEL",
+    "Text": "キャンセル"
+  },
+  {
+    "Key": "COMMON_CHANGE",
+    "Text": "変更"
+  },
+  {
+    "Key": "COMMON_CHARACTER_RARITY_1",
+    "Text": "C"
+  },
+  {
+    "Key": "COMMON_CHARACTER_RARITY_2",
+    "Text": "B"
+  },
+  {
+    "Key": "COMMON_CHARACTER_RARITY_3",
+    "Text": "A"
+  },
+  {
+    "Key": "COMMON_CHARACTER_RARITY_4",
+    "Text": "S"
+  },
+  {
+    "Key": "COMMON_CHARACTER_RARITY_5",
+    "Text": "SS"
+  },
+  {
+    "Key": "COMMON_CLOSE",
+    "Text": "閉じる"
+  },
+  {
+    "Key": "COMMON_CONFIRM",
+    "Text": "決定"
+  },
+  {
+    "Key": "COMMON_CONFIRMATION_DIALOG_TITLE",
+    "Text": "確認"
+  },
+  {
+    "Key": "COMMON_CONSUME",
+    "Text": "消費"
+  },
+  {
+    "Key": "COMMON_CONSUME_STONE_DIALOG_MESSAGE",
+    "Text": "石を消費します。実行しますか？"
+  },
+  {
+    "Key": "COMMON_CONTENT_MAINTENANCE_DIALOG_TITLE",
+    "Text": "メンテナンス中"
+  },
+  {
+    "Key": "COMMON_COPY_TO_CLIPBOARD",
+    "Text": "クリップボードにコピーしました。"
+  },
+  {
+    "Key": "COMMON_COUNTDOWN_TIME",
+    "Text": "あと{0}"
+  },
+  {
+    "Key": "COMMON_DAY",
+    "Text": "{0}日"
+  },
+  {
+    "Key": "COMMON_DAY_AND_HOUR",
+    "Text": "残り{0}日{1}時間"
+  },
+  {
+    "Key": "COMMON_DAY_CHANGE",
+    "Text": "ゲーム内の日付が変わりました。\nホームに戻ります。"
+  },
+  {
+    "Key": "COMMON_DELETE",
+    "Text": "削除"
+  },
+  {
+    "Key": "COMMON_DETAIL",
+    "Text": "詳細"
+  },
+  {
+    "Key": "COMMON_DIVA_NAME",
+    "Text": "ラディアンス"
+  },
+  {
+    "Key": "COMMON_DOWNLOADING",
+    "Text": "データダウンロード中…"
+  },
+  {
+    "Key": "COMMON_DOWNLOAD_DIALOG_BATCH_DOWNLOAD_MESSAGE",
+    "Text": "全てのデータのダウンロードを行います。\n通信環境の良いところでのダウンロードを推奨いたします。\nダウンロードを開始してよろしいですか？\n({0:N2}MB)"
+  },
+  {
+    "Key": "COMMON_DOWNLOAD_DIALOG_BATCH_DOWNLOAD_TITLE",
+    "Text": "一括ダウンロード"
+  },
+  {
+    "Key": "COMMON_DOWNLOAD_DIALOG_MESSAGE_FORMAT",
+    "Text": "{0:N2}MBのデータをダウンロードします。\n※Wi-Fi環境でのダウンロードを推奨します。"
+  },
+  {
+    "Key": "COMMON_DOWNLOAD_DIALOG_NON_MESSAGE_FORMAT",
+    "Text": "ダウンロード可能なリソースがありません。"
+  },
+  {
+    "Key": "COMMON_DOWNLOAD_DIALOG_OUT_OF_SPACE_MESSAGE",
+    "Text": "ダウンロードに必要な容量が\n<color=red>{0:N2}MB </color>不足しています。\n\nお手数ですが、一度アプリを終了して容量を確認したのち、\n再度ダウンロードして下さい。"
+  },
+  {
+    "Key": "COMMON_DOWNLOAD_DIALOG_OUT_OF_SPACE_TITLE",
+    "Text": "容量不足"
+  },
+  {
+    "Key": "COMMON_DOWNLOAD_DIALOG_TITLE",
+    "Text": "ダウンロード確認"
+  },
+  {
+    "Key": "COMMON_EDIT",
+    "Text": "編集"
+  },
+  {
+    "Key": "COMMON_ELAPSE_TIME_DAYS_AGO_TEXT",
+    "Text": "{0}日前"
+  },
+  {
+    "Key": "COMMON_ELAPSE_TIME_HOURS_AGO_TEXT",
+    "Text": "{0}時間前"
+  },
+  {
+    "Key": "COMMON_ELAPSE_TIME_MINUTES_AGO_TEXT",
+    "Text": "{0}分前"
+  },
+  {
+    "Key": "COMMON_ELAPSE_TIME_MONTHS_AGO_MONTHS_NOTATION_TEXT",
+    "Text": "7日以上前"
+  },
+  {
+    "Key": "COMMON_ELAPSE_TIME_MONTHS_AGO_TEXT",
+    "Text": "{0}月前"
+  },
+  {
+    "Key": "COMMON_ELAPSE_TIME_YEARS_AGO_TEXT",
+    "Text": "{0}年前"
+  },
+  {
+    "Key": "COMMON_EMPTY_TEXT",
+    "Text": "対象が見つかりません。"
+  },
+  {
+    "Key": "COMMON_END",
+    "Text": "終了"
+  },
+  {
+    "Key": "COMMON_FILTER",
+    "Text": "フィルター"
+  },
+  {
+    "Key": "COMMON_FILTERED_ITEM_NOT_EXIST",
+    "Text": "対象が見つかりません。"
+  },
+  {
+    "Key": "COMMON_FOUR_PLAYER_EAST_AND_SOUTH",
+    "Text": "四人半荘戦"
+  },
+  {
+    "Key": "COMMON_FOUR_PLAYER_EAST_ONLY",
+    "Text": "四人東風戦"
+  },
+  {
+    "Key": "COMMON_FRACTION_NUMBERS",
+    "Text": "{0}/{1}"
+  },
+  {
+    "Key": "COMMON_FREE",
+    "Text": "無料"
+  },
+  {
+    "Key": "COMMON_FREE_OF_CHARGE",
+    "Text": "無償"
+  },
+  {
+    "Key": "COMMON_FRIDAY",
+    "Text": "金曜"
+  },
+  {
+    "Key": "COMMON_GET_FORMAT",
+    "Text": "{0}GET!"
+  },
+  {
+    "Key": "COMMON_HOUR",
+    "Text": "{0}時間"
+  },
+  {
+    "Key": "COMMON_ICON_BADGE_FIRST",
+    "Text": "初回"
+  },
+  {
+    "Key": "COMMON_ICON_BADGE_OBTAINED_REWARD",
+    "Text": "受取済み"
+  },
+  {
+    "Key": "COMMON_INPUT_CHAMPIONSHIP_ID",
+    "Text": "大会IDを入力"
+  },
+  {
+    "Key": "COMMON_INPUT_ID",
+    "Text": "IDを入力"
+  },
+  {
+    "Key": "COMMON_INPUT_PAIPU_ID",
+    "Text": "牌譜IDを入力"
+  },
+  {
+    "Key": "COMMON_INPUT_TEXT",
+    "Text": "テキストを入力"
+  },
+  {
+    "Key": "COMMON_INSUFFICIENT_STONE_DIALOG_POSITIVE_BUTTON",
+    "Text": "ショップへ"
+  },
+  {
+    "Key": "COMMON_INSUFFICIENT_STONE_DIALOG_TEXT",
+    "Text": "ジュエルが不足しています。\nショップに移動しますか？"
+  },
+  {
+    "Key": "COMMON_INSUFFICIENT_STONE_DIALOG_TITLE",
+    "Text": "確認"
+  },
+  {
+    "Key": "COMMON_IN_USE",
+    "Text": "使用中"
+  },
+  {
+    "Key": "COMMON_ITEM_RANDOM_RATIO_DIALOG_MESSAGE",
+    "Text": "提供確率は小数点第4位を四捨五入して表記しているため、\n合計値が100％にならない場合があります。"
+  },
+  {
+    "Key": "COMMON_ITEM_RANDOM_RATIO_DIALOG_MESSAGE_TITLE",
+    "Text": "抽選獲得"
+  },
+  {
+    "Key": "COMMON_ITEM_RANDOM_RATIO_DIALOG_TITLE",
+    "Text": "入手内容"
+  },
+  {
+    "Key": "COMMON_LEVEL",
+    "Text": "Lv.{0}"
+  },
+  {
+    "Key": "COMMON_LIST_SORT_ACQUIRED_TIME",
+    "Text": "入手順"
+  },
+  {
+    "Key": "COMMON_LIST_SORT_CHARACTER",
+    "Text": "キャラクター順"
+  },
+  {
+    "Key": "COMMON_LIST_SORT_NAME",
+    "Text": "名前順"
+  },
+  {
+    "Key": "COMMON_MONDAY",
+    "Text": "月曜"
+  },
+  {
+    "Key": "COMMON_MOVIE_CONTROL_GUIDE",
+    "Text": "画面の左右タップでセリフ送り、中央のボタンで一時停止できます。"
+  },
+  {
+    "Key": "COMMON_MOVIE_SKIP_ACCEPT",
+    "Text": "スキップ"
+  },
+  {
+    "Key": "COMMON_MOVIE_SKIP_MESSAGE",
+    "Text": "スキップしますか？"
+  },
+  {
+    "Key": "COMMON_MOVIE_SKIP_TITLE",
+    "Text": "スキップ確認"
+  },
+  {
+    "Key": "COMMON_NEW",
+    "Text": "NEW"
+  },
+  {
+    "Key": "COMMON_NEXT",
+    "Text": "次へ"
+  },
+  {
+    "Key": "COMMON_NGWORD_GUIDEMESSAGE",
+    "Text": "使用できない文字列が含まれています。"
+  },
+  {
+    "Key": "COMMON_NO",
+    "Text": "いいえ"
+  },
+  {
+    "Key": "COMMON_NOTATION",
+    "Text": "各種表記"
+  },
+  {
+    "Key": "COMMON_NOTICE_TEXT_DIALOG_TITLE",
+    "Text": "注意事項"
+  },
+  {
+    "Key": "COMMON_NOTICE_TEXT_DIALOG_TITLE_MESSAGE",
+    "Text": "・内容は予告なく変更する場合があります。\n・提供割合は、出現対象によって異なります。\n・各提供割合は小数第4位を四捨五入して表示しているため、合計値が100％にならない場合があります。"
+  },
+  {
+    "Key": "COMMON_NOT_OWNED",
+    "Text": "未所持"
+  },
+  {
+    "Key": "COMMON_OK",
+    "Text": "OK"
+  },
+  {
+    "Key": "COMMON_OWNED",
+    "Text": "所持済"
+  },
+  {
+    "Key": "COMMON_PAID",
+    "Text": "有償"
+  },
+  {
+    "Key": "COMMON_PAID_POSSESSION",
+    "Text": "所持有償"
+  },
+  {
+    "Key": "COMMON_PAYMENT_FAILED_DIALOG_CANCELED_MESSAGE",
+    "Text": "購入をキャンセルしました。"
+  },
+  {
+    "Key": "COMMON_PAYMENT_FAILED_DIALOG_CANCELED_TITLE",
+    "Text": "購入キャンセル"
+  },
+  {
+    "Key": "COMMON_PAYMENT_FAILED_DIALOG_LIMIT_EXCEEDED_MESSAGE",
+    "Text": "購入予定商品の価格が1カ月の購入金額上限を超えてしまうため、購入できません。"
+  },
+  {
+    "Key": "COMMON_PAYMENT_FAILED_DIALOG_MESSAGE",
+    "Text": "購入に失敗しました。\n時間をおいてから再度お試しください。"
+  },
+  {
+    "Key": "COMMON_PAYMENT_FAILED_DIALOG_TITLE",
+    "Text": "購入失敗"
+  },
+  {
+    "Key": "COMMON_PAYMENT_UPDATE_INVENTORY_MESSAGE",
+    "Text": "購入完了後、「閉じる」を押すと購入状況が反映されます。\n反映されない場合は、再度ログインしていただくか、サポートメニュー内の所持通貨を開いてください。"
+  },
+  {
+    "Key": "COMMON_PAYMENT_UPDATE_INVENTORY_TITLE",
+    "Text": "購入確認"
+  },
+  {
+    "Key": "COMMON_PC_INPUT_BACK_LABEL",
+    "Text": "戻る"
+  },
+  {
+    "Key": "COMMON_PC_INPUT_GROUP_LABEL",
+    "Text": "操作"
+  },
+  {
+    "Key": "COMMON_PC_INPUT_SELECT_LABEL",
+    "Text": "選択"
+  },
+  {
+    "Key": "COMMON_PERCENTAGE",
+    "Text": "{0}%"
+  },
+  {
+    "Key": "COMMON_POSSESSION",
+    "Text": "所持"
+  },
+  {
+    "Key": "COMMON_PREVIOUS",
+    "Text": "前へ"
+  },
+  {
+    "Key": "COMMON_PRISM_NAME",
+    "Text": "ゴールド"
+  },
+  {
+    "Key": "COMMON_PRIVILEGE",
+    "Text": "特典"
+  },
+  {
+    "Key": "COMMON_PROFILE",
+    "Text": "プロフィール"
+  },
+  {
+    "Key": "COMMON_RADIANCE_NAME",
+    "Text": "プラチナ"
+  },
+  {
+    "Key": "COMMON_REMAINING_DAY",
+    "Text": "残り{0}日"
+  },
+  {
+    "Key": "COMMON_REMAINING_HOUR",
+    "Text": "残り{0}時間"
+  },
+  {
+    "Key": "COMMON_REMAINING_MINUTES",
+    "Text": "残り{0}分"
+  },
+  {
+    "Key": "COMMON_REQUIRE",
+    "Text": "必要"
+  },
+  {
+    "Key": "COMMON_RESET",
+    "Text": "リセット"
+  },
+  {
+    "Key": "COMMON_REWARD_BONUS_MESSAGE",
+    "Text": "報酬量{0}倍!"
+  },
+  {
+    "Key": "COMMON_REWARD_BONUS_MESSAGE_SHORT",
+    "Text": "報酬{0}倍"
+  },
+  {
+    "Key": "COMMON_REWARD_BONUS_TIME_MESSAGE",
+    "Text": "{0}まで"
+  },
+  {
+    "Key": "COMMON_SATURDAY",
+    "Text": "土曜"
+  },
+  {
+    "Key": "COMMON_SAVE",
+    "Text": "保存"
+  },
+  {
+    "Key": "COMMON_SEARCH_BY_ID",
+    "Text": "ID検索"
+  },
+  {
+    "Key": "COMMON_SEPARATOR_MIDDLE_DOT",
+    "Text": "・"
+  },
+  {
+    "Key": "COMMON_SHINE_NAME",
+    "Text": "シルバー"
+  },
+  {
+    "Key": "COMMON_SIGN_MULTIPLY",
+    "Text": "×{0}"
+  },
+  {
+    "Key": "COMMON_SIGN_PLUS",
+    "Text": "+{0}"
+  },
+  {
+    "Key": "COMMON_SORT",
+    "Text": "ソート"
+  },
+  {
+    "Key": "COMMON_SORT_FILTER_CALENDAR_DIALOG_TITLE",
+    "Text": "日付入力"
+  },
+  {
+    "Key": "COMMON_SORT_FILTER_DIALOG_TITLE",
+    "Text": "表示設定"
+  },
+  {
+    "Key": "COMMON_SPARKLE_NAME",
+    "Text": "ブロンズ"
+  },
+  {
+    "Key": "COMMON_STORE_REVIEW_DIALOG_TITLE",
+    "Text": "レビューのお願い"
+  },
+  {
+    "Key": "COMMON_STORY",
+    "Text": "ストーリー"
+  },
+  {
+    "Key": "COMMON_SUNDAY",
+    "Text": "日曜"
+  },
+  {
+    "Key": "COMMON_THREE_PLAYER_EAST_AND_SOUTH",
+    "Text": "三人半荘戦"
+  },
+  {
+    "Key": "COMMON_THREE_PLAYER_EAST_ONLY",
+    "Text": "三人東風戦"
+  },
+  {
+    "Key": "COMMON_THURSDAY",
+    "Text": "木曜"
+  },
+  {
+    "Key": "COMMON_TIMES_FORMAT",
+    "Text": "{0}回"
+  },
+  {
+    "Key": "COMMON_TUESDAY",
+    "Text": "火曜"
+  },
+  {
+    "Key": "COMMON_UNLOCK",
+    "Text": "解放"
+  },
+  {
+    "Key": "COMMON_USE",
+    "Text": "使用"
+  },
+  {
+    "Key": "COMMON_USER_BAN_DIALOG_MESSAGE",
+    "Text": "アカウント停止措置を行いました。\n詳しくはフォームよりお問い合わせください。"
+  },
+  {
+    "Key": "COMMON_USER_BAN_DIALOG_TITLE",
+    "Text": "アカウント停止措置について"
+  },
+  {
+    "Key": "COMMON_VOICE",
+    "Text": "ボイス"
+  },
+  {
+    "Key": "COMMON_WARNING_DIALOG_TITLE",
+    "Text": "警告"
+  },
+  {
+    "Key": "COMMON_WEDNESDAY",
+    "Text": "水曜"
+  },
+  {
+    "Key": "COMMON_WITHIN_A_HOUR",
+    "Text": "1時間以内"
+  },
+  {
+    "Key": "COMMON_YES",
+    "Text": "はい"
+  },
+  {
+    "Key": "COMMUNICATION_ERROR_DIALOG_MESSAGE",
+    "Text": "通信に失敗しました。\n再度通信します。"
+  },
+  {
+    "Key": "COMMUNICATION_ERROR_DIALOG_TITLE",
+    "Text": "通信エラー"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_CUTIN",
+    "Text": "カットイン解放"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_LIMIT_BREAK_REWARD_0",
+    "Text": "キャラクター入手時に追加入手"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_LIMIT_BREAK_REWARD_1",
+    "Text": "スターランク1で入手"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_LIMIT_BREAK_REWARD_2",
+    "Text": "スターランク2で入手"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_LIMIT_BREAK_REWARD_3",
+    "Text": "スターランク3で入手"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_REWARDS_TEXT",
+    "Text": "入手＆スターランク報酬"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_STAMP",
+    "Text": "スタンプ解放"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_TITLE",
+    "Text": "キャラクター詳細"
+  },
+  {
+    "Key": "COSTUME_DETAIL_DIALOG_VOICE",
+    "Text": "ホームボイス解放"
+  },
+  {
+    "Key": "CUSTOMIZE_COSTUME_DIALOG_COSTUME_TITLE",
+    "Text": "コスチューム選択"
+  },
+  {
+    "Key": "CUSTOMIZE_COSTUME_DIALOG_CUTIN_MESSAGE",
+    "Text": "カットインは対局中にのみ反映されます。"
+  },
+  {
+    "Key": "CUSTOMIZE_COSTUME_DIALOG_CUTIN_TITLE",
+    "Text": "カットイン選択"
+  },
+  {
+    "Key": "CUSTOMIZE_COSTUME_DIALOG_TITLE",
+    "Text": "カスタム"
+  },
+  {
+    "Key": "CommonApiError.AuthenticationFailed",
+    "Text": "認証に失敗しました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "CommonApiError.Banned",
+    "Text": "お客様のアカウントは、\n現在ご利用を停止されております。"
+  },
+  {
+    "Key": "CommonApiError.DayChanged",
+    "Text": "日付が変わりました。\nタイトル画面に戻ります。"
+  },
+  {
+    "Key": "CommonApiError.DuplicateLogin",
+    "Text": "別の端末でアクセスされました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "CommonApiError.Fatal",
+    "Text": "エラーが発生しました。(E101) \nタイトルに戻ります。"
+  },
+  {
+    "Key": "CommonApiError.InvalidApiVersion",
+    "Text": "新しいリソースがあります。\nタイトルからダウンロードしてください。"
+  },
+  {
+    "Key": "CommonApiError.InvalidResponse",
+    "Text": "新しいリソースがあります。\nタイトルからダウンロードしてください。"
+  },
+  {
+    "Key": "CommonApiError.Maintenance",
+    "Text": "現在、メンテナンス中です。\n詳細は公式HPをご覧ください。"
+  },
+  {
+    "Key": "CommonApiError.MultipleRequest",
+    "Text": "多重にリクエストが要求されました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "CommonApiError.NetworkError",
+    "Text": "通信に失敗しました。通信状況を確認してください。"
+  },
+  {
+    "Key": "CommonApiError.PermissionDenied",
+    "Text": "こちらの操作は受け付けておりません。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "CommonApiError.ResourceUpdate",
+    "Text": "新しいリソースがあります。\nタイトルからダウンロードしてください。"
+  },
+  {
+    "Key": "CommonApiError.Retryable",
+    "Text": "エラーが発生しました。\nタイトルから再度試してください。"
+  },
+  {
+    "Key": "CommonApiError.SessionExpired",
+    "Text": "この操作は現在受け付けておりません。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "CommonApiError.Timeout",
+    "Text": "セッションがタイムアウトしました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "CommonApiError.Unknown",
+    "Text": "エラーが発生しました。(E100) \nタイトルに戻ります。"
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_CONFIRMATION",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_DETAIL",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_ERROR",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_FRIENDMATCH",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_GACHA",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_HOME",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_INVENTORY",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_INVITATION",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_MAINTENANCE",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_MENU",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_OPTION",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_PAIPU",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_PREMIUM",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_PRESENT",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_PRESET",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_PROFILE",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_RANKING",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_RANKMATCH",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_REQUEST",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_SEASONPASS",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_SETTINGS",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_SHOP",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_TIPS",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_TOURNAMENT",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_WARNING",
+    "Text": " "
+  },
+  {
+    "Key": "DIALOG_TITLE_ENGLISH_WELCOME",
+    "Text": " "
+  },
+  {
+    "Key": "EVENTPORTAL_TOP_TITLE",
+    "Text": "イベント"
+  },
+  {
+    "Key": "EVENT_PERIOD_FORMAT",
+    "Text": "{0}まで"
+  },
+  {
+    "Key": "EVENT_PORTAL_EVENT_IS_EXPIRED_GUIDE_MESSAGE",
+    "Text": "このイベントは終了いたしました。"
+  },
+  {
+    "Key": "EVENT_PORTAL_FEATURED_REWARD_TEXT",
+    "Text": "目玉報酬"
+  },
+  {
+    "Key": "EVENT_PORTAL_SUB_TAB_BEFORE_START_GUIDE_MESSAGE",
+    "Text": "{0}に開放されます。"
+  },
+  {
+    "Key": "EVENT_PORTAL_SUB_TAB_TRANSITION_BUTTON_NEWS",
+    "Text": "確認する"
+  },
+  {
+    "Key": "FAN_MARK_DETAIL_DIALOG_TITLE",
+    "Text": "推しマーク詳細"
+  },
+  {
+    "Key": "FAN_MARK_EMPTY",
+    "Text": "未設定"
+  },
+  {
+    "Key": "FRIEND_ACCEPT",
+    "Text": "承認"
+  },
+  {
+    "Key": "FRIEND_CANCEL_REQUEST",
+    "Text": "取り消し"
+  },
+  {
+    "Key": "FRIEND_CANCEL_REQUESTS_APPROVE_ERROR_MESSAGE",
+    "Text": "申請がすでに取り消されているため、\n承認できませんでした。"
+  },
+  {
+    "Key": "FRIEND_COPY_ID",
+    "Text": "コピー"
+  },
+  {
+    "Key": "FRIEND_DECLINE",
+    "Text": "拒否"
+  },
+  {
+    "Key": "FRIEND_DENY_FRIEND_REQUEST",
+    "Text": "フレンド申請を受け付けない"
+  },
+  {
+    "Key": "FRIEND_HIDE_SELF_ID",
+    "Text": "ID：**************************"
+  },
+  {
+    "Key": "FRIEND_IN_GAME_FRIEND",
+    "Text": "フレマ"
+  },
+  {
+    "Key": "FRIEND_IN_GAME_RANK",
+    "Text": "ランクマ"
+  },
+  {
+    "Key": "FRIEND_LAST_ONLINE_DAY",
+    "Text": "{0}日前"
+  },
+  {
+    "Key": "FRIEND_LAST_ONLINE_HOUR",
+    "Text": "{0}時間前"
+  },
+  {
+    "Key": "FRIEND_LAST_ONLINE_MINUTE",
+    "Text": "{0}分前"
+  },
+  {
+    "Key": "FRIEND_LAST_ONLINE_WEEK",
+    "Text": "7日以上前"
+  },
+  {
+    "Key": "FRIEND_LIST_EMPTY",
+    "Text": "フレンドがいません。"
+  },
+  {
+    "Key": "FRIEND_LIST_SORT_LAST_LOGIN",
+    "Text": "最終ログイン順"
+  },
+  {
+    "Key": "FRIEND_MAX_COUNT",
+    "Text": "フレンド数上限：{0}/{1}"
+  },
+  {
+    "Key": "FRIEND_MY_LIMIT_APPROVE_ERROR_MESSAGE",
+    "Text": "フレンドが上限に達しているため、\n承認することができません。"
+  },
+  {
+    "Key": "FRIEND_MY_LIMIT_ERROR_MESSAGE",
+    "Text": "フレンドが上限に達しているため、\nフレンド申請を送ることができません。"
+  },
+  {
+    "Key": "FRIEND_MY_REQUESTS_LIMIT_ERROR_MESSAGE",
+    "Text": "これ以上、フレンド申請を送ることができません。"
+  },
+  {
+    "Key": "FRIEND_ONLINE",
+    "Text": "オンライン"
+  },
+  {
+    "Key": "FRIEND_OTHERS_DENY_FRIEND_REQUEST_ERROR_MESSAGE",
+    "Text": "{0}さんには\nフレンド申請を送ることができません。"
+  },
+  {
+    "Key": "FRIEND_OTHERS_LIMIT_APPROVE_ERROR_MESSAGE",
+    "Text": "相手のフレンドが上限に達しているため、\n承認することができません。"
+  },
+  {
+    "Key": "FRIEND_OTHERS_LIMIT_ERROR_MESSAGE",
+    "Text": "相手のフレンドが上限に達しているため、\nフレンド申請を送ることができません。"
+  },
+  {
+    "Key": "FRIEND_OTHERS_PENDING_APPROVE_LIMIT_ERROR_MESSAGE",
+    "Text": "{0}さんには\nフレンド申請を送ることができません。"
+  },
+  {
+    "Key": "FRIEND_RECEIVED_LIST_EMPTY",
+    "Text": "承認待ちのフレンド申請がありません。"
+  },
+  {
+    "Key": "FRIEND_REMOVE",
+    "Text": "解除"
+  },
+  {
+    "Key": "FRIEND_REMOVE_CONFIRMATION",
+    "Text": "{0}さんを\nフレンドから解除してもよろしいですか？"
+  },
+  {
+    "Key": "FRIEND_REMOVE_CONFIRMATION_DIALOG_TITLE",
+    "Text": "解除確認"
+  },
+  {
+    "Key": "FRIEND_REQUEST_CANCEL_CONFIRMATION",
+    "Text": "{0}さんへの\nフレンド申請を取り下げてもよろしいですか？"
+  },
+  {
+    "Key": "FRIEND_REQUEST_CANCEL_CONFIRMATION_DIALOG_TITLE",
+    "Text": "取り下げ確認"
+  },
+  {
+    "Key": "FRIEND_REQUEST_SENT",
+    "Text": "申請済み"
+  },
+  {
+    "Key": "FRIEND_SCREEN_TITLE",
+    "Text": "フレンド"
+  },
+  {
+    "Key": "FRIEND_SEARCH",
+    "Text": "検索"
+  },
+  {
+    "Key": "FRIEND_SEARCH_GUIDE_TEXT",
+    "Text": "検索したいサポーターのIDを入力してください。"
+  },
+  {
+    "Key": "FRIEND_SEARCH_NOT_FOUND",
+    "Text": "該当IDのサポーターが存在しません。"
+  },
+  {
+    "Key": "FRIEND_SELF_ID",
+    "Text": "ID：{0}"
+  },
+  {
+    "Key": "FRIEND_SELF_ID_SEARCHED",
+    "Text": "ご自身のIDを入力しています。"
+  },
+  {
+    "Key": "FRIEND_SEND_REQUEST",
+    "Text": "申請"
+  },
+  {
+    "Key": "FRIEND_SENT_LIST_EMPTY",
+    "Text": "申請中のフレンド申請がありません。"
+  },
+  {
+    "Key": "FRIEND_SPECTATE",
+    "Text": "観戦"
+  },
+  {
+    "Key": "FRIEND_TAB_LIST",
+    "Text": "フレンド"
+  },
+  {
+    "Key": "FRIEND_TAB_RECEIVED",
+    "Text": "承認待ち"
+  },
+  {
+    "Key": "FRIEND_TAB_SEARCH",
+    "Text": "検索"
+  },
+  {
+    "Key": "FRIEND_TAB_SENT",
+    "Text": "申請中"
+  },
+  {
+    "Key": "GACHA_BONUS_GAUGE_POSSESSION_POINT_FORMAT",
+    "Text": "{0}"
+  },
+  {
+    "Key": "GACHA_BONUS_GAUGE_REWARD_POINT_FORMAT",
+    "Text": "{0}"
+  },
+  {
+    "Key": "GACHA_BUTTON_BALLOON_DAILY_LIMITED",
+    "Text": "1日{0}回限定！"
+  },
+  {
+    "Key": "GACHA_BUTTON_BALLOON_DAILY_LIMITED_FREE",
+    "Text": "1日{0}回無料！"
+  },
+  {
+    "Key": "GACHA_BUTTON_BALLOON_LIMITED",
+    "Text": "{0}回限定"
+  },
+  {
+    "Key": "GACHA_BUY_JEWELS_BUTTON",
+    "Text": "ジュエルを購入"
+  },
+  {
+    "Key": "GACHA_DETAIL",
+    "Text": "ガチャ詳細"
+  },
+  {
+    "Key": "GACHA_DIRECTION_FULL_SKIP_BUTTON_LABEL",
+    "Text": "スキップ"
+  },
+  {
+    "Key": "GACHA_DIRECTION_SCRATCH_SKIP_BUTTON_LABEL",
+    "Text": "スクラッチ"
+  },
+  {
+    "Key": "GACHA_DRAW_FORMAT",
+    "Text": "{0}引く"
+  },
+  {
+    "Key": "GACHA_DUPLICATE_POINT_TABLE_TITLE",
+    "Text": "スクラッチポイント変換表"
+  },
+  {
+    "Key": "GACHA_DUPLICATE_POINT_TITLE",
+    "Text": "スクラッチポイントについて"
+  },
+  {
+    "Key": "GACHA_FOOTER_BALLOON_BIRTHDAY",
+    "Text": "誕生日ガチャ開催中！"
+  },
+  {
+    "Key": "GACHA_FOOTER_BALLOON_FREE",
+    "Text": "無料ガチャ開催中！"
+  },
+  {
+    "Key": "GACHA_HISTORY_ANNOTATION",
+    "Text": "履歴は7日間・最大30件まで表示。"
+  },
+  {
+    "Key": "GACHA_HISTORY_DATE_TITLE",
+    "Text": "ガチャ日時"
+  },
+  {
+    "Key": "GACHA_HISTORY_DIALOG_TITLE",
+    "Text": "ガチャ履歴"
+  },
+  {
+    "Key": "GACHA_HISTORY_EMPTY",
+    "Text": "ガチャ履歴がありません。"
+  },
+  {
+    "Key": "GACHA_HISTORY_EXECUTION_DATE_FORMAT",
+    "Text": "yyyy/MM/dd HH:mm"
+  },
+  {
+    "Key": "GACHA_INSUFFICIENT_STONE_WARNING_MESSAGE",
+    "Text": "<color=#FF2175>ジュエルが足りません。</color>"
+  },
+  {
+    "Key": "GACHA_KABURI_POINT_CAUTION",
+    "Text": "※「スクラッチポイント」の所持数が上限に達している場合、プレゼントボックスに送られます。"
+  },
+  {
+    "Key": "GACHA_KABURI_POINT_DESCRIPTION",
+    "Text": "スターランク最大のキャラクター、または入手済みのアクセサリーが出現した場合、\n各変換レートに応じた「スクラッチポイント」に変換されます。"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO",
+    "Text": "提供割合"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_CATEGORY_CELL_TITLE",
+    "Text": "カテゴリ"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_CAUTION",
+    "Text": "※1回ごとに提供割合に準じて抽選を行います。\n※提供割合は小数点第4位を四捨五入しているため、合計値が100%にならない場合があります。"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_CAUTION_HEADER_TITLE",
+    "Text": "注意事項"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_CONVERSION_FORMAT",
+    "Text": "{0}個"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_PERCENTAGE_FORMAT",
+    "Text": "{0:0.000}%"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_RARITY_CELL_TITLE",
+    "Text": "ピックアップ排出対象"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_RARITY_HEADER_TITLE",
+    "Text": "提供割合"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TARGET_CELL_TITLE",
+    "Text": "排出対象"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TARGET_HEADER_TITLE",
+    "Text": "個別提供割合"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE",
+    "Text": "1回/10回ガチャ（1～9枠目）"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE_ALL",
+    "Text": "1回/10回ガチャ（1～10枠目）"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE_ALL_SHORT",
+    "Text": "1～10枠目"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE_SHORT",
+    "Text": "1～9枠目"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE_SINGLE",
+    "Text": "1回ガチャ（1枠目）"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE_SINGLE_ONLY_SHORT",
+    "Text": "1回ガチャ"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE_SINGLE_SHORT",
+    "Text": "1枠目"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE_TEN",
+    "Text": "10回ガチャ（1～10枠目）"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_A_CELL_TITLE_TEN_GUARANTEED",
+    "Text": "10回ガチャ（1～9枠目）"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_B_CELL_TITLE",
+    "Text": "10回ガチャ（10枠目）"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TIMES_B_CELL_TITLE_SHORT",
+    "Text": "10枠目"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_TITLE",
+    "Text": "提供割合"
+  },
+  {
+    "Key": "GACHA_LOTTERY_RATIO_WARNING_MESSAGE",
+    "Text": "※個別に表示している提供割合は小数点第4位を四捨五入しているため、\n　合計値が100%にならない場合があります。\n※出現するキャラクター、アクセサリーおよびアイテムは重複する場合があります。"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_ARM",
+    "Text": "打ち手"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_COSTUME",
+    "Text": "キャラクター"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_FULOU_EFFECT",
+    "Text": "鳴き待機"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_GIFT_NORMAL",
+    "Text": "プレゼント（上質）"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_GIFT_RARE",
+    "Text": "プレゼント（豪華）"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_HULE_EFFECT",
+    "Text": "和了演出"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_ICON_FRAME",
+    "Text": "アイコンフレーム"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_LIZHI_BANG",
+    "Text": "リーチ棒"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_LIZHI_BGM",
+    "Text": "リーチBGM"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_LIZHI_EFFECT",
+    "Text": "リーチ演出"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_MAHJONG_BGM",
+    "Text": "対局BGM"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_PAI_BACK",
+    "Text": "雀牌"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_PAI_FRONT",
+    "Text": "図柄"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_STAMP",
+    "Text": "スタンプ"
+  },
+  {
+    "Key": "GACHA_LOTTERY_TYPE_TABLE",
+    "Text": "雀卓"
+  },
+  {
+    "Key": "GACHA_MILEAGE",
+    "Text": "マイレージ"
+  },
+  {
+    "Key": "GACHA_PICKUP_CHARACTER_DETAIL",
+    "Text": "キャラ詳細"
+  },
+  {
+    "Key": "GACHA_PURCHASE_CONFIRMATION_COMMON_WARNING_MESSAGE",
+    "Text": "※商品の性質上、\n購入後に即時消費及び反映されキャンセルできません。"
+  },
+  {
+    "Key": "GACHA_PURCHASE_CONFIRMATION_STONE_CONSUME_PRIORITY_MESSAGE",
+    "Text": "※無償のジュエルから先に消費されます。"
+  },
+  {
+    "Key": "GACHA_PURCHASE_CONFIRMATION_STONE_MESSAGE",
+    "Text": "ジュエルを{0}個消費して、\nガチャを{1}行います。"
+  },
+  {
+    "Key": "GACHA_PURCHASE_CONFIRMATION_TICKET_CONSUME_PRIORITY_MESSAGE",
+    "Text": "※有償の{0}から先に消費されます。"
+  },
+  {
+    "Key": "GACHA_PURCHASE_CONFIRMATION_TICKET_MESSAGE",
+    "Text": "チケットを{0}枚消費して、\nガチャを{1}行います。"
+  },
+  {
+    "Key": "GACHA_PURCHASE_CONFIRMATION_TITLE",
+    "Text": "ガチャ確認"
+  },
+  {
+    "Key": "GACHA_REMAINING_LIMIT",
+    "Text": "終了まであと："
+  },
+  {
+    "Key": "GACHA_REMAINING_LOOP_COUNT_FORMAT",
+    "Text": "残り{0}ループ"
+  },
+  {
+    "Key": "GACHA_REMAINING_PERIOD_EXPIRED",
+    "Text": "終了"
+  },
+  {
+    "Key": "GACHA_REMAINING_PERIOD_FORMAT_DAYS",
+    "Text": "あと{0}日"
+  },
+  {
+    "Key": "GACHA_REMAINING_PERIOD_FORMAT_HOURS",
+    "Text": "あと{0}時間"
+  },
+  {
+    "Key": "GACHA_REMAINING_PERIOD_FORMAT_MINUTES",
+    "Text": "あと{0}分"
+  },
+  {
+    "Key": "GACHA_RESULT_CUTIN_GET_TEXT",
+    "Text": "カットインゲット！"
+  },
+  {
+    "Key": "GACHA_RESULT_ONEMORE",
+    "Text": "もう1度引く"
+  },
+  {
+    "Key": "GACHA_RESULT_STAMP_GET_TEXT",
+    "Text": "スタンプGET！"
+  },
+  {
+    "Key": "GACHA_RESULT_TITLE",
+    "Text": "ガチャリザルト"
+  },
+  {
+    "Key": "GACHA_RESULT_VOICE_GET_TEXT",
+    "Text": "ボイスゲット！"
+  },
+  {
+    "Key": "GACHA_REWARD_LIST_BONUS_POINT_FORMAT",
+    "Text": "{0}"
+  },
+  {
+    "Key": "GACHA_REWARD_LIST_EXCHANGE_FORMAT",
+    "Text": "x{0}"
+  },
+  {
+    "Key": "GACHA_REWARD_LIST_HEADER_ITEM",
+    "Text": "アイテム表"
+  },
+  {
+    "Key": "GACHA_REWARD_LIST_HEADER_POINT",
+    "Text": "ボーナスPt"
+  },
+  {
+    "Key": "GACHA_REWARD_LIST_TITLE",
+    "Text": "報酬一覧"
+  },
+  {
+    "Key": "GACHA_SCHEDULE_END_DIALOG_BODY",
+    "Text": "開催期間が終了したため、実行できません。"
+  },
+  {
+    "Key": "GACHA_SCHEDULE_END_DIALOG_TITLE",
+    "Text": "確認"
+  },
+  {
+    "Key": "GACHA_STEP",
+    "Text": "STEP"
+  },
+  {
+    "Key": "GACHA_STEP_COUNT_FORMAT",
+    "Text": "STEP{0}"
+  },
+  {
+    "Key": "GACHA_TICKET_LACK_GUIDE_MESSAGE",
+    "Text": "{0}が不足しています。"
+  },
+  {
+    "Key": "GACHA_TOP_TITLE",
+    "Text": "ガチャ"
+  },
+  {
+    "Key": "GAME_START_ERROR_INITIALIZATION_FAILED",
+    "Text": "対局の開始に失敗しました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "GAME_START_ERROR_INSUFFICIENT_PLAYERS",
+    "Text": "対局相手が揃いませんでした。\nホームに戻ります。"
+  },
+  {
+    "Key": "GAME_START_ERROR_VERSION_MISMATCH",
+    "Text": "バージョンが一致しません。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "HANGER_MENU_ACHIEVEMENT_BUTTON",
+    "Text": "実績"
+  },
+  {
+    "Key": "HANGER_MENU_FRIEND_BUTTON",
+    "Text": "フレンド"
+  },
+  {
+    "Key": "HANGER_MENU_MENU_BUTTON",
+    "Text": "メニュー"
+  },
+  {
+    "Key": "HANGER_MENU_NOTICE_BUTTON",
+    "Text": "お知らせ"
+  },
+  {
+    "Key": "HANGER_MENU_PRESENT_BUTTON",
+    "Text": "プレゼント\nボックス"
+  },
+  {
+    "Key": "HANGER_MENU_RANKING_BUTTON",
+    "Text": "ランキング"
+  },
+  {
+    "Key": "HANGER_MENU_SCORE_TABLE_BUTTON",
+    "Text": "あそびかた"
+  },
+  {
+    "Key": "HELP_RULE_EXPLANATION_TAB_001_TEXT",
+    "Text": "ランクマッチルールは、ホロじゃんにおける基本ルールとなります。\n\n<size=38><color=#6B4EFF>■共通ルール</color></size>\n・喰いタン：あり\n・後付け：あり\n・喰い替え：なし<size=32><color=#6e6e6e>(筋の喰い替えも不可)</color></size>\n・飛び：あり\n・持ち時間：毎ターン5秒+持ち時間20秒<size=32><color=#6e6e6e>(持ち時間は局ごとに20秒に戻ります)</color></size>\n・連チャン方式：テンパイ連チャン<size=32><color=#6e6e6e>(ノーテンなら親は交代)</color></size>\n・切り上げ満貫：あり\n・役満の複合：あり\n・数え役満：13翻以上を数え役満とみなす\n・オープンリーチ・ローカル役：なし\n・焼き鳥・割れ目：なし\n\n<size=38><color=#6B4EFF>■延長戦(サドンデス)</color></size>\n・東風戦の東4局(三麻では東3局)、半荘戦の南4局(三麻では南3局)をオーラスとし、\n　オーラス終了時に1位必要点数に届いた人がいなければ延長戦に入ります。\n・延長戦中は、だれかが1位必要点数に届いた時点で終局します\n　<size=32><color=#6e6e6e>(供託のリーチ棒は含みません)</color></size>。\n・最長で、東風戦では南場、半荘戦は西場まで延長します。\n　延長戦での最終局時は、1位必要点数に届いた人がいなくても終局します。\n\n<size=38><color=#6B4EFF>■終局</color></size>\n・持ち点がマイナスになった人が出たら即時終局します<size=32><color=#6e6e6e>(ちょうど0点は続行)</color></size>。\n　マイナスの点数もそのまま集計します。\n・オーラスで、親がトップかつ1位必要点数に届いているときは、\n　親のアガリまたはテンパイで終局します<size=32><color=#6e6e6e>(他の人と同点のときは終局しません)</color></size>。\n・終局時に残った供託は、トップの人が受け取ります。\n・同点の場合は、起家に近い人が上位となります。\n\n<size=38><color=#6B4EFF>■リーチ・フリテン</color></size>\n・リーチは持ち点1000点以上で、ツモ番が残っているときにリーチできます。\n・フリテンリーチ、カラテンリーチは可能。\n・リーチしていないときにアガリ牌を見逃すと、自分が次に牌を捨てるまでロンできません<size=32><color=#6e6e6e>(同巡内フリテン)</color></size>。\n・リーチ後にアガリ牌を見逃した場合は、その局の間フリテンは解除されません。\n・リーチ後の暗槓は、待ちが変わらない場合のみ可能です。\n\n<size=38><color=#6B4EFF>■流局</color></size>\n・テンパイ：形式テンパイOK。待ち牌を自分ですべて使っていて(カラテン)もOK。\n・流し満貫：あり。ツモアガリ扱いで、満貫の支払いを受けます。\n・途中流局：四人麻雀・三人麻雀の項目で説明。\n\n<size=38><color=#6B4EFF>■槓</color></size>\n・槓ドラ・槓裏ドラ：あり\n・槓ドラは、暗槓の場合は即めくり、大明槓・加槓の場合は打牌後にめくります。\n・大明槓・加槓のあとに嶺上開花でアガった場合、その槓のドラはめくりません。\n・大明槓の責任払い：なし\n・国士無双単騎待ち時、暗槓に対する槍槓：あり\n\n<size=38><color=#6B4EFF>■役満の責任払い(包：パオ)</color></size>\n・大三元・大四喜が確定する鳴きをさせた人が責任を負います。\n・ツモの場合は全額、ロンの場合は放銃者と半分ずつ支払います。\n　積み棒はツモならパオの人、ロンなら放銃者が支払います。\n・ほかの役満と複合したときは、責任払いの役満の分だけが対象です。\n\n<size=38><color=#6B4EFF>■符計算</color></size>\n・連風牌の雀頭は4符です。\n・嶺上開花は通常のツモと同じく2符がつきます。\n\n<size=38><color=#6B4EFF>■天和</color></size>\n・天和のアガリ牌は、実際に引いた14枚目の牌になります。"
+  },
+  {
+    "Key": "HELP_RULE_EXPLANATION_TAB_001_TITLE",
+    "Text": "ランクマッチ"
+  },
+  {
+    "Key": "HELP_RULE_EXPLANATION_TAB_002_TEXT",
+    "Text": "<size=38><color=#6B4EFF>■四人麻雀</color></size>\n・配給原点：25000点<size=32><color=#6e6e6e>(25000点返し、オカなし)</color></size>\n・1位必要点数：30000点\n・順位ウマ：5-15<size=32><color=#6e6e6e>(1位+15 / 2位+5 / 3位-5 / 4位-15)</color></size>\n・赤ドラ：3枚<size=32><color=#6e6e6e>(萬子・筒子・索子 各1枚)</color></size>\n・ダブロン・トリロン：あり\n　積み棒と供託は、上家取り(放銃者から見てツモ順が早い順)になります。\n　アガった人に親がいれば連チャンします。\n・途中流局：\n　九種九牌・四風連打・四家立直・四槓流れが成立します。\n　すべて親の連チャンとなり、点数の移動はありません。\n　三家和はトリロン可能なため成立しません。"
+  },
+  {
+    "Key": "HELP_RULE_EXPLANATION_TAB_002_TITLE",
+    "Text": "四人麻雀"
+  },
+  {
+    "Key": "HELP_RULE_EXPLANATION_TAB_003_TEXT",
+    "Text": "<size=38><color=#6B4EFF>■三人麻雀</color></size>\n・配給原点：35000点<size=32><color=#6e6e6e>(35000点返し、オカなし)</color></size>\n・1位必要点数：40000点\n・順位ウマ：0-15<size=32><color=#6e6e6e>(1位+15 / 2位±0 / 3位-15)</color></size>\n・赤ドラ：2枚<size=32><color=#6e6e6e>(筒子・索子 各1枚)</color></size>\n・抜きドラ：あり<size=32><color=#6e6e6e>(北)</color></size>\n・ツモ損：あり\n・二萬～八萬は不使用。ドラ表示牌が一萬なら九萬、九萬なら一萬がドラになります。\n・チーはできません。\n・嶺上牌は8枚。\n・北を抜いた時の嶺上牌でアガった場合は、嶺上開花が成立します。\n・抜いた北に対しロンできます<size=32><color=#6e6e6e>(搶槓の役はつきません)</color></size>。\n　抜いた北は捨て牌ではないため、フリテンになりません。\n・北を刻子や雀頭として使った場合、風牌<size=32><color=#6e6e6e>(オタ風)</color></size>として扱われます。\n・ダブロン：あり\n　積み棒と供託は、上家取り(放銃者から見てツモ順が早い順)になります。\n　アガった人に親がいれば連チャンします。\n・途中流局：\n　九種九牌・四槓流れが成立します。\n　どちらも親の連チャンとなり、点数の移動はありません。"
+  },
+  {
+    "Key": "HELP_RULE_EXPLANATION_TAB_003_TITLE",
+    "Text": "三人麻雀"
+  },
+  {
+    "Key": "HELP_RULE_EXPLANATION_TAB_004_TEXT",
+    "Text": "<size=38><color=#6B4EFF>■シングルモードルール</color></size>\nシングルモードは、自分以外の対局者がCPUとなる1人用モードです。\n・すべてのアシスト機能が使用可能(オプションの設定に準拠)\n・四人麻雀・東風戦限定、サドンデスあり<size=32><color=#6e6e6e>(南場まで)</color></size>\n・持ち時間：無制限\n・その他のルールはランクマッチ＆四人麻雀と同一です。\n※シングルモードを中断した場合は、対局に復帰できません。\n※シングルモードでの対局は、牌譜や対局戦績に残りません。"
+  },
+  {
+    "Key": "HELP_RULE_EXPLANATION_TAB_004_TITLE",
+    "Text": "シングルモード"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_3_PLAYER_MAHJONG",
+    "Text": "三人麻雀"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_4_PLAYER_MAHJONG",
+    "Text": "四人麻雀"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_DROP_DOWN_FORMAT",
+    "Text": "{0}局{1}本場"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_INVALID_SEARCH",
+    "Text": "牌譜の情報が取得できませんでした。"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_INVALID_TYPE",
+    "Text": "牌譜のタイプが異なるため、正しい牌譜IDを入力してください"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_LATEST",
+    "Text": "直近の高得点を使用する"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_POSITIVE_BUTTON",
+    "Text": "決定"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_SEARCHED",
+    "Text": "牌譜から選んで表示する"
+  },
+  {
+    "Key": "HIGHLIGHT_DIALOG_TITLE",
+    "Text": "ハイライト選択"
+  },
+  {
+    "Key": "HOMEMENU_BACK_TO_TITLE_DIALOG_MESSAGE",
+    "Text": "タイトルに戻ります。よろしいですか？"
+  },
+  {
+    "Key": "HOMEMENU_BACK_TO_TITLE_DIALOG_TITLE",
+    "Text": "タイトルに戻る"
+  },
+  {
+    "Key": "HOME_BANNER_PERIOD_END_MESSAGE",
+    "Text": "販売期間が終了しています。"
+  },
+  {
+    "Key": "HOME_COLLECTION_MISSION_GUIDANCE_MESSAGE",
+    "Text": "シチュ解放まであと{0}回対局"
+  },
+  {
+    "Key": "HOME_COLLECTION_MISSION_UNLOCKABLE_MESSAGE",
+    "Text": "シチュエーション解放可能！"
+  },
+  {
+    "Key": "HOME_MENU_DIALOG_BUTTON_OPTION",
+    "Text": "オプション"
+  },
+  {
+    "Key": "HOME_MENU_DIALOG_TITLE",
+    "Text": "メニュー"
+  },
+  {
+    "Key": "HOME_PRESENTBOX_ALERT",
+    "Text": "※受け取り期限を過ぎたプレゼントは自動的に削除されます。\n一度に受け取れるプレゼントは100件までです。\n受け取り履歴は、30日を経過したものから自動的に削除されます。"
+  },
+  {
+    "Key": "HOME_PRESENTBOX_TITLE",
+    "Text": "プレゼントボックス"
+  },
+  {
+    "Key": "HOME_TALENT_GIFT_EMPTY",
+    "Text": "プレゼントアイテムがありません。"
+  },
+  {
+    "Key": "HOME_TALENT_GIFT_MAX_CLOSENESS",
+    "Text": "親密度がMAXのためプレゼントを渡すことができません。"
+  },
+  {
+    "Key": "HOME_TALENT_GIFT_REMAINING_COUNT",
+    "Text": "本日の残りプレゼント回数：{0}"
+  },
+  {
+    "Key": "HOME_TALENT_GIFT_SEND_BUTTON",
+    "Text": "プレゼント\nする"
+  },
+  {
+    "Key": "HOME_TALENT_SELECT_DIALOG_BUTTON",
+    "Text": "変更"
+  },
+  {
+    "Key": "HOME_TALENT_SELECT_DIALOG_INVALID",
+    "Text": "正しく設定されていません。"
+  },
+  {
+    "Key": "HOME_TALENT_SELECT_DIALOG_TITLE",
+    "Text": "ホームキャラクター設定"
+  },
+  {
+    "Key": "HONOR_DETAIL_TITLE",
+    "Text": "称号詳細"
+  },
+  {
+    "Key": "INPUT_NAME_EMPTY",
+    "Text": "お名前が入力されていません。"
+  },
+  {
+    "Key": "INVALID_FAN_MARK_SELECTED",
+    "Text": "選択している推しマークは所持していません。"
+  },
+  {
+    "Key": "INVALID_SERVICE_REGION_DIALOG_MESSAGE",
+    "Text": "既存アカウントと異なる環境で本アプリを利用することはできません。"
+  },
+  {
+    "Key": "INVALID_SERVICE_REGION_DIALOG_TITLE",
+    "Text": "ログイン失敗"
+  },
+  {
+    "Key": "INVENTORY_ITEM_USE_DIALOG_CHOOSE_ITEM",
+    "Text": "獲得するアイテムを選択して下さい。"
+  },
+  {
+    "Key": "INVENTORY_ITEM_USE_DIALOG_DETAIL_BUTTON",
+    "Text": "入手内容"
+  },
+  {
+    "Key": "INVENTORY_ITEM_USE_DIALOG_DETAIL_WARNING",
+    "Text": "※使用するとランダムでアイテムを入手します。\n詳しくは入手内容からご確認ください。"
+  },
+  {
+    "Key": "INVENTORY_ITEM_USE_DIALOG_POSSESSION_NUM",
+    "Text": "所持"
+  },
+  {
+    "Key": "INVENTORY_ITEM_USE_DIALOG_RECEIVE_ITEM",
+    "Text": "入手アイテム"
+  },
+  {
+    "Key": "INVENTORY_ITEM_USE_DIALOG_TITLE",
+    "Text": "アイテム使用"
+  },
+  {
+    "Key": "INVENTORY_ITEM_USE_DIALOG_USE_BUTTON",
+    "Text": "使用"
+  },
+  {
+    "Key": "INVENTORY_ITEM_USE_DIALOG_USE_ITEM",
+    "Text": "使用数"
+  },
+  {
+    "Key": "INVENTORY_NOT_EXISTS",
+    "Text": "アイテムがありません。"
+  },
+  {
+    "Key": "INVENTORY_RECYCLE_BUTTON",
+    "Text": "リサイクル"
+  },
+  {
+    "Key": "INVENTORY_RECYCLE_DIALOG_MESSAGE",
+    "Text": "リサイクルするプレゼントアイテムを選択してください。"
+  },
+  {
+    "Key": "INVENTORY_RECYCLE_DIALOG_TITLE",
+    "Text": "リサイクル"
+  },
+  {
+    "Key": "INVENTORY_TITLE",
+    "Text": "持ち物"
+  },
+  {
+    "Key": "INVITE_CARD",
+    "Text": "招待カード"
+  },
+  {
+    "Key": "INVITE_CODE_INPUT",
+    "Text": "招待コード入力"
+  },
+  {
+    "Key": "INVITE_CODE_INPUT_EXPIRED",
+    "Text": "招待コードの入力期間外です。"
+  },
+  {
+    "Key": "INVITE_CODE_INPUT_REMAINING_TIME_FORMAT",
+    "Text": "入力可能時間 {0}"
+  },
+  {
+    "Key": "INVITE_CODE_LABEL",
+    "Text": "招待コード"
+  },
+  {
+    "Key": "INVITE_CODE_LABEL_IN_CARD_FORMAT",
+    "Text": "招待コード：{0}"
+  },
+  {
+    "Key": "INVITE_ENTER_CODE_DIALOG_MESSAGE",
+    "Text": "招待コードを入力してください。"
+  },
+  {
+    "Key": "INVITE_ENTER_CODE_ERROR_DIALOG_MESSAGE",
+    "Text": "入力された招待コードが有効ではありませんでした。\n入力内容を確認してください。"
+  },
+  {
+    "Key": "INVITE_FRIEND",
+    "Text": "友達招待"
+  },
+  {
+    "Key": "INVITE_MESSAGE",
+    "Text": "招待メッセージ"
+  },
+  {
+    "Key": "INVITE_MESSAGE_COPY_DIALOG_DESCRIPTION",
+    "Text": "右側のボタンから、以下の招待コード付きのメッセージを\nクリップボードにコピーすることができます。"
+  },
+  {
+    "Key": "INVITE_MESSAGE_COPY_DIALOG_MESSAGE_FORMAT",
+    "Text": "アプリゲームは #ホロじゃん をプレイ中！\n\n新しく始めた方限定で招待コードを入力してミッションを達成すると\nガチャチケット ＆限定スタンプをプレゼント！\n招待コード：{0}\n\nインストールはコチラ→{1}"
+  },
+  {
+    "Key": "INVITE_MESSAGE_COPY_DIALOG_TITLE",
+    "Text": "招待メッセージコピー"
+  },
+  {
+    "Key": "INVITE_MISSION",
+    "Text": "招待ミッション"
+  },
+  {
+    "Key": "INVITE_MISSION_UNLOCKED_DIALOG_MESSAGE",
+    "Text": "招待ミッションが解放されました。"
+  },
+  {
+    "Key": "INVITE_MISSION_UNLOCKED_DIALOG_TITLE",
+    "Text": "招待ミッション解放"
+  },
+  {
+    "Key": "INVITE_NOTIFY_DECLINE_BUTTON",
+    "Text": "拒否"
+  },
+  {
+    "Key": "INVITE_NOTIFY_JOIN_BUTTON",
+    "Text": "参加"
+  },
+  {
+    "Key": "INVITE_NUMBER_FORMAT",
+    "Text": "招待人数 {0}人"
+  },
+  {
+    "Key": "INVITE_REWARD",
+    "Text": "招待報酬"
+  },
+  {
+    "Key": "INVITE_TAG_SANMA_EAST_AND_SOUTH",
+    "Text": "三人南"
+  },
+  {
+    "Key": "INVITE_TAG_SANMA_EAST_ONLY",
+    "Text": "三人東"
+  },
+  {
+    "Key": "INVITE_TAG_SANMA_ONE_ROUND",
+    "Text": "三人一局"
+  },
+  {
+    "Key": "INVITE_TAG_YONMA_EAST_AND_SOUTH",
+    "Text": "四人南"
+  },
+  {
+    "Key": "INVITE_TAG_YONMA_EAST_ONLY",
+    "Text": "四人東"
+  },
+  {
+    "Key": "INVITE_TAG_YONMA_ONE_ROUND",
+    "Text": "四人一局"
+  },
+  {
+    "Key": "ITEM_DETAIL_DIALOG_TITLE",
+    "Text": "アイテム詳細"
+  },
+  {
+    "Key": "ITEM_RECEIVE_DIALOG_MESSAGE",
+    "Text": "上記のアイテムを入手しました。"
+  },
+  {
+    "Key": "ITEM_RECEIVE_DIALOG_TITLE",
+    "Text": "アイテム入手確認"
+  },
+  {
+    "Key": "LOBBY_ERROR_CRITICAL_DIALOG_BUTTON_TEXT",
+    "Text": "確認"
+  },
+  {
+    "Key": "LOBBY_ERROR_CRITICAL_DIALOG_MESSAGE",
+    "Text": "エラーが発生しました。\nタイトルに戻ります。"
+  },
+  {
+    "Key": "LOBBY_ERROR_CRITICAL_DIALOG_TITLE",
+    "Text": "エラー"
+  },
+  {
+    "Key": "LOBBY_ERROR_DISCONNECTED_DIALOG_BUTTON_TEXT",
+    "Text": "確認"
+  },
+  {
+    "Key": "LOBBY_ERROR_DISCONNECTED_DIALOG_MESSAGE",
+    "Text": "通信が切断されました。\nホームに戻ります。"
+  },
+  {
+    "Key": "LOBBY_ERROR_DISCONNECTED_DIALOG_TITLE",
+    "Text": "切断"
+  },
+  {
+    "Key": "LOBBY_ERROR_KICKED_DIALOG_BUTTON_TEXT",
+    "Text": "閉じる"
+  },
+  {
+    "Key": "LOBBY_ERROR_KICKED_DIALOG_MESSAGE",
+    "Text": "ルームから退出しました。"
+  },
+  {
+    "Key": "LOBBY_ERROR_KICKED_DIALOG_TITLE",
+    "Text": "退出"
+  },
+  {
+    "Key": "LOBBY_ERROR_LEAVE_FAILED_MESSAGE",
+    "Text": "退出に失敗しました。"
+  },
+  {
+    "Key": "LOBBY_ERROR_UNKNOWN_DIALOG_MESSAGE",
+    "Text": "エラーが発生しました。\nホームに戻ります。"
+  },
+  {
+    "Key": "LOBBY_ERROR_UNKNOWN_DIALOG_TITLE",
+    "Text": "エラー"
+  },
+  {
+    "Key": "LOBBY_INVITE_ALREADY_PLAYING_MESSAGE",
+    "Text": "既に対局が始まっています。"
+  },
+  {
+    "Key": "LOBBY_INVITE_BUTTON_TEXT",
+    "Text": "招待"
+  },
+  {
+    "Key": "LOBBY_INVITE_DIALOG_TITLE",
+    "Text": "フレンド招待"
+  },
+  {
+    "Key": "LOBBY_INVITE_EMPTY_MESSAGE",
+    "Text": "招待可能なフレンドがいません。"
+  },
+  {
+    "Key": "LOBBY_INVITE_FAILED_MESSAGE_FORMAT_1",
+    "Text": "招待に失敗しました。"
+  },
+  {
+    "Key": "LOBBY_INVITE_FAILED_MESSAGE_FORMAT_2",
+    "Text": "{0}さんは招待済みです。しばらく経ってから再招待してください。"
+  },
+  {
+    "Key": "LOBBY_INVITE_FAILED_MESSAGE_FORMAT_3",
+    "Text": "{0}さんはすでにルームにいます。"
+  },
+  {
+    "Key": "LOBBY_INVITE_FULL_MESSAGE",
+    "Text": "ルームが満員です。"
+  },
+  {
+    "Key": "LOBBY_INVITE_JOIN_ERROR_MESSAGE",
+    "Text": "入室できませんでした。"
+  },
+  {
+    "Key": "LOBBY_INVITE_NOT_FOUND_MESSAGE",
+    "Text": "入力したIDのルームが見つかりませんでした。"
+  },
+  {
+    "Key": "LOBBY_INVITE_SUCCESS_MESSAGE_FORMAT",
+    "Text": "{0}さんを招待しました。"
+  },
+  {
+    "Key": "LOBBY_JOIN_ALREADY_PLAYING_MESSAGE",
+    "Text": "既に対局が始まっています。"
+  },
+  {
+    "Key": "LOBBY_JOIN_DIALOG_CANCEL_BUTTON_TEXT",
+    "Text": "キャンセル"
+  },
+  {
+    "Key": "LOBBY_JOIN_DIALOG_ERROR_MESSAGE",
+    "Text": "入室出来ませんでした。"
+  },
+  {
+    "Key": "LOBBY_JOIN_DIALOG_MESSAGE",
+    "Text": "参加するルームのIDを入力してください。"
+  },
+  {
+    "Key": "LOBBY_JOIN_DIALOG_SUBMIT_BUTTON_TEXT",
+    "Text": "入力"
+  },
+  {
+    "Key": "LOBBY_JOIN_DIALOG_TITLE",
+    "Text": "ID入力"
+  },
+  {
+    "Key": "LOBBY_JOIN_FULL_MESSAGE",
+    "Text": "ルームが満員です。"
+  },
+  {
+    "Key": "LOBBY_JOIN_NOT_FOUND_MESSAGE",
+    "Text": "入力したIDのルームが見つかりませんでした。"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHAMPIONSHIP_DESIGNATE_MESSAGE",
+    "Text": "対局開始30分前になりました。"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHAMPIONSHIP_DESIGNATE_TITLE",
+    "Text": "大会の対局開始直前のお知らせ"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHAMPIONSHIP_RANDOMMATCH_MESSAGE",
+    "Text": "対局期間が開始しました、大会ロビーより参加可能です。"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHAMPIONSHIP_RANDOMMATCH_TITLE",
+    "Text": "大会の対局期間開始のお知らせ"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHANNEL_MANUAL_DESCRIPTION",
+    "Text": "その他の通知をお知らせします。"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHANNEL_MANUAL_NAME",
+    "Text": "マニュアル通知"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHANNEL_SHOP_PASS_EXPIRED_DESCRIPTION",
+    "Text": "課金パスの期限切れなどをお知らせします。"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHANNEL_SHOP_PASS_EXPIRED_NAME",
+    "Text": "ショップ・契約通知"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHANNEL_WEEKLY_MISSION_REMIND_DESCRIPTION",
+    "Text": "ミッションの達成状況などをリマインドします。"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_CHANNEL_WEEKLY_MISSION_REMIND_NAME",
+    "Text": "ミッション通知"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_MONTHLY_PASS_MESSAGE",
+    "Text": "デイリーパスの有効期間が終了しました。"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_MONTHLY_PASS_TITLE",
+    "Text": "期間終了のお知らせ"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_WEEKLY_MISSION_MESSAGE",
+    "Text": "達成していないウィークリーミッションがあります。"
+  },
+  {
+    "Key": "LOCAL_NOTIFICATION_WEEKLY_MISSION_TITLE",
+    "Text": "報酬未受取のお知らせ"
+  },
+  {
+    "Key": "LOCK_TUTORIAL_CLEAR_CONDITIONAL",
+    "Text": "チュートリアルのクリア後、解放されます"
+  },
+  {
+    "Key": "LOGIN_BONUS_DAYS_FORMAT",
+    "Text": "{0}日目"
+  },
+  {
+    "Key": "LOGIN_BONUS_GET_ITEM_ALERT",
+    "Text": "※獲得したアイテムは直接振り込まれます。"
+  },
+  {
+    "Key": "LOGIN_BONUS_PERIOD_FORMAT",
+    "Text": "{0}～{1}"
+  },
+  {
+    "Key": "LOGIN_GUIDANCE_BANNER_SCREEN_TAP",
+    "Text": "画面をタップして続ける"
+  },
+  {
+    "Key": "LOGIN_GUIDANCE_MOVIE_SKIP_DIALOG_MESSAGE",
+    "Text": "このムービーをスキップしてもよろしいですか？"
+  },
+  {
+    "Key": "LOGIN_GUIDANCE_MOVIE_SKIP_DIALOG_TITLE",
+    "Text": "ムービースキップ確認"
+  },
+  {
+    "Key": "MAHJONG_ABANDONED_DIALOG_MESSAGE",
+    "Text": "離席しているため、自動ツモ切りに切り替えています。\n再開する場合、再開ボタンを押してください。"
+  },
+  {
+    "Key": "MAHJONG_ABANDONED_DIALOG_POSITIVE_TEXT",
+    "Text": "再開"
+  },
+  {
+    "Key": "MAHJONG_ABANDONED_DIALOG_TITLE",
+    "Text": "離席"
+  },
+  {
+    "Key": "MAHJONG_AGARI_GRAPH_MESSAGE",
+    "Text": "<color=#ff2175>直近100戦を対象に、それぞれのアガリ形ごとに確率を算出、\n小数第2位まで表示（端数切り上げ）します。</color>\nリーチ：アガリ形のうち、リーチして和了した確率です。\n副露：アガリ形のうち、他家から鳴いて和了した確率です。\nダマテン：アガリ形のうち、門前でリーチせずに和了した確率です。"
+  },
+  {
+    "Key": "MAHJONG_AGARI_GRAPH_MESSAGE_DIALOG_TITLE",
+    "Text": "アガリグラフ"
+  },
+  {
+    "Key": "MAHJONG_ALL_LAST",
+    "Text": "オーラス"
+  },
+  {
+    "Key": "MAHJONG_BIPAI_AND_SALT_HASH_FORMAT",
+    "Text": "「牌山コード＋ソルト」SHA256コード：\n{0}"
+  },
+  {
+    "Key": "MAHJONG_CHAMPIONSHIP_TIME_LIMIT_TEXT",
+    "Text": "残り"
+  },
+  {
+    "Key": "MAHJONG_CHANGBANG_FORMAT",
+    "Text": "{0}本場"
+  },
+  {
+    "Key": "MAHJONG_CLOSENESS_MAX_REWARD_TITLE",
+    "Text": "親密度MAX報酬"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_3MA",
+    "Text": "三人"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_4MA",
+    "Text": "四人"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_CHAMPIONSHIP",
+    "Text": "大会"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_EAST",
+    "Text": "東風"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_EAST_AND_SOUTH",
+    "Text": "半荘"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_FRIEND",
+    "Text": "フレンドマッチ"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_ONE_ROUND",
+    "Text": "一局"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_RANK",
+    "Text": "ランクマッチ"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_SINGLE",
+    "Text": "シングルモード"
+  },
+  {
+    "Key": "MAHJONG_CONTENT_TUTORIAL",
+    "Text": "麻雀教室"
+  },
+  {
+    "Key": "MAHJONG_EXIT_DIALOG_MESSAGE",
+    "Text": "この対局を終了しますか？"
+  },
+  {
+    "Key": "MAHJONG_EXIT_DIALOG_TITLE",
+    "Text": "確認"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_APPROVAL_DIALOG_MESSAGE",
+    "Text": "対局終了の投票は可決されました。\n対局を終了します。"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_APPROVAL_DIALOG_TITLE",
+    "Text": "対局終了"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_CONFIRM_DIALOG_MESSAGE",
+    "Text": "対局の終了を提案しますか？\n投票で全員の賛成が得られると\n対局を終了して待機画面に戻ります。"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_CONFIRM_DIALOG_TITLE",
+    "Text": "対局終了投票確認"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_DIALOG_AGREE",
+    "Text": "賛成"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_DIALOG_DISAGREE",
+    "Text": "反対"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_DIALOG_TITLE",
+    "Text": "対局終了投票"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_DIALOG_VOTED_FORMAT",
+    "Text": "{0}に投票しました"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_INTERVAL_DIALOG_MESSAGE",
+    "Text": "前回の投票が否決されたため、\n次回の終了投票が開始できるまでしばらくお待ちください。"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_INTERVAL_DIALOG_TITLE",
+    "Text": "投票インターバル"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_REJECTION_DIALOG_MESSAGE",
+    "Text": "対局終了の投票は否決されました。\n対局を続行します。"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_REJECTION_DIALOG_TITLE",
+    "Text": "対局続行"
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_WAITING_DIALOG_TITLE",
+    "Text": "投票結果"
+  },
+  {
+    "Key": "MAHJONG_FOUR_FAN_BINDING",
+    "Text": "四翻縛り"
+  },
+  {
+    "Key": "MAHJONG_GAME_RECORD_GRAPH_MESSAGE",
+    "Text": "<color=#ff2175>直近10～50戦の順位を折れ線グラフで表示します。</color>\n四人麻雀の戦績では１～４位まで、三人麻雀の戦績では１～３位まで。\n各ポイントタップ時牌譜データを表示、そこから牌譜を閲覧することも可能です。\n（対局中や、牌譜・観戦閲覧中に開くことはできません。）"
+  },
+  {
+    "Key": "MAHJONG_GAME_RECORD_GRAPH_MESSAGE_DIALOG_TITLE",
+    "Text": "対戦記録"
+  },
+  {
+    "Key": "MAHJONG_GAME_TIME_LIMIT_OURAS",
+    "Text": "オーラス"
+  },
+  {
+    "Key": "MAHJONG_HAIFU_RESULT_RETURN_TO_GAME",
+    "Text": "雀卓に戻る"
+  },
+  {
+    "Key": "MAHJONG_HAI_REMAIN_COUNT",
+    "Text": "残{0}"
+  },
+  {
+    "Key": "MAHJONG_HIGHLIGHT_MESSAGE",
+    "Text": "直近で、もっとも翻数の高いアガリ役の牌姿を自動的に表示します。\n今までアガった和了履歴から、ハイライトを選択することもできます。"
+  },
+  {
+    "Key": "MAHJONG_HIGHLIGHT_MESSAGE_DIALOG_TITLE",
+    "Text": "ハイライト"
+  },
+  {
+    "Key": "MAHJONG_HUD_RECOMMEND_DISCARD_HAI",
+    "Text": "不要"
+  },
+  {
+    "Key": "MAHJONG_HUD_RECOMMEND_HAI_LEFT_COUNT_FORMAT",
+    "Text": "{0}枚"
+  },
+  {
+    "Key": "MAHJONG_HUD_RECOMMEND_REQUIRED_HAI",
+    "Text": "候補"
+  },
+  {
+    "Key": "MAHJONG_HUD_RECOMMEND_YAKU_DISPLAY",
+    "Text": "役候補表示"
+  },
+  {
+    "Key": "MAHJONG_HUD_SUPPORT_AUTO_BABEI_LABEL",
+    "Text": "自動北抜き"
+  },
+  {
+    "Key": "MAHJONG_HUD_SUPPORT_AUTO_HULE_LABEL",
+    "Text": "自動和了"
+  },
+  {
+    "Key": "MAHJONG_HUD_SUPPORT_AUTO_SKIP_FULOU_LABEL",
+    "Text": "鳴きなし"
+  },
+  {
+    "Key": "MAHJONG_HUD_SUPPORT_AUTO_SORT_LABEL",
+    "Text": "自動整理"
+  },
+  {
+    "Key": "MAHJONG_HUD_SUPPORT_AUTO_ZIMO_DISCARD_LABEL",
+    "Text": "ツモ切り"
+  },
+  {
+    "Key": "MAHJONG_HUD_USEFUL_HAI_DISPLAY",
+    "Text": "欲しい牌"
+  },
+  {
+    "Key": "MAHJONG_HUD_WAITHAI_DISPLAY",
+    "Text": "待ち牌表示"
+  },
+  {
+    "Key": "MAHJONG_HUD_WAITHAI_DISPLAY_YONMA",
+    "Text": "待ち牌表示"
+  },
+  {
+    "Key": "MAHJONG_HULE",
+    "Text": "和了"
+  },
+  {
+    "Key": "MAHJONG_HULE_RESULT_FANSHU_FORMAT",
+    "Text": "{0}翻"
+  },
+  {
+    "Key": "MAHJONG_HULE_RESULT_FU_FORMAT",
+    "Text": "{0}符"
+  },
+  {
+    "Key": "MAHJONG_HULE_RESULT_NEXT",
+    "Text": "NEXT"
+  },
+  {
+    "Key": "MAHJONG_HULE_RESULT_NEXT_TIME_PLACEHOLDER",
+    "Text": "({0}秒)"
+  },
+  {
+    "Key": "MAHJONG_JU_FORMAT",
+    "Text": "{0}局"
+  },
+  {
+    "Key": "MAHJONG_JU_IN_PROGRESS",
+    "Text": "対局中"
+  },
+  {
+    "Key": "MAHJONG_MATCHMAKING_TEXT",
+    "Text": "マッチング中…"
+  },
+  {
+    "Key": "MAHJONG_MULTIPLE_HULE_FORMAT",
+    "Text": "!{0}"
+  },
+  {
+    "Key": "MAHJONG_NOTEN",
+    "Text": "ノーテン"
+  },
+  {
+    "Key": "MAHJONG_OPERATION_TIMEOUT_1",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_OPERATION_TIMEOUT_2",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_OPERATION_TIMEOUT_3",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_OPERATION_TIMEOUT_4",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_OPERATION_TIMEOUT_5",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_PERFORMANCE_STATS_MESSAGE",
+    "Text": "東風・半荘別で、累積した各スタッツを集計表示します。"
+  },
+  {
+    "Key": "MAHJONG_PERFORMANCE_STATS_MESSAGE_DIALOG_TITLE",
+    "Text": "戦績分析"
+  },
+  {
+    "Key": "MAHJONG_PINGJU",
+    "Text": "流局"
+  },
+  {
+    "Key": "MAHJONG_PLAYSTYLE_MESSAGE",
+    "Text": "<color=#ff2175>直近20戦を対象に、プレイスタイルに応じた指標を算出します。</color>\n攻撃力（攻）：和了点の高さと、リーチによる攻撃への積極性を評価します。\n守備力（守）：放銃回数や放銃時の点の低さを評価します。\n速さ（速）：和了に至るまでの速度を評価します。\n運の良さ（運）：ドラや一発といった、運に左右される役の度合いを評価します。"
+  },
+  {
+    "Key": "MAHJONG_PLAYSTYLE_MESSAGE_DIALOG_TITLE",
+    "Text": "プレイスタイル"
+  },
+  {
+    "Key": "MAHJONG_POINTS_FORMAT",
+    "Text": "{0}点"
+  },
+  {
+    "Key": "MAHJONG_RANK_GRAPH_MESSAGE",
+    "Text": "<color=#ff2175>直近100戦を対象に、対局順位を小数第2位まで表示（端数切り上げ）します。</color>\n四人麻雀の戦績では１～４位まで、\n三人麻雀の戦績では１～３位まで。"
+  },
+  {
+    "Key": "MAHJONG_RANK_GRAPH_MESSAGE_DIALOG_TITLE",
+    "Text": "順位グラフ"
+  },
+  {
+    "Key": "MAHJONG_RANK_POINT_TITLE",
+    "Text": "ランクポイント"
+  },
+  {
+    "Key": "MAHJONG_RONG",
+    "Text": "ロン"
+  },
+  {
+    "Key": "MAHJONG_ROOM_REWARD_TITLE_FORMAT",
+    "Text": "{0}ランク報酬"
+  },
+  {
+    "Key": "MAHJONG_ROOM_REWARD_UNRECEIVED_MESSAGE",
+    "Text": "報酬を獲得できませんでした。"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_BINDING_TYPE_1",
+    "Text": "1翻"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_BINDING_TYPE_2",
+    "Text": "2翻"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_BINDING_TYPE_3",
+    "Text": "3翻"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_BINDING_TYPE_4",
+    "Text": "4翻"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_DIALOG_TITLE",
+    "Text": "大会作成"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCHING_RULE_TYPE_1",
+    "Text": "ランダムマッチ"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCHING_RULE_TYPE_2",
+    "Text": "指定対局"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCH_TIME_RESTRICTION_TYPE_1",
+    "Text": "30分"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCH_TIME_RESTRICTION_TYPE_2",
+    "Text": "60分"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCH_TIME_RESTRICTION_TYPE_3",
+    "Text": "90分"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PARTICIPATION_RESTRICTION_TYPE_1",
+    "Text": "だれでも参加"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PARTICIPATION_RESTRICTION_TYPE_2",
+    "Text": "ランク制限"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PARTICIPATION_RESTRICTION_TYPE_3",
+    "Text": "招待"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PUBLIC_TYPE_1",
+    "Text": "公開"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PUBLIC_TYPE_2",
+    "Text": "非公開"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANKING_TYPE_1",
+    "Text": "トータルスコア"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANKING_TYPE_2",
+    "Text": "トップ回数"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANKING_TYPE_3",
+    "Text": "直近N戦の合計スコア"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANKING_TYPE_4",
+    "Text": "連続N戦ベストスコア"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_1",
+    "Text": "D"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_2",
+    "Text": "C"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_3",
+    "Text": "B"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_4",
+    "Text": "A"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_5",
+    "Text": "S"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_6",
+    "Text": "L"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_TEAM_MODE_TYPE_1",
+    "Text": "個人戦"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_TEAM_MODE_TYPE_2",
+    "Text": "チーム戦"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CONTINUOUS_TYPE_0",
+    "Text": "連チャン無し"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CONTINUOUS_TYPE_1",
+    "Text": "アガリ連チャン"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CONTINUOUS_TYPE_2",
+    "Text": "テンパイ連チャン"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CPU_TYPE_1",
+    "Text": "よわい"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CPU_TYPE_2",
+    "Text": "ふつう"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_CPU_TYPE_3",
+    "Text": "つよい"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_DIALOG_POSITIVE_BUTTON_TEXT",
+    "Text": "作成"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_DIALOG_TITLE",
+    "Text": "ルーム作成"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_EMPTY",
+    "Text": "-"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_INTEGER_SETTABLE_RANGE_DESCRIPTION",
+    "Text": "設定可能範囲：{0}～{1}"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_MAX_TEXT",
+    "Text": "MAX"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_MIN_TEXT",
+    "Text": "MIN"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_MODE_1",
+    "Text": "四人麻雀"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_MODE_2",
+    "Text": "三人麻雀"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_MODIFY_DIALOG_POSITIVE_BUTTON_TEXT",
+    "Text": "変更"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_MODIFY_DIALOG_TITLE",
+    "Text": "ルール変更"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_OFF_TEXT",
+    "Text": "無し"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_ON_TEXT",
+    "Text": "有り"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_POSSESSION_STONE_TEXT",
+    "Text": "所持"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RED_DORA_0",
+    "Text": "無し"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RED_DORA_1",
+    "Text": "有り"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RED_DORA_2",
+    "Text": "４枚"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RIICHI_DEPOSIT_1",
+    "Text": "1000点"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RIICHI_DEPOSIT_2",
+    "Text": "5000点"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RIICHI_DEPOSIT_3",
+    "Text": "10000点"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_ROUND_1",
+    "Text": "東風戦"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_ROUND_2",
+    "Text": "半荘戦"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_ROUND_3",
+    "Text": "一局戦"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RULE_TEMP_1",
+    "Text": "ランクマッチ"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RULE_TEMP_2",
+    "Text": "カスタム"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_RULE_TEMP_3",
+    "Text": "マニアック"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_TAB_DISABLED_GUIDE_MESSAGE",
+    "Text": "{0}ルールでは選択できません"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_TAB_DISABLED_MULTIPLE_GUIDE_MESSAGE",
+    "Text": "複数の項目で条件を満たしていないため選択できません"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_1",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_2",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_3",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_4",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_5",
+    "Text": "{0}+{1}秒"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_1_SANMA",
+    "Text": "0-10"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_1_YONMA",
+    "Text": "5-10"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_2_SANMA",
+    "Text": "0-15"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_2_YONMA",
+    "Text": "5-15"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_3_SANMA",
+    "Text": "0-20"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_3_YONMA",
+    "Text": "10-20"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_4_SANMA",
+    "Text": "0-30"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_4_YONMA",
+    "Text": "10-30"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_5_YONMA",
+    "Text": "20-30"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_VALIDATION_ERROR",
+    "Text": "入力内容に不適切なデータがあります。各項目の値が正しいか再度確認してください。"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_VOLUME_TYPE_1",
+    "Text": "200人"
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_VOLUME_TYPE_2",
+    "Text": "1000人"
+  },
+  {
+    "Key": "MAHJONG_SALT_HASH_FORMAT",
+    "Text": "「ソルト」SHA256コード：\n{0}"
+  },
+  {
+    "Key": "MAHJONG_SPECTATE_INTERRUPTED_DIALOG_EXIT",
+    "Text": "退室"
+  },
+  {
+    "Key": "MAHJONG_SPECTATE_INTERRUPTED_DIALOG_MESSAGE",
+    "Text": "対局が途中終了しており、これより先に観戦データが存在しておりません。\n観戦を終了する場合は退室ボタンよりご退室ください。\n※巻き戻しによる観戦は引き続き閲覧可能です。"
+  },
+  {
+    "Key": "MAHJONG_STATS_AGARI_GRAPH",
+    "Text": "アガリグラフ"
+  },
+  {
+    "Key": "MAHJONG_STATS_AN_HULE",
+    "Text": "ダマテン"
+  },
+  {
+    "Key": "MAHJONG_STATS_DEFENSE",
+    "Text": "守"
+  },
+  {
+    "Key": "MAHJONG_STATS_EMPTY_FORMAT",
+    "Text": "--"
+  },
+  {
+    "Key": "MAHJONG_STATS_FIRST_RATE",
+    "Text": "1位"
+  },
+  {
+    "Key": "MAHJONG_STATS_FOURTH_RATE",
+    "Text": "4位"
+  },
+  {
+    "Key": "MAHJONG_STATS_FRIEND_TAB",
+    "Text": "フレンドマッチ"
+  },
+  {
+    "Key": "MAHJONG_STATS_FULOU_HULE",
+    "Text": "副露"
+  },
+  {
+    "Key": "MAHJONG_STATS_GAME_RECORD",
+    "Text": "対戦記録"
+  },
+  {
+    "Key": "MAHJONG_STATS_GAME_RECORD_DATE_TIME",
+    "Text": "yyyy/MM/dd HH:mm"
+  },
+  {
+    "Key": "MAHJONG_STATS_GAME_RECORD_DETAIL",
+    "Text": "牌譜再生"
+  },
+  {
+    "Key": "MAHJONG_STATS_GAME_RECORD_LAST_10",
+    "Text": "直近10戦"
+  },
+  {
+    "Key": "MAHJONG_STATS_GAME_RECORD_LAST_20",
+    "Text": "直近20戦"
+  },
+  {
+    "Key": "MAHJONG_STATS_GAME_RECORD_LAST_50",
+    "Text": "直近50戦"
+  },
+  {
+    "Key": "MAHJONG_STATS_HIGHLIGHT",
+    "Text": "ハイライト"
+  },
+  {
+    "Key": "MAHJONG_STATS_LIZHI_HULE",
+    "Text": "リーチ"
+  },
+  {
+    "Key": "MAHJONG_STATS_LOCAL_YAKU_LIST",
+    "Text": "ローカル役一覧"
+  },
+  {
+    "Key": "MAHJONG_STATS_LUCK",
+    "Text": "運"
+  },
+  {
+    "Key": "MAHJONG_STATS_NO_DATA",
+    "Text": "データなし"
+  },
+  {
+    "Key": "MAHJONG_STATS_OTHER_TAB",
+    "Text": "その他"
+  },
+  {
+    "Key": "MAHJONG_STATS_PERCENTAGE_FORMAT",
+    "Text": "{0}%"
+  },
+  {
+    "Key": "MAHJONG_STATS_PLAYSTYLE_GRAPH",
+    "Text": "プレイスタイル"
+  },
+  {
+    "Key": "MAHJONG_STATS_POWER",
+    "Text": "攻"
+  },
+  {
+    "Key": "MAHJONG_STATS_RANK_GRAPH",
+    "Text": "順位グラフ"
+  },
+  {
+    "Key": "MAHJONG_STATS_RANK_TAB",
+    "Text": "ランクマッチ"
+  },
+  {
+    "Key": "MAHJONG_STATS_SECOND_RATE",
+    "Text": "2位"
+  },
+  {
+    "Key": "MAHJONG_STATS_SPEED",
+    "Text": "速"
+  },
+  {
+    "Key": "MAHJONG_STATS_THIRD_RATE",
+    "Text": "3位"
+  },
+  {
+    "Key": "MAHJONG_STATS_YAKU_COUNT",
+    "Text": "役達成回数"
+  },
+  {
+    "Key": "MAHJONG_STATS_YAKU_LIST",
+    "Text": "通常役一覧"
+  },
+  {
+    "Key": "MAHJONG_THREE_FAN_BINDING",
+    "Text": "三翻縛り"
+  },
+  {
+    "Key": "MAHJONG_TWO_FAN_BINDING",
+    "Text": "二翻縛り"
+  },
+  {
+    "Key": "MAHJONG_USEFUL_HAI_COUNT_FORMAT",
+    "Text": "欲しい牌({0}種{1}枚)"
+  },
+  {
+    "Key": "MAHJONG_USEFUL_HAI_LEFT_COUNT_FORMAT",
+    "Text": "{0}枚"
+  },
+  {
+    "Key": "MAHJONG_USEFUL_HAI_NONE",
+    "Text": "-"
+  },
+  {
+    "Key": "MAHJONG_WIND_NAME_EAST",
+    "Text": "東"
+  },
+  {
+    "Key": "MAHJONG_WIND_NAME_NORTH",
+    "Text": "北"
+  },
+  {
+    "Key": "MAHJONG_WIND_NAME_SOUTH",
+    "Text": "南"
+  },
+  {
+    "Key": "MAHJONG_WIND_NAME_WEST",
+    "Text": "西"
+  },
+  {
+    "Key": "MAHJONG_YAKU_COUNT_MESSAGE",
+    "Text": "コンテンツ別で累積した、麻雀の役の達成回数を表示します。\nフレンドマッチやその他（大会など）では、\nオープンリーチやローカル役を適用して達成することで回数に加算されます。"
+  },
+  {
+    "Key": "MAHJONG_YAKU_COUNT_MESSAGE_DIALOG_TITLE",
+    "Text": "役達成回数"
+  },
+  {
+    "Key": "MAHJONG_YAKU_FANSHU_DOUBLE_YAKUMAN",
+    "Text": "ダブル役満"
+  },
+  {
+    "Key": "MAHJONG_YAKU_FANSHU_FORMAT",
+    "Text": "{0}翻"
+  },
+  {
+    "Key": "MAHJONG_YAKU_FANSHU_MANGAN",
+    "Text": "満貫"
+  },
+  {
+    "Key": "MAHJONG_YAKU_FANSHU_YAKUMAN",
+    "Text": "役満"
+  },
+  {
+    "Key": "MAHJONG_ZIMO",
+    "Text": "ツモ"
+  },
+  {
+    "Key": "MAINTENANCE_ERROR_DIALOG_TITLE",
+    "Text": "メンテナンス中"
+  },
+  {
+    "Key": "MANGUAN_NAME_BEI_MANGUAN",
+    "Text": "倍満"
+  },
+  {
+    "Key": "MANGUAN_NAME_DA_MANGUAN",
+    "Text": "役満"
+  },
+  {
+    "Key": "MANGUAN_NAME_GO_BAI_YAKUMAN",
+    "Text": "五倍役満"
+  },
+  {
+    "Key": "MANGUAN_NAME_HACHI_BAI_YAKUMAN",
+    "Text": "八倍役満"
+  },
+  {
+    "Key": "MANGUAN_NAME_MANGUAN",
+    "Text": "満貫"
+  },
+  {
+    "Key": "MANGUAN_NAME_NANA_BAI_YAKUMAN",
+    "Text": "七倍役満"
+  },
+  {
+    "Key": "MANGUAN_NAME_NI_BAI_YAKUMAN",
+    "Text": "二倍役満"
+  },
+  {
+    "Key": "MANGUAN_NAME_ROKU_BAI_YAKUMAN",
+    "Text": "六倍役満"
+  },
+  {
+    "Key": "MANGUAN_NAME_SAN_BAI_YAKUMAN",
+    "Text": "三倍役満"
+  },
+  {
+    "Key": "MANGUAN_NAME_SAN_BEI_MANGUAN",
+    "Text": "三倍満"
+  },
+  {
+    "Key": "MANGUAN_NAME_TIAO_MANGUAN",
+    "Text": "跳満"
+  },
+  {
+    "Key": "MANGUAN_NAME_YI_MANGUAN",
+    "Text": "数え役満"
+  },
+  {
+    "Key": "MANGUAN_NAME_YON_BAI_YAKUMAN",
+    "Text": "四倍役満"
+  },
+  {
+    "Key": "MATCHING_LOBBY_CLIPBOARD_TEXT",
+    "Text": "ルームIDをコピーしました。"
+  },
+  {
+    "Key": "MATCHING_LOBBY_ERROR_TEXT_1",
+    "Text": "この機能はホストにしか利用できません。"
+  },
+  {
+    "Key": "MATCHING_LOBBY_ERROR_TEXT_2",
+    "Text": "準備完了しているため操作できません。"
+  },
+  {
+    "Key": "MATCHING_LOBBY_ERROR_TEXT_3",
+    "Text": "自身を外すことはできません。"
+  },
+  {
+    "Key": "MATCHING_LOBBY_ERROR_TEXT_4",
+    "Text": "対局を開始できませんでした。"
+  },
+  {
+    "Key": "MATCHING_LOBBY_GUEST_CANCEL_BUTTON_TEXT",
+    "Text": "取り消し"
+  },
+  {
+    "Key": "MATCHING_LOBBY_GUEST_READY_BUTTON_TEXT",
+    "Text": "準備完了"
+  },
+  {
+    "Key": "MATCHING_LOBBY_KICKING_ERROR_TEXT",
+    "Text": "退出済みのサポーターのためキックできませんでした。"
+  },
+  {
+    "Key": "MATCHING_LOBBY_KICKING_MESSAGE_FORMAT",
+    "Text": "{0} さんを\nキックしてもよろしいですか？"
+  },
+  {
+    "Key": "MATCHING_LOBBY_LEAVE_GUEST_MESSAGE",
+    "Text": "フレンドマッチルームから抜けてもよろしいですか？"
+  },
+  {
+    "Key": "MATCHING_LOBBY_LEAVE_OWNER_MESSAGE",
+    "Text": "フレンドマッチルームから抜けてもよろしいですか？\n<color=#FF0000>※ゲストがいる場合は、ホスト権がゲストに移譲されます。\n※ゲストがいない場合は、ルームが削除されます。</color>"
+  },
+  {
+    "Key": "MATCHING_LOBBY_LEAVE_TITLE",
+    "Text": "確認"
+  },
+  {
+    "Key": "MATCHING_LOBBY_MASKING_ID_TEXT",
+    "Text": "******"
+  },
+  {
+    "Key": "MATCHING_LOBBY_OPTION_BUTTON_TEXT",
+    "Text": "オプション"
+  },
+  {
+    "Key": "MATCHING_LOBBY_OWNER_START_BUTTON_TEXT",
+    "Text": "開始"
+  },
+  {
+    "Key": "MATCHING_LOBBY_ROOMID",
+    "Text": "ルームID："
+  },
+  {
+    "Key": "MATCHING_LOBBY_TITLE",
+    "Text": "待機画面"
+  },
+  {
+    "Key": "MATCHING_LOBBY_UNTIL_REUSABLE_BUTTON_TEXT",
+    "Text": "ルール再設定中…"
+  },
+  {
+    "Key": "MATCHING_LOBBY_YAKU_BUTTON_TEXT",
+    "Text": "あそびかた"
+  },
+  {
+    "Key": "MATCHMAKING_ERROR_MESSAGE",
+    "Text": "マッチングに失敗しました。\nホームに戻ります。もう一度お試しください。"
+  },
+  {
+    "Key": "MATCHMAKING_ERROR_TITLE",
+    "Text": "エラー"
+  },
+  {
+    "Key": "MENU_SCREEN_BACK_TO_TITLE_BUTTON",
+    "Text": "タイトルへ戻る"
+  },
+  {
+    "Key": "MENU_SCREEN_CONTACT_BUTTON",
+    "Text": "お問い合わせ"
+  },
+  {
+    "Key": "MENU_SCREEN_GACHA_HISTORY_BUTTON",
+    "Text": "ガチャ履歴"
+  },
+  {
+    "Key": "MENU_SCREEN_HELP_BUTTON",
+    "Text": "ヘルプ"
+  },
+  {
+    "Key": "MENU_SCREEN_INVITE_FRIEND_BUTTON",
+    "Text": "友達招待"
+  },
+  {
+    "Key": "MENU_SCREEN_LICENSE_BUTTON",
+    "Text": "ライセンス"
+  },
+  {
+    "Key": "MENU_SCREEN_MAHJONG_TUTORIAL_BUTTON",
+    "Text": "麻雀教室"
+  },
+  {
+    "Key": "MENU_SCREEN_OFFICIAL_COMMUNITY_BUTTON",
+    "Text": "公式コミュニティ"
+  },
+  {
+    "Key": "MENU_SCREEN_OFFICIAL_X_BUTTON",
+    "Text": "公式X"
+  },
+  {
+    "Key": "MENU_SCREEN_OPTION_BUTTON",
+    "Text": "オプション"
+  },
+  {
+    "Key": "MENU_SCREEN_OWNED_CURRENCY_BUTTON",
+    "Text": "所持通貨"
+  },
+  {
+    "Key": "MENU_SCREEN_SERIAL_CODE_BUTTON",
+    "Text": "コード入力"
+  },
+  {
+    "Key": "MENU_SCREEN_SUPPORT_MENU_BUTTON",
+    "Text": "サポートメニュー"
+  },
+  {
+    "Key": "MENU_SCREEN_TITLE",
+    "Text": "メニュー"
+  },
+  {
+    "Key": "MISSION_CHALLENGE",
+    "Text": "チャレンジ"
+  },
+  {
+    "Key": "MISSION_RECEIVE",
+    "Text": "受け取る"
+  },
+  {
+    "Key": "MISSION_RECEIVE_ALL",
+    "Text": "すべて受け取る"
+  },
+  {
+    "Key": "MISSION_RECEIVE_CAUTION_TEXT",
+    "Text": "上限に達したアイテムはプレゼントボックスに送られます。"
+  },
+  {
+    "Key": "MISSION_REMAINING_DAYS_FORMAT",
+    "Text": "期限：あと{0}日"
+  },
+  {
+    "Key": "MISSION_REMAINING_HOURS_FORMAT",
+    "Text": "期限：あと{0}時間"
+  },
+  {
+    "Key": "MISSION_REMAINING_MINUTES_FORMAT",
+    "Text": "期限：あと{0}分"
+  },
+  {
+    "Key": "MISSION_SITUATION",
+    "Text": "シチュエーション解放"
+  },
+  {
+    "Key": "MISSION_TITLE_NAME",
+    "Text": "ミッション"
+  },
+  {
+    "Key": "MODE_SELECT_FRIEND_MATCH_CREATE_BUTTON_TEXT",
+    "Text": "作成"
+  },
+  {
+    "Key": "MODE_SELECT_FRIEND_MATCH_JOIN_BUTTON_TEXT",
+    "Text": "参加"
+  },
+  {
+    "Key": "MODE_SELECT_FRIEND_MATCH_TITLE_TEXT",
+    "Text": "フレンドマッチ"
+  },
+  {
+    "Key": "MODE_SELECT_MAHJONG_RECORD_BUTTON_TEXT",
+    "Text": "牌譜"
+  },
+  {
+    "Key": "MODE_SELECT_SCREEN_TITLE",
+    "Text": "麻雀モードセレクト"
+  },
+  {
+    "Key": "MODE_SELECT_SPECIAL_RULE_BUTTON_TEXT",
+    "Text": "特殊ルール"
+  },
+  {
+    "Key": "MODE_SELECT_SPECTATE_BUTTON_TEXT",
+    "Text": "観戦"
+  },
+  {
+    "Key": "MODE_SELECT_STORY_BUTTON_TEXT",
+    "Text": "シングルモード"
+  },
+  {
+    "Key": "MODE_SELECT_TOURNAMENT_BUTTON_TEXT",
+    "Text": "大会"
+  },
+  {
+    "Key": "MODE_SELECT_TUTORIAL_BUTTON_TEXT",
+    "Text": "チュートリアル"
+  },
+  {
+    "Key": "MULTIPLE_MAHJONG_LOGIN_ERROR",
+    "Text": "他端末で対局中の接続を切断しました。\nタイトルに戻ります。再度ログインすると対局に復帰できます。"
+  },
+  {
+    "Key": "NAME_CARD_DIALOG_MESSAGE",
+    "Text": "プロフィールカード画像を端末に保存しますか？"
+  },
+  {
+    "Key": "NAME_CARD_DIALOG_TITLE",
+    "Text": "プロフィールカード"
+  },
+  {
+    "Key": "NAME_CARD_ID",
+    "Text": "ID:{0}"
+  },
+  {
+    "Key": "NAME_CARD_SAVE_BUTTON",
+    "Text": "保存"
+  },
+  {
+    "Key": "NAME_CARD_SAVE_INVALID",
+    "Text": "画像を保存できませんでした。アクセス権限またはデータ容量をご確認ください。"
+  },
+  {
+    "Key": "NAME_CARD_SAVE_MESSAGE",
+    "Text": "画像を保存しました。"
+  },
+  {
+    "Key": "NOTIFY_LIST_EMPTY_MESSAGE",
+    "Text": "有効な招待がありません。"
+  },
+  {
+    "Key": "NOTIFY_LIST_FRIENDMATCH_INVITE_MESSAGE_FORMAT",
+    "Text": "フレンドマッチの招待が\nきています。"
+  },
+  {
+    "Key": "NOTIFY_LIST_REMOVED_MESSAGE",
+    "Text": "招待を断りました。"
+  },
+  {
+    "Key": "NOTIFY_LIST_WINDOW_TITLE",
+    "Text": "招待一覧"
+  },
+  {
+    "Key": "NOWGG_WAITING_DATALINK_MESSAGE",
+    "Text": "引継ぎが完了すると自動的にアプリへ戻ります。\nキャンセルする場合は「閉じる」を押してください。"
+  },
+  {
+    "Key": "OPEN_SITE_CONFIRM_DIALOG_MESSAGE",
+    "Text": "Webブラウザへ遷移してもよろしいですか？"
+  },
+  {
+    "Key": "OPEN_SITE_CONFIRM_DIALOG_TITLE",
+    "Text": "外部サイト遷移確認"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_ACCOUNT_SECTION_DISPLAY_OFFICIAL_USER_MARK_RECORD_PRO_OR_TALENT_GUIDE_MESSAGE",
+    "Text": "OFFにすると、公認タレントやプロと判別できるアイコンや他者に表示する参戦演出を非表示にします。"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_ACCOUNT_SECTION_DISPLAY_OFFICIAL_USER_MARK_RECORD_PRO_OR_TALENT_LABEL",
+    "Text": "本人表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_ACCOUNT_SECTION_ENABLE_STREAMER_MODE_RECORD_GUIDE_MESSAGE",
+    "Text": "ONの場合、他サポーターの名前がマスクされます。"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_ACCOUNT_SECTION_ENABLE_STREAMER_MODE_RECORD_LABEL",
+    "Text": "配信者モード"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_ACCOUNT_SECTION_LABEL",
+    "Text": "アカウント設定"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_LABEL",
+    "Text": "アカウント設定"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_PUSH_NOTIFICATION_SECTION_APP_GUIDE_MESSAGE",
+    "Text": "端末の設定で通知をOFFにしている場合、通知は受け取れませんのでご注意ください。"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_PUSH_NOTIFICATION_SECTION_APP_LABEL",
+    "Text": "通知設定（プッシュ通知設定）"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_PUSH_NOTIFICATION_SECTION_APP_PUSH_NOTIFICATION_DENY_INTERVAL_RECORD_APP_GUIDE_MESSAGE",
+    "Text": "ONの場合、指定した時間は通知が行われなくなります。"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_PUSH_NOTIFICATION_SECTION_APP_PUSH_NOTIFICATION_DENY_INTERVAL_RECORD_APP_LABEL",
+    "Text": "指定の時間帯は受け取らない"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_PUSH_NOTIFICATION_SECTION_APP_RECEIVE_SHOP_PASS_EXPIRED_NOTIFICATION_RECORD_APP_GUIDE_MESSAGE",
+    "Text": "ONの場合、ショップパスの有効期限が切れた時に通知します。"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_PUSH_NOTIFICATION_SECTION_APP_RECEIVE_SHOP_PASS_EXPIRED_NOTIFICATION_RECORD_APP_LABEL",
+    "Text": "ショップパスの有効期限切れ通知"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_PUSH_NOTIFICATION_SECTION_APP_WEEKLY_MISSION_REMIND_NOTIFICATION_INTERVAL_RECORD_APP_GUIDE_MESSAGE",
+    "Text": "ONの場合、指定した曜日・指定した時間に通知します。"
+  },
+  {
+    "Key": "OPTION_DIALOG_ACCOUNT_TAB_PUSH_NOTIFICATION_SECTION_APP_WEEKLY_MISSION_REMIND_NOTIFICATION_INTERVAL_RECORD_APP_LABEL",
+    "Text": "ウィークリーミッションの未達成通知"
+  },
+  {
+    "Key": "OPTION_DIALOG_DAY_OF_WEEK_FRIDAY",
+    "Text": "金曜"
+  },
+  {
+    "Key": "OPTION_DIALOG_DAY_OF_WEEK_MONDAY",
+    "Text": "月曜"
+  },
+  {
+    "Key": "OPTION_DIALOG_DAY_OF_WEEK_SATURDAY",
+    "Text": "土曜"
+  },
+  {
+    "Key": "OPTION_DIALOG_DAY_OF_WEEK_SUNDAY",
+    "Text": "日曜"
+  },
+  {
+    "Key": "OPTION_DIALOG_DAY_OF_WEEK_THURSDAY",
+    "Text": "木曜"
+  },
+  {
+    "Key": "OPTION_DIALOG_DAY_OF_WEEK_TUESDAY",
+    "Text": "火曜"
+  },
+  {
+    "Key": "OPTION_DIALOG_DAY_OF_WEEK_WEDNESDAY",
+    "Text": "水曜"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_ENABLE_ANTI_ALIASING_RECORD_LABEL",
+    "Text": "アンチエイリアス"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_FRAME_RATE_RECORD_LABEL",
+    "Text": "フレームレート設定"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_FRAME_RATE_RECORD_SECTION_1",
+    "Text": "60FPS"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_FRAME_RATE_RECORD_SECTION_2",
+    "Text": "30FPS"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_LABEL",
+    "Text": "グラフィック"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_RESOLUTION_RECORD_PC_LABEL",
+    "Text": "解像度"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_RESOLUTION_RECORD_PC_SECTION_1",
+    "Text": "960×540"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_RESOLUTION_RECORD_PC_SECTION_2",
+    "Text": "1280×720"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_RESOLUTION_RECORD_PC_SECTION_3",
+    "Text": "1600×900"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_RESOLUTION_RECORD_PC_SECTION_4",
+    "Text": "1920×1080"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_SCREEN_MODE_RECORD_PC_LABEL",
+    "Text": "表示モード"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_SCREEN_MODE_RECORD_PC_SECTION_1",
+    "Text": "ウィンドウ"
+  },
+  {
+    "Key": "OPTION_DIALOG_GRAPHIC_TAB_SCREEN_MODE_RECORD_PC_SECTION_2",
+    "Text": "フルスクリーン"
+  },
+  {
+    "Key": "OPTION_DIALOG_INFO_TITLE",
+    "Text": "ヘルプ"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_DISPLAY_RECOMMENDED_HUPAIS_RECORD_INFO_MESSAGE",
+    "Text": "現在の手牌から狙える役の候補を表示します。矢印ボタンで詳細を開くと、\n役の説明と、役の達成のための候補牌と不要な牌を確認できます。\n<size=26><color=#b5b5b5>画面右側のボタンで表示・非表示を切り替えます。</color></size>"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_DISPLAY_RECOMMENDED_HUPAIS_RECORD_LABEL",
+    "Text": "役候補表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_DISPLAY_XIANGTING_COUNT_RECORD_INFO_MESSAGE",
+    "Text": "テンパイするまでにあと何枚の牌が必要かを数字で表示します。\nテンパイに達すると、「テンパイ」表示に切り替わります。"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_DISPLAY_XIANGTING_COUNT_RECORD_LABEL",
+    "Text": "テンパイまで表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_GREYOUT_DISCARDED_ZIMOPAIS_RECORD_INFO_MESSAGE",
+    "Text": "捨て牌のうち、ツモ切りされた牌をグレーで表示します。\n相手の手の進みが順調かどうかを見分けやすくなります。"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_GREYOUT_DISCARDED_ZIMOPAIS_RECORD_LABEL",
+    "Text": "ツモ切り牌をグレーアウト"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_GUIDE_MESSAGE",
+    "Text": "一部のランクマッチでは機能が強制的にOFFになります。"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_LABEL",
+    "Text": "アシスト機能"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_MARK_RECOMMENDED_DAPAIS_RECORD_INFO_MESSAGE",
+    "Text": "手牌の中で、捨てるのに最もオススメな牌をアイコンで表示します。\nどの牌を捨てるべきか迷ったときの目安になります。"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_MARK_RECOMMENDED_DAPAIS_RECORD_LABEL",
+    "Text": "オススメ牌表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_MARK_WEIXIAN_PAIS_RECORD_INFO_MESSAGE",
+    "Text": "相手のリーチ時のみ、相手の捨て牌をもとに、\n振り込みの危険性が高い牌を警告アイコンで表示します。\nリーチ者にロンされない安牌には「安」アイコンを表示します。"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_MARK_WEIXIAN_PAIS_RECORD_LABEL",
+    "Text": "危険牌表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_MARK_YOUXIAO_PAIS_RECORD_INFO_MESSAGE",
+    "Text": "牌を選択した時、その牌を捨てた時に次のツモでテンパイに近づく\n「欲しい牌」が何種類・何枚あるかを表示します。\n<size=26><color=#b5b5b5>画面右側のボタンで表示・非表示を切り替えます。</color></size>"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_ASSIST_FEATURE_SECTION_MARK_YOUXIAO_PAIS_RECORD_LABEL",
+    "Text": "欲しい牌表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_LABEL",
+    "Text": "対局中設定"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_OTHER_SECTION_LABEL",
+    "Text": "その他"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_OTHER_SECTION_SHOW_STAMPS_RECORD_LABEL",
+    "Text": "スタンプ表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_HIGHLIGHTING_SECTION_EMPHASIZE_BAOPAIS_RECORD_LABEL",
+    "Text": "ドラ牌強調"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_HIGHLIGHTING_SECTION_HIGHLIGHT_SAME_PAIS_RECORD_LABEL",
+    "Text": "同牌表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_HIGHLIGHTING_SECTION_LABEL",
+    "Text": "強調表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_HIGHLIGHTING_SECTION_TURN_EFFECT_RECORD_LABEL",
+    "Text": "手番表示"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_CALL_TIMING_DISCARD_OPERATION_RECORD_APP_LABEL",
+    "Text": "スキップ操作"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_CALL_TIMING_DISCARD_OPERATION_RECORD_APP_SELECTION_1",
+    "Text": "使わない"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_CALL_TIMING_DISCARD_OPERATION_RECORD_APP_SELECTION_2",
+    "Text": "ダブルタップ"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_CALL_TIMING_DISCARD_OPERATION_RECORD_PC_LABEL",
+    "Text": "スキップ操作"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_CALL_TIMING_DISCARD_OPERATION_RECORD_PC_SELECTION_1",
+    "Text": "使わない"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_CALL_TIMING_DISCARD_OPERATION_RECORD_PC_SELECTION_2",
+    "Text": "ダブルクリック"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_CALL_TIMING_DISCARD_OPERATION_RECORD_PC_SELECTION_3",
+    "Text": "右クリック"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_DAPAI_OPERATION_RECORD_PC_LABEL",
+    "Text": "打牌の決定方法"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_DAPAI_OPERATION_RECORD_PC_SELECTION_1",
+    "Text": "1回クリック"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_DAPAI_OPERATION_RECORD_PC_SELECTION_2",
+    "Text": "2回クリック"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_LABEL",
+    "Text": "操作設定"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_ZIMOPAI_DISCARD_OPERATION_RECORD_APP_LABEL",
+    "Text": "ツモ切り操作"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_ZIMOPAI_DISCARD_OPERATION_RECORD_APP_SELECTION_1",
+    "Text": "使わない"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_ZIMOPAI_DISCARD_OPERATION_RECORD_APP_SELECTION_2",
+    "Text": "ダブルタップ"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_ZIMOPAI_DISCARD_OPERATION_RECORD_PC_LABEL",
+    "Text": "ツモ切り操作"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_ZIMOPAI_DISCARD_OPERATION_RECORD_PC_SELECTION_1",
+    "Text": "使わない"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_ZIMOPAI_DISCARD_OPERATION_RECORD_PC_SELECTION_2",
+    "Text": "ダブルクリック"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_PAI_OPERATION_SECTION_ZIMOPAI_DISCARD_OPERATION_RECORD_PC_SELECTION_3",
+    "Text": "右クリック"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_SUPPORT_FEATURE_DEFAULT_VALUE_SECTION_ENABLE_AUTO_DECLARE_NORTH_WIND_RECORD_LABEL",
+    "Text": "自動北抜き"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_SUPPORT_FEATURE_DEFAULT_VALUE_SECTION_ENABLE_AUTO_DISCARD_MELD_RECORD_LABEL",
+    "Text": "鳴きなし"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_SUPPORT_FEATURE_DEFAULT_VALUE_SECTION_ENABLE_AUTO_HULE_RECORD_LABEL",
+    "Text": "自動和了"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_SUPPORT_FEATURE_DEFAULT_VALUE_SECTION_GUIDE_MESSAGE",
+    "Text": "それぞれOFFの場合、局毎に機能がOFFになります。"
+  },
+  {
+    "Key": "OPTION_DIALOG_MAHJONG_MATCH_TAB_SUPPORT_FEATURE_DEFAULT_VALUE_SECTION_LABEL",
+    "Text": "サポート機能のデフォルト設定"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_BGM_VOLUME_RECORD_LABEL",
+    "Text": "BGM"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_IN_GAME_OPPONENT_DECLARATION_VOICE_VOLUME_RECORD_LABEL",
+    "Text": "役読み相手ボイス"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_IN_GAME_OPPONENT_VOICE_VOLUME_RECORD_LABEL",
+    "Text": "対局中相手ボイス"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_IN_GAME_SELF_DECLARATION_VOICE_VOLUME_RECORD_LABEL",
+    "Text": "役読み自分ボイス"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_IN_GAME_SELF_VOICE_VOLUME_RECORD_LABEL",
+    "Text": "対局中自分ボイス"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_LABEL",
+    "Text": "サウンド"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_MASTER_VOLUME_RECORD_LABEL",
+    "Text": "マスターボリューム"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_OUT_GAME_VOICE_VOLUME_RECORD_LABEL",
+    "Text": "対局外のボイス"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_RESET_BUTTON_GUIDE_MESSAGE",
+    "Text": "※音量の初期設定値はすべて「5」です。"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_RESET_BUTTON_LABEL",
+    "Text": "初期設定に戻す"
+  },
+  {
+    "Key": "OPTION_DIALOG_SOUND_TAB_SE_VOLUME_RECORD_LABEL",
+    "Text": "SE"
+  },
+  {
+    "Key": "OPTION_DIALOG_TITLE",
+    "Text": "オプション"
+  },
+  {
+    "Key": "OWNED_CURRENCY_DIALOG_CAUTION",
+    "Text": "※ジュエル、マニーは無償入手分から優先的に消費されます。"
+  },
+  {
+    "Key": "OWNED_CURRENCY_DIALOG_FREE",
+    "Text": "無償"
+  },
+  {
+    "Key": "OWNED_CURRENCY_DIALOG_PAID",
+    "Text": "有償"
+  },
+  {
+    "Key": "OWNED_CURRENCY_DIALOG_TITLE",
+    "Text": "所持通貨"
+  },
+  {
+    "Key": "PAIPU_ALL_TAB_TITLE",
+    "Text": "一覧"
+  },
+  {
+    "Key": "PAIPU_BAOJIA_HEADING",
+    "Text": "放銃"
+  },
+  {
+    "Key": "PAIPU_BOOKMARK_FORMAT",
+    "Text": "ブックマーク：{0}/{1}"
+  },
+  {
+    "Key": "PAIPU_BOOKMARK_LIMIT_EXCEEDED_MESSAGE",
+    "Text": "ブックマーク数が上限です。"
+  },
+  {
+    "Key": "PAIPU_BOOKMARK_NAME_INPUT_DIALOG_MESSAGE",
+    "Text": "牌譜のタイトルを入力してください。"
+  },
+  {
+    "Key": "PAIPU_BOOKMARK_NAME_INPUT_DIALOG_TITLE",
+    "Text": "ブックマーク"
+  },
+  {
+    "Key": "PAIPU_BOOKMARK_REMOVED_MESSAGE",
+    "Text": "ブックマークを解除しました。"
+  },
+  {
+    "Key": "PAIPU_BOOKMARK_TAB_TITLE",
+    "Text": "ブックマーク"
+  },
+  {
+    "Key": "PAIPU_CHAMPIONSHIP_TAB_TITLE",
+    "Text": "大会"
+  },
+  {
+    "Key": "PAIPU_COPY_ID_TO_CLIPBOARD",
+    "Text": "牌譜IDをクリップボードにコピーしました。"
+  },
+  {
+    "Key": "PAIPU_DAN_LANK_HEADING",
+    "Text": "ランク"
+  },
+  {
+    "Key": "PAIPU_DATA_DOWNLOAD_ERROR_MESSAGE",
+    "Text": "牌譜データのダウンロードに失敗しました。"
+  },
+  {
+    "Key": "PAIPU_DATA_DOWNLOAD_ERROR_TITLE",
+    "Text": "ダウンロードエラー"
+  },
+  {
+    "Key": "PAIPU_DATE_FILTER_END_DATE",
+    "Text": "終了時間"
+  },
+  {
+    "Key": "PAIPU_DATE_FILTER_RANGE_FORMAT",
+    "Text": "{0} ～{1}"
+  },
+  {
+    "Key": "PAIPU_DATE_FILTER_SECTION_TITLE",
+    "Text": "対象期間"
+  },
+  {
+    "Key": "PAIPU_DATE_FILTER_START_DATE",
+    "Text": "開始時間"
+  },
+  {
+    "Key": "PAIPU_DATE_FILTER_UNSET",
+    "Text": "未設定"
+  },
+  {
+    "Key": "PAIPU_FRIEND_MATCH_TAB_TITLE",
+    "Text": "フレンドマッチ"
+  },
+  {
+    "Key": "PAIPU_INVALID_INPUT_ID",
+    "Text": "無効なIDです。"
+  },
+  {
+    "Key": "PAIPU_LIZHI_HEADING",
+    "Text": "立直"
+  },
+  {
+    "Key": "PAIPU_LOAD_URL",
+    "Text": "牌譜ID入力"
+  },
+  {
+    "Key": "PAIPU_LOAD_URL_INPUT_DIALOG_MESSAGE",
+    "Text": "再生する牌譜IDを入力してください。"
+  },
+  {
+    "Key": "PAIPU_LOAD_URL_INPUT_DIALOG_TITLE",
+    "Text": "ID入力"
+  },
+  {
+    "Key": "PAIPU_MANGUAN_FILTER_NAME_BEI_MANGUAN",
+    "Text": "倍満以上"
+  },
+  {
+    "Key": "PAIPU_MANGUAN_FILTER_NAME_DA_MANGUAN",
+    "Text": "役満以上"
+  },
+  {
+    "Key": "PAIPU_MANGUAN_FILTER_NAME_MANGUAN",
+    "Text": "満貫以上"
+  },
+  {
+    "Key": "PAIPU_MANGUAN_FILTER_NAME_SAN_BEI_MANGUAN",
+    "Text": "三倍満以上"
+  },
+  {
+    "Key": "PAIPU_MANGUAN_FILTER_NAME_TIAO_MANGUAN",
+    "Text": "跳満以上"
+  },
+  {
+    "Key": "PAIPU_MANGUAN_FILTER_NAME_YI_MANGUAN",
+    "Text": "数え役満以上"
+  },
+  {
+    "Key": "PAIPU_MANGUAN_FILTER_SECTION_TITLE",
+    "Text": "最大和了"
+  },
+  {
+    "Key": "PAIPU_OTHER_TAB_TITLE",
+    "Text": "その他"
+  },
+  {
+    "Key": "PAIPU_PLAYER_COUNT_FILTER_FOUR_PLAYER",
+    "Text": "四人麻雀"
+  },
+  {
+    "Key": "PAIPU_PLAYER_COUNT_FILTER_SECTION_TITLE",
+    "Text": "対局モード"
+  },
+  {
+    "Key": "PAIPU_PLAYER_COUNT_FILTER_THREE_PLAYER",
+    "Text": "三人麻雀"
+  },
+  {
+    "Key": "PAIPU_PLAYER_NAME_HEADING",
+    "Text": "サポーター名"
+  },
+  {
+    "Key": "PAIPU_RANK_FILTER_1ST",
+    "Text": "1位"
+  },
+  {
+    "Key": "PAIPU_RANK_FILTER_2ND",
+    "Text": "2位"
+  },
+  {
+    "Key": "PAIPU_RANK_FILTER_3RD",
+    "Text": "3位"
+  },
+  {
+    "Key": "PAIPU_RANK_FILTER_4TH",
+    "Text": "4位"
+  },
+  {
+    "Key": "PAIPU_RANK_FILTER_SECTION_TITLE",
+    "Text": "順位"
+  },
+  {
+    "Key": "PAIPU_RANK_MATCH_TAB_TITLE",
+    "Text": "ランクマッチ"
+  },
+  {
+    "Key": "PAIPU_REPLAY",
+    "Text": "牌譜再生"
+  },
+  {
+    "Key": "PAIPU_RONG_HEADING",
+    "Text": "ロン"
+  },
+  {
+    "Key": "PAIPU_SCORE_HEADING",
+    "Text": "点数"
+  },
+  {
+    "Key": "PAIPU_SCREEN_TITLE",
+    "Text": "牌譜"
+  },
+  {
+    "Key": "PAIPU_TURN",
+    "Text": "{0}巡目"
+  },
+  {
+    "Key": "PAIPU_ZIMO_HEADING",
+    "Text": "ツモ"
+  },
+  {
+    "Key": "PASS_LEVEL_LABEL",
+    "Text": "{0}Lv"
+  },
+  {
+    "Key": "PAYMENT_SHOP_APPLYING",
+    "Text": "有効中"
+  },
+  {
+    "Key": "PAYMENT_SHOP_APPLYING_MESSAGE_FORMAT",
+    "Text": "{0}有効期間中の場合、期間切れ{1}日前より再購入可能となります。"
+  },
+  {
+    "Key": "PAYMENT_SHOP_DMM_PURCHASE_CONFIRM_MESSAGE",
+    "Text": "{0}を{1}ptで購入します。\nよろしいでしょうか？"
+  },
+  {
+    "Key": "PAYMENT_SHOP_END_OR_RESET_TIME_FORMAT_LESS_THAN_HOUR",
+    "Text": "h':'mm':'ss"
+  },
+  {
+    "Key": "PAYMENT_SHOP_END_OR_RESET_TIME_FORMAT_MORE_THAN_DAY",
+    "Text": "d'日'"
+  },
+  {
+    "Key": "PAYMENT_SHOP_END_OR_RESET_TIME_FORMAT_MORE_THAN_HOUR",
+    "Text": "h':'mm':'ss"
+  },
+  {
+    "Key": "PAYMENT_SHOP_EXPIRED",
+    "Text": "期限切れ"
+  },
+  {
+    "Key": "PAYMENT_SHOP_NEED_PRICE",
+    "Text": "必要："
+  },
+  {
+    "Key": "PAYMENT_SHOP_NOT_PURCHASED",
+    "Text": "未購入"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PASS_PERIOD_END",
+    "Text": "期間終了しました。"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PASS_REMAINING_DAY_FORMAT",
+    "Text": "期間終了まであと{0}日"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PASS_REMAINING_HOUR_FORMAT",
+    "Text": "期間終了まであと{0}時間"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PASS_REMAINING_LESS_THAN_MINUTE",
+    "Text": "期間終了まであと1分未満"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PASS_REMAINING_MINUTE_FORMAT",
+    "Text": "期間終了まであと{0}分"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PERIOD_END_DATE_TITLE",
+    "Text": "終了まであと"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PERIOD_END_MESSAGE",
+    "Text": "開催期間が終了したため購入できません。"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PRICE_FORMAT",
+    "Text": "￥{0:#,0}"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PRICE_FREE",
+    "Text": "無料"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PURCHASE",
+    "Text": "購入"
+  },
+  {
+    "Key": "PAYMENT_SHOP_PURCHASE_CONFIRM_DIALOG_TITLE",
+    "Text": "購入確認"
+  },
+  {
+    "Key": "PAYMENT_SHOP_REPURCHASEABLE",
+    "Text": "再購入可能"
+  },
+  {
+    "Key": "PAYMENT_SHOP_REPURCHASE_PASS_NOTIFICATION_DIALOG_MESSAGE",
+    "Text": "上記のパスが再購入可能になりました。"
+  },
+  {
+    "Key": "PAYMENT_SHOP_REPURCHASE_PASS_NOTIFICATION_DIALOG_TITLE",
+    "Text": "パス再購入"
+  },
+  {
+    "Key": "PAYMENT_SHOP_RESET_DATE_TITLE",
+    "Text": "更新まであと"
+  },
+  {
+    "Key": "PAYMENT_SHOP_STOCK",
+    "Text": "在庫数："
+  },
+  {
+    "Key": "PAYMENT_SHOP_VALIDITY_PERIOD",
+    "Text": "有効期間:{0}"
+  },
+  {
+    "Key": "PENALTY_ALERT_RESULT",
+    "Text": "対局の放棄行為(放置・切断など)を検知したため、報酬の獲得ができませんでした。\n※順位に応じたランクポイント・マニーの変動は適用されます。\n対局の放棄行為が繰り返し確認された場合は、\n対局機能の一時利用停止の処置をさせていただく場合があります。"
+  },
+  {
+    "Key": "PENALTY_BAN_HOME",
+    "Text": "対局の放棄行為(放置・切断など)が繰り返し確認されたため、\nオンライン対局機能を一時的に利用停止させていただきます。\n利用停止期間：{0}まで\n皆様に本ゲームをお楽しみいただけますよう、\nご理解・ご協力をお願いいたします。"
+  },
+  {
+    "Key": "PERFORMANCE_STATS_HANCHANSEN",
+    "Text": "半荘戦"
+  },
+  {
+    "Key": "PERFORMANCE_STATS_TITLE",
+    "Text": "戦績分析"
+  },
+  {
+    "Key": "PERFORMANCE_STATS_TONPUSEN",
+    "Text": "東風戦"
+  },
+  {
+    "Key": "PINGJU_JIU_ZHONG_JIU_PAI",
+    "Text": "九種九牌"
+  },
+  {
+    "Key": "PINGJU_NORMAL",
+    "Text": "荒牌流局"
+  },
+  {
+    "Key": "PINGJU_SAN_JIA_HE",
+    "Text": "三家和"
+  },
+  {
+    "Key": "PINGJU_SH_GANG_SAN_LE",
+    "Text": "四槓流れ"
+  },
+  {
+    "Key": "PINGJU_SI_FENG_LIAN_DA_PON",
+    "Text": "四風連打"
+  },
+  {
+    "Key": "PINGJU_SI_JIA_LIZHI",
+    "Text": "四家立直"
+  },
+  {
+    "Key": "PLAY_MAHJONG_HIDE_OTHER_PLAYER_NAME_1",
+    "Text": "キャラクター１"
+  },
+  {
+    "Key": "PLAY_MAHJONG_HIDE_OTHER_PLAYER_NAME_2",
+    "Text": "キャラクター２"
+  },
+  {
+    "Key": "PLAY_MAHJONG_HIDE_OTHER_PLAYER_NAME_3",
+    "Text": "キャラクター３"
+  },
+  {
+    "Key": "PLAY_MAHJONG_HIDE_OTHER_PLAYER_NAME_4",
+    "Text": "キャラクター４"
+  },
+  {
+    "Key": "PLAY_MAHJONG_HIDE_PLAYER_NAME",
+    "Text": "サポーター"
+  },
+  {
+    "Key": "PLAY_MAHJONG_STREAMER_MODE_ANONYMOUS_NAME",
+    "Text": "匿名サポーター"
+  },
+  {
+    "Key": "PLAY_MAHJONG_STREAMER_MODE_SUPPORTER_NAME_1",
+    "Text": "サポーター１"
+  },
+  {
+    "Key": "PLAY_MAHJONG_STREAMER_MODE_SUPPORTER_NAME_2",
+    "Text": "サポーター２"
+  },
+  {
+    "Key": "PLAY_MAHJONG_STREAMER_MODE_SUPPORTER_NAME_3",
+    "Text": "サポーター３"
+  },
+  {
+    "Key": "PLAY_MAHJONG_STREAMER_MODE_SUPPORTER_NAME_4",
+    "Text": "サポーター４"
+  },
+  {
+    "Key": "PRESENT_BOX_FILTER_LIMITED_TIME",
+    "Text": "期限あり"
+  },
+  {
+    "Key": "PRESENT_BOX_FILTER_TITLE",
+    "Text": "期限"
+  },
+  {
+    "Key": "PRESENT_BOX_FILTER_UNLIMITED_TIME",
+    "Text": "期限なし"
+  },
+  {
+    "Key": "PRESENT_BOX_LIMIT_AT",
+    "Text": "受け取り期限："
+  },
+  {
+    "Key": "PRESENT_BOX_NO_TIME_LIMIT",
+    "Text": "<color=#4A4C84>無期限</color>"
+  },
+  {
+    "Key": "PRESENT_BOX_RECEIVED_HISTORY_EMPTY",
+    "Text": "受け取り履歴がありません。"
+  },
+  {
+    "Key": "PRESENT_BOX_RECEIVE_ALL_BUTTON",
+    "Text": "すべて受け取る"
+  },
+  {
+    "Key": "PRESENT_BOX_RECEIVE_ALL_CONFIRM",
+    "Text": "すべてのプレゼントを受け取りますか？"
+  },
+  {
+    "Key": "PRESENT_BOX_RECEIVE_BUTTON",
+    "Text": "受け取る"
+  },
+  {
+    "Key": "PRESENT_BOX_RECEIVE_CONFIRM_TITLE",
+    "Text": "受け取り確認"
+  },
+  {
+    "Key": "PRESENT_BOX_RECEIVE_ERROR_EXPIRED_TEXT",
+    "Text": "受け取り期限を過ぎているため、受け取りに失敗しました。"
+  },
+  {
+    "Key": "PRESENT_BOX_RECEIVE_ERROR_EXPIRED_TITLE",
+    "Text": "受け取り失敗"
+  },
+  {
+    "Key": "PRESENT_BOX_TAB_HISTORY",
+    "Text": "受け取り履歴"
+  },
+  {
+    "Key": "PRESENT_BOX_TAB_RECEIVE",
+    "Text": "未受け取り"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_INVENTORY_EXCEEDED",
+    "Text": "所持上限に達したアイテムです。"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_RANKING_PARTICIPATION_PRIZE",
+    "Text": "{0}参加賞"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_RANKING_PARTICIPATION_PRIZE_YAKU",
+    "Text": "{0}ランキング参加賞"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_RANKING_REWARD",
+    "Text": "{0}{1}位報酬"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_RANKING_REWARD_YAKU",
+    "Text": "{0}ランキング{1}位報酬"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_SEASON_PASS_REWARD_NORMAL",
+    "Text": "ホロじゃんパスシーズン{0}　レベル{1} ノーマル報酬"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_SEASON_PASS_REWARD_SPECIAL",
+    "Text": "ホロじゃんパスシーズン{0}　レベル{1} スペシャル報酬"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_SHOP_PASS_EVERY_DAY",
+    "Text": "「{0}」報酬。残り期間：{1}日"
+  },
+  {
+    "Key": "PRESENT_BOX_TITLE_SHOP_PASS_IMMEDIATE",
+    "Text": "デイリーパス購入報酬です。"
+  },
+  {
+    "Key": "PRESENT_BOX_UNRECEIVE_EMPTY",
+    "Text": "未受け取りのプレゼントはありません。"
+  },
+  {
+    "Key": "PROFILE_CHANGE",
+    "Text": "変更"
+  },
+  {
+    "Key": "PROFILE_FAN_MARK",
+    "Text": "推しマーク"
+  },
+  {
+    "Key": "PROFILE_FAV_TALENT",
+    "Text": "キャラクター"
+  },
+  {
+    "Key": "PROFILE_FAV_TALENT_CHANGE_TITLE",
+    "Text": "お気に入りキャラクター選択"
+  },
+  {
+    "Key": "PROFILE_FAV_TALENT_COLLECTION",
+    "Text": "推しコレクション"
+  },
+  {
+    "Key": "PROFILE_FAV_TALENT_COSTUME",
+    "Text": "コスチューム"
+  },
+  {
+    "Key": "PROFILE_FAV_TALENT_ITEM",
+    "Text": "アイテム"
+  },
+  {
+    "Key": "PROFILE_FAV_TALENT_MISSION",
+    "Text": "ミッション"
+  },
+  {
+    "Key": "PROFILE_FRAME",
+    "Text": "フレーム"
+  },
+  {
+    "Key": "PROFILE_HONOR_CHANGE_RESULT",
+    "Text": "選択中称号"
+  },
+  {
+    "Key": "PROFILE_HONOR_CHANGE_TITLE",
+    "Text": "称号変更"
+  },
+  {
+    "Key": "PROFILE_HONOR_CURRENT",
+    "Text": "使用中称号"
+  },
+  {
+    "Key": "PROFILE_HONOR_DESCRIPTION",
+    "Text": "称号説明文"
+  },
+  {
+    "Key": "PROFILE_HONOR_INVALID",
+    "Text": "選択している称号を所持していません。"
+  },
+  {
+    "Key": "PROFILE_ICON_FRAME",
+    "Text": "アイコンフレーム"
+  },
+  {
+    "Key": "PROFILE_INTRODUCTION",
+    "Text": "自己紹介文"
+  },
+  {
+    "Key": "PROFILE_INTRODUCTION_CHANGE_MESSAGE",
+    "Text": "自己紹介を入力してください。"
+  },
+  {
+    "Key": "PROFILE_INTRODUCTION_CHANGE_TITLE",
+    "Text": "自己紹介文編集"
+  },
+  {
+    "Key": "PROFILE_INTRODUCTION_DEFAULT",
+    "Text": "よろしくお願いします。"
+  },
+  {
+    "Key": "PROFILE_MAHJONG",
+    "Text": "対局成績"
+  },
+  {
+    "Key": "PROFILE_MOST_USED_TALENT",
+    "Text": "対局使用数BEST3"
+  },
+  {
+    "Key": "PROFILE_MOST_USED_TALENT_COUNT",
+    "Text": "{0}回"
+  },
+  {
+    "Key": "PROFILE_NAME",
+    "Text": "名前"
+  },
+  {
+    "Key": "PROFILE_NAME_CHANGE_TITLE",
+    "Text": "名前&推しマーク設定"
+  },
+  {
+    "Key": "PROFILE_NAME_EMPTY",
+    "Text": "テキスト入力してください。"
+  },
+  {
+    "Key": "PROFILE_REPLAY_DIALOG_MESSAGE",
+    "Text": "この対局の牌譜を再生しますか？"
+  },
+  {
+    "Key": "PROFILE_REPLAY_DIALOG_TITLE",
+    "Text": "牌譜確認"
+  },
+  {
+    "Key": "PROFILE_SEND_FRIEND_REQUEST",
+    "Text": "フレンド申請"
+  },
+  {
+    "Key": "PROFILE_TAB_PERSONAL",
+    "Text": "パーソナル"
+  },
+  {
+    "Key": "PROFILE_TITLE",
+    "Text": "プロフィール"
+  },
+  {
+    "Key": "RANKING_COUNT_FORMAT",
+    "Text": "{0}回"
+  },
+  {
+    "Key": "RANKING_CURRENT_SEASON",
+    "Text": "今シーズン"
+  },
+  {
+    "Key": "RANKING_DAILY_REWARD",
+    "Text": "デイリー報酬"
+  },
+  {
+    "Key": "RANKING_DAILY_REWARD_RECEIVED_MESSAGE",
+    "Text": "本日の報酬は受け取りました。"
+  },
+  {
+    "Key": "RANKING_DEFAULT_FORMAT",
+    "Text": "{0}"
+  },
+  {
+    "Key": "RANKING_NOTHING_MESSAGE",
+    "Text": "ランキング集計中です。"
+  },
+  {
+    "Key": "RANKING_NOTHING_USER",
+    "Text": "ランキングデータがありません。"
+  },
+  {
+    "Key": "RANKING_NOT_ENTRY",
+    "Text": "不参加"
+  },
+  {
+    "Key": "RANKING_NOT_ENTRY_SCORE",
+    "Text": "記録なし"
+  },
+  {
+    "Key": "RANKING_NOT_HELD",
+    "Text": "ランキング非開催です。"
+  },
+  {
+    "Key": "RANKING_ONE_RANGE_FORMAT",
+    "Text": "{0}位"
+  },
+  {
+    "Key": "RANKING_OUTSIDE_RANK",
+    "Text": "ランク外"
+  },
+  {
+    "Key": "RANKING_OWN_RANK",
+    "Text": "自分の順位"
+  },
+  {
+    "Key": "RANKING_PARTICIPATION_PRIZE",
+    "Text": "参加賞"
+  },
+  {
+    "Key": "RANKING_POINT_FORMAT",
+    "Text": "{0}pt"
+  },
+  {
+    "Key": "RANKING_PRE_SEASON",
+    "Text": "前シーズン"
+  },
+  {
+    "Key": "RANKING_RANGE_FORMAT",
+    "Text": "{0}位～{1}位"
+  },
+  {
+    "Key": "RANKING_REWARD_BULK_RECEIVE",
+    "Text": "一括受取"
+  },
+  {
+    "Key": "RANKING_REWARD_BUTTON",
+    "Text": "報酬"
+  },
+  {
+    "Key": "RANKING_REWARD_DIALOG_TITLE",
+    "Text": "ランキング報酬"
+  },
+  {
+    "Key": "RANKING_REWARD_INFORMATION",
+    "Text": "報酬情報"
+  },
+  {
+    "Key": "RANKING_REWARD_RECEIVE",
+    "Text": "受け取る"
+  },
+  {
+    "Key": "RANKING_SEASON_PERIOD_FORMAT",
+    "Text": "{0}～{1}"
+  },
+  {
+    "Key": "RANKING_UNIT_OUTSIDE_RANK_TEXT",
+    "Text": "圏外"
+  },
+  {
+    "Key": "RANKMATCH_ACTIVE_USERS_COUNT_LABEL",
+    "Text": "接続数"
+  },
+  {
+    "Key": "RANKMATCH_INFORMATION_CONFIRM",
+    "Text": "閉じる"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_CONNECTING_MSG",
+    "Text": "予約中…"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_FAILED_TEXT",
+    "Text": "マッチングに失敗しました。"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_FAILED_TITLE",
+    "Text": "マッチング失敗"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_INELIGIBLE_STATUS_MSG",
+    "Text": "参加可能なランクではありません。"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_IN_PROGRESS_GAIN_MSG",
+    "Text": "マッチング中のため、他の部屋を選択することが出来ません。"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_LIMITED_TEXT",
+    "Text": "マッチング中のため操作が制限されています。"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_REQUIRED_RANK_MESSAGE_SAMMA",
+    "Text": "参加可能三麻ランク"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_REQUIRED_RANK_MESSAGE_YOMMA",
+    "Text": "参加可能四麻ランク"
+  },
+  {
+    "Key": "RANKMATCH_MATCHING_SUCCESS_TEXT_FORMAT",
+    "Text": "{0}{1}まもなく対局を開始します。"
+  },
+  {
+    "Key": "RANKMATCH_RESULT_COIN_SHORTAGE_GUIDE_MESSAGE_FORMAT",
+    "Text": "{0}が不足しているため、続けて対局ができません"
+  },
+  {
+    "Key": "RANKMATCH_RESULT_MATCHMAKING_CANCEL_BUTTON",
+    "Text": "取り消し"
+  },
+  {
+    "Key": "RANKMATCH_ROOM_DIVA_INFO_TEXT",
+    "Text": "■ランクマッチ：ラディアンス部屋■\n【ランク制限】\n　S / S+ / S++ / L ランク\n\n【ウマ】\n　四人麻雀：1位+15 / 2位+5 / 3位-5 / 4位-15\n　三人麻雀：1位+15 / 2位+0 / 3位-15\n\n■マニー■\n【必要所持マニー】\n　東風：20,000 / 半荘：40,000\n【場代】\n　東風：4,000 / 半荘：8,000\n【点数レート】\n　東風：1000点＝400 / 半荘：1000点＝800\n\n■ランクポイント変動■\n【基本ランクポイント】S～S++ランク\n　四人東風：1位+100 / 2位+20 / 3位-60 / 4位-90\n　四人半荘：1位+200 / 2位+40 / 3位-120 / 4位-180\n　三人東風：1位+100 / 2位-30 / 3位-90\n　三人半荘：1位+200 / 2位-60 / 3位-180\n\n【基本ランクポイント】Lランク\n　四人東風：1位+50 / 2位+10 / 3位-30 / 4位-50\n　四人半荘：1位+100 / 2位+20 / 3位-60 / 4位-100\n　三人東風：1位+50 / 2位-20 / 3位-50\n　三人半荘：1位+100 / 2位-40 / 3位-100\n※対局者全員がLランクの場合は「レジェンドマッチ」が発生し、基本ランクポイントの増減が2倍になります。"
+  },
+  {
+    "Key": "RANKMATCH_ROOM_PRISM_INFO_TEXT",
+    "Text": "■ランクマッチ：ゴールド部屋■\n【ランク制限】\n　B / B+ / B++ / A / A+ / A++ ランク\n\n【ウマ】\n　四人麻雀：1位+15 / 2位+5 / 3位-5 / 4位-15\n　三人麻雀：1位+15 / 2位+0 / 3位-15\n\n■マニー■\n【必要所持マニー】\n　東風：5,000 / 半荘：10,000\n【場代】\n　東風：1,000 / 半荘：2,000\n【点数レート】\n　東風：1000点＝100 / 半荘：1000点＝200\n\n■ランクポイント変動■\n【基本ランクポイント】ランクにより変動します。\n　四人東風：1位+50 / 2位+20 / 3位-20 / 4位-40～-60\n　四人半荘：1位+100 / 2位+40 / 3位-40 / 4位-80～-120\n　三人東風：1位+50 / 2位+0 / 3位-40～-60\n　三人半荘：1位+100 / 2位+0 / 3位-80～-120"
+  },
+  {
+    "Key": "RANKMATCH_ROOM_RADIANCE_INFO_TEXT",
+    "Text": "■ランクマッチ：プラチナ部屋■\n【ランク制限】\n　A / A+ / A++ / S / S+ / S++ ランク\n\n【ウマ】\n　四人麻雀：1位+15 / 2位+5 / 3位-5 / 4位-15\n　三人麻雀：1位+15 / 2位+0 / 3位-15\n\n■マニー■\n【必要所持マニー】\n　東風：10,000 / 半荘：20,000\n【場代】\n　東風：2,000 / 半荘：4,000\n【点数レート】\n　東風：1000点＝200 / 半荘：1000点＝400\n\n■ランクポイント変動■\n【基本ランクポイント】ランクにより変動します。\n　四人東風：1位+70 / 2位+20 / 3位-30 / 4位-60～-80\n　四人半荘：1位+140 / 2位+40 / 3位-60 / 4位-120～-160\n　三人東風：1位+70 / 2位-10 / 3位-60～-80\n　三人半荘：1位+140 / 2位-20 / 3位-120～-160"
+  },
+  {
+    "Key": "RANKMATCH_ROOM_SHINE_INFO_TEXT",
+    "Text": "■ランクマッチ：シルバー部屋■\n【ランク制限】\n　C / C+ / C++ / B / B+ / B++ ランク\n\n【ウマ】\n　四人麻雀：1位+15 / 2位+5 / 3位-5 / 4位-15\n　三人麻雀：1位+15 / 2位+0 / 3位-15\n\n■マニー■\n【必要所持マニー】\n　東風：2,500 / 半荘：5,000\n【場代】\n　東風：500 / 半荘：1,000\n【点数レート】\n　東風：1000点＝50 / 半荘：1000点＝100\n\n■ランクポイント変動■\n【基本ランクポイント】ランクにより変動します。\n　四人東風：1位+35 / 2位+15 / 3位-10 / 4位-25～-35\n　四人半荘：1位+70 / 2位+30 / 3位-20 / 4位-50～-70\n　三人東風：1位+35 / 2位+10 / 3位-25～-35\n　三人半荘：1位+70 / 2位+20 / 3位-50～-70"
+  },
+  {
+    "Key": "RANKMATCH_ROOM_SPARKLE_INFO_TEXT",
+    "Text": "■ランクマッチ：ブロンズ部屋■\n【ランク制限】\n　D / D+ / D++ / C / C+ / C++ ランク\n\n【ウマ】\n　四人麻雀：1位+15 / 2位+5 / 3位-5 / 4位-15\n　三人麻雀：1位+15 / 2位+0 / 3位-15\n\n■マニー■\n　ブロンズ部屋はマニーの変動はありません。\n\n■ランクポイント変動■\n【基本ランクポイント】ランクにより変動します。\n　四人東風：1位+20 / 2位+10 / 3位+0 / 4位-5～-20\n　四人半荘：1位+40 / 2位+20 / 3位+0 / 4位-10～-40\n　三人東風：1位+20 / 2位+5 / 3位-5～-20\n　三人半荘：1位+40 / 2位+10 / 3位-10～-40"
+  },
+  {
+    "Key": "RANK_DEMOTION_OFF",
+    "Text": "×"
+  },
+  {
+    "Key": "RANK_DEMOTION_ON",
+    "Text": "○"
+  },
+  {
+    "Key": "RANK_LEVEL_DOWN_CLOSE",
+    "Text": "タップして閉じる"
+  },
+  {
+    "Key": "RANK_LEVEL_DOWN_TITLE",
+    "Text": "ランクダウン"
+  },
+  {
+    "Key": "RANK_LEVEL_UP_CLOSE",
+    "Text": "タップして閉じる"
+  },
+  {
+    "Key": "RANK_LEVEL_UP_TITLE",
+    "Text": "ランクアップ！"
+  },
+  {
+    "Key": "RANK_POINT_DIALOG_DOWNGRADE",
+    "Text": "降格"
+  },
+  {
+    "Key": "RANK_POINT_DIALOG_INITIAL_POINT",
+    "Text": "初期ポイント"
+  },
+  {
+    "Key": "RANK_POINT_DIALOG_MESSAGE",
+    "Text": "※LランクはLv.1～99のレベル制です。昇格時の初期レベルはLv.10です。\n※各レベルでランクポイントが3000に達すると、レベルアップします。\n※Lv.1でランクポイントが0以下になると、S++ランクへ降格します。\n※Lランク同士の対局（レジェンドマッチ）では基本ランクポイントが2倍に増加します。"
+  },
+  {
+    "Key": "RANK_POINT_DIALOG_RANK",
+    "Text": "ランク"
+  },
+  {
+    "Key": "RANK_POINT_DIALOG_RANK_UP_POINT",
+    "Text": "ランクアップポイント"
+  },
+  {
+    "Key": "RANK_POINT_DIALOG_TITLE",
+    "Text": "{0}ランク一覧"
+  },
+  {
+    "Key": "SEASON_PASS_CLAIM_ALL",
+    "Text": "すべて受け取る"
+  },
+  {
+    "Key": "SEASON_PASS_END_DATE",
+    "Text": "シーズン終了まであと{0}日{1}時間"
+  },
+  {
+    "Key": "SEASON_PASS_END_DATE_HOUR",
+    "Text": "シーズン終了まであと{0}時間"
+  },
+  {
+    "Key": "SEASON_PASS_END_DATE_MINUTE",
+    "Text": "シーズン終了まであと{0}分"
+  },
+  {
+    "Key": "SEASON_PASS_END_DATE_ZERO_MINUTE",
+    "Text": "シーズン終了まであと0分"
+  },
+  {
+    "Key": "SEASON_PASS_EXP",
+    "Text": "EXP"
+  },
+  {
+    "Key": "SEASON_PASS_LEVEL_MAXED",
+    "Text": "最大レベルに達しました。"
+  },
+  {
+    "Key": "SEASON_PASS_LEVEL_PURCHASE_BUTTON",
+    "Text": "レベル購入"
+  },
+  {
+    "Key": "SEASON_PASS_LEVEL_TITLE",
+    "Text": "パスレベル"
+  },
+  {
+    "Key": "SEASON_PASS_MISSION_DAILY_TAB",
+    "Text": "デイリー"
+  },
+  {
+    "Key": "SEASON_PASS_MISSION_SEASON_TAB",
+    "Text": "シーズン"
+  },
+  {
+    "Key": "SEASON_PASS_MISSION_TAB_TITLE",
+    "Text": "ミッション"
+  },
+  {
+    "Key": "SEASON_PASS_OUT_OF_SCHEDULE",
+    "Text": "ホロじゃんパスの開催期間外です。\nホームに戻ります。"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_BUY_BUTTON",
+    "Text": "スペシャルパス購入"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_DIALOG_MESSAGE",
+    "Text": "有償ジュエルを{0}個消費して、スペシャルパスを購入します。"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_DIALOG_NOTATION_BUTTON",
+    "Text": "各種表記"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_DIALOG_PURCHASE_BUTTON",
+    "Text": "購入"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_DIALOG_TITLE",
+    "Text": "スペシャルパス"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_DIALOG_TRANSIT_SHOP",
+    "Text": "ジュエルを購入"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_DIALOG_WARNING",
+    "Text": "※商品の性質上、購入後に即時消費及び反映されキャンセルできません。"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_LEVEL_DIALOG_ITEM_LIST",
+    "Text": "入手アイテム"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_LEVEL_DIALOG_MESSAGE",
+    "Text": "有償ジュエルを消費して、レベルが{0}になるまで購入しますか？"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_LEVEL_DIALOG_PURCHASE_BUTTON",
+    "Text": "購入"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_LEVEL_DIALOG_TITLE",
+    "Text": "レベル購入"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_LEVEL_DIALOG_WARNING",
+    "Text": "※商品の性質上、購入後に即時消費及び反映されキャンセルできません。"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_LEVEL_NOTATIONS",
+    "Text": "各種表記"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_SCREEN_PURCHASE_BONUS_LABEL",
+    "Text": "購入特典"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_SCREEN_PURCHASE_BONUS_LEVEL",
+    "Text": "ホロじゃんパスLvUP！"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_SCREEN_PURCHASE_BONUS_TITLE",
+    "Text": "スペシャルパス＋"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_SCREEN_PURCHASE_TITLE",
+    "Text": "スペシャルパス"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_SCREEN_TITLE",
+    "Text": "スペシャルパス購入"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_SCREEN_WARNING_1",
+    "Text": "※商品の性質上、購入後に即時消費及び\n　反映されキャンセルできません。"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_SCREEN_WARNING_2",
+    "Text": "※スペシャルパスはいずれか1種のみ購入できます。"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_SOLD_OUT",
+    "Text": "購入済み"
+  },
+  {
+    "Key": "SEASON_PASS_PURCHASE_UNAVAILABLE_GUIDE_MESSAGE",
+    "Text": "スペシャルパスは現在購入できません"
+  },
+  {
+    "Key": "SEASON_PASS_REWARD_DIALOG_LEVEL_TAB",
+    "Text": "レベルアップ報酬"
+  },
+  {
+    "Key": "SEASON_PASS_REWARD_DIALOG_MESSAGE",
+    "Text": "スペシャルパス購入で獲得。"
+  },
+  {
+    "Key": "SEASON_PASS_REWARD_DIALOG_PURCHASE_TAB",
+    "Text": "購入特典"
+  },
+  {
+    "Key": "SEASON_PASS_REWARD_DIALOG_TITLE",
+    "Text": "スペシャルパス報酬"
+  },
+  {
+    "Key": "SEASON_PASS_REWARD_TAB_TITLE",
+    "Text": "報酬"
+  },
+  {
+    "Key": "SEASON_PASS_SCREEN_TITLE",
+    "Text": "ホロじゃんパス"
+  },
+  {
+    "Key": "SERIAL_CODE_ENTER_DIALOG_HINT",
+    "Text": "※半角英数字のみ入力できます。"
+  },
+  {
+    "Key": "SERIAL_CODE_ENTER_DIALOG_MESSAGE",
+    "Text": "シリアルコードを入力してください。"
+  },
+  {
+    "Key": "SERIAL_CODE_ENTER_DIALOG_TITLE",
+    "Text": "コード入力"
+  },
+  {
+    "Key": "SERIAL_CODE_ERROR_MESSAGE_TIME_LIMIT",
+    "Text": "このコードは入力期限が過ぎています。"
+  },
+  {
+    "Key": "SERIAL_CODE_ERROR_MESSAGE_USED",
+    "Text": "このコードはすでに入力済みです。"
+  },
+  {
+    "Key": "SERIAL_CODE_ERROR_MESSAGE_WRONG",
+    "Text": "存在しないコードです。\n入力内容を確認してください。"
+  },
+  {
+    "Key": "SERIAL_CODE_SUCCESS_DIALOG_MESSAGE",
+    "Text": "入力が完了しました。\nプレゼントボックスよりお受け取りください。"
+  },
+  {
+    "Key": "SHOP_AD_WATCH_FAILED_MESSAGE",
+    "Text": "広告の再生に失敗しました。特典を受け取ることができません。"
+  },
+  {
+    "Key": "SHOP_AD_WATCH_FAILED_TITLE",
+    "Text": "広告再生失敗"
+  },
+  {
+    "Key": "SHOP_AD_WATCH_UNABLE_MESSAGE",
+    "Text": "PCアプリ／ブラウザ版では「広告を見る」を利用できません。\nスマートフォンアプリからお試しください。"
+  },
+  {
+    "Key": "SHOP_AD_WATCH_UNABLE_TITLE",
+    "Text": "「広告を見る」について"
+  },
+  {
+    "Key": "SHOP_API_ERROR_DIALOG_TITLE",
+    "Text": "確認"
+  },
+  {
+    "Key": "SHOP_BONUS",
+    "Text": "おまけ"
+  },
+  {
+    "Key": "SHOP_BULK_PURCHASE",
+    "Text": "一括購入"
+  },
+  {
+    "Key": "SHOP_COST_SHORTAGE_GUIDE_MESSAGE_FORMAT",
+    "Text": "{0}が不足しています。"
+  },
+  {
+    "Key": "SHOP_COST_SHORTAGE_MESSAGE_FORMAT",
+    "Text": "<color=#ff2175>{0}が不足しています。</color>"
+  },
+  {
+    "Key": "SHOP_END_REMAINING_DATE_TIME",
+    "Text": "終了まで"
+  },
+  {
+    "Key": "SHOP_ERROR_OUT_OF_SCHEDULE",
+    "Text": "交換所の開催期間外です。"
+  },
+  {
+    "Key": "SHOP_ERROR_PRODUCT_OUT_OF_SCHEDULE",
+    "Text": "商品の交換期間外です。"
+  },
+  {
+    "Key": "SHOP_FREE_CURRENCY",
+    "Text": "無償"
+  },
+  {
+    "Key": "SHOP_GUIDANCE_COMPENSATED_DIALOG_TITLE",
+    "Text": "マニー不足"
+  },
+  {
+    "Key": "SHOP_GUIDANCE_COMPENSATED_RANKMATCH_DIALOG_BUTTON",
+    "Text": "マニーを入手"
+  },
+  {
+    "Key": "SHOP_GUIDANCE_COMPENSATED_RANKMATCH_DIALOG_MESSAGE",
+    "Text": "ランクマッチに必要なマニーが不足しています\nショップでおたすけマニーを受け取りますか？\n\n<color=red>おたすけマニーは1日1回のみ入手できます。</color>"
+  },
+  {
+    "Key": "SHOP_GUIDANCE_SHORTAGE_DIALOG_TITLE",
+    "Text": "マニー不足"
+  },
+  {
+    "Key": "SHOP_GUIDANCE_SHORTAGE_RANKMATCH_DIALOG_BUTTON",
+    "Text": "マニーを購入"
+  },
+  {
+    "Key": "SHOP_GUIDANCE_SHORTAGE_RANKMATCH_DIALOG_MESSAGE",
+    "Text": "ランクマッチに必要なマニーが不足しています\nマニーを購入しますか？"
+  },
+  {
+    "Key": "SHOP_HEADER_TITLE",
+    "Text": "ショップ"
+  },
+  {
+    "Key": "SHOP_MONTH_REMAINING_COUNT_FORMAT",
+    "Text": "今月の残り：{0}"
+  },
+  {
+    "Key": "SHOP_OWNED",
+    "Text": "所持済み"
+  },
+  {
+    "Key": "SHOP_OWNED_COUNT",
+    "Text": "所持数"
+  },
+  {
+    "Key": "SHOP_OWNED_ITEM_COUNT",
+    "Text": "所持数:{0}"
+  },
+  {
+    "Key": "SHOP_OWNED_MESSAGE",
+    "Text": "所持済み商品のため、購入できません。"
+  },
+  {
+    "Key": "SHOP_PURCHASE",
+    "Text": "購入"
+  },
+  {
+    "Key": "SHOP_PURCHASE_CONFIRM_DIALOG_TITLE",
+    "Text": "購入確認"
+  },
+  {
+    "Key": "SHOP_PURCHASE_CONFIRM_MESSAGE",
+    "Text": "商品を購入しますか？"
+  },
+  {
+    "Key": "SHOP_PURCHASE_DIALOG_BUY_CURRENCY",
+    "Text": "マニーを購入"
+  },
+  {
+    "Key": "SHOP_PURCHASE_DIALOG_BUY_STONE",
+    "Text": "ジュエルを購入"
+  },
+  {
+    "Key": "SHOP_PURCHASE_DIALOG_REMAINING_COUNT",
+    "Text": "{0}回限定"
+  },
+  {
+    "Key": "SHOP_PURCHASE_DIALOG_WARNING",
+    "Text": "※商品の性質上、購入後に即時消費及び反映されキャンセルはできません。\n※無償ジュエルから先に消費されます。"
+  },
+  {
+    "Key": "SHOP_PURCHASE_NEED_ITEM",
+    "Text": "必要素材"
+  },
+  {
+    "Key": "SHOP_PURCHASE_PRODUCT",
+    "Text": "購入商品"
+  },
+  {
+    "Key": "SHOP_RECOMMENDATION",
+    "Text": "おすすめ"
+  },
+  {
+    "Key": "SHOP_REMAINING_COUNT_FORMAT",
+    "Text": "残り：{0}"
+  },
+  {
+    "Key": "SHOP_REMAINING_FREE_UPDATE_COUNT_FORMAT",
+    "Text": "残り無料更新回数{0}"
+  },
+  {
+    "Key": "SHOP_REMAINING_PAID_UPDATE_COUNT_FORMAT",
+    "Text": "残り更新回数{0}"
+  },
+  {
+    "Key": "SHOP_REMAINING_TIME_DAYS",
+    "Text": "あと{0}日"
+  },
+  {
+    "Key": "SHOP_REMAINING_TIME_HOURS",
+    "Text": "あと{0}時間"
+  },
+  {
+    "Key": "SHOP_REMAINING_TIME_MINUTES",
+    "Text": "あと{0}分"
+  },
+  {
+    "Key": "SHOP_RESET_CONFIRM_DIALOG_TITLE",
+    "Text": "リセット確認"
+  },
+  {
+    "Key": "SHOP_RESET_CONFIRM_FREE_REMAINING_COUNT_FORMAT",
+    "Text": "交換所の内容をリセットしますか？\n残り無料更新回数{0}▶ {1}"
+  },
+  {
+    "Key": "SHOP_RESET_CONFIRM_MESSAGE",
+    "Text": "交換所の内容をリセットしますか？"
+  },
+  {
+    "Key": "SHOP_RESET_CONFIRM_MESSAGE_FORMAT",
+    "Text": "{0}を{1}個消費して\n交換所の内容をリセットしますか？"
+  },
+  {
+    "Key": "SHOP_RESET_DIALOG_WARNING",
+    "Text": "※無償ジュエルから先に消費されます。"
+  },
+  {
+    "Key": "SHOP_RESET_REMAINING_DATE_TIME",
+    "Text": "リセットまで"
+  },
+  {
+    "Key": "SHOP_SALES_END",
+    "Text": "販売終了"
+  },
+  {
+    "Key": "SHOP_SOLD_OUT",
+    "Text": "SOLD OUT"
+  },
+  {
+    "Key": "SHOP_SOLD_OUT_MESSAGE",
+    "Text": "売り切れた商品のため、購入できません。"
+  },
+  {
+    "Key": "SHOP_TODAY_REMAINING_COUNT_FORMAT",
+    "Text": "今日の残り：{0}"
+  },
+  {
+    "Key": "SHOP_UPDATE_COST_FORMAT",
+    "Text": "{0}で更新"
+  },
+  {
+    "Key": "SHOP_UPDATE_FREE",
+    "Text": "無料で更新"
+  },
+  {
+    "Key": "SHOP_UPDATE_LIMIT_REACHED_MESSAGE",
+    "Text": "本日の更新上限に達しました。"
+  },
+  {
+    "Key": "SHOP_VIP_TRANSITION_BUTTON",
+    "Text": "RANK"
+  },
+  {
+    "Key": "SHOP_WATCH_AD",
+    "Text": "広告を見る"
+  },
+  {
+    "Key": "SHOP_WEEK_REMAINING_COUNT_FORMAT",
+    "Text": "今週の残り：{0}"
+  },
+  {
+    "Key": "SINGLE_MODE_AUTO_SELECT",
+    "Text": "自動選択"
+  },
+  {
+    "Key": "SINGLE_MODE_BATTLE_START",
+    "Text": "対局開始"
+  },
+  {
+    "Key": "SINGLE_MODE_DUIMIAN",
+    "Text": "対面"
+  },
+  {
+    "Key": "SINGLE_MODE_MATCHING_FAILED_TEXT",
+    "Text": "マッチングに失敗しました。"
+  },
+  {
+    "Key": "SINGLE_MODE_MATCHING_FAILED_TITLE",
+    "Text": "マッチング失敗"
+  },
+  {
+    "Key": "SINGLE_MODE_NOT_ENOUGH_GUIDE_TEXT",
+    "Text": "対戦相手を選択してください。"
+  },
+  {
+    "Key": "SINGLE_MODE_REWARD",
+    "Text": "報酬受取"
+  },
+  {
+    "Key": "SINGLE_MODE_REWARD_UNRECEIVED_MESSAGE_FORMAT",
+    "Text": "本日の報酬受取回数が{0}のため\n報酬を獲得できませんでした。"
+  },
+  {
+    "Key": "SINGLE_MODE_SCREEN_TITLE",
+    "Text": "シングルモード"
+  },
+  {
+    "Key": "SINGLE_MODE_SELECTED",
+    "Text": "編成中"
+  },
+  {
+    "Key": "SINGLE_MODE_SELECT_GUIDE_TEXT",
+    "Text": "一緒に対局するキャラを3人選んでください。"
+  },
+  {
+    "Key": "SINGLE_MODE_SHANGJIA",
+    "Text": "上家"
+  },
+  {
+    "Key": "SINGLE_MODE_XIAJIA",
+    "Text": "下家"
+  },
+  {
+    "Key": "SINGLE_MODE_ZIJIA",
+    "Text": "自家"
+  },
+  {
+    "Key": "SPECTATE_DATA_DOWNLOAD_ERROR_MESSAGE",
+    "Text": "観戦データのダウンロードに失敗しました。"
+  },
+  {
+    "Key": "SPECTATE_DATA_DOWNLOAD_ERROR_TITLE",
+    "Text": "ダウンロードエラー"
+  },
+  {
+    "Key": "SPECTATE_EXIT_DIALOG_MESSAGE",
+    "Text": "観戦を終了しますか？"
+  },
+  {
+    "Key": "SPECTATE_REALTIME_WATCHING_PERMISSION_DENIED",
+    "Text": "エラーが発生しました。タイトルに戻ります。"
+  },
+  {
+    "Key": "SPECTATE_SCREEN_TITLE",
+    "Text": "観戦"
+  },
+  {
+    "Key": "SPECTATE_WATCHING_ROOM_NOT_FOUND",
+    "Text": "対局が終了しました。"
+  },
+  {
+    "Key": "STAMP_CHANGED_WARNING",
+    "Text": "変更された項目がありますが、\n保存せずに移動しますか？"
+  },
+  {
+    "Key": "STAMP_CHANGED_WARNING_NEGATIVE_BUTTON",
+    "Text": "キャンセル"
+  },
+  {
+    "Key": "STAMP_CHANGED_WARNING_POSITIVE_BUTTON",
+    "Text": "移動する"
+  },
+  {
+    "Key": "STAMP_DETAIL_TITLE",
+    "Text": "スタンプ詳細"
+  },
+  {
+    "Key": "STAMP_FAVORITE_LIST_CAPPED",
+    "Text": "お気に入り枠が埋まっています。"
+  },
+  {
+    "Key": "STAMP_FAVORITE_LIST_EMPTY",
+    "Text": "所持スタンプをタップでお気に入り登録できます。"
+  },
+  {
+    "Key": "STAMP_FAVORITE_LIST_TITLE",
+    "Text": "お気に入りスタンプ"
+  },
+  {
+    "Key": "STAMP_LIST_TITLE",
+    "Text": "スタンプ所持一覧"
+  },
+  {
+    "Key": "SUPPORT_DIALOG_BUTTON_HELP",
+    "Text": "ヘルプ"
+  },
+  {
+    "Key": "SUPPORT_DIALOG_BUTTON_INQUIRY",
+    "Text": "お問い合わせ"
+  },
+  {
+    "Key": "SUPPORT_DIALOG_BUTTON_LICENSE",
+    "Text": "ライセンス"
+  },
+  {
+    "Key": "SUPPORT_DIALOG_BUTTON_OFFICIAL_SITE",
+    "Text": "公式サイトへ"
+  },
+  {
+    "Key": "SUPPORT_DIALOG_BUTTON_OWNED_CURRENCY",
+    "Text": "所持通貨"
+  },
+  {
+    "Key": "SUPPORT_DIALOG_BUTTON_PRIVACY_POLICY",
+    "Text": "プライバシーポリシー"
+  },
+  {
+    "Key": "SUPPORT_DIALOG_BUTTON_TERMS_OF_USE",
+    "Text": "利用規約"
+  },
+  {
+    "Key": "SUPPORT_DIALOG_TITLE",
+    "Text": "サポート"
+  },
+  {
+    "Key": "TITLE_COPYRIGHT_TEXT",
+    "Text": "© COVER　© Aiming Inc."
+  },
+  {
+    "Key": "TITLE_MENU_NEWS",
+    "Text": "お知らせ"
+  },
+  {
+    "Key": "TITLE_PLAYER_ID_TAP_TEXT",
+    "Text": "ここをタップして表示"
+  },
+  {
+    "Key": "TITLE_SKIP_TUTORIAL_DIALOG_MESSAGE_TEXT",
+    "Text": "チュートリアルをスキップしますか？"
+  },
+  {
+    "Key": "TITLE_SKIP_TUTORIAL_DIALOG_TITLE_TEXT",
+    "Text": "チュートリアル確認"
+  },
+  {
+    "Key": "TITLE_TERMS_DIALOG_CANCEL",
+    "Text": "同意しない"
+  },
+  {
+    "Key": "TITLE_TERMS_DIALOG_MESSAGE",
+    "Text": "このアプリをご利用いただくには、\n利用規約及びプライバシーポリシーに\n同意していただく必要があります。"
+  },
+  {
+    "Key": "TITLE_TERMS_DIALOG_OK",
+    "Text": "同意する"
+  },
+  {
+    "Key": "TITLE_TERMS_DIALOG_POLICY_BTN",
+    "Text": "プライバシーポリシー"
+  },
+  {
+    "Key": "TITLE_TERMS_DIALOG_TERMS_BTN",
+    "Text": "利用規約"
+  },
+  {
+    "Key": "TITLE_TERMS_DIALOG_TITLE",
+    "Text": "規約のご確認"
+  },
+  {
+    "Key": "TRACKING_DIALOG_MESSAGE",
+    "Text": "「ホロライブ麻雀 -ホロじゃん-」では、\n広告効果の計測や分析のためのトラッキングを利用します。\nこれにより、広告を掲載する際の最適化など、サービスを向上致します。\n※トラッキングの設定はゲーム本編には影響ございません。\n※サービス向上のために次の画面で「許可」にしていただけますと幸いです。"
+  },
+  {
+    "Key": "TRACKING_DIALOG_TITLE",
+    "Text": "トラッキング許可のお願い"
+  },
+  {
+    "Key": "TUTORIAL_MAHJONG_END_CONFIRMATION",
+    "Text": "麻雀教室を\n終了してもよろしいですか？"
+  },
+  {
+    "Key": "TUTORIAL_MOVIE_SKIP_MESSAGE",
+    "Text": "導入ストーリーをスキップしますか？"
+  },
+  {
+    "Key": "TUTORIAL_SELECT_TALENT_BUTTON",
+    "Text": "キャラクター\n決定！"
+  },
+  {
+    "Key": "TUTORIAL_SELECT_TALENT_CONFIRMATION",
+    "Text": "{0}のサポーターとして、\n一緒に大会優勝を目指しますか？"
+  },
+  {
+    "Key": "TUTORIAL_SELECT_TALENT_MESSAGE",
+    "Text": "さあ、いよいよ大会の幕開けです！\nあなたは彼女たちを支える『サポーター』。\n推しを優勝させるため、共に戦うキャラクターを選んでください。"
+  },
+  {
+    "Key": "TUTORIAL_SELECT_TALENT_MESSAGE_DIALOG_TITLE",
+    "Text": "牌源郷にようこそ！"
+  },
+  {
+    "Key": "USER_INPUT_DIALOG_EMPTY_TEXT_MESSAGE",
+    "Text": "文字が入力されていません。"
+  },
+  {
+    "Key": "VIP_BY_PURCHASE",
+    "Text": "購入で{0}獲得!"
+  },
+  {
+    "Key": "VIP_DIALOG_TITLE",
+    "Text": "プレミアムサポーター"
+  },
+  {
+    "Key": "VIP_EMPTY",
+    "Text": "-"
+  },
+  {
+    "Key": "VIP_FEATURE_PRIVILEGE_HEADING",
+    "Text": "機能特典"
+  },
+  {
+    "Key": "VIP_ITEM_ALREADY_RECEIVED_BUTTON_LABEL",
+    "Text": "受け取り済み"
+  },
+  {
+    "Key": "VIP_ITEM_PRIVILEGE_HEADING",
+    "Text": "アイテム特典"
+  },
+  {
+    "Key": "VIP_ITEM_RECEIVE_BUTTON_LABEL",
+    "Text": "受け取る"
+  },
+  {
+    "Key": "VIP_MAXIMUM_RANK",
+    "Text": "最大ランク!"
+  },
+  {
+    "Key": "VIP_NEXT_RANK",
+    "Text": "昇格まで"
+  },
+  {
+    "Key": "VIP_RANKUP_PRIVILEGE",
+    "Text": "RANK{0} 昇格特典"
+  },
+  {
+    "Key": "VIP_RANKUP_PRIVILEGE_MAX",
+    "Text": "RANK MAX"
+  },
+  {
+    "Key": "VIP_RANK_UP",
+    "Text": "ランクアップ!"
+  },
+  {
+    "Key": "VIP_RANK_UP_PROGRESS",
+    "Text": "{0}/{1}"
+  },
+  {
+    "Key": "WAITING_ROOM_ACCESSORY_TAB_TITLE",
+    "Text": "アクセサリー"
+  },
+  {
+    "Key": "WAITING_ROOM_FILTER_TITLE_CHARACTER",
+    "Text": "キャラクター"
+  },
+  {
+    "Key": "WAITING_ROOM_FILTER_TITLE_GROUP",
+    "Text": "グループ"
+  },
+  {
+    "Key": "WAITING_ROOM_SCREEN_TITLE",
+    "Text": "控え室"
+  },
+  {
+    "Key": "WAITING_ROOM_STAMP_TAB_TITLE",
+    "Text": "スタンプ"
+  },
+  {
+    "Key": "WAITING_ROOM_TALENT_TAB_TITLE",
+    "Text": "キャラクター"
+  },
+  {
+    "Key": "YAKU_GUIDE_DIALOG_TITLE",
+    "Text": "あそびかた"
+  },
+  {
+    "Key": "YAKU_GUIDE_HOW_TO_PAGE_FORMAT",
+    "Text": "{0}/{1}"
+  },
+  {
+    "Key": "YAKU_GUIDE_HOW_TO_TAB_TITLE",
+    "Text": "HowTo麻雀"
+  },
+  {
+    "Key": "YAKU_GUIDE_HULE_HAI_LABEL",
+    "Text": "アガリ"
+  },
+  {
+    "Key": "YAKU_GUIDE_RONG_HAI_LABEL",
+    "Text": "ロン"
+  },
+  {
+    "Key": "YAKU_GUIDE_RULE_EXPLANATION_TAB_TITLE",
+    "Text": "対局ルール"
+  },
+  {
+    "Key": "YAKU_GUIDE_RYUKYOKU_JIUZHU_DESC",
+    "Text": "親は配牌時、子は誰の鳴きもない状態での第1ツモ時に、手牌に幺九牌（一九字牌）が9種類以上ある状態で宣言でき、宣言すると成立する。"
+  },
+  {
+    "Key": "YAKU_GUIDE_RYUKYOKU_JIUZHU_NAME",
+    "Text": "九種九牌（キュウシュキュウハイ）"
+  },
+  {
+    "Key": "YAKU_GUIDE_RYUKYOKU_SIFU_DESC",
+    "Text": "1巡目に、誰の鳴きもない状態で全員が同じ風牌を捨てると成立する。三人麻雀では発生しない。"
+  },
+  {
+    "Key": "YAKU_GUIDE_RYUKYOKU_SIFU_NAME",
+    "Text": "四風連打（スーフーレンダ）"
+  },
+  {
+    "Key": "YAKU_GUIDE_RYUKYOKU_SIGAN_DESC",
+    "Text": "対局中、複数の対局者で合計4回のカンが行われた時に成立する。"
+  },
+  {
+    "Key": "YAKU_GUIDE_RYUKYOKU_SIGAN_NAME",
+    "Text": "四槓流れ（スーカンナガレ）"
+  },
+  {
+    "Key": "YAKU_GUIDE_RYUKYOKU_SIJIA_DESC",
+    "Text": "対局者4人が全員リーチした時に成立する。三人麻雀では発生しない。"
+  },
+  {
+    "Key": "YAKU_GUIDE_RYUKYOKU_SIJIA_NAME",
+    "Text": "四家立直（スーチャリーチ）"
+  },
+  {
+    "Key": "YAKU_GUIDE_SCORE_TABLE_CHILD_TAB_TITLE",
+    "Text": "子の点数"
+  },
+  {
+    "Key": "YAKU_GUIDE_SCORE_TABLE_FU_COUNT_TAB_TITLE",
+    "Text": "符の数え方"
+  },
+  {
+    "Key": "YAKU_GUIDE_SCORE_TABLE_PARENT_TAB_TITLE",
+    "Text": "親の点数"
+  },
+  {
+    "Key": "YAKU_GUIDE_SCORE_TABLE_TAB_TITLE",
+    "Text": "点数計算表"
+  },
+  {
+    "Key": "YAKU_GUIDE_YAKU_LIST_DOUBLE_YAKUMAN_TAB_TITLE",
+    "Text": "ダブル役満"
+  },
+  {
+    "Key": "YAKU_GUIDE_YAKU_LIST_IPPAN_TAB_TITLE",
+    "Text": "1翻"
+  },
+  {
+    "Key": "YAKU_GUIDE_YAKU_LIST_LOCAL_YAKU_TAB_TITLE",
+    "Text": "ローカル役"
+  },
+  {
+    "Key": "YAKU_GUIDE_YAKU_LIST_NIPPAN_TAB_TITLE",
+    "Text": "2翻"
+  },
+  {
+    "Key": "YAKU_GUIDE_YAKU_LIST_RYUKYOKU_TAB_TITLE",
+    "Text": "流局"
+  },
+  {
+    "Key": "YAKU_GUIDE_YAKU_LIST_SAN_TO_ROPPAN_TAB_TITLE",
+    "Text": "3～6翻"
+  },
+  {
+    "Key": "YAKU_GUIDE_YAKU_LIST_TAB_TITLE",
+    "Text": "役一覧"
+  },
+  {
+    "Key": "YAKU_GUIDE_YAKU_LIST_YAKUMAN_TAB_TITLE",
+    "Text": "役満"
+  },
+  {
+    "Key": "YAKU_GUIDE_ZIMO_HAI_LABEL",
+    "Text": "ツモ"
+  }
+]

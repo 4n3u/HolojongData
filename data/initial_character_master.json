@@ -1,0 +1,187 @@
+[
+  {
+    "Code": 1001,
+    "CostumeCode": 100101,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 1002,
+    "CostumeCode": 100201,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 1003,
+    "CostumeCode": 100301,
+    "DisplayOrder": 12
+  },
+  {
+    "Code": 1004,
+    "CostumeCode": 100401,
+    "DisplayOrder": 14
+  },
+  {
+    "Code": 1006,
+    "CostumeCode": 100601,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 1007,
+    "CostumeCode": 100701,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 1008,
+    "CostumeCode": 100801,
+    "DisplayOrder": 5
+  },
+  {
+    "Code": 1009,
+    "CostumeCode": 100901,
+    "DisplayOrder": 6
+  },
+  {
+    "Code": 1011,
+    "CostumeCode": 101101,
+    "DisplayOrder": 9
+  },
+  {
+    "Code": 1012,
+    "CostumeCode": 101201,
+    "DisplayOrder": 10
+  },
+  {
+    "Code": 1013,
+    "CostumeCode": 101301,
+    "DisplayOrder": 11
+  },
+  {
+    "Code": 1015,
+    "CostumeCode": 101501,
+    "DisplayOrder": 18
+  },
+  {
+    "Code": 1016,
+    "CostumeCode": 101601,
+    "DisplayOrder": 19
+  },
+  {
+    "Code": 1017,
+    "CostumeCode": 101701,
+    "DisplayOrder": 20
+  },
+  {
+    "Code": 1018,
+    "CostumeCode": 101801,
+    "DisplayOrder": 21
+  },
+  {
+    "Code": 1020,
+    "CostumeCode": 102001,
+    "DisplayOrder": 24
+  },
+  {
+    "Code": 1021,
+    "CostumeCode": 102101,
+    "DisplayOrder": 25
+  },
+  {
+    "Code": 1022,
+    "CostumeCode": 102201,
+    "DisplayOrder": 26
+  },
+  {
+    "Code": 1024,
+    "CostumeCode": 102401,
+    "DisplayOrder": 27
+  },
+  {
+    "Code": 1025,
+    "CostumeCode": 102501,
+    "DisplayOrder": 28
+  },
+  {
+    "Code": 1026,
+    "CostumeCode": 102601,
+    "DisplayOrder": 29
+  },
+  {
+    "Code": 1027,
+    "CostumeCode": 102701,
+    "DisplayOrder": 30
+  },
+  {
+    "Code": 1028,
+    "CostumeCode": 102801,
+    "DisplayOrder": 13
+  },
+  {
+    "Code": 1029,
+    "CostumeCode": 102901,
+    "DisplayOrder": 15
+  },
+  {
+    "Code": 1031,
+    "CostumeCode": 103101,
+    "DisplayOrder": 31
+  },
+  {
+    "Code": 1032,
+    "CostumeCode": 103201,
+    "DisplayOrder": 32
+  },
+  {
+    "Code": 1033,
+    "CostumeCode": 103301,
+    "DisplayOrder": 33
+  },
+  {
+    "Code": 1035,
+    "CostumeCode": 103501,
+    "DisplayOrder": 35
+  },
+  {
+    "Code": 1037,
+    "CostumeCode": 103701,
+    "DisplayOrder": 37
+  },
+  {
+    "Code": 1038,
+    "CostumeCode": 103801,
+    "DisplayOrder": 38
+  },
+  {
+    "Code": 1039,
+    "CostumeCode": 103901,
+    "DisplayOrder": 39
+  },
+  {
+    "Code": 1040,
+    "CostumeCode": 104001,
+    "DisplayOrder": 40
+  },
+  {
+    "Code": 1041,
+    "CostumeCode": 104101,
+    "DisplayOrder": 41
+  },
+  {
+    "Code": 1042,
+    "CostumeCode": 104201,
+    "DisplayOrder": 42
+  },
+  {
+    "Code": 1043,
+    "CostumeCode": 104301,
+    "DisplayOrder": 43
+  },
+  {
+    "Code": 1044,
+    "CostumeCode": 104401,
+    "DisplayOrder": 44
+  },
+  {
+    "Code": 1045,
+    "CostumeCode": 104501,
+    "DisplayOrder": 45
+  }
+]

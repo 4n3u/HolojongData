@@ -1,0 +1,205 @@
+[
+  {
+    "GuideCode": 1,
+    "Page": 1,
+    "Title": "一緒に対局するキャラクターを選ぼう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0101",
+    "Text": "キャラクターを一覧で確認できます。\n対局でサポートするキャラクターの設定や\nキャラクターの詳細が確認できます。"
+  },
+  {
+    "GuideCode": 1,
+    "Page": 2,
+    "Title": "好みのスタイルに変更できる！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0102",
+    "Text": "カスタムでは、キャラクターのイメージや\nカットインを切り替えることができます。"
+  },
+  {
+    "GuideCode": 2,
+    "Page": 1,
+    "Title": "アクセサリーで対局を彩ろう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0201",
+    "Text": "対局で使用するアクセサリーを設定できます。\nリーチ棒や演出、BGMを自由に組み合わせられます。"
+  },
+  {
+    "GuideCode": 2,
+    "Page": 2,
+    "Title": "お気に入りのセットを登録しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0202",
+    "Text": "設定したアクセサリーは、\n「プリセット」として保存ができ、\nいつでも呼び出すことができます。"
+  },
+  {
+    "GuideCode": 3,
+    "Page": 1,
+    "Title": "お気に入りのスタンプを登録しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0301",
+    "Text": "対局中に使用できるスタンプを確認できます。\nよく使用するスタンプをお気に入りスタンプに\n登録することで、対局中に使いやすくできます。"
+  },
+  {
+    "GuideCode": 4,
+    "Page": 1,
+    "Title": "コスチュームなどをコレクションしよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0401",
+    "Text": "コレクションでは、キャラクターのコスチュームや、\nアクセサリー、スタンプ、称号などの収集状況を確認できます。"
+  },
+  {
+    "GuideCode": 4,
+    "Page": 2,
+    "Title": "ミッションで報酬を獲得しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0402",
+    "Text": "キャラクターの入手や親密度Lvアップ、対局など、\n様々な条件を満たすことで、称号やアイテムの入手や、\nシチュエーションの解放ができます。"
+  },
+  {
+    "GuideCode": 5,
+    "Page": 1,
+    "Title": "アイテムを管理しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0501",
+    "Text": "持ち物では、所持しているアイテムを確認・使用できます。"
+  },
+  {
+    "GuideCode": 5,
+    "Page": 2,
+    "Title": "余ったプレゼントはリサイクル！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0502",
+    "Text": "不要になったプレゼントはリサイクルして、\nショップで別のアイテムと交換できます。"
+  },
+  {
+    "GuideCode": 6,
+    "Page": 1,
+    "Title": "キャラクターと対局を楽しもう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0601",
+    "Text": "1人でキャラクターたちと対局できるモードです。\nよわい・ふつう・つよいの難易度から選択して対局できます。\n※四人麻雀・東風戦限定、牌譜には残りません。"
+  },
+  {
+    "GuideCode": 7,
+    "Page": 1,
+    "Title": "全国のサポーターと対局しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0701",
+    "Text": "ランクマッチでは、他のサポーターと対局ができます。\n四人東風・四人半荘・三人東風・三人半荘から\n好みのルールを選んで対局できます。"
+  },
+  {
+    "GuideCode": 7,
+    "Page": 2,
+    "Title": "ランクを上げよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0702",
+    "Text": "対局の順位に応じてランクポイントが増減します。\n各ランクのランクアップポイントを満たすと、\nランクを上げることができます。"
+  },
+  {
+    "GuideCode": 8,
+    "Page": 1,
+    "Title": "大会に参加しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0801",
+    "Text": "サポーターが作成した開催中の大会が表示されます。\n参加制限が無い場合、好きな大会に参加できます。\n開催中の公式大会は、おすすめタブに表示されます。"
+  },
+  {
+    "GuideCode": 8,
+    "Page": 2,
+    "Title": "大会を作成しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content0802",
+    "Text": "大会は誰でも作成することができます。\n好きなルールで大会を作成することができ、\n作成者は、その大会の管理者になります。"
+  },
+  {
+    "GuideCode": 10,
+    "Page": 1,
+    "Title": "牌譜で対局を振り返ろう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1001",
+    "Text": "牌譜では、過去の自分の対局をリプレイすることができます。\n自分の牌譜のブックマークや牌譜IDをコピーして共有したり、\n他サポーターの牌譜IDを読み込み、参考にすることができます。"
+  },
+  {
+    "GuideCode": 10,
+    "Page": 2,
+    "Title": "対局の証を残そう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1002",
+    "Text": "ホロライブタレントと対局した牌譜では、\n本人との対局の証明書を保存することができます。"
+  },
+  {
+    "GuideCode": 11,
+    "Page": 1,
+    "Title": "他サポーターの対局を観戦しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1101",
+    "Text": "観戦では、直近で行われている他サポーターの\nランクマッチでの対局を見ることができます。\n全員の手牌を見ながら、観戦することが可能です。"
+  },
+  {
+    "GuideCode": 12,
+    "Page": 1,
+    "Title": "ランキングで競い合おう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1201",
+    "Text": "ランクマッチでの成績を、ランクPtや\nトップ回数などの項目で集計しランキングします。\n上位を目指して対局に挑みましょう！"
+  },
+  {
+    "GuideCode": 13,
+    "Page": 1,
+    "Title": "ホロじゃんパスで報酬を獲得しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1301",
+    "Text": "ホロじゃんパスのレベルに応じて、\n報酬を獲得することができます。\nミッションをクリアし、レベルを上げましょう！"
+  },
+  {
+    "GuideCode": 13,
+    "Page": 2,
+    "Title": "スペシャルパスで追加の報酬をGET！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1302",
+    "Text": "スペシャルパスを購入すると、追加の報酬が獲得できます。\n購入前に上げたレベル分の報酬も獲得できます。"
+  },
+  {
+    "GuideCode": 14,
+    "Page": 1,
+    "Title": "プレミアムサポーター特典でさらにお得！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1401",
+    "Text": "商品購入で貯まるポイントに応じて、\nサポーターランクを上げることができ、\n1日のプレゼント回数の上限増加などの様々な特典が獲得できます！"
+  },
+  {
+    "GuideCode": 15,
+    "Page": 1,
+    "Title": "プロフィールを確認しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1501",
+    "Text": "プロフィールでは、キャラクターのプロフィールや\nコレクションの状況などを確認できます。"
+  },
+  {
+    "GuideCode": 15,
+    "Page": 2,
+    "Title": "ストーリーを読もう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1502",
+    "Text": "ストーリーでは、キャラクターに\nまつわるストーリーを読むことができます。\n親密度や絆などの条件で、ストーリーは解放されます。"
+  },
+  {
+    "GuideCode": 15,
+    "Page": 3,
+    "Title": "ボイスを聴いてみよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1503",
+    "Text": "ボイスでは、キャラクターの様々なボイスを\n聴くことができます。\n親密度やスターランクで解放されるボイスもあります。"
+  },
+  {
+    "GuideCode": 16,
+    "Page": 1,
+    "Title": "キャラクターと交流しよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1601",
+    "Text": "プレゼントを渡すことで親密度が上がります。\nホームで表示・交流するキャラクターは、\nホームキャラクター設定から変更できます。"
+  },
+  {
+    "GuideCode": 16,
+    "Page": 2,
+    "Title": "キャラクターと絆を結ぼう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1602",
+    "Text": "親密度を最大にすると、アイテムを使用して絆を結ぶことができます。\n親密度を上げたり、絆を結ぶことで、\n新たなストーリーやボイスが解放されます。"
+  },
+  {
+    "GuideCode": 16,
+    "Page": 3,
+    "Title": "キャラクターの親密度を上げよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1603",
+    "Text": "キャラクターの親密度は、ランクマッチや\nシングルモードで対局を行うことでも上げられます。\n※シングルモードでの親密度上昇は1日ごとに回数制限があります。"
+  },
+  {
+    "GuideCode": 17,
+    "Page": 1,
+    "Title": "ガチャでキャラクターを迎えよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1701",
+    "Text": "ジュエルを消費して、 \nキャラクターや対局中に使用できるアクセサリー、 \nプレゼントアイテムを獲得できるガチャが行えます。"
+  },
+  {
+    "GuideCode": 17,
+    "Page": 2,
+    "Title": "スクラッチで絵柄を3つ揃えよう！",
+    "ImageAddress": "UI_Textures_Images_TutorialTips_Guide_Tips_Content1702",
+    "Text": "ガチャは、スクラッチの形式で行われます。\n同じ絵柄が3つ揃うと、絵柄に沿った\nキャラクターやアイテムを獲得できます。"
+  }
+]

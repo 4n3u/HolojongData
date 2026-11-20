@@ -1,0 +1,224 @@
+[
+  {
+    "Code": 1001,
+    "Name": "ときのそら",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1001",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1002,
+    "Name": "ロボ子さん",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1002",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1003,
+    "Name": "AZKi",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1003",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1004,
+    "Name": "さくらみこ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1004",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1006,
+    "Name": "アキ・ローゼンタール",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1006",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1007,
+    "Name": "赤井はあと",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1007",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1008,
+    "Name": "白上フブキ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1008",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1009,
+    "Name": "夏色まつり",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1009",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1011,
+    "Name": "百鬼あやめ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1011",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1012,
+    "Name": "癒月ちょこ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1012",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1013,
+    "Name": "大空スバル",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1013",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1015,
+    "Name": "兎田ぺこら",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1015",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1016,
+    "Name": "不知火フレア",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1016",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1017,
+    "Name": "白銀ノエル",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1017",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1018,
+    "Name": "宝鐘マリン",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1018",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1020,
+    "Name": "角巻わため",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1020",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1021,
+    "Name": "常闇トワ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1021",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1022,
+    "Name": "姫森ルーナ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1022",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1024,
+    "Name": "雪花ラミィ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1024",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1025,
+    "Name": "桃鈴ねね",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1025",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1026,
+    "Name": "獅白ぼたん",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1026",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1027,
+    "Name": "尾丸ポルカ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1027",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1028,
+    "Name": "大神ミオ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1028",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1029,
+    "Name": "猫又おかゆ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1029",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1031,
+    "Name": "ラプラス・ダークネス",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1031",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1032,
+    "Name": "鷹嶺ルイ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1032",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1033,
+    "Name": "博衣こより",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1033",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1035,
+    "Name": "風真いろは",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1035",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1037,
+    "Name": "音乃瀬奏",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1037",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1038,
+    "Name": "一条莉々華",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1038",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1039,
+    "Name": "儒烏風亭らでん",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1039",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1040,
+    "Name": "轟はじめ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1040",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1041,
+    "Name": "響咲リオナ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1041",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1042,
+    "Name": "虎金妃笑虎",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1042",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1043,
+    "Name": "水宮枢",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1043",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1044,
+    "Name": "輪堂千速",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1044",
+    "NameImageAddress": ""
+  },
+  {
+    "Code": 1045,
+    "Name": "綺々羅々ヴィヴィ",
+    "PrefabAddress": "UI_Prefabs_Mahjong_Cutin_PersonHimself_PersonHimself_1045",
+    "NameImageAddress": ""
+  }
+]

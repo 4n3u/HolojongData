@@ -1,0 +1,62 @@
+[
+  {
+    "Code": 30001,
+    "DisplayOrder": 10000,
+    "ImageName": "UI_Textures_Images_EventBanner_EBA_30001",
+    "ScheduleCode": "300011",
+    "ScreenTransition1": 13,
+    "ScreenTransitionParams": [
+      30001
+    ]
+  },
+  {
+    "Code": 110001,
+    "DisplayOrder": 1,
+    "ImageName": "UI_Textures_Images_GachaBanner_GAB_110001",
+    "ScheduleCode": "100010001",
+    "ScreenTransition1": 10,
+    "ScreenTransitionParams": [
+      110001
+    ]
+  },
+  {
+    "Code": 110010,
+    "DisplayOrder": 0,
+    "ImageName": "UI_Textures_Images_GachaBanner_GAB_000025",
+    "ScheduleCode": "100010001",
+    "ScreenTransition1": 10,
+    "ScreenTransitionParams": [
+      110010
+    ]
+  },
+  {
+    "Code": 110011,
+    "DisplayOrder": 2,
+    "ImageName": "UI_Textures_Images_GachaBanner_GAB_000026",
+    "ScheduleCode": "100010001",
+    "ScreenTransition1": 10,
+    "ScreenTransitionParams": [
+      110011
+    ]
+  },
+  {
+    "Code": 110012,
+    "DisplayOrder": 3,
+    "ImageName": "UI_Textures_Images_GachaBanner_GAB_000027",
+    "ScheduleCode": "100010001",
+    "ScreenTransition1": 10,
+    "ScreenTransitionParams": [
+      110012
+    ]
+  },
+  {
+    "Code": 2100101,
+    "DisplayOrder": 1000,
+    "ImageName": "UI_Textures_Images_HomeBanner_BeginnerMission_HomeBanner",
+    "ScheduleCode": "",
+    "ScreenTransition1": 5,
+    "ScreenTransitionParams": [
+      2100101
+    ]
+  }
+]

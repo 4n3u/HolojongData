@@ -1,0 +1,14 @@
+[
+  {
+    "Index": 1,
+    "CardAddress": "UI_InviteFriend_InviteFriendImage_7000001",
+    "ShowScheduleCode": "",
+    "FirstViewPriority": 110
+  },
+  {
+    "Index": 2,
+    "CardAddress": "UI_InviteFriend_InviteFriendImage_7000002",
+    "ShowScheduleCode": "",
+    "FirstViewPriority": 100
+  }
+]

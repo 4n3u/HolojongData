@@ -1,0 +1,290 @@
+[
+  {
+    "LotteryCode": 110001,
+    "InventoryType": 8,
+    "InventoryCode": 1100801,
+    "Category": 2,
+    "PickupType": 1,
+    "SortOrder": 2,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110001,
+    "InventoryType": 8,
+    "InventoryCode": 2100801,
+    "Category": 3,
+    "PickupType": 1,
+    "SortOrder": 3,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110001,
+    "InventoryType": 8,
+    "InventoryCode": 3100801,
+    "Category": 4,
+    "PickupType": 1,
+    "SortOrder": 4,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110001,
+    "InventoryType": 8,
+    "InventoryCode": 5100801,
+    "Category": 6,
+    "PickupType": 1,
+    "SortOrder": 5,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110001,
+    "InventoryType": 8,
+    "InventoryCode": 6100801,
+    "Category": 7,
+    "PickupType": 1,
+    "SortOrder": 6,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110001,
+    "InventoryType": 8,
+    "InventoryCode": 7100801,
+    "Category": 8,
+    "PickupType": 1,
+    "SortOrder": 7,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110001,
+    "InventoryType": 8,
+    "InventoryCode": 8100801,
+    "Category": 9,
+    "PickupType": 1,
+    "SortOrder": 8,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110001,
+    "InventoryType": 11,
+    "InventoryCode": 100801,
+    "Category": 1,
+    "PickupType": 1,
+    "SortOrder": 1,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110010,
+    "InventoryType": 8,
+    "InventoryCode": 1100601,
+    "Category": 2,
+    "PickupType": 1,
+    "SortOrder": 2,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110010,
+    "InventoryType": 8,
+    "InventoryCode": 2100601,
+    "Category": 3,
+    "PickupType": 1,
+    "SortOrder": 3,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110010,
+    "InventoryType": 8,
+    "InventoryCode": 3100601,
+    "Category": 4,
+    "PickupType": 1,
+    "SortOrder": 4,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110010,
+    "InventoryType": 8,
+    "InventoryCode": 5100601,
+    "Category": 6,
+    "PickupType": 1,
+    "SortOrder": 5,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110010,
+    "InventoryType": 8,
+    "InventoryCode": 6100601,
+    "Category": 7,
+    "PickupType": 1,
+    "SortOrder": 6,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110010,
+    "InventoryType": 8,
+    "InventoryCode": 7100601,
+    "Category": 8,
+    "PickupType": 1,
+    "SortOrder": 7,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110010,
+    "InventoryType": 8,
+    "InventoryCode": 8100601,
+    "Category": 9,
+    "PickupType": 1,
+    "SortOrder": 8,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110010,
+    "InventoryType": 11,
+    "InventoryCode": 100601,
+    "Category": 1,
+    "PickupType": 1,
+    "SortOrder": 1,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110011,
+    "InventoryType": 8,
+    "InventoryCode": 1101801,
+    "Category": 2,
+    "PickupType": 1,
+    "SortOrder": 2,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110011,
+    "InventoryType": 8,
+    "InventoryCode": 2101801,
+    "Category": 3,
+    "PickupType": 1,
+    "SortOrder": 3,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110011,
+    "InventoryType": 8,
+    "InventoryCode": 3101801,
+    "Category": 4,
+    "PickupType": 1,
+    "SortOrder": 4,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110011,
+    "InventoryType": 8,
+    "InventoryCode": 5101801,
+    "Category": 6,
+    "PickupType": 1,
+    "SortOrder": 5,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110011,
+    "InventoryType": 8,
+    "InventoryCode": 6101801,
+    "Category": 7,
+    "PickupType": 1,
+    "SortOrder": 6,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110011,
+    "InventoryType": 8,
+    "InventoryCode": 7101801,
+    "Category": 8,
+    "PickupType": 1,
+    "SortOrder": 7,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110011,
+    "InventoryType": 8,
+    "InventoryCode": 8101801,
+    "Category": 9,
+    "PickupType": 1,
+    "SortOrder": 8,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110011,
+    "InventoryType": 11,
+    "InventoryCode": 101801,
+    "Category": 1,
+    "PickupType": 1,
+    "SortOrder": 1,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110012,
+    "InventoryType": 8,
+    "InventoryCode": 1103801,
+    "Category": 2,
+    "PickupType": 1,
+    "SortOrder": 2,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110012,
+    "InventoryType": 8,
+    "InventoryCode": 2103801,
+    "Category": 3,
+    "PickupType": 1,
+    "SortOrder": 3,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110012,
+    "InventoryType": 8,
+    "InventoryCode": 3103801,
+    "Category": 4,
+    "PickupType": 1,
+    "SortOrder": 4,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110012,
+    "InventoryType": 8,
+    "InventoryCode": 5103801,
+    "Category": 6,
+    "PickupType": 1,
+    "SortOrder": 5,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110012,
+    "InventoryType": 8,
+    "InventoryCode": 6103801,
+    "Category": 7,
+    "PickupType": 1,
+    "SortOrder": 6,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110012,
+    "InventoryType": 8,
+    "InventoryCode": 7103801,
+    "Category": 8,
+    "PickupType": 1,
+    "SortOrder": 7,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110012,
+    "InventoryType": 8,
+    "InventoryCode": 8103801,
+    "Category": 9,
+    "PickupType": 1,
+    "SortOrder": 8,
+    "AddItems": []
+  },
+  {
+    "LotteryCode": 110012,
+    "InventoryType": 11,
+    "InventoryCode": 103801,
+    "Category": 1,
+    "PickupType": 1,
+    "SortOrder": 1,
+    "AddItems": []
+  }
+]

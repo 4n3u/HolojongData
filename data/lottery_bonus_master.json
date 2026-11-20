@@ -1,0 +1,62 @@
+[
+  {
+    "Code": 110001,
+    "BonusPointItemCode": 911110001,
+    "BonusSettings": [
+      {
+        "BonusRewardCode": 110001,
+        "StartPoint": 0,
+        "IsLoop": true,
+        "LoopLimit": 4
+      }
+    ]
+  },
+  {
+    "Code": 110010,
+    "BonusPointItemCode": 911110010,
+    "BonusSettings": [
+      {
+        "BonusRewardCode": 110010,
+        "StartPoint": 0,
+        "IsLoop": true,
+        "LoopLimit": 4
+      }
+    ]
+  },
+  {
+    "Code": 110011,
+    "BonusPointItemCode": 911110011,
+    "BonusSettings": [
+      {
+        "BonusRewardCode": 110011,
+        "StartPoint": 0,
+        "IsLoop": true,
+        "LoopLimit": 4
+      }
+    ]
+  },
+  {
+    "Code": 110012,
+    "BonusPointItemCode": 911110012,
+    "BonusSettings": [
+      {
+        "BonusRewardCode": 110012,
+        "StartPoint": 0,
+        "IsLoop": true,
+        "LoopLimit": 4
+      }
+    ]
+  },
+  {
+    "Code": 810001,
+    "BonusPointItemCode": 911810001,
+    "BonusSettings": [
+      {
+        "BonusRewardCode": 810001,
+        "StartPoint": 0,
+        "IsLoop": true,
+        "LoopLimit": 0
+      }
+    ]
+  }
+]

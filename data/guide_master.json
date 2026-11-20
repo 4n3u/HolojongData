@@ -1,0 +1,82 @@
+[
+  {
+    "Code": 1,
+    "DisplayLocation": 0,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 2,
+    "DisplayLocation": 1,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 3,
+    "DisplayLocation": 2,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 4,
+    "DisplayLocation": 3,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 5,
+    "DisplayLocation": 4,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 6,
+    "DisplayLocation": 5,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 7,
+    "DisplayLocation": 6,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 8,
+    "DisplayLocation": 7,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 10,
+    "DisplayLocation": 9,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 11,
+    "DisplayLocation": 10,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 12,
+    "DisplayLocation": 11,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 13,
+    "DisplayLocation": 12,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 14,
+    "DisplayLocation": 13,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 15,
+    "DisplayLocation": 14,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 16,
+    "DisplayLocation": 15,
+    "ForceDisplay": true
+  },
+  {
+    "Code": 17,
+    "DisplayLocation": 16,
+    "ForceDisplay": true
+  }
+]

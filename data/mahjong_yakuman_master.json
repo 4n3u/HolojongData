@@ -1,0 +1,122 @@
+[
+  {
+    "Code": 1001,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_heavenly_hand",
+    "FullScreenTextTrackName": "天和",
+    "TextCount": 2,
+    "WaitTimeSec": 5.800000190734863,
+    "Priority": 2
+  },
+  {
+    "Code": 1002,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_earthly_hand",
+    "FullScreenTextTrackName": "地和",
+    "TextCount": 2,
+    "WaitTimeSec": 5.800000190734863,
+    "Priority": 4
+  },
+  {
+    "Code": 1003,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_thirteen_orphans",
+    "FullScreenTextTrackName": "国士無双",
+    "TextCount": 4,
+    "WaitTimeSec": 6.199999809265137,
+    "Priority": 10
+  },
+  {
+    "Code": 1004,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_thirteen_orphans_13_way_wait",
+    "FullScreenTextTrackName": "国士無双十三面待ち",
+    "TextCount": 9,
+    "WaitTimeSec": 7.199999809265137,
+    "Priority": 3
+  },
+  {
+    "Code": 1005,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_four_concealed_triplets",
+    "FullScreenTextTrackName": "四暗刻",
+    "TextCount": 3,
+    "WaitTimeSec": 6.0,
+    "Priority": 11
+  },
+  {
+    "Code": 1006,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_four_concealed_triplets_single_wait",
+    "FullScreenTextTrackName": "四暗刻単騎",
+    "TextCount": 5,
+    "WaitTimeSec": 6.400000095367432,
+    "Priority": 4
+  },
+  {
+    "Code": 1007,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_big_three_dragons",
+    "FullScreenTextTrackName": "大三元",
+    "TextCount": 3,
+    "WaitTimeSec": 6.0,
+    "Priority": 9
+  },
+  {
+    "Code": 1008,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_four_little_winds",
+    "FullScreenTextTrackName": "小四喜",
+    "TextCount": 3,
+    "WaitTimeSec": 6.0,
+    "Priority": 8
+  },
+  {
+    "Code": 1009,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_four_big_winds",
+    "FullScreenTextTrackName": "大四喜",
+    "TextCount": 3,
+    "WaitTimeSec": 6.0,
+    "Priority": 2
+  },
+  {
+    "Code": 1010,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_all_honors",
+    "FullScreenTextTrackName": "字一色",
+    "TextCount": 3,
+    "WaitTimeSec": 6.0,
+    "Priority": 7
+  },
+  {
+    "Code": 1011,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_all_green",
+    "FullScreenTextTrackName": "緑一色",
+    "TextCount": 3,
+    "WaitTimeSec": 6.0,
+    "Priority": 5
+  },
+  {
+    "Code": 1012,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_all_terminals",
+    "FullScreenTextTrackName": "清老頭",
+    "TextCount": 3,
+    "WaitTimeSec": 6.0,
+    "Priority": 6
+  },
+  {
+    "Code": 1013,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_four_quads",
+    "FullScreenTextTrackName": "四槓子",
+    "TextCount": 3,
+    "WaitTimeSec": 6.099999904632568,
+    "Priority": 1
+  },
+  {
+    "Code": 1014,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_nine_gates",
+    "FullScreenTextTrackName": "九蓮宝燈",
+    "TextCount": 4,
+    "WaitTimeSec": 6.199999809265137,
+    "Priority": 3
+  },
+  {
+    "Code": 1015,
+    "TypewriterResourceAddress": "Movie_Yakuman_yakuman_true_nine_gates",
+    "FullScreenTextTrackName": "純正九蓮宝燈",
+    "TextCount": 6,
+    "WaitTimeSec": 6.599999904632568,
+    "Priority": 1
+  }
+]

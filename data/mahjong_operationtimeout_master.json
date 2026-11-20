@@ -1,0 +1,32 @@
+[
+  {
+    "Code": 1,
+    "BaseTime": 5000,
+    "PersonalTime": 5000,
+    "TextKey": "MAHJONG_OPERATION_TIMEOUT_1"
+  },
+  {
+    "Code": 2,
+    "BaseTime": 5000,
+    "PersonalTime": 10000,
+    "TextKey": "MAHJONG_OPERATION_TIMEOUT_2"
+  },
+  {
+    "Code": 3,
+    "BaseTime": 5000,
+    "PersonalTime": 20000,
+    "TextKey": "MAHJONG_OPERATION_TIMEOUT_3"
+  },
+  {
+    "Code": 4,
+    "BaseTime": 10000,
+    "PersonalTime": 30000,
+    "TextKey": "MAHJONG_OPERATION_TIMEOUT_4"
+  },
+  {
+    "Code": 5,
+    "BaseTime": 20000,
+    "PersonalTime": 30000,
+    "TextKey": "MAHJONG_OPERATION_TIMEOUT_5"
+  }
+]

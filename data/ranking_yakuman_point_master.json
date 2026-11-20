@@ -1,0 +1,34 @@
+[
+  {
+    "YakumanCount": 1,
+    "Point": 1
+  },
+  {
+    "YakumanCount": 2,
+    "Point": 10
+  },
+  {
+    "YakumanCount": 3,
+    "Point": 100
+  },
+  {
+    "YakumanCount": 4,
+    "Point": 1000
+  },
+  {
+    "YakumanCount": 5,
+    "Point": 10000
+  },
+  {
+    "YakumanCount": 6,
+    "Point": 100000
+  },
+  {
+    "YakumanCount": 7,
+    "Point": 1000000
+  },
+  {
+    "YakumanCount": 8,
+    "Point": 10000000
+  }
+]

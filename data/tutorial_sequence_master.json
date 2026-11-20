@@ -1,0 +1,1556 @@
+[
+  {
+    "GroupId": 999998,
+    "Index": 1,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "こんこよ～！　holoXの頭脳！　博衣こよりだよ～！\nこよの麻雀教室へようこそ！"
+    ]
+  },
+  {
+    "GroupId": 999998,
+    "Index": 2,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999998,
+    "Index": 3,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "今日は実際に対局しながら覚えていくよ～\nイチから教えるから、安心してついてきて～！"
+    ]
+  },
+  {
+    "GroupId": 999998,
+    "Index": 4,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999998,
+    "Index": 5,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "途中でやめてもメニューの『麻雀教室』で\n見直せるよ～　さっそく始めよう！"
+    ]
+  },
+  {
+    "GroupId": 999998,
+    "Index": 6,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 91,
+    "CommandType": 10004,
+    "Params": [
+      "2",
+      "0",
+      "m7"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 92,
+    "CommandType": 10004,
+    "Params": [
+      "3",
+      "0",
+      "m5"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 93,
+    "CommandType": 10004,
+    "Params": [
+      "1",
+      "0",
+      "z6"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 94,
+    "CommandType": 10004,
+    "Params": [
+      "2",
+      "0",
+      "s4"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 95,
+    "CommandType": 10004,
+    "Params": [
+      "3",
+      "0",
+      "m5"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 96,
+    "CommandType": 10004,
+    "Params": [
+      "1",
+      "0",
+      "m6"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 99,
+    "CommandType": 10000,
+    "Params": [
+      "7",
+      "0",
+      "2"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 98,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "あっ、あれ待ってた牌だよ！\nラプちゃんが捨てた牌でアガれる！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 90,
+    "CommandType": 10004,
+    "Params": [
+      "1",
+      "0",
+      "z5"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 100,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "相手の捨て牌でアガる時は『ロン』！\nさあ、ロンしてみよう～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 101,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 102,
+    "CommandType": 10000,
+    "Params": [
+      "2",
+      "0",
+      "2"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 103,
+    "CommandType": 10000,
+    "Params": [
+      "3",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 97,
+    "CommandType": 10004,
+    "Params": [
+      "2",
+      "0",
+      "p4"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 89,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 86,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 87,
+    "CommandType": 10003,
+    "Params": [
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 73,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "<ruby=リーチ>立直</ruby>成功～！！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 74,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 75,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "<ruby=リーチ>立直</ruby>した後は手牌を変えられないから、\nあとはアガれるまで自動で進むよ～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 76,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 77,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "途中で引いたけどアガれない牌は\n自動で捨ててくれるから安心してね～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 78,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 88,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "それじゃあ、アガれる牌が出てきたら教えるね！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 79,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "右の『待ち牌表示』を押してみて～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 81,
+    "CommandType": 10000,
+    "Params": [
+      "5",
+      "0",
+      "3"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 82,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "これが『待ち牌表示』だよ～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 83,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 84,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000006",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 85,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "どの牌でアガれるか一目でわかるから\n困ったら見てみてね～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 104,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "ロン～！！\nどーんと点数が入って1位だよ～♪"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 80,
+    "CommandType": 10000,
+    "Params": [
+      "8",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 105,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 108,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "今回はラプちゃんから『ロン』できたけど、\n自分で引いた牌でアガる時は『ツモ』になるよ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 107,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 126,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000009",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 127,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "不安なら『シングルモード』で\nこよと練習しよう～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 128,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 129,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "対戦相手も好きなキャラを選べて\n何度でも遊べるよ～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 130,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 131,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "考える時間の制限もないから、\nじっくり悩んで打てるよ～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 125,
+    "CommandType": 10003,
+    "Params": [
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 132,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 134,
+    "CommandType": 10003,
+    "Params": [
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 135,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 136,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "サポーターさん、今日はこよと一緒に\n打ってくれてありがとね～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 137,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 138,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "麻雀教室はいつでも開いてるから\nまた遊びにきてね。"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 139,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 133,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "自分のペースで楽しもっ♪"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 106,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "実験大成功！　すべてが計算通り！？\nこよたち、大天才っ！！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 124,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 122,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 72,
+    "CommandType": 10000,
+    "Params": [
+      "1",
+      "s8",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 109,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 110,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "麻雀は本来、これを4回以上\n繰り返して遊ぶゲームなんだけど～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 111,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 112,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "今回みたいに、誰かの点がマイナスに\nなった時点で途中でもゲームが終了するよ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 113,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 123,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "他にも麻雀のことがよくわかる\n『HowTo麻雀』もあるから、好きな時に見てね！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 114,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000007",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 116,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 117,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "点数の計算も、全部自動で進行しちゃうんだ～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 118,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 119,
+    "CommandType": 10003,
+    "Params": [
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 120,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000008",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 121,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "役がわからない？\n大丈夫！『あそびかた』に役の一覧がのってるよ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 115,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "アガれた時は、作れた『役』によって\nゲットできる点数を表示するよ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 71,
+    "CommandType": 10000,
+    "Params": [
+      "2",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 68,
+    "CommandType": 10000,
+    "Params": [
+      "5",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 69,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "よーし、<ruby=リーチ>立直</ruby>してみよう！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 19,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 20,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "「同じ牌3枚」または「同じ種類の連番3枚」の<ruby=メンツ>面子</ruby>をあわせて4組と、\n「同じ牌2枚」の<ruby=ジャントウ>雀頭</ruby>を1組揃えればアガリだよ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 21,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 22,
+    "CommandType": 10003,
+    "Params": [
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 23,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "アガると点数がもらえて\n一番多い人が1位になるんだ～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 24,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 18,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "麻雀は牌をそろえるゲーム！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 25,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "麻雀は自分の番が来たら\n『1枚引いて、1枚捨てる』の繰り返しだよ～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 27,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000004",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 28,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "牌の上についてる印は\n『捨てるのがオススメの牌』の目印だよ。"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 29,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 30,
+    "CommandType": 10003,
+    "Params": [
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 31,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "いまの手牌でいちばんいらない牌に\n印がついてるよ　迷ったらコレ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 32,
+    "CommandType": 10000,
+    "Params": [
+      "4",
+      "z3",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 26,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 33,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "さっそく、印がついた牌を捨ててみよう！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 17,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000003",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 15,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "じゃあ次は麻雀の勝ち方！\n『アガリ』を教えるね～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 1,
+    "CommandType": 10005,
+    "Params": [
+      "m1m2m3m4m6s6m8m8m9p1p1p1p2p2p3p4p4p5p5p5p6p6p6p7p7p8p8p8p9p9p9s1s1s1s2s2s2s3s3s3s4s4s5m4m7s6s6s7s8s9s9z1z1z1z2z3z4z4z5z5z6z6z7z7z7p4m6z4m5s4z6z2m5m7z5s7s5z2s8m3s5p3z3s8s9m9s4z3m3m2m1m9z7z6z5z4s3s2s1p9s7p7p3p2m8m7m6m5z3z2z1s9p8p7p6p5m9m8m7m6m4m3m2m1s8s7s6s5p4p3p2p1m5m4m2m1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 2,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "まずは麻雀牌の紹介だよ～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 3,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 4,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000001",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 5,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "<ruby=スウハイ>数牌</ruby>は1から9の数が振られた数字の牌で\n<ruby=マンズ>萬子</ruby>・<ruby=ピンズ>筒子</ruby>・<ruby=ソーズ>索子</ruby>の3種類あるよ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 6,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 16,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 7,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000002",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 9,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 10,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "<ruby=ハク>白</ruby>・<ruby=ハツ>發</ruby>・<ruby=チュン>中</ruby>の『<ruby=サンゲンパイ>三元牌</ruby>』！\n牌の種類はこれでぜんぶ～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 11,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 12,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "ひとまずこれだけ覚えればOK！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 13,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 14,
+    "CommandType": 10003,
+    "Params": [
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 8,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "<ruby=ジハイ>字牌</ruby>は<ruby=トン>東</ruby>・<ruby=ナン>南</ruby>・<ruby=シャー>西</ruby>・<ruby=ペー>北</ruby>の『<ruby=カゼハイ>風牌</ruby>』と～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 70,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 34,
+    "CommandType": 10000,
+    "Params": [
+      "4",
+      "z3",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 36,
+    "CommandType": 10004,
+    "Params": [
+      "1",
+      "0",
+      "z3"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 55,
+    "CommandType": 10000,
+    "Params": [
+      "4",
+      "s7",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 56,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "じゃあ、もう一度印がついた牌を捨てて\n形を整えていこ～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 57,
+    "CommandType": 10000,
+    "Params": [
+      "4",
+      "p7",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 58,
+    "CommandType": 10000,
+    "Params": [
+      "1",
+      "p7",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 59,
+    "CommandType": 10004,
+    "Params": [
+      "1",
+      "0",
+      "s8"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 60,
+    "CommandType": 10004,
+    "Params": [
+      "2",
+      "0",
+      "z2"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 54,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "キラキラした『ドラ』がいっぱいあると、\nなんかいいことあるかも♪"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 61,
+    "CommandType": 10004,
+    "Params": [
+      "3",
+      "0",
+      "s5"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 63,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "見て見て～！『テンパイ』だよ！\nあと1枚でアガリ～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 64,
+    "CommandType": 10000,
+    "Params": [
+      "5",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 65,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "ここで使えるのが『<ruby=リーチ>立直</ruby>』だよ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 66,
+    "CommandType": 10000,
+    "Params": [
+      "5",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 67,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "『<ruby=リーチ>立直</ruby>』は『あと1枚でアガリ！』の宣言で、\n点数がアップする必殺技だよ。"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 140,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "それじゃあ、おつこよ～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 62,
+    "CommandType": 10007,
+    "Params": [
+      "1300"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 35,
+    "CommandType": 10000,
+    "Params": [
+      "1",
+      "z3",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 53,
+    "CommandType": 10000,
+    "Params": [
+      "4",
+      "s7",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 51,
+    "CommandType": 10000,
+    "Params": [
+      "4",
+      "s7",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 37,
+    "CommandType": 10004,
+    "Params": [
+      "2",
+      "0",
+      "p3"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 38,
+    "CommandType": 10004,
+    "Params": [
+      "3",
+      "0",
+      "s5"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 39,
+    "CommandType": 10007,
+    "Params": [
+      "1000"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 40,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "ナイス！　サポーターさん、センスあるね～！\nこの調子でいこ～！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 41,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 42,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "いま手牌がアガリに1歩近づいたよ！\n左下の『テンパイまで』を見て～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 52,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "これは『ドラ』だよ～\n持ってると、アガった時の点数がアップするラッキー牌なんだ！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 43,
+    "CommandType": 10000,
+    "Params": [
+      "5",
+      "0",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 45,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "この数字は\nアガリに近づくほど小さくなるんだ～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 46,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 47,
+    "CommandType": 10001,
+    "Params": [
+      "0",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "0になったら『テンパイ』！\nアガリまであと1枚の合図だよ～"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 48,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 49,
+    "CommandType": 10003,
+    "Params": [
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 50,
+    "CommandType": 10001,
+    "Params": [
+      "1",
+      "1",
+      "UI_Textures_Images_TalentImage_StandingImage_CSI_103301",
+      "博衣こより",
+      "サポーターさん、よくみたらキラキラ光る牌を持ってるね！"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 44,
+    "CommandType": 10003,
+    "Params": [
+      "1",
+      "UI_Textures_Images_TutorialTips_TIP_000005",
+      "1"
+    ]
+  },
+  {
+    "GroupId": 999999,
+    "Index": 141,
+    "CommandType": 10000,
+    "Params": [
+      "0",
+      "0",
+      "0"
+    ]
+  }
+]

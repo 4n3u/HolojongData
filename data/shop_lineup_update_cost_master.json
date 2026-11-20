@@ -1,0 +1,22 @@
+[
+  {
+    "ShopCode": 3001,
+    "Step": 1,
+    "Cost": 50
+  },
+  {
+    "ShopCode": 3001,
+    "Step": 2,
+    "Cost": 100
+  },
+  {
+    "ShopCode": 3001,
+    "Step": 3,
+    "Cost": 150
+  },
+  {
+    "ShopCode": 3001,
+    "Step": 4,
+    "Cost": 200
+  }
+]

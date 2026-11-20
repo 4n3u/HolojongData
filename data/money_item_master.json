@@ -1,0 +1,145 @@
+[
+  {
+    "ItemCode": 100000001,
+    "ItemBehaviourType": 6,
+    "Rarity": 5,
+    "Name": "ジュエル",
+    "Description": "ふしぎな虹色にきらめく美しい宝石。\nガチャやショップで使用できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_100000001",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 100000002,
+    "ItemBehaviourType": 7,
+    "Rarity": 5,
+    "Name": "ジュエル（有償）",
+    "Description": "ふしぎな虹色にきらめく美しい宝石。\nガチャやショップで使用できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_100000002",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 100000003,
+    "ItemBehaviourType": 8,
+    "Rarity": 5,
+    "Name": "ジュエル（有償）",
+    "Description": "ふしぎな虹色にきらめく美しい宝石。\nガチャやショップで使用できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_100000002",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 100000004,
+    "ItemBehaviourType": 9,
+    "Rarity": 5,
+    "Name": "ジュエル",
+    "Description": "ふしぎな虹色にきらめく美しい宝石。\nガチャやショップで使用できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_100000001",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 100010001,
+    "ItemBehaviourType": 3,
+    "Rarity": 1,
+    "Name": "マニー",
+    "Description": "キラキラ輝く金色のコイン。\nショップやランクマッチで使用できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_100010001",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 100010002,
+    "ItemBehaviourType": 4,
+    "Rarity": 1,
+    "Name": "マニー（有償）",
+    "Description": "キラキラ輝く金色のコイン。\nショップやランクマッチで使用できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_100010001",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 100010003,
+    "ItemBehaviourType": 5,
+    "Rarity": 1,
+    "Name": "マニー",
+    "Description": "キラキラ輝く金色のコイン。\nショップやランクマッチで使用できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_100010001",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 200000001,
+    "ItemBehaviourType": 38,
+    "Rarity": 3,
+    "Name": "レギュラーガチャチケット",
+    "Description": "わくわくが詰まったチケット。\n使用するとホロじゃんスクラッチを1回引ける。",
+    "IsShowItemInventory": true,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_200000001",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 200000003,
+    "ItemBehaviourType": 38,
+    "Rarity": 4,
+    "Name": "リーチ演出確定ガチャチケット",
+    "Description": "使用すると1回リーチ演出確定スクラッチを\n引くことができる。",
+    "IsShowItemInventory": true,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_200000003",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 210000001,
+    "ItemBehaviourType": 37,
+    "Rarity": 5,
+    "Name": "キャラクター交換券",
+    "Description": "貴重な交換券。\nショップで対象のキャラクターと交換できる。",
+    "IsShowItemInventory": true,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_210000001",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 300000001,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "プレゼントPt",
+    "Description": "プレゼントをリサイクルするともらえるポイント。\nショップでアイテムと交換できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_300000001",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 300000002,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "スクラッチPt",
+    "Description": "スクラッチでアイテムが被るともらえるポイント。\nショップでプレゼントと交換できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_300000002",
+    "ScheduleCode": ""
+  },
+  {
+    "ItemCode": 300000003,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "友達招待Pt",
+    "Description": "友達招待ミッションの達成でもらえるポイント。\nショップでアイテムと交換できる。",
+    "IsShowItemInventory": false,
+    "IsPaidItem": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_300000003",
+    "ScheduleCode": ""
+  }
+]

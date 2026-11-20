@@ -1,0 +1,83 @@
+[
+  {
+    "Code": 110001,
+    "ButtonSettings": [
+      {
+        "ButtonIndex": 1,
+        "ConsumeItemCode": 100000001,
+        "ConsumeCount": 300,
+        "CommonTicketCode": 0,
+        "CommonTicketCount": 0,
+        "TimesA": 1,
+        "TimesB": 0,
+        "LimittedTime": 0,
+        "AnnotationType": 0,
+        "IsHighlighted": false
+      },
+      {
+        "ButtonIndex": 2,
+        "ConsumeItemCode": 100000001,
+        "ConsumeCount": 3000,
+        "CommonTicketCode": 0,
+        "CommonTicketCount": 0,
+        "TimesA": 10,
+        "TimesB": 0,
+        "LimittedTime": 0,
+        "AnnotationType": 0,
+        "IsHighlighted": false
+      }
+    ],
+    "LotteryRateCode": 110001,
+    "ResetType": 0
+  },
+  {
+    "Code": 430001,
+    "ButtonSettings": [
+      {
+        "ButtonIndex": 1,
+        "ConsumeItemCode": 200000003,
+        "ConsumeCount": 1,
+        "CommonTicketCode": 0,
+        "CommonTicketCount": 0,
+        "TimesA": 1,
+        "TimesB": 0,
+        "LimittedTime": 0,
+        "AnnotationType": 0,
+        "IsHighlighted": false
+      }
+    ],
+    "LotteryRateCode": 430001,
+    "ResetType": 0
+  },
+  {
+    "Code": 810001,
+    "ButtonSettings": [
+      {
+        "ButtonIndex": 1,
+        "ConsumeItemCode": 100000001,
+        "ConsumeCount": 300,
+        "CommonTicketCode": 200000001,
+        "CommonTicketCount": 1,
+        "TimesA": 1,
+        "TimesB": 0,
+        "LimittedTime": 0,
+        "AnnotationType": 0,
+        "IsHighlighted": false
+      },
+      {
+        "ButtonIndex": 2,
+        "ConsumeItemCode": 100000001,
+        "ConsumeCount": 3000,
+        "CommonTicketCode": 200000001,
+        "CommonTicketCount": 10,
+        "TimesA": 10,
+        "TimesB": 0,
+        "LimittedTime": 0,
+        "AnnotationType": 0,
+        "IsHighlighted": false
+      }
+    ],
+    "LotteryRateCode": 810001,
+    "ResetType": 0
+  }
+]

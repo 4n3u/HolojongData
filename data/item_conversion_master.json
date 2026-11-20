@@ -1,0 +1,86 @@
+[
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 1,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 2,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 3,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 4,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 5,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 6,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 7,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 8,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 9,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 10,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 11,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 8,
+    "SubInventoryType": 12,
+    "ItemCode": 300000002,
+    "Amount": 1
+  },
+  {
+    "InventoryType": 11,
+    "SubInventoryType": 0,
+    "ItemCode": 300000002,
+    "Amount": 50
+  },
+  {
+    "InventoryType": 12,
+    "SubInventoryType": 0,
+    "ItemCode": 300000002,
+    "Amount": 1
+  }
+]

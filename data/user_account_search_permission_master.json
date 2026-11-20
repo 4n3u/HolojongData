@@ -1,0 +1,182 @@
+[
+  {
+    "UserAccountType": 10,
+    "TargetUserAccountType": 10,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 10,
+    "TargetUserAccountType": 20,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 10,
+    "TargetUserAccountType": 21,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 10,
+    "TargetUserAccountType": 30,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 10,
+    "TargetUserAccountType": 40,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 10,
+    "TargetUserAccountType": 99,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 20,
+    "TargetUserAccountType": 10,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 20,
+    "TargetUserAccountType": 20,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 20,
+    "TargetUserAccountType": 21,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 20,
+    "TargetUserAccountType": 30,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 20,
+    "TargetUserAccountType": 40,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 20,
+    "TargetUserAccountType": 99,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 21,
+    "TargetUserAccountType": 10,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 21,
+    "TargetUserAccountType": 20,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 21,
+    "TargetUserAccountType": 21,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 21,
+    "TargetUserAccountType": 30,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 21,
+    "TargetUserAccountType": 40,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 21,
+    "TargetUserAccountType": 99,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 30,
+    "TargetUserAccountType": 10,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 30,
+    "TargetUserAccountType": 20,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 30,
+    "TargetUserAccountType": 21,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 30,
+    "TargetUserAccountType": 30,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 30,
+    "TargetUserAccountType": 40,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 30,
+    "TargetUserAccountType": 99,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 40,
+    "TargetUserAccountType": 10,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 40,
+    "TargetUserAccountType": 20,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 40,
+    "TargetUserAccountType": 21,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 40,
+    "TargetUserAccountType": 30,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 40,
+    "TargetUserAccountType": 40,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 40,
+    "TargetUserAccountType": 99,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 99,
+    "TargetUserAccountType": 10,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 99,
+    "TargetUserAccountType": 20,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 99,
+    "TargetUserAccountType": 21,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 99,
+    "TargetUserAccountType": 30,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 99,
+    "TargetUserAccountType": 40,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 99,
+    "TargetUserAccountType": 99,
+    "IsAllowed": true
+  }
+]

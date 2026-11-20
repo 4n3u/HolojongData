@@ -1,0 +1,11 @@
+[
+  {
+    "SeasonPassCode": 1,
+    "ShopPackageCode1": 600100001,
+    "ShopPackageResource1": "UI_Banner_Seasonpass_1001",
+    "ShopPackageCode2": 600100002,
+    "ShopPackageResource2": "UI_Banner_Seasonpass_1001",
+    "ResourceAddress": "UI_Banner_Seasonpass_1001",
+    "TextResourceAddress": "UI_Banner_Seasonpass_1001"
+  }
+]

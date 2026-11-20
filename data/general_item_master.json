@@ -1,0 +1,202 @@
+[
+  {
+    "ItemCode": 500000001,
+    "ItemBehaviourType": 37,
+    "Rarity": 5,
+    "Name": "きらめきの絆牌",
+    "Description": "きらきらと輝く特別な麻雀牌。\nキャラクターと絆を結ぶ際に使用する。",
+    "Param": 0,
+    "IsShowItemInventory": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_500000001"
+  },
+  {
+    "ItemCode": 500010001,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "空色のしおり",
+    "Description": "思い出を綴った空色のしおり。\nキャラクターと絆を結ぶ際に使用する。",
+    "Param": 0,
+    "IsShowItemInventory": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_500010001"
+  },
+  {
+    "ItemCode": 500010002,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "金色のしおり",
+    "Description": "思い出を綴った金色のしおり。\nキャラクターと絆を結ぶ際に使用する。",
+    "Param": 0,
+    "IsShowItemInventory": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_500010002"
+  },
+  {
+    "ItemCode": 500010003,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "紫色のしおり",
+    "Description": "思い出を綴った紫色のしおり。\nキャラクターと絆を結ぶ際に使用する。",
+    "Param": 0,
+    "IsShowItemInventory": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_500010003"
+  },
+  {
+    "ItemCode": 500010004,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "桜色のしおり",
+    "Description": "思い出を綴った桜色のしおり。\nキャラクターと絆を結ぶ際に使用する。",
+    "Param": 0,
+    "IsShowItemInventory": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_500010004"
+  },
+  {
+    "ItemCode": 500010005,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "雪色のしおり",
+    "Description": "思い出を綴った雪色のしおり。\nキャラクターと絆を結ぶ際に使用する。",
+    "Param": 0,
+    "IsShowItemInventory": true,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_500010005"
+  },
+  {
+    "ItemCode": 600000001,
+    "ItemBehaviourType": 49,
+    "Rarity": 2,
+    "Name": "シングルモードで報酬を受け取れる残り回数",
+    "Description": "",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_600000001"
+  },
+  {
+    "ItemCode": 600000002,
+    "ItemBehaviourType": 39,
+    "Rarity": 0,
+    "Name": "【翻訳不要】称号の正方形アイコン用データ",
+    "Description": "【翻訳不要】称号をアイテムアイコンSで出すときの共通アイコン。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_600000002"
+  },
+  {
+    "ItemCode": 600000003,
+    "ItemBehaviourType": 45,
+    "Rarity": 2,
+    "Name": "プレゼント回数アップ",
+    "Description": "1日にプレゼントを渡せる回数が増加します。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_600000001"
+  },
+  {
+    "ItemCode": 600000004,
+    "ItemBehaviourType": 46,
+    "Rarity": 5,
+    "Name": "【翻訳不要】銅称号の件数。他人のプロフィール表示で必要",
+    "Description": "【翻訳不要】銅称号の件数。他人のプロフィール表示で必要",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_600000004"
+  },
+  {
+    "ItemCode": 600000005,
+    "ItemBehaviourType": 47,
+    "Rarity": 5,
+    "Name": "【翻訳不要】銀称号の件数。他人のプロフィール表示で必要",
+    "Description": "【翻訳不要】銀称号の件数。他人のプロフィール表示で必要",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_600000005"
+  },
+  {
+    "ItemCode": 600000006,
+    "ItemBehaviourType": 48,
+    "Rarity": 5,
+    "Name": "【翻訳不要】金称号の件数。他人のプロフィール表示で必要",
+    "Description": "【翻訳不要】金称号の件数。他人のプロフィール表示で必要",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_600000006"
+  },
+  {
+    "ItemCode": 800000001,
+    "ItemBehaviourType": 33,
+    "Rarity": 4,
+    "Name": "アクセサリープリセット拡張",
+    "Description": "アクセサリーのプリセット枠を1枠拡張できる。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_800000001"
+  },
+  {
+    "ItemCode": 900000001,
+    "ItemBehaviourType": 27,
+    "Rarity": 4,
+    "Name": "プレミアムサポーターPt",
+    "Description": "一定数集めるとサポーターランクがアップする。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_900000001"
+  },
+  {
+    "ItemCode": 911110001,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "ガチャボーナスPt(白上 フブキ ピックアップガチャ)",
+    "Description": "一定数集めるとガチャボーナスを獲得できる。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_911110001"
+  },
+  {
+    "ItemCode": 911110010,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "ガチャボーナスPt(アキ・ローゼンタール ピックアップガチャ)",
+    "Description": "一定数集めるとガチャボーナスを獲得できる。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_911110001"
+  },
+  {
+    "ItemCode": 911110011,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "ガチャボーナスPt(宝鐘マリン ピックアップガチャ)",
+    "Description": "一定数集めるとガチャボーナスを獲得できる。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_911110001"
+  },
+  {
+    "ItemCode": 911110012,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "ガチャボーナスPt(一条莉々華 ピックアップガチャ)",
+    "Description": "一定数集めるとガチャボーナスを獲得できる。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_911110001"
+  },
+  {
+    "ItemCode": 911810001,
+    "ItemBehaviourType": 37,
+    "Rarity": 4,
+    "Name": "ガチャボーナスPt(レギュラーガチャ)",
+    "Description": "一定数集めるとガチャボーナスを獲得できる。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_911110001"
+  },
+  {
+    "ItemCode": 921000001,
+    "ItemBehaviourType": 34,
+    "Rarity": 4,
+    "Name": "ホロじゃんパスPt(シーズン1)",
+    "Description": "ホロじゃんパス(シーズン1)のレベルアップに\n必要なポイント。",
+    "Param": 0,
+    "IsShowItemInventory": false,
+    "IconAddress": "UI_Textures_Images_Icon_ItemIcon_ITI_921000001"
+  }
+]

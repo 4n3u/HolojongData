@@ -1,0 +1,72 @@
+[
+  {
+    "Code": 1,
+    "HitType": 1,
+    "RouteType": 1,
+    "PatternCode": 1,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 2,
+    "RouteType": 1,
+    "PatternCode": 2,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 3,
+    "RouteType": 1,
+    "PatternCode": 3,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 4,
+    "RouteType": 1,
+    "PatternCode": 4,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 4,
+    "RouteType": 2,
+    "PatternCode": 4,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 4,
+    "RouteType": 3,
+    "PatternCode": 5,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 4,
+    "RouteType": 4,
+    "PatternCode": 6,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 5,
+    "RouteType": 1,
+    "PatternCode": 7,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 6,
+    "RouteType": 1,
+    "PatternCode": 8,
+    "Weight": 100
+  },
+  {
+    "Code": 1,
+    "HitType": 7,
+    "RouteType": 1,
+    "PatternCode": 9,
+    "Weight": 100
+  }
+]

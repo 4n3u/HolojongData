@@ -1,0 +1,310 @@
+[
+  {
+    "ItemCode": 100000001,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 100000002,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 100000003,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 100000004,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 100010001,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 100010002,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 100010003,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 200000001,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 200000003,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 210000001,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 300000001,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 300000002,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 300000003,
+    "ItemTableType": 9
+  },
+  {
+    "ItemCode": 400000001,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400010001,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400010002,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400010003,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400010004,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400010005,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400010006,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400010007,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400010008,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400020001,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400020002,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400020003,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400020004,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400020005,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400020006,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400020007,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400020008,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400030001,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400030002,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400030003,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400030004,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400030005,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400030006,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400030007,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 400030008,
+    "ItemTableType": 6
+  },
+  {
+    "ItemCode": 500000001,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 500010001,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 500010002,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 500010003,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 500010004,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 500010005,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 600000001,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 600000002,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 600000003,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 600000004,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 600000005,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 600000006,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 720010001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720010002,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720010003,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720020001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720030001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720040001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720050001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720060001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720070001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720080001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 720090001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 730010001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 730010002,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 730010003,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 730020001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 731010001,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 731010002,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 731010003,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 731010004,
+    "ItemTableType": 2
+  },
+  {
+    "ItemCode": 800000001,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 900000001,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 911110001,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 911110010,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 911110011,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 911110012,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 911810001,
+    "ItemTableType": 1
+  },
+  {
+    "ItemCode": 921000001,
+    "ItemTableType": 1
+  }
+]

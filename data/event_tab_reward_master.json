@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 300011,
+    "TabCode": 30001,
+    "SortOrder": 1,
+    "RewardItemType": 2,
+    "RewardItemId": 200000001,
+    "RewardAmount": 0
+  },
+  {
+    "Id": 300012,
+    "TabCode": 30001,
+    "SortOrder": 2,
+    "RewardItemType": 2,
+    "RewardItemId": 730010003,
+    "RewardAmount": 0
+  },
+  {
+    "Id": 300013,
+    "TabCode": 30001,
+    "SortOrder": 3,
+    "RewardItemType": 2,
+    "RewardItemId": 730010002,
+    "RewardAmount": 0
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "Code": 2000,
+    "DescriptionKey": "Group2000",
+    "ScheduleCode": "",
+    "Name": "0期生",
+    "NonFilter": false
+  },
+  {
+    "Code": 3000,
+    "DescriptionKey": "Group3000",
+    "ScheduleCode": "",
+    "Name": "1期生",
+    "NonFilter": false
+  },
+  {
+    "Code": 4000,
+    "DescriptionKey": "Group4000",
+    "ScheduleCode": "",
+    "Name": "2期生",
+    "NonFilter": false
+  },
+  {
+    "Code": 5000,
+    "DescriptionKey": "Group5000",
+    "ScheduleCode": "",
+    "Name": "ゲーマーズ",
+    "NonFilter": false
+  },
+  {
+    "Code": 6000,
+    "DescriptionKey": "Group6000",
+    "ScheduleCode": "",
+    "Name": "3期生",
+    "NonFilter": false
+  },
+  {
+    "Code": 7000,
+    "DescriptionKey": "Group7000",
+    "ScheduleCode": "",
+    "Name": "4期生",
+    "NonFilter": false
+  },
+  {
+    "Code": 8000,
+    "DescriptionKey": "Group8000",
+    "ScheduleCode": "",
+    "Name": "5期生",
+    "NonFilter": false
+  },
+  {
+    "Code": 9000,
+    "DescriptionKey": "Group9000",
+    "ScheduleCode": "",
+    "Name": "秘密結社holoX",
+    "NonFilter": false
+  },
+  {
+    "Code": 10000,
+    "DescriptionKey": "Group10000",
+    "ScheduleCode": "",
+    "Name": "ReGLOSS",
+    "NonFilter": false
+  },
+  {
+    "Code": 11000,
+    "DescriptionKey": "Group11000",
+    "ScheduleCode": "",
+    "Name": "FLOW GLOW",
+    "NonFilter": false
+  },
+  {
+    "Code": 99999,
+    "DescriptionKey": "Group99999",
+    "ScheduleCode": "",
+    "Name": "なし",
+    "NonFilter": true
+  }
+]

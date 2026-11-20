@@ -1,0 +1,1698 @@
+[
+  {
+    "Key": "ACCESSORY_ATTRIBUTE_MATCH_COEFFICIENT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_EFFECT_FIXED_CURRENCY_USE_COUNT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_EFFECT_FIXED_ITEM_ID",
+    "Value": [
+      "110900001"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_EFFECT_FIXED_ITEM_USE_COUNT",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_EFFECT_LOTTERY_CURRENCY_USE_COUNT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_EFFECT_LOTTERY_ITEM_ID",
+    "Value": [
+      "110800001"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_EFFECT_LOTTERY_ITEM_USE_COUNT",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_EXCLUSIVE_LIMIT",
+    "Value": [
+      "500"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_LEVEL_LIMIT",
+    "Value": [
+      "20"
+    ]
+  },
+  {
+    "Key": "ACCESSORY_PRESET_COUNT",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "ACQUISITION_VOICE_FORMAT",
+    "Value": [
+      "10{0}0101"
+    ]
+  },
+  {
+    "Key": "ADDITIONAL_LIMIT_FOR_DELIVER_ITEM",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "ADV_ONE_MESSAGE_WAIT_SECOND",
+    "Value": [
+      "0.01"
+    ]
+  },
+  {
+    "Key": "AUTO_RESULT_WAIT_SECONDS",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "BATTLE_REQUIRED_SECONDS",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "BATTLE_TOO_EARLY_SECONDS",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "BATTLE_TOTAL_POWER_THRESHOLD_FOR_ALERT",
+    "Value": [
+      "0.5"
+    ]
+  },
+  {
+    "Key": "BATTLE_TOTAL_POWER_THRESHOLD_FOR_ERROR",
+    "Value": [
+      "0"
+    ]
+  },
+  {
+    "Key": "CERTIFIED_OFFICIAL_MARK_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FanMark_2300001"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_AUTO_ASSIGNABLE_TEAM_MIN_COUNT",
+    "Value": [
+      "2"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_AUTO_ASSIGNMENT_WINDOW_ABLE_TO_MAX_SETTING_VALUE",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_CHAT_AVAILABLE_BEFORE_THE_GAME_START_TIME_DURING_PREPARATION",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_CPU_ICON_ADDRESSABLE_KEY",
+    "Value": [
+      "UI_Textures_Images_CardIcon_CCI_000000"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_MATCH_DEFAULT_SCHEDULE_OFFSET",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_CREATE_STONE_COST_COUNT",
+    "Value": [
+      "ItemBehaviourType.SupplementPaidStone",
+      "50"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_DEFAULT_SETTING_SCHEDULE_OFFSET",
+    "Value": [
+      "168"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_DESIGNATE_MATCH_START_BATTLE_DELAY",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_GAME_MODE_FOUR_PLAY_UI_ADDRESSABLE_KEY",
+    "Value": [
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_GameMode05",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_GameMode01",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_GameMode02"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_GAME_MODE_THREE_PLAY_UI_ADDRESSABLE_KEY",
+    "Value": [
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_GameMode06",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_GameMode03",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_GameMode04"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_GAME_SCHEDULE_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_HOME_CHAT_COUNT_LIMIT",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_KAZE_SEAT_UI_ADDRESSABLE_KEY",
+    "Value": [
+      "UI_Textures_Sprites_Championship_Kaze_Championship_KazeIcon_01",
+      "UI_Textures_Sprites_Championship_Kaze_Championship_KazeIcon_02",
+      "UI_Textures_Sprites_Championship_Kaze_Championship_KazeIcon_03",
+      "UI_Textures_Sprites_Championship_Kaze_Championship_KazeIcon_04"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGER_CHAT_COLOR",
+    "Value": [
+      "#ff378e"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGER_MAX_COUNT",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_PARTICIPANTS_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MANAGE_TEAM_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MATCHING_MODE_UI_ADDRESSABLE_KEY",
+    "Value": [
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_Matching01",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_Matching02",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_Matching03"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MATCH_LOBBY_CREATE_TIMEOUT_SECOND",
+    "Value": [
+      "30"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MATCH_LOBBY_PASSWORD_LENGTH",
+    "Value": [
+      "6"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MATCH_TIME_RESTRICTION_TIMES",
+    "Value": [
+      "30",
+      "60",
+      "90"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MAX_ADD_USER_TO_TEAM",
+    "Value": [
+      "50"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MAX_CHAT_WHITELIST_COUNT",
+    "Value": [
+      "50"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MAX_CREATE_GAME_NUMBER",
+    "Value": [
+      "350"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MAX_CREATE_TEAM_NUMBER",
+    "Value": [
+      "64"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_MAX_SEASON_COUNT",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_NECESSARY_CALL_WHITE_LIST_CHECK_PERIOD_TIME",
+    "Value": [
+      "600"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_PAIPU_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_PARTICIPANTS_LIST_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_PARTICIPANTS_SUGGESTED_BASE_NUMBER",
+    "Value": [
+      "8",
+      "16",
+      "32",
+      "64"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_PARTICIPANTS_SUGGESTED_IMAGE_KEYS",
+    "Value": [
+      "UI_Textures_Sprites_UserInformation_championship_entries01",
+      "UI_Textures_Sprites_UserInformation_championship_entries02",
+      "UI_Textures_Sprites_UserInformation_championship_entries03",
+      "UI_Textures_Sprites_UserInformation_championship_entries04",
+      "UI_Textures_Sprites_UserInformation_championship_entries05"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANDOM_SEAT_UI_ADDRESSABLE_KEY",
+    "Value": [
+      "UI_Textures_Sprites_Championship_Kaze_Championship_KazeIcon_05"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_PAGER_TOGGLE_COUNT",
+    "Value": [
+      "7"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_RANKING_TYPE_UI_ADDRESSABLE_KEY",
+    "Value": [
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_Score01",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_Score02",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_Score03",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_Score04"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_RECOMMEND_DISPLAY_AFTER_CLOSED_DAYS",
+    "Value": [
+      "14"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_REGULARLY_CHECK_DESIGNATE_MATCH_IS_EXIST",
+    "Value": [
+      "60"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_REGULARLY_CHECK_DESIGNATE_MATCH_IS_EXIST_RANDOM_OFFSET",
+    "Value": [
+      "0.1"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_RE_CHECK_AGGREGATED_MY_SCORE",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_ROUND_COUNT_RANGE",
+    "Value": [
+      "1",
+      "100"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_ROUND_RANGE",
+    "Value": [
+      "1",
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_SERVER_CAPACITIES",
+    "Value": [
+      "200",
+      "1000",
+      "2000"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_SPECTATE_GAME_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_SURVEILLANCE_TIME_SPAN",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_SWISS_DRAW_MAX_GAME_COUNT",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_SYSTEM_CHAT_COLOR",
+    "Value": [
+      "#7960ff"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_TEAM_LIST_AVAILABLE_UPDATE_PERIOD_TIME",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_TEAM_MODE_UI_ADDRESSABLE_KEY",
+    "Value": [
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_ChampionshipMode01",
+      "UI_Textures_Sprites_Championship_Rule_Championship_Rule_ChampionshipMode02"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_TIME_SETTING_SET_NO",
+    "Value": [
+      "0"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_TOTAL_ROUND_RANGE",
+    "Value": [
+      "1",
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_USER_CHAT_COLORS",
+    "Value": [
+      "#ee82ee",
+      "#9cdb14",
+      "#c948ff",
+      "#ff9a48"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_USER_CHAT_MESSAGE_COLOR",
+    "Value": [
+      "#41396A"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_VOICE_FORMAT",
+    "Value": [
+      "15{0}0103"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_VOLUMES",
+    "Value": [
+      "200",
+      "1000"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_WATCHING_ROOM_DISPLAY_COUNT_LIMIT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "CHAMPIONSHIP_WATCHING_ROOM_MAX_HOLD_COUNT",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "CHAMP_RESERVED_GAME_EDITING_TIME",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "CHAMP_RESERVED_GAME_GRACE_ENTER_LOBBY_PERIOD",
+    "Value": [
+      "240"
+    ]
+  },
+  {
+    "Key": "CHAMP_RESERVED_GAME_GRACE_START_PERIOD",
+    "Value": [
+      "270"
+    ]
+  },
+  {
+    "Key": "CHAMP_RESERVED_GAME_START_PERIOD",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "CHARACTER_LEVEL_RESET_STONE_CODE",
+    "Value": [
+      "999000000"
+    ]
+  },
+  {
+    "Key": "CHARACTER_LEVEL_RESET_STONE_COUNT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "CHARACTER_RANDOM_BOX_CODES",
+    "Value": [
+      "221320011",
+      "221320012",
+      "221320013"
+    ]
+  },
+  {
+    "Key": "CHARACTER_SKILL_LEVEL_TOTAL_POWER_PASSIVE",
+    "Value": [
+      "200"
+    ]
+  },
+  {
+    "Key": "CHARACTER_SKILL_LEVEL_TOTAL_POWER_SKILL1",
+    "Value": [
+      "200"
+    ]
+  },
+  {
+    "Key": "CHARACTER_SKILL_LEVEL_TOTAL_POWER_SKILL2",
+    "Value": [
+      "200"
+    ]
+  },
+  {
+    "Key": "CHARACTER_SKILL_LEVEL_TOTAL_POWER_SPECIAL",
+    "Value": [
+      "400"
+    ]
+  },
+  {
+    "Key": "CHARACTER_TOTAL_POWER_ATTACK",
+    "Value": [
+      "2"
+    ]
+  },
+  {
+    "Key": "CHARACTER_TOTAL_POWER_CRITICAL_HIT_RATE",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "CHARACTER_TOTAL_POWER_CRITICAL_RATE",
+    "Value": [
+      "2.5"
+    ]
+  },
+  {
+    "Key": "CHARACTER_TOTAL_POWER_DEFENSE",
+    "Value": [
+      "3.2"
+    ]
+  },
+  {
+    "Key": "CHARACTER_TOTAL_POWER_HEALTH",
+    "Value": [
+      "0.4"
+    ]
+  },
+  {
+    "Key": "CHAT_GET_LOG_MESSAGE_SIZE",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "CHAT_INPUT_LENGTH_LIMIT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "CHAT_MAX_MESSAGE_DISPLAY_SIZE",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "CHAT_OPEN_ROOM_ALLOTMENT_RATE",
+    "Value": [
+      "0.1"
+    ]
+  },
+  {
+    "Key": "CHAT_OPEN_SEND_MESSAGE_INTERVAL_SECONDS",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAT_PING_SEND_INTERVAL_SECONDS",
+    "Value": [
+      "60"
+    ]
+  },
+  {
+    "Key": "CHAT_RECONNECT_INTERVAL_ADD_COUNT_SPAN",
+    "Value": [
+      "5",
+      "5"
+    ]
+  },
+  {
+    "Key": "CHAT_RECONNECT_INTERVAL_BASE_SECONDS",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "CHAT_ROOM_ICON_RATE",
+    "Value": [
+      "100",
+      "0.4",
+      "0.7"
+    ]
+  },
+  {
+    "Key": "CLOSENESS_MAX_REWARD_EXP_RANK_MATCH",
+    "Value": [
+      "20"
+    ]
+  },
+  {
+    "Key": "CLOSENESS_MAX_REWARD_EXP_SINGLE_MODE",
+    "Value": [
+      "20"
+    ]
+  },
+  {
+    "Key": "CLOSENESS_MAX_REWARD_ITEM_CODE",
+    "Value": [
+      "400000001"
+    ]
+  },
+  {
+    "Key": "CLOSENESS_MAX_REWARD_ITEM_COUNT",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "CLOSENESS_MAX_REWARD_LIMIT_EXP",
+    "Value": [
+      "1000"
+    ]
+  },
+  {
+    "Key": "COMMON_KAZE",
+    "Value": [
+      "東",
+      "南",
+      "西",
+      "北"
+    ]
+  },
+  {
+    "Key": "COMMUNITY_JOIN_LIST_COUNT",
+    "Value": [
+      "7"
+    ]
+  },
+  {
+    "Key": "COMMUNITY_MEMBER_LIMIT",
+    "Value": [
+      "1000"
+    ]
+  },
+  {
+    "Key": "COSTUME_LIMIT_BREAK_LIMIT_COUNT",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "CPU_FANMARK_CODE",
+    "Value": [
+      "1000001"
+    ]
+  },
+  {
+    "Key": "CREATOR_MARK_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FanMark_2400001"
+    ]
+  },
+  {
+    "Key": "DAILY_GIFT_LIMIT",
+    "Value": [
+      "2"
+    ]
+  },
+  {
+    "Key": "DAMAGE_LIMIT",
+    "Value": [
+      "99999",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "Key": "EVENT_BATTLE_LEVEL_MIN",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "EVENT_REWARD_PRESENT_BOX_ICON_CODE",
+    "Value": [
+      "1002021"
+    ]
+  },
+  {
+    "Key": "EVENT_TALK_TEXT_POSITIONY_OFFSET",
+    "Value": [
+      "65"
+    ]
+  },
+  {
+    "Key": "FALLBACK_LOADING_IMAGE_ADDRESS",
+    "Value": [
+      "UI_Textures_Sprites_Loading_LoadingImage_01"
+    ]
+  },
+  {
+    "Key": "FOUR_PLAYER_AVG_GAME_MINUTES",
+    "Value": [
+      "6",
+      "15",
+      "30"
+    ]
+  },
+  {
+    "Key": "FOUR_PLAYER_GAME_BUCKET_INTERVAL_MINUTES",
+    "Value": [
+      "2",
+      "5",
+      "10"
+    ]
+  },
+  {
+    "Key": "FRIEND_COUNT_LIMIT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "FRIEND_MATCH_INVITE_COOL_TIME_SECONDS",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "FRIEND_MATCH_INVITE_EXPIRE_SECONDS",
+    "Value": [
+      "30"
+    ]
+  },
+  {
+    "Key": "FRIEND_MATCH_VOICE_FORMAT",
+    "Value": [
+      "15{0}0102"
+    ]
+  },
+  {
+    "Key": "FRIEND_REQUEST_RECEIVED_COUNT_LIMIT",
+    "Value": [
+      "50"
+    ]
+  },
+  {
+    "Key": "FRIEND_REQUEST_SENT_COUNT_LIMIT",
+    "Value": [
+      "20"
+    ]
+  },
+  {
+    "Key": "GACHA_VERSUS_DIRECTION_CHARACTER_LOTTERY_WEIGHT",
+    "Value": [
+      "25",
+      "75"
+    ]
+  },
+  {
+    "Key": "GAME_TIME_LIMIT_COUNTDOWN_START_SECOND",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "HAND_CHIP_MAX_COUNT",
+    "Value": [
+      "9"
+    ]
+  },
+  {
+    "Key": "HOME_BANNER_CAROUSE_WAIT_TIME",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "HOME_CHARACTER_COUNT",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "HOME_TALK_INTERVAL_SECONDS",
+    "Value": [
+      "3.5"
+    ]
+  },
+  {
+    "Key": "HOME_TALK_TEXT_POSITIONY_OFFSET",
+    "Value": [
+      "35"
+    ]
+  },
+  {
+    "Key": "HULU_RESULT_WAIT_MILLISECOND",
+    "Value": [
+      "5000"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_ARM",
+    "Value": [
+      "5000001"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_FULOU_EFFECT",
+    "Value": [
+      "4000001"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_HULE_EFFECT",
+    "Value": [
+      "3000001",
+      "3000002"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_ICON_FRAME",
+    "Value": [
+      "6000001"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_LIZHI_BANG",
+    "Value": [
+      "1000002"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_LIZHI_BGM",
+    "Value": [
+      "72100000"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_LIZHI_EFFECT",
+    "Value": [
+      "2000001",
+      "2000002"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_MAHJONG_BGM",
+    "Value": [
+      "71100000"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_PAI_BACK",
+    "Value": [
+      "8000001",
+      "8000002"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_PAI_FRONT",
+    "Value": [
+      "9000001"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_TABLE",
+    "Value": [
+      "7000001",
+      "7000002"
+    ]
+  },
+  {
+    "Key": "INITIAL_ACCESSORY_TABLE_PANEL",
+    "Value": [
+      "10000001"
+    ]
+  },
+  {
+    "Key": "INITIAL_HONOR_CODE",
+    "Value": [
+      "400000001"
+    ]
+  },
+  {
+    "Key": "INITIAL_INVENTORY_ITEM_CODE",
+    "Value": [
+      "400010001",
+      "400020001",
+      "400010002",
+      "400030002"
+    ]
+  },
+  {
+    "Key": "INITIAL_INVENTORY_ITEM_COUNT",
+    "Value": [
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "Key": "INITIAL_PAYMENT_POINT",
+    "Value": [
+      "20"
+    ]
+  },
+  {
+    "Key": "INITIAL_PLAYER_NAME",
+    "Value": [
+      "サポーター"
+    ]
+  },
+  {
+    "Key": "INITIAL_PLAYER_NAME_EN",
+    "Value": [
+      "supporter"
+    ]
+  },
+  {
+    "Key": "INITIAL_PLAYER_NAME_JP",
+    "Value": [
+      "サポーター"
+    ]
+  },
+  {
+    "Key": "INITIAL_PLAYER_NAME_TW",
+    "Value": [
+      "サポーター"
+    ]
+  },
+  {
+    "Key": "INITIAL_STAMP_CODES",
+    "Value": []
+  },
+  {
+    "Key": "INVITE_CODE_INPUT_LIMIT_MAX",
+    "Value": [
+      "26"
+    ]
+  },
+  {
+    "Key": "INVITE_CODE_INPUT_LIMIT_MIN",
+    "Value": [
+      "26"
+    ]
+  },
+  {
+    "Key": "INVITE_FRIEND_BEGINNER_GUEST_APPEAL_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FriendInvitation_FriendInvitation_Banner02"
+    ]
+  },
+  {
+    "Key": "INVITE_FRIEND_BEGINNER_GUEST_MISSION_APPEAL_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FriendInvitation_FriendInvitation_Banner02"
+    ]
+  },
+  {
+    "Key": "INVITE_FRIEND_COMEBACK_GUEST_APPEAL_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FriendInvitation_FriendInvitation_Banner02"
+    ]
+  },
+  {
+    "Key": "INVITE_FRIEND_COMEBACK_GUEST_MISSION_APPEAL_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FriendInvitation_FriendInvitation_Banner02"
+    ]
+  },
+  {
+    "Key": "INVITE_FRIEND_HOST_APPEAL_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FriendInvitation_FriendInvitation_Banner01"
+    ]
+  },
+  {
+    "Key": "INVITE_FRIEND_SHARE_BANNER_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FriendInvitation_FriendInvitation_ShareBanner"
+    ]
+  },
+  {
+    "Key": "INVITE_MESSAGE_STORE_URL",
+    "Value": [
+      "https://holojong.go.link/avbHI"
+    ]
+  },
+  {
+    "Key": "INVITE_MESSAGE_X_POST_URL_BASE",
+    "Value": [
+      "https://x.com/intent/tweet?{0}"
+    ]
+  },
+  {
+    "Key": "INVITE_NOTIFY_WEB_VIEW_URL",
+    "Value": [
+      "news-250226"
+    ]
+  },
+  {
+    "Key": "ITEM_USE_CONVERSION_MAX_COUNT",
+    "Value": [
+      "9999"
+    ]
+  },
+  {
+    "Key": "LEVEL_LINK_DEFAULT_SLOT_NUM",
+    "Value": [
+      "4"
+    ]
+  },
+  {
+    "Key": "LEVEL_LINK_LARGEST_CHARACTERS_LIMIT",
+    "Value": [
+      "4"
+    ]
+  },
+  {
+    "Key": "LEVEL_LINK_SLOT_COOLDOWN_CANCEL_COST",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "LEVEL_LINK_SLOT_COOLDOWN_CANCEL_INTERVAL",
+    "Value": [
+      "6"
+    ]
+  },
+  {
+    "Key": "LEVEL_LINK_SLOT_COOLDOWN_HOUR",
+    "Value": [
+      "24"
+    ]
+  },
+  {
+    "Key": "LEVEL_LINK_SLOT_MAX",
+    "Value": [
+      "29"
+    ]
+  },
+  {
+    "Key": "LEVEL_LINK_SLOT_PURCHASE_COST",
+    "Value": [
+      "500"
+    ]
+  },
+  {
+    "Key": "LEVEL_LINK_UNLOCK_SLOT_COUNT_MAX",
+    "Value": [
+      "25"
+    ]
+  },
+  {
+    "Key": "LEVEL_OVERCAP_REQUIRE",
+    "Value": [
+      "240"
+    ]
+  },
+  {
+    "Key": "LIKED_GIFT_MULTIPLIER",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "LINK_URL_APPLICATION_DISCORD",
+    "Value": [
+      "https://discord.gg/vP98UhyKeK"
+    ]
+  },
+  {
+    "Key": "LINK_URL_APPLICATION_FACEBOOK_TW",
+    "Value": [
+      "https://www.google.com/"
+    ]
+  },
+  {
+    "Key": "LINK_URL_APPLICATION_X",
+    "Value": [
+      "https://x.com/hololivemahjong"
+    ]
+  },
+  {
+    "Key": "LINK_URL_APPLICATION_X_EN",
+    "Value": [
+      "https://www.google.com/"
+    ]
+  },
+  {
+    "Key": "LINK_URL_NOTATION",
+    "Value": [
+      "notation"
+    ]
+  },
+  {
+    "Key": "LOBBY_MATCH_TIME_SETTING_SET_NO",
+    "Value": [
+      "0"
+    ]
+  },
+  {
+    "Key": "LOCAL_PUSH_NOTIFICATION_DAILY_MISSION_COUNT",
+    "Value": [
+      "7"
+    ]
+  },
+  {
+    "Key": "LOCAL_PUSH_NOTIFICATION_DAILY_MISSION_HOUR",
+    "Value": [
+      "21"
+    ]
+  },
+  {
+    "Key": "LOCAL_PUSH_NOTIFICATION_MONTHLY_PASS_COUNT",
+    "Value": [
+      "7"
+    ]
+  },
+  {
+    "Key": "LOCAL_PUSH_NOTIFICATION_MONTHLY_PASS_HOUR",
+    "Value": [
+      "18"
+    ]
+  },
+  {
+    "Key": "LOCAL_PUSH_NOTIFICATION_NON_PLAY_INTERVAL_DAYS",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "LOTTERY_APPEAL_SPINE_ROTATION_INTERVAL_SECONDS",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "LOTTERY_HISTORY_COUNT",
+    "Value": [
+      "30"
+    ]
+  },
+  {
+    "Key": "LOTTERY_HISTORY_DAY",
+    "Value": [
+      "7"
+    ]
+  },
+  {
+    "Key": "MAHJONG_DEFAULT_STAMP_SOUND_CODE",
+    "Value": [
+      "51000014"
+    ]
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_INTERVAL_SECONDS",
+    "Value": [
+      "60"
+    ]
+  },
+  {
+    "Key": "MAHJONG_EXIT_VOTE_TIME_SECONDS",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "MAHJONG_RULE_SETTING_COM_THINKING_CODES",
+    "Value": [
+      "900001",
+      "900002",
+      "-1"
+    ]
+  },
+  {
+    "Key": "MAX_CLOSENESS_POINT",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "MAX_DISPLAY_CURRENCY",
+    "Value": [
+      "999999999"
+    ]
+  },
+  {
+    "Key": "MAX_DISPLAY_ITEM_COUNT",
+    "Value": [
+      "999999999"
+    ]
+  },
+  {
+    "Key": "MAX_STACK_CLOSENESS_POINT",
+    "Value": [
+      "99"
+    ]
+  },
+  {
+    "Key": "NO_PRODUCTION_SCORE_RESULT_WAIT_MILLISECOND",
+    "Value": [
+      "5000"
+    ]
+  },
+  {
+    "Key": "OFFICIAL_MARK_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FanMark_2000001"
+    ]
+  },
+  {
+    "Key": "PAIPU_BOOKMARK_LIMIT",
+    "Value": [
+      "20"
+    ]
+  },
+  {
+    "Key": "PAIPU_BOOKMARK_NAME_LIMIT",
+    "Value": [
+      "20"
+    ]
+  },
+  {
+    "Key": "PAIPU_PAGE_LIMIT",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "POSITIVE_ATTRIBUTE_COEFFICIENT",
+    "Value": [
+      "130",
+      "0",
+      "0",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "Key": "POTENTIAL_ABILITY_MAX_LEVEL",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "PRESENT_BOX_ADMIN_SENDER_ICON_CODE",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "PRESENT_BOX_DISPLAY_LIMIT",
+    "Value": [
+      "200"
+    ]
+  },
+  {
+    "Key": "PRESENT_BOX_HISTORY_LIMIT_DAYS",
+    "Value": [
+      "30"
+    ]
+  },
+  {
+    "Key": "PRESENT_BOX_RECEIVE_ALL_LIMIT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "PRESET_STAMP_MAX_COUNT",
+    "Value": [
+      "12"
+    ]
+  },
+  {
+    "Key": "PROFILE_GAME_RECORD_SANMA_CROWN_MARK_POINT",
+    "Value": [
+      "70000"
+    ]
+  },
+  {
+    "Key": "PROFILE_GAME_RECORD_YONMA_CROWN_MARK_POINT",
+    "Value": [
+      "50000"
+    ]
+  },
+  {
+    "Key": "PRO_OFFICIAL_MARK_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FanMark_2200001"
+    ]
+  },
+  {
+    "Key": "QUIZZES_PER_CHARACTER",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "QUIZ_REWARD_CLOSENESS_EXP",
+    "Value": [
+      "200"
+    ]
+  },
+  {
+    "Key": "RANKING_CACHE_UPDATE_INTERVAL_SECONDS",
+    "Value": [
+      "600"
+    ]
+  },
+  {
+    "Key": "RANKING_DAILY_REWARD_CODE",
+    "Value": [
+      "60000000001"
+    ]
+  },
+  {
+    "Key": "RANKING_PARTICIPATION_PRIZE_PRESENT_BOX_LIMIT_DAYS",
+    "Value": [
+      "7"
+    ]
+  },
+  {
+    "Key": "RANKING_REWARD_PRESENT_BOX_LIMIT_DAYS",
+    "Value": [
+      "30"
+    ]
+  },
+  {
+    "Key": "RANKING_TOPCOUNT_POINT",
+    "Value": [
+      "2",
+      "3"
+    ]
+  },
+  {
+    "Key": "RANK_MATCH_VOICE_FORMAT",
+    "Value": [
+      "15{0}0101"
+    ]
+  },
+  {
+    "Key": "RECOVERY_CHARACTER_GIFT_REMAIN_COUNT",
+    "Value": [
+      "2"
+    ]
+  },
+  {
+    "Key": "RECOVERY_CLOSENESS_POINT",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "REMAIN_RECOVER_STAMINA_COUNT_WITH_ITEM_LIMIT",
+    "Value": [
+      "20"
+    ]
+  },
+  {
+    "Key": "SCORE_ADD_START_WAIT_MILLISECOND",
+    "Value": [
+      "1000"
+    ]
+  },
+  {
+    "Key": "SCORE_MOVE_START_WAIT_MILLISECOND",
+    "Value": [
+      "600"
+    ]
+  },
+  {
+    "Key": "SCORE_RESULT_WAIT_MILLISECOND",
+    "Value": [
+      "500"
+    ]
+  },
+  {
+    "Key": "SERIAL_CODE_INPUT_LIMIT_MAX",
+    "Value": [
+      "16"
+    ]
+  },
+  {
+    "Key": "SERIAL_CODE_INPUT_LIMIT_MIN",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "SERVICE_REGION_AIMING_GL_CODE",
+    "Value": [
+      "1",
+      "GL",
+      "AimingGlobal"
+    ]
+  },
+  {
+    "Key": "SERVICE_REGION_AIMING_JP_CODE",
+    "Value": [
+      "0",
+      "JP",
+      "AimingJp"
+    ]
+  },
+  {
+    "Key": "SERVICE_REGION_PUBLISHER_A_TW_CODE",
+    "Value": [
+      "2",
+      "TW",
+      "SsgTw"
+    ]
+  },
+  {
+    "Key": "SHOP_COIN_SHOP_CODE",
+    "Value": [
+      "1002"
+    ]
+  },
+  {
+    "Key": "SHOP_FIRST_FOCUS_SHOP_CODE",
+    "Value": [
+      "2001"
+    ]
+  },
+  {
+    "Key": "SHOP_LIMITED_TIME_PACK_TAB_ID",
+    "Value": [
+      "203"
+    ]
+  },
+  {
+    "Key": "SHOP_OPEN_TITLE_STORE_KEYWORD",
+    "Value": [
+      "external_purchase://"
+    ]
+  },
+  {
+    "Key": "SHOP_POINT_PURCHASE_TAB_CODE",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "SHOP_STONE_SHOP_CODE",
+    "Value": [
+      "1001"
+    ]
+  },
+  {
+    "Key": "SINGLE_MODE_VOICE_FORMAT",
+    "Value": [
+      "15{0}0104"
+    ]
+  },
+  {
+    "Key": "SINGLE_RELATIONSHIP_RATE",
+    "Value": [
+      "2.5"
+    ]
+  },
+  {
+    "Key": "SINGLE_REWARD_REMAIN_COUNT_LIMIT",
+    "Value": [
+      "5"
+    ]
+  },
+  {
+    "Key": "SKILL_MAX_LEVELS",
+    "Value": [
+      "10",
+      "10",
+      "10",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "Key": "SP_POINT_MAX",
+    "Value": [
+      "4"
+    ]
+  },
+  {
+    "Key": "STAMINA_AUTO_HEAL_INTERVAL",
+    "Value": [
+      "10"
+    ]
+  },
+  {
+    "Key": "STAMINA_LIMIT",
+    "Value": [
+      "999"
+    ]
+  },
+  {
+    "Key": "STAMINA_RECOVERY_VALUE_BY_LEVEL_UP",
+    "Value": [
+      "30"
+    ]
+  },
+  {
+    "Key": "TALENT_OFFICIAL_MARK_ADDRESS",
+    "Value": [
+      "UI_Textures_Images_FanMark_2100001"
+    ]
+  },
+  {
+    "Key": "THREE_PLAYER_AVG_GAME_MINUTES",
+    "Value": [
+      "6",
+      "15",
+      "30"
+    ]
+  },
+  {
+    "Key": "THREE_PLAYER_GAME_BUCKET_INTERVAL_MINUTES",
+    "Value": [
+      "2",
+      "5",
+      "10"
+    ]
+  },
+  {
+    "Key": "TIME_FOR_END_OF_DAY",
+    "Value": [
+      "1899/12/31 04:00:00 +09:00"
+    ]
+  },
+  {
+    "Key": "TIME_REWARD_EXTRA_EXEC_COUNT",
+    "Value": [
+      "3"
+    ]
+  },
+  {
+    "Key": "TIME_REWARD_RECEIVE_MIN_TIME_SPAN",
+    "Value": [
+      "0",
+      "1",
+      "0"
+    ]
+  },
+  {
+    "Key": "TIME_REWARD_STACK_MAX_TIME_SPAN",
+    "Value": [
+      "24",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "Key": "TUTORIAL_COMMUNICATION_SELECT_QUIZ_CODE",
+    "Value": [
+      "11011021001"
+    ]
+  },
+  {
+    "Key": "TUTORIAL_MAHJONG_BGM",
+    "Value": [
+      "74000002"
+    ]
+  },
+  {
+    "Key": "TUTORIAL_QUIZ_SELECT_INDEX",
+    "Value": [
+      "1"
+    ]
+  },
+  {
+    "Key": "USER_ID_LENGTH",
+    "Value": [
+      "26"
+    ]
+  },
+  {
+    "Key": "USER_INTRODUCTION_LENGTH_LIMIT",
+    "Value": [
+      "100"
+    ]
+  },
+  {
+    "Key": "USER_NAME_LENGTH_LIMIT",
+    "Value": [
+      "8"
+    ]
+  },
+  {
+    "Key": "WATCHING_DELAY_SECOND",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "WATCHING_ROOM_DISPLAY_COUNT_LIMIT",
+    "Value": [
+      "50"
+    ]
+  },
+  {
+    "Key": "WATCHING_ROOM_FINISHED_ROOM_TTL",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "WATCHING_ROOM_MAX_HOLD_COUNT",
+    "Value": [
+      "300"
+    ]
+  },
+  {
+    "Key": "WEEK_FOR_END_OF_WEEK",
+    "Value": [
+      "Sunday"
+    ]
+  },
+  {
+    "Key": "YEAR_MONTH_DAY_FORMAT",
+    "Value": [
+      "{0}年 {1}月{2}日"
+    ]
+  },
+  {
+    "Key": "YEAR_MONTH_DAY_TIME_FORMAT",
+    "Value": [
+      "{0}/{1}/{2} {3}:{4}"
+    ]
+  },
+  {
+    "Key": "YEAR_MONTH_FORMAT",
+    "Value": [
+      "{0}年 {1}月"
+    ]
+  }
+]

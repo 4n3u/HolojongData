@@ -1,0 +1,12 @@
+[
+  {
+    "Code": 30001,
+    "EventCode": 30001,
+    "TabBannerImage": "UI_Textures_Images_EventBanner_EBA_30001",
+    "ScheduleCode": 300011,
+    "SortOrder": 301,
+    "BgmCode": 73000001,
+    "BackgroundImage": "UI_Textures_Images_EventBackground_EBG_30001",
+    "Description": "最大10連分のレギュラーガチャチケットをゲット！"
+  }
+]

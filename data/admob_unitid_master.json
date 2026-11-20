@@ -1,0 +1,26 @@
+[
+  {
+    "Code": 1,
+    "Platform": 0,
+    "Type": 0,
+    "UnitId": "ca-app-pub-3940256099942544/5224354917"
+  },
+  {
+    "Code": 2,
+    "Platform": 0,
+    "Type": 1,
+    "UnitId": "ca-app-pub-9261255389973148/2128917969"
+  },
+  {
+    "Code": 3,
+    "Platform": 1,
+    "Type": 0,
+    "UnitId": "ca-app-pub-3940256099942544/1712485313"
+  },
+  {
+    "Code": 4,
+    "Platform": 1,
+    "Type": 1,
+    "UnitId": "ca-app-pub-9261255389973148/6068162972"
+  }
+]

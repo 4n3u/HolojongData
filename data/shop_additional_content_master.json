@@ -1,0 +1,506 @@
+[
+  {
+    "Code": 10010001,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 8,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010002,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 33,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010003,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 50,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010004,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 75,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010005,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 150,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010006,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 250,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010007,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 500,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010008,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 1500,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010009,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 150,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010010,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 250,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010011,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 500,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10010012,
+    "InventoryType": 2,
+    "InventoryCode": 730010003,
+    "Amount": 1,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 10030001,
+    "InventoryType": 2,
+    "InventoryCode": 900000001,
+    "Amount": 50,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 10030001,
+    "InventoryType": 6,
+    "InventoryCode": 10030001,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 100200001,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 5000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200002,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 10000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200003,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 20000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200004,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 40000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200005,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 40000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200006,
+    "InventoryType": 2,
+    "InventoryCode": 100010002,
+    "Amount": 5000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200007,
+    "InventoryType": 2,
+    "InventoryCode": 100010002,
+    "Amount": 30000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200008,
+    "InventoryType": 2,
+    "InventoryCode": 100010002,
+    "Amount": 60000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200009,
+    "InventoryType": 2,
+    "InventoryCode": 100010002,
+    "Amount": 300000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200010,
+    "InventoryType": 2,
+    "InventoryCode": 100010002,
+    "Amount": 500000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 100200011,
+    "InventoryType": 2,
+    "InventoryCode": 100010002,
+    "Amount": 1000000,
+    "DisplayOrder": 0
+  },
+  {
+    "Code": 200100001,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200100001,
+    "InventoryType": 2,
+    "InventoryCode": 200000001,
+    "Amount": 5,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200100001,
+    "InventoryType": 2,
+    "InventoryCode": 730010003,
+    "Amount": 2,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200200001,
+    "InventoryType": 2,
+    "InventoryCode": 730010001,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200200002,
+    "InventoryType": 2,
+    "InventoryCode": 800000001,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200200003,
+    "InventoryType": 2,
+    "InventoryCode": 200000001,
+    "Amount": 10,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200200003,
+    "InventoryType": 2,
+    "InventoryCode": 730010001,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200200003,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200300001,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 200300001,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200300001,
+    "InventoryType": 8,
+    "InventoryCode": 71100002,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200300001,
+    "InventoryType": 8,
+    "InventoryCode": 72100002,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200300002,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 200300002,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200300002,
+    "InventoryType": 8,
+    "InventoryCode": 71100003,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200300002,
+    "InventoryType": 8,
+    "InventoryCode": 72100003,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200300004,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 200300004,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200300004,
+    "InventoryType": 8,
+    "InventoryCode": 71100005,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200300004,
+    "InventoryType": 8,
+    "InventoryCode": 72100005,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200300005,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 200300005,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200300005,
+    "InventoryType": 8,
+    "InventoryCode": 71100006,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200300005,
+    "InventoryType": 8,
+    "InventoryCode": 72100006,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200300006,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 200300006,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200300006,
+    "InventoryType": 8,
+    "InventoryCode": 71100007,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200300006,
+    "InventoryType": 8,
+    "InventoryCode": 72100007,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200300007,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 200300007,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200300007,
+    "InventoryType": 8,
+    "InventoryCode": 71100008,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200300007,
+    "InventoryType": 8,
+    "InventoryCode": 72100008,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200300008,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 200300008,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200300008,
+    "InventoryType": 8,
+    "InventoryCode": 71100009,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200300008,
+    "InventoryType": 8,
+    "InventoryCode": 72100009,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 200300009,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 4
+  },
+  {
+    "Code": 200300009,
+    "InventoryType": 2,
+    "InventoryCode": 730010002,
+    "Amount": 5,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 200300009,
+    "InventoryType": 8,
+    "InventoryCode": 71100010,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 200300009,
+    "InventoryType": 8,
+    "InventoryCode": 72100010,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 600100001,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 3000,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 600100001,
+    "InventoryType": 2,
+    "InventoryCode": 720010003,
+    "Amount": 1,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 600100001,
+    "InventoryType": 2,
+    "InventoryCode": 720020001,
+    "Amount": 1,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 600100002,
+    "InventoryType": 2,
+    "InventoryCode": 100010001,
+    "Amount": 10000,
+    "DisplayOrder": 3
+  },
+  {
+    "Code": 600100002,
+    "InventoryType": 2,
+    "InventoryCode": 720010003,
+    "Amount": 2,
+    "DisplayOrder": 1
+  },
+  {
+    "Code": 600100002,
+    "InventoryType": 2,
+    "InventoryCode": 720020001,
+    "Amount": 2,
+    "DisplayOrder": 2
+  },
+  {
+    "Code": 600100002,
+    "InventoryType": 2,
+    "InventoryCode": 921000001,
+    "Amount": 15000,
+    "DisplayOrder": 4
+  }
+]

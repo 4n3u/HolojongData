@@ -1,0 +1,2634 @@
+[
+  {
+    "Code": 72001000101,
+    "ConversionItemGroupCode": 720010001,
+    "InventoryType": 2,
+    "ItemCode": 400010001,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000102,
+    "ConversionItemGroupCode": 720010001,
+    "InventoryType": 2,
+    "ItemCode": 400010002,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000103,
+    "ConversionItemGroupCode": 720010001,
+    "InventoryType": 2,
+    "ItemCode": 400010003,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000104,
+    "ConversionItemGroupCode": 720010001,
+    "InventoryType": 2,
+    "ItemCode": 400010004,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000105,
+    "ConversionItemGroupCode": 720010001,
+    "InventoryType": 2,
+    "ItemCode": 400010005,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000106,
+    "ConversionItemGroupCode": 720010001,
+    "InventoryType": 2,
+    "ItemCode": 400010006,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000107,
+    "ConversionItemGroupCode": 720010001,
+    "InventoryType": 2,
+    "ItemCode": 400010007,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000108,
+    "ConversionItemGroupCode": 720010001,
+    "InventoryType": 2,
+    "ItemCode": 400010008,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000201,
+    "ConversionItemGroupCode": 720010002,
+    "InventoryType": 2,
+    "ItemCode": 400020001,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000202,
+    "ConversionItemGroupCode": 720010002,
+    "InventoryType": 2,
+    "ItemCode": 400020002,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000203,
+    "ConversionItemGroupCode": 720010002,
+    "InventoryType": 2,
+    "ItemCode": 400020003,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000204,
+    "ConversionItemGroupCode": 720010002,
+    "InventoryType": 2,
+    "ItemCode": 400020004,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000205,
+    "ConversionItemGroupCode": 720010002,
+    "InventoryType": 2,
+    "ItemCode": 400020005,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000206,
+    "ConversionItemGroupCode": 720010002,
+    "InventoryType": 2,
+    "ItemCode": 400020006,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000207,
+    "ConversionItemGroupCode": 720010002,
+    "InventoryType": 2,
+    "ItemCode": 400020007,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000208,
+    "ConversionItemGroupCode": 720010002,
+    "InventoryType": 2,
+    "ItemCode": 400020008,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000301,
+    "ConversionItemGroupCode": 720010003,
+    "InventoryType": 2,
+    "ItemCode": 400030001,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000302,
+    "ConversionItemGroupCode": 720010003,
+    "InventoryType": 2,
+    "ItemCode": 400030002,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000303,
+    "ConversionItemGroupCode": 720010003,
+    "InventoryType": 2,
+    "ItemCode": 400030003,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000304,
+    "ConversionItemGroupCode": 720010003,
+    "InventoryType": 2,
+    "ItemCode": 400030004,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000305,
+    "ConversionItemGroupCode": 720010003,
+    "InventoryType": 2,
+    "ItemCode": 400030005,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000306,
+    "ConversionItemGroupCode": 720010003,
+    "InventoryType": 2,
+    "ItemCode": 400030006,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000307,
+    "ConversionItemGroupCode": 720010003,
+    "InventoryType": 2,
+    "ItemCode": 400030007,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72001000308,
+    "ConversionItemGroupCode": 720010003,
+    "InventoryType": 2,
+    "ItemCode": 400030008,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72002000101,
+    "ConversionItemGroupCode": 720020001,
+    "InventoryType": 2,
+    "ItemCode": 500010001,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72002000102,
+    "ConversionItemGroupCode": 720020001,
+    "InventoryType": 2,
+    "ItemCode": 500010002,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72002000103,
+    "ConversionItemGroupCode": 720020001,
+    "InventoryType": 2,
+    "ItemCode": 500010003,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72002000104,
+    "ConversionItemGroupCode": 720020001,
+    "InventoryType": 2,
+    "ItemCode": 500010004,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72002000105,
+    "ConversionItemGroupCode": 720020001,
+    "InventoryType": 2,
+    "ItemCode": 500010005,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 72003000101,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1100101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000102,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1100201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000103,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1100601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000104,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1100701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000105,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1100801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000106,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1100901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000107,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1101101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000108,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1101201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000109,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1101301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000110,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1100301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000111,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000112,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1100401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000113,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000114,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1101501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000115,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1101601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000116,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1101701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000117,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1101801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000118,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000119,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000120,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000121,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000122,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000123,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000124,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1102701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000125,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1103101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000126,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1103201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000127,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1103301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000128,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1103501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000129,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1103701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000130,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1103801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000131,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1103901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000132,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1104001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000133,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1104101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000134,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1104201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000135,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1104301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000136,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1104401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72003000137,
+    "ConversionItemGroupCode": 720030001,
+    "InventoryType": 8,
+    "ItemCode": 1104501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000101,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2100101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000102,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2100201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000103,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2100601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000104,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2100701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000105,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2100801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000106,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2100901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000107,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2101101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000108,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2101201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000109,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2101301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000110,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2100301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000111,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000112,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2100401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000113,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000114,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2101501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000115,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2101601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000116,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2101701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000117,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2101801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000118,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000119,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000120,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000121,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000122,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000123,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000124,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2102701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000125,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2103101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000126,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2103201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000127,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2103301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000128,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2103501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000129,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2103701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000130,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2103801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000131,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2103901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000132,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2104001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000133,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2104101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000134,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2104201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000135,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2104301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000136,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2104401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72004000137,
+    "ConversionItemGroupCode": 720040001,
+    "InventoryType": 8,
+    "ItemCode": 2104501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000101,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3100101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000102,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3100201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000103,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3100601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000104,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3100701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000105,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3100801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000106,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3100901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000107,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3101101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000108,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3101201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000109,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3101301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000110,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3100301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000111,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000112,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3100401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000113,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000114,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3101501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000115,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3101601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000116,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3101701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000117,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3101801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000118,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000119,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000120,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000121,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000122,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000123,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000124,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3102701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000125,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3103101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000126,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3103201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000127,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3103301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000128,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3103501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000129,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3103701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000130,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3103801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000131,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3103901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000132,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3104001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000133,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3104101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000134,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3104201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000135,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3104301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000136,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3104401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72005000137,
+    "ConversionItemGroupCode": 720050001,
+    "InventoryType": 8,
+    "ItemCode": 3104501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000101,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5100101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000102,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5100201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000103,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5100601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000104,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5100701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000105,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5100801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000106,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5100901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000107,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5101101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000108,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5101201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000109,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5101301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000110,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5100301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000111,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000112,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5100401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000113,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000114,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5101501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000115,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5101601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000116,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5101701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000117,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5101801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000118,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000119,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000120,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000121,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000122,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000123,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000124,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5102701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000125,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5103101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000126,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5103201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000127,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5103301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000128,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5103501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000129,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5103701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000130,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5103801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000131,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5103901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000132,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5104001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000133,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5104101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000134,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5104201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000135,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5104301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000136,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5104401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72006000137,
+    "ConversionItemGroupCode": 720060001,
+    "InventoryType": 8,
+    "ItemCode": 5104501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000101,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6100101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000102,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6100201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000103,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6100601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000104,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6100701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000105,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6100801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000106,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6100901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000107,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6101101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000108,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6101201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000109,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6101301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000110,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6100301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000111,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000112,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6100401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000113,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000114,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6101501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000115,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6101601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000116,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6101701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000117,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6101801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000118,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000119,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000120,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000121,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000122,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000123,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000124,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6102701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000125,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6103101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000126,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6103201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000127,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6103301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000128,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6103501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000129,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6103701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000130,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6103801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000131,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6103901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000132,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6104001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000133,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6104101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000134,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6104201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000135,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6104301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000136,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6104401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72007000137,
+    "ConversionItemGroupCode": 720070001,
+    "InventoryType": 8,
+    "ItemCode": 6104501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000101,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7100101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000102,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7100201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000103,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7100601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000104,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7100701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000105,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7100801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000106,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7100901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000107,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7101101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000108,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7101201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000109,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7101301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000110,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7100301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000111,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000112,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7100401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000113,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000114,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7101501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000115,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7101601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000116,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7101701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000117,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7101801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000118,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000119,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000120,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000121,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000122,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000123,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000124,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7102701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000125,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7103101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000126,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7103201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000127,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7103301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000128,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7103501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000129,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7103701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000130,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7103801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000131,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7103901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000132,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7104001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000133,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7104101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000134,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7104201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000135,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7104301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000136,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7104401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72008000137,
+    "ConversionItemGroupCode": 720080001,
+    "InventoryType": 8,
+    "ItemCode": 7104501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000101,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8100101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000102,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8100201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000103,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8100601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000104,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8100701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000105,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8100801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000106,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8100901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000107,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8101101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000108,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8101201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000109,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8101301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000110,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8100301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000111,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000112,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8100401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000113,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000114,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8101501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000115,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8101601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000116,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8101701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000117,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8101801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000118,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000119,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000120,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000121,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000122,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000123,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102601,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000124,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8102701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000125,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8103101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000126,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8103201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000127,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8103301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000128,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8103501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000129,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8103701,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000130,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8103801,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000131,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8103901,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000132,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8104001,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000133,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8104101,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000134,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8104201,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000135,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8104301,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000136,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8104401,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 72009000137,
+    "ConversionItemGroupCode": 720090001,
+    "InventoryType": 8,
+    "ItemCode": 8104501,
+    "Amount": 1,
+    "Rate": "27.02"
+  },
+  {
+    "Code": 73001000101,
+    "ConversionItemGroupCode": 730010001,
+    "InventoryType": 2,
+    "ItemCode": 400010001,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000102,
+    "ConversionItemGroupCode": 730010001,
+    "InventoryType": 2,
+    "ItemCode": 400010002,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000103,
+    "ConversionItemGroupCode": 730010001,
+    "InventoryType": 2,
+    "ItemCode": 400010003,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000104,
+    "ConversionItemGroupCode": 730010001,
+    "InventoryType": 2,
+    "ItemCode": 400010004,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000105,
+    "ConversionItemGroupCode": 730010001,
+    "InventoryType": 2,
+    "ItemCode": 400010005,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000106,
+    "ConversionItemGroupCode": 730010001,
+    "InventoryType": 2,
+    "ItemCode": 400010006,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000107,
+    "ConversionItemGroupCode": 730010001,
+    "InventoryType": 2,
+    "ItemCode": 400010007,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000108,
+    "ConversionItemGroupCode": 730010001,
+    "InventoryType": 2,
+    "ItemCode": 400010008,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000201,
+    "ConversionItemGroupCode": 730010002,
+    "InventoryType": 2,
+    "ItemCode": 400020001,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000202,
+    "ConversionItemGroupCode": 730010002,
+    "InventoryType": 2,
+    "ItemCode": 400020002,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000203,
+    "ConversionItemGroupCode": 730010002,
+    "InventoryType": 2,
+    "ItemCode": 400020003,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000204,
+    "ConversionItemGroupCode": 730010002,
+    "InventoryType": 2,
+    "ItemCode": 400020004,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000205,
+    "ConversionItemGroupCode": 730010002,
+    "InventoryType": 2,
+    "ItemCode": 400020005,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000206,
+    "ConversionItemGroupCode": 730010002,
+    "InventoryType": 2,
+    "ItemCode": 400020006,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000207,
+    "ConversionItemGroupCode": 730010002,
+    "InventoryType": 2,
+    "ItemCode": 400020007,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000208,
+    "ConversionItemGroupCode": 730010002,
+    "InventoryType": 2,
+    "ItemCode": 400020008,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000301,
+    "ConversionItemGroupCode": 730010003,
+    "InventoryType": 2,
+    "ItemCode": 400030001,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000302,
+    "ConversionItemGroupCode": 730010003,
+    "InventoryType": 2,
+    "ItemCode": 400030002,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000303,
+    "ConversionItemGroupCode": 730010003,
+    "InventoryType": 2,
+    "ItemCode": 400030003,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000304,
+    "ConversionItemGroupCode": 730010003,
+    "InventoryType": 2,
+    "ItemCode": 400030004,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000305,
+    "ConversionItemGroupCode": 730010003,
+    "InventoryType": 2,
+    "ItemCode": 400030005,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000306,
+    "ConversionItemGroupCode": 730010003,
+    "InventoryType": 2,
+    "ItemCode": 400030006,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000307,
+    "ConversionItemGroupCode": 730010003,
+    "InventoryType": 2,
+    "ItemCode": 400030007,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73001000308,
+    "ConversionItemGroupCode": 730010003,
+    "InventoryType": 2,
+    "ItemCode": 400030008,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73002000101,
+    "ConversionItemGroupCode": 730020001,
+    "InventoryType": 2,
+    "ItemCode": 500010001,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73002000102,
+    "ConversionItemGroupCode": 730020001,
+    "InventoryType": 2,
+    "ItemCode": 500010002,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73002000103,
+    "ConversionItemGroupCode": 730020001,
+    "InventoryType": 2,
+    "ItemCode": 500010003,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73002000104,
+    "ConversionItemGroupCode": 730020001,
+    "InventoryType": 2,
+    "ItemCode": 500010004,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73002000105,
+    "ConversionItemGroupCode": 730020001,
+    "InventoryType": 2,
+    "ItemCode": 500010005,
+    "Amount": 1,
+    "Rate": "1.25"
+  },
+  {
+    "Code": 73101000101,
+    "ConversionItemGroupCode": 731010001,
+    "InventoryType": 2,
+    "ItemCode": 730010001,
+    "Amount": 1,
+    "Rate": "90.9"
+  },
+  {
+    "Code": 73101000102,
+    "ConversionItemGroupCode": 731010001,
+    "InventoryType": 2,
+    "ItemCode": 730010002,
+    "Amount": 1,
+    "Rate": "9.9"
+  },
+  {
+    "Code": 73101000103,
+    "ConversionItemGroupCode": 731010001,
+    "InventoryType": 2,
+    "ItemCode": 730010003,
+    "Amount": 1,
+    "Rate": "0.01"
+  },
+  {
+    "Code": 73101000201,
+    "ConversionItemGroupCode": 731010002,
+    "InventoryType": 2,
+    "ItemCode": 730010001,
+    "Amount": 1,
+    "Rate": "80"
+  },
+  {
+    "Code": 73101000202,
+    "ConversionItemGroupCode": 731010002,
+    "InventoryType": 2,
+    "ItemCode": 730010002,
+    "Amount": 1,
+    "Rate": "19.5"
+  },
+  {
+    "Code": 73101000203,
+    "ConversionItemGroupCode": 731010002,
+    "InventoryType": 2,
+    "ItemCode": 730010003,
+    "Amount": 1,
+    "Rate": "0.1"
+  },
+  {
+    "Code": 73101000301,
+    "ConversionItemGroupCode": 731010003,
+    "InventoryType": 2,
+    "ItemCode": 730010001,
+    "Amount": 1,
+    "Rate": "70"
+  },
+  {
+    "Code": 73101000302,
+    "ConversionItemGroupCode": 731010003,
+    "InventoryType": 2,
+    "ItemCode": 730010002,
+    "Amount": 1,
+    "Rate": "29"
+  },
+  {
+    "Code": 73101000303,
+    "ConversionItemGroupCode": 731010003,
+    "InventoryType": 2,
+    "ItemCode": 730010003,
+    "Amount": 1,
+    "Rate": "1"
+  },
+  {
+    "Code": 73101000401,
+    "ConversionItemGroupCode": 731010004,
+    "InventoryType": 2,
+    "ItemCode": 730010001,
+    "Amount": 1,
+    "Rate": "60"
+  },
+  {
+    "Code": 73101000402,
+    "ConversionItemGroupCode": 731010004,
+    "InventoryType": 2,
+    "ItemCode": 730010002,
+    "Amount": 1,
+    "Rate": "37"
+  },
+  {
+    "Code": 73101000403,
+    "ConversionItemGroupCode": 731010004,
+    "InventoryType": 2,
+    "ItemCode": 730010003,
+    "Amount": 1,
+    "Rate": "3"
+  }
+]

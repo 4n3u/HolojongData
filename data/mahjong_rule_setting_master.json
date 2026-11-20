@@ -1,0 +1,2015 @@
+[
+  {
+    "Id": 10,
+    "Name": "対局モード",
+    "Types": {
+      "Setting": 1,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "4人で打つか、3人で打つかを選びます。\nルールの違いは「あそびかた」で確認できます。",
+    "Default": "4",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_MODE_1",
+      "Value": "4"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_MODE_2",
+      "Value": "3"
+    },
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": false
+  },
+  {
+    "Id": 20,
+    "Name": "対局数",
+    "Types": {
+      "Setting": 2,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "どこまで対局するかを選びます。\n・東風戦：東4局まで\n・半荘戦：南4局まで\n・一局戦：オーラスの1局だけ（連チャンなし）",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_ROUND_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_ROUND_2",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_ROUND_3",
+      "Value": "0"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 30,
+    "Name": "長考時間",
+    "Types": {
+      "Setting": 3,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "1手ごとに考えられる時間です。\n左の秒数を使い切ると、右の予備時間が減ります。\n予備時間は局ごとに補充されます。",
+    "Default": "3",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_2",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_3",
+      "Value": "3"
+    },
+    "Param4": {
+      "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_4",
+      "Value": "4"
+    },
+    "Param5": {
+      "Key": "MAHJONG_RULE_SETTING_THINKING_TIME_5",
+      "Value": "5"
+    },
+    "Param6": {
+      "Key": "column",
+      "Value": "3"
+    },
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 40,
+    "Name": "CPUレベル",
+    "Types": {
+      "Setting": 33,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "対局相手にCPUを入れるときの強さです。",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CPU_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CPU_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_CPU_TYPE_3",
+      "Value": "3"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 50,
+    "Name": "オススメ牌表示",
+    "Types": {
+      "Setting": 57,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "この対局で「オススメ牌表示」を使えるかを決めます。\n・ON：各自のオプション設定どおり\n・OFF：全員、表示されません\n<color=#9B99A6>※オススメ牌なしで遊ぶときはOFFにしてください。</color>",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 60,
+    "Name": "アシスト機能",
+    "Types": {
+      "Setting": 56,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "オススメ牌表示以外のアシスト機能を、\nこの対局で使えるかを決めます。\n・ON：各自のオプション設定どおり\n・OFF：全員、使えません\n<color=#9B99A6>※アシストなしで遊ぶときはOFFにしてください。</color>",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 70,
+    "Name": "採用ルール選択",
+    "Types": {
+      "Setting": 58,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "どのルールで遊ぶかを選びます。\n・ランクマッチ：ランクマッチと同じルール\n・カスタム：持ち点などを好きに変えられる\n・マニアック：さらに細かい設定まで変えられる\n<color=#9B99A6>※ランクマッチを選ぶと、ルールは変えられません。</color>",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_RULE_TEMP_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_RULE_TEMP_2",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_RULE_TEMP_3",
+      "Value": "3"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 80,
+    "Name": "点数設定",
+    "Types": {
+      "Setting": 0,
+      "Render": 9,
+      "Contents": 15
+    },
+    "Description": "",
+    "Default": "",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": false
+  },
+  {
+    "Id": 90,
+    "Name": "配給原点",
+    "Types": {
+      "Setting": 4,
+      "Render": 3,
+      "Contents": 15
+    },
+    "Description": "対局を始めるときに、全員が持っている点数です。",
+    "Default": "25000",
+    "Param1": {
+      "Key": "min",
+      "Value": "10000"
+    },
+    "Param2": {
+      "Key": "max_4",
+      "Value": "250000"
+    },
+    "Param3": {
+      "Key": "max_3",
+      "Value": "350000"
+    },
+    "Param4": {
+      "Key": "step",
+      "Value": "1000"
+    },
+    "Param5": {
+      "Key": "large_step",
+      "Value": "10000"
+    },
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 100,
+    "Name": "1位必要点数",
+    "Types": {
+      "Setting": 5,
+      "Render": 3,
+      "Contents": 15
+    },
+    "Description": "1位で終わるために必要な点数です。\n東風戦・半荘戦のオーラスが終わった時点で、\n1位がこの点数に届いていなければ、\n延長戦（サドンデス）に入ります。\n<color=#9B99A6>※延長戦は「南入/西入」がONのときだけ起こります。</color>",
+    "Default": "30000",
+    "Param1": {
+      "Key": "min",
+      "Value": "10000"
+    },
+    "Param2": {
+      "Key": "max_4",
+      "Value": "300000"
+    },
+    "Param3": {
+      "Key": "max_3",
+      "Value": "400000"
+    },
+    "Param4": {
+      "Key": "step",
+      "Value": "1000"
+    },
+    "Param5": {
+      "Key": "large_step",
+      "Value": "10000"
+    },
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 110,
+    "Name": "順位ウマ",
+    "Types": {
+      "Setting": 6,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "終局時に、順位に応じてポイントが増減します。\nその増減の組み合わせを選びます。\n\n◆四人麻雀\n・ 5-10（1位+10 / 2位+5 / 3位-5 / 4位-10）\n・ 5-15（1位+15 / 2位+5 / 3位-5 / 4位-15）\n・ 10-20（1位+20 / 2位+10 / 3位-10 / 4位-20）\n・ 10-30（1位+30 / 2位+10 / 3位-10 / 4位-30）\n・ 20-30（1位+30 / 2位+20 / 3位-20 / 4位-30）\n\n◆三人麻雀\n・ 0-10（1位+10 / 2位+0 / 3位-10）\n・ 0-15（1位+15 / 2位+0 / 3位-15）\n・ 0-20（1位+20 / 2位+0 / 3位-20）\n・ 0-30（1位+30 / 2位+0 / 3位-30）",
+    "Default": "2",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_1_YONMA",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_2_YONMA",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_3_YONMA",
+      "Value": "3"
+    },
+    "Param4": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_4_YONMA",
+      "Value": "4"
+    },
+    "Param5": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_5_YONMA",
+      "Value": "5"
+    },
+    "Param6": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_1_SANMA",
+      "Value": "6"
+    },
+    "Param7": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_2_SANMA",
+      "Value": "7"
+    },
+    "Param8": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_3_SANMA",
+      "Value": "8"
+    },
+    "Param9": {
+      "Key": "MAHJONG_RULE_SETTING_UMA_PRESET_4_SANMA",
+      "Value": "9"
+    },
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 120,
+    "Name": "オカ",
+    "Types": {
+      "Setting": 7,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "「オカ」を採用するかを決めます。\nONにすると、終局時に1位へボーナスが入ります。\nボーナスは「返し点と配給原点の差×人数」です。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 130,
+    "Name": "返し点",
+    "Types": {
+      "Setting": 59,
+      "Render": 3,
+      "Contents": 15
+    },
+    "Description": "終局時のポイント計算で基準になる点数です。\nオカをONにしたときに設定できます。\n配給原点より小さくはできません。",
+    "Default": "30000",
+    "Param1": {
+      "Key": "min",
+      "Value": "0"
+    },
+    "Param2": {
+      "Key": "max",
+      "Value": "10000"
+    },
+    "Param3": {
+      "Key": "step",
+      "Value": "1000"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 140,
+    "Name": "ノーテン罰符",
+    "Types": {
+      "Setting": 11,
+      "Render": 3,
+      "Contents": 15
+    },
+    "Description": "流局したときに、ノーテンの人が払う点数の合計です。\nノーテンの人数で割って、テンパイの人へ払います。\n<color=#9B99A6>※全員がテンパイかノーテンなら発生しません。</color>",
+    "Default": "3000",
+    "Param1": {
+      "Key": "min",
+      "Value": "0"
+    },
+    "Param2": {
+      "Key": "max_4",
+      "Value": "30000"
+    },
+    "Param3": {
+      "Key": "max_3",
+      "Value": "20000"
+    },
+    "Param4": {
+      "Key": "step_4",
+      "Value": "3000"
+    },
+    "Param5": {
+      "Key": "step_3",
+      "Value": "2000"
+    },
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 150,
+    "Name": "リーチ供託点",
+    "Types": {
+      "Setting": 9,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "リーチするときに場に出す点数です。\n1000点・5000点・10000点から選びます。\n選んだ点数に合わせた点棒が、供託に表示されます。",
+    "Default": "1000",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_RIICHI_DEPOSIT_1",
+      "Value": "1000"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_RIICHI_DEPOSIT_2",
+      "Value": "5000"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_RIICHI_DEPOSIT_3",
+      "Value": "10000"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 160,
+    "Name": "積み棒",
+    "Types": {
+      "Setting": 10,
+      "Render": 3,
+      "Contents": 15
+    },
+    "Description": "積み棒1本あたりのボーナス点数です。\n<color=#9B99A6>※積み棒は、親の連チャンと流局で増えます。</color>",
+    "Default": "300",
+    "Param1": {
+      "Key": "min_4",
+      "Value": "300"
+    },
+    "Param2": {
+      "Key": "min_3",
+      "Value": "200"
+    },
+    "Param3": {
+      "Key": "max_4",
+      "Value": "3000"
+    },
+    "Param4": {
+      "Key": "max_3",
+      "Value": "2000"
+    },
+    "Param5": {
+      "Key": "step_4",
+      "Value": "300"
+    },
+    "Param6": {
+      "Key": "step_3",
+      "Value": "200"
+    },
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 170,
+    "Name": "飛び",
+    "Types": {
+      "Setting": 19,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "点数がマイナスになった人が出たら、\nそこで終局するか、続けるかを決めます。\nOFFにすると、点数が足りなくてもリーチできます。",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 180,
+    "Name": "延長方式",
+    "Types": {
+      "Setting": 0,
+      "Render": 9,
+      "Contents": 15
+    },
+    "Description": "",
+    "Default": "",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": false
+  },
+  {
+    "Id": 190,
+    "Name": "南入/西入",
+    "Types": {
+      "Setting": 8,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "オーラス終了時に1位必要点数に届いた人がいないとき、\n延長戦（サドンデス）をするかを決めます。\n・ON：延長戦をする\n・OFF：延長戦をせずに終局\n\n◆延長戦（サドンデス）について\n・東風戦：南場に入り、最長で南4局で終局\n・半荘戦：西場に入り、最長で西4局で終局\n<color=#9B99A6>※延長戦中は、だれかが1位必要点数に届くか、\n飛んだ時点で終局します。\n※延長戦の最終局で親が流れたときは、\n1位必要点数に届いていなくても終局します。</color>",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 200,
+    "Name": "オーラス止め",
+    "Types": {
+      "Setting": 20,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "オーラスで親がトップかつ1位必要点数に届いている\nときに、そこで終局するかを決めます。\n・ON：親がアガリかテンパイで終局\n・OFF：親が流れるまで続ける",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 210,
+    "Name": "連チャン方式",
+    "Types": {
+      "Setting": 12,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "親が続けて親になる（連チャン）条件を選びます。\n・テンパイ連チャン：親がアガるかテンパイで連チャン\n・アガリ連チャン：親がアガったときだけ連チャン\n・連チャン無し：アガってもテンパイでも親は交代",
+    "Default": "2",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CONTINUOUS_TYPE_2",
+      "Value": "2"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CONTINUOUS_TYPE_1",
+      "Value": "1"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_CONTINUOUS_TYPE_0",
+      "Value": "0"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 220,
+    "Name": "ハウスルール",
+    "Types": {
+      "Setting": 0,
+      "Render": 9,
+      "Contents": 15
+    },
+    "Description": "",
+    "Default": "",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": false
+  },
+  {
+    "Id": 230,
+    "Name": "翻縛り",
+    "Types": {
+      "Setting": 32,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "アガるのに必要な最低の翻数を、1～4翻から選びます。\n<color=#9B99A6>※役があっても、翻数が足りないとアガれません。\n※ドラは翻数に数えられません。\n※リーチは翻数が足りなくてもできますが、ツモでもロンでも翻数が足りないとアガれず、そのままフリテンになります。</color>",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_BINDING_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_BINDING_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_BINDING_TYPE_3",
+      "Value": "3"
+    },
+    "Param4": {
+      "Key": "MAHJONG_RULE_SETTING_BINDING_TYPE_4",
+      "Value": "4"
+    },
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 240,
+    "Name": "流し満貫",
+    "Types": {
+      "Setting": 22,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "流し満貫を採用するかを決めます。",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 250,
+    "Name": "赤ドラ",
+    "Types": {
+      "Setting": 15,
+      "Render": 2,
+      "Contents": 15
+    },
+    "Description": "数牌の「5」を赤ドラにするかを選びます。\n枚数は次のとおりです。\n・無し：赤ドラなし\n・有り：\n　四人麻雀：萬1/筒1/索1（計3枚）\n　三人麻雀：萬0/筒1/索1（計2枚）\n・4枚：\n　四人麻雀：萬1/筒2/索1（計4枚）\n　三人麻雀：萬0/筒2/索2（計4枚）",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_RED_DORA_0",
+      "Value": "0"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_RED_DORA_1",
+      "Value": "1"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_RED_DORA_2",
+      "Value": "2"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 260,
+    "Name": "槓ドラ即めくり",
+    "Types": {
+      "Setting": 16,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "明槓したときの槓ドラを、すぐにめくるかを決めます。\n通常は、牌を捨ててからめくります。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 270,
+    "Name": "抜きドラ",
+    "Types": {
+      "Setting": 14,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "三人麻雀で、北を抜きドラにするかを決めます。\n・ON：北を抜きドラにする\n・OFF：北はふつうの風牌として扱う",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 280,
+    "Name": "喰いタン",
+    "Types": {
+      "Setting": 17,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "鳴いてもタンヤオでアガれるか（喰いタン）を決めます。",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 290,
+    "Name": "喰い替え",
+    "Types": {
+      "Setting": 18,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "喰い替えを認めるかを決めます。\n\n◆喰い替えについて\nすでにできているメンツ（3枚組）の2枚を使って鳴き、\nすぐに残りの1枚を捨てることです。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 300,
+    "Name": "頭ハネ",
+    "Types": {
+      "Setting": 21,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "同じ牌で複数の人がロンしたときの扱いを決めます。\n・ON：上家だけがアガれる（頭ハネ）\n・OFF：全員アガれる（ダブロン・トリロン）",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 310,
+    "Name": "切り上げ満貫",
+    "Types": {
+      "Setting": 23,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "30符4翻・60符3翻のアガリ（子7700点・親11600点）を、\n満貫（子8000点・親12000点）に切り上げるかを決めます。\n・ON：満貫に切り上げる\n・OFF：本来の点数で計算する",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 320,
+    "Name": "数え役満",
+    "Types": {
+      "Setting": 24,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "13翻以上を役満として扱うかを決めます。\n・ON：13翻以上は役満\n・OFF：13翻以上は三倍満",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 330,
+    "Name": "国士無双暗槓搶槓ロン",
+    "Types": {
+      "Setting": 25,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "国士無双の単騎待ちで、待ち牌を暗槓されたときに\nロン（搶槓）できるかを決めます。\n・ON：ロンできる\n・OFF：ロンできない",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 340,
+    "Name": "役満の責任払い",
+    "Types": {
+      "Setting": 26,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "大三元・大四喜が確定する鳴きをさせた人に、\n支払いの責任（包：パオ）を負わせるかを決めます。",
+    "Default": "True",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 350,
+    "Name": "バラエティ",
+    "Types": {
+      "Setting": 0,
+      "Render": 9,
+      "Contents": 15
+    },
+    "Description": "",
+    "Default": "",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": false
+  },
+  {
+    "Id": 360,
+    "Name": "オープン立直",
+    "Types": {
+      "Setting": 28,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "オープン立直を採用するかを決めます。\nテンパイしたときに、手牌を見せてリーチできます。\n\n◆オープン立直について\n通常のリーチに、さらに1翻つきます。\nリーチしていない人からロンすると、役満になります。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 370,
+    "Name": "割れ目",
+    "Types": {
+      "Setting": 29,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "割れ目を採用するかを決めます。\n\n◆割れ目について\n局ごとに1人がランダムで「割れ目」になります。\n割れ目の人は、払う点数ももらう点数も2倍になります。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 380,
+    "Name": "焼き鳥",
+    "Types": {
+      "Setting": 30,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "焼き鳥を採用するかを決めます。\n\n◆焼き鳥について\n全員が「焼き鳥」の状態で対局を始めます。\n終局までに一度もアガれなかった人は、罰符を払います。\n一度でもアガると、焼き鳥は解除されます。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 390,
+    "Name": "焼き鳥罰符",
+    "Types": {
+      "Setting": 31,
+      "Render": 3,
+      "Contents": 15
+    },
+    "Description": "焼き鳥の罰符の合計点数です。\n焼き鳥の人数で分けて払います。",
+    "Default": "30000",
+    "Param1": {
+      "Key": "min_4",
+      "Value": "30000"
+    },
+    "Param2": {
+      "Key": "min_3",
+      "Value": "20000"
+    },
+    "Param3": {
+      "Key": "max_4",
+      "Value": "90000"
+    },
+    "Param4": {
+      "Key": "max_3",
+      "Value": "60000"
+    },
+    "Param5": {
+      "Key": "step_4",
+      "Value": "3000"
+    },
+    "Param6": {
+      "Key": "step_3",
+      "Value": "2000"
+    },
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 400,
+    "Name": "ローカル役",
+    "Types": {
+      "Setting": 13,
+      "Render": 1,
+      "Contents": 15
+    },
+    "Description": "ローカル役を採用するかを決めます。\nローカル役は「あそびかた」の役一覧で確認できます。\n<color=#9B99A6>※オープン立直はローカル役とは別に設定します。</color>",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 410,
+    "Name": "大会名",
+    "Types": {
+      "Setting": 34,
+      "Render": 7,
+      "Contents": 4
+    },
+    "Description": "",
+    "Default": "",
+    "Param1": {
+      "Key": "limit",
+      "Value": "20"
+    },
+    "Param2": {
+      "Key": "dialog_title",
+      "Value": "CHAMPIONSHIP_INPUT_NAME_DIALOG_TITLE"
+    },
+    "Param3": {
+      "Key": "dialog_subtitle",
+      "Value": "DIALOG_TITLE_ENGLISH_TOURNAMENT"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 420,
+    "Name": "大会紹介",
+    "Types": {
+      "Setting": 35,
+      "Render": 7,
+      "Contents": 4
+    },
+    "Description": "",
+    "Default": "",
+    "Param1": {
+      "Key": "limit",
+      "Value": "1000"
+    },
+    "Param2": {
+      "Key": "use_text_area",
+      "Value": "True"
+    },
+    "Param3": {
+      "Key": "allow_empty_text",
+      "Value": "True"
+    },
+    "Param4": {
+      "Key": "dialog_title",
+      "Value": "CHAMPIONSHIP_INPUT_INTRODUCTION_DIALOG_TITLE"
+    },
+    "Param5": {
+      "Key": "dialog_subtitle",
+      "Value": "DIALOG_TITLE_ENGLISH_TOURNAMENT"
+    },
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 430,
+    "Name": "大会規模",
+    "Types": {
+      "Setting": 36,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "大会に参加可能な最大人数を設定できます。",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_VOLUME_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_VOLUME_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": false
+  },
+  {
+    "Id": 440,
+    "Name": "公開設定",
+    "Types": {
+      "Setting": 37,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "大会一覧に大会を表示するかを設定できます。\n非公開の場合、大会一覧に表示されません。",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PUBLIC_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PUBLIC_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 450,
+    "Name": "おすすめ設定",
+    "Types": {
+      "Setting": 38,
+      "Render": 1,
+      "Contents": 4
+    },
+    "Description": "大会一覧の「おすすめ」に表示するかを設定できます。\n大会作成時のみ設定が可能で、\nそれ以降は変更することができません。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": false
+  },
+  {
+    "Id": 460,
+    "Name": "パスワード設定",
+    "Types": {
+      "Setting": 39,
+      "Render": 8,
+      "Contents": 4
+    },
+    "Description": "大会参加のためのパスワードの有無を設定できます。\nパスワードは半角英数字6文字以内で設定可能です。",
+    "Default": "",
+    "Param1": {
+      "Key": "content_type",
+      "Value": "Alphanumeric"
+    },
+    "Param2": {
+      "Key": "limit",
+      "Value": "6"
+    },
+    "Param3": {
+      "Key": "placeholder",
+      "Value": "半角英数字6文字以内"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 470,
+    "Name": "参加制限",
+    "Types": {
+      "Setting": 40,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "大会の参加制限を設定できます。\n・だれでも参加\n制限なく、だれでも参加可能\n・招待\n管理者が参加者として追加した場合に参加可能\n・ランク制限\n設定された四人麻雀ランク・三人麻雀ランクを、\nそれぞれ満たしている場合に参加可能",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PARTICIPATION_RESTRICTION_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PARTICIPATION_RESTRICTION_TYPE_3",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_PARTICIPATION_RESTRICTION_TYPE_2",
+      "Value": "4"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 480,
+    "Name": "四人麻雀ランク制限",
+    "Types": {
+      "Setting": 42,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "参加制限が「ランク制限」の場合、設定できます。\nこの項目で設定した四人麻雀ランク以上の、\nサポーターのみが大会に参加可能です。",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_3",
+      "Value": "3"
+    },
+    "Param4": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_4",
+      "Value": "4"
+    },
+    "Param5": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_5",
+      "Value": "5"
+    },
+    "Param6": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_6",
+      "Value": "6"
+    },
+    "Param7": {
+      "Key": "column",
+      "Value": "6"
+    },
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 490,
+    "Name": "三人麻雀ランク制限",
+    "Types": {
+      "Setting": 41,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "参加制限が「ランク制限」の場合、設定できます。\nこの項目で設定した三人麻雀ランク以上の、\nサポーターのみが大会に参加可能です。",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_3",
+      "Value": "3"
+    },
+    "Param4": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_4",
+      "Value": "4"
+    },
+    "Param5": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_5",
+      "Value": "5"
+    },
+    "Param6": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANK_RESTRICTION_TYPE_6",
+      "Value": "6"
+    },
+    "Param7": {
+      "Key": "column",
+      "Value": "6"
+    },
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 500,
+    "Name": "大会モード",
+    "Types": {
+      "Setting": 43,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "大会のモードを設定できます。\n・個人戦\n個人の対局成績のみを集計\n・チーム戦\n個人の対局成績とチームの対局成績を集計",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_TEAM_MODE_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_TEAM_MODE_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": false
+  },
+  {
+    "Id": 510,
+    "Name": "マッチング方式",
+    "Types": {
+      "Setting": 44,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "対局のマッチング方式を設定できます。\n・ランダムマッチ\n対局準備が完了したサポーターたちでランダムに対局\n・指定対局\n管理者が指定した組み合わせで対局",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCHING_RULE_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCHING_RULE_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 520,
+    "Name": "ランキングタイプ",
+    "Types": {
+      "Setting": 50,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "集計するランキングタイプを設定できます。\n・トータルスコア\n全対局の合計スコアで集計\n・トップ回数\n1位になった回数で集計\n・直近N戦の合計スコア\n直近N戦の合計スコアで集計\n・連続N戦のベストスコア\n連続N戦の合計スコアの中で、最高値を集計\n<color=#9B99A6>※Nは「回数[N]の設定」で設定できます。</color>",
+    "Default": "1",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANKING_TYPE_1",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANKING_TYPE_2",
+      "Value": "2"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANKING_TYPE_3",
+      "Value": "3"
+    },
+    "Param4": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_RANKING_TYPE_4",
+      "Value": "4"
+    },
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 530,
+    "Name": "回数[N]の設定",
+    "Types": {
+      "Setting": 52,
+      "Render": 3,
+      "Contents": 4
+    },
+    "Description": "何戦分の対局をスコアの対象とするかを設定できます。\nランキングタイプが「直近N戦の合計スコア」「連続N戦のベストスコア」の場合に設定できます。",
+    "Default": "1",
+    "Param1": {
+      "Key": "min",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "max",
+      "Value": "10"
+    },
+    "Param3": {
+      "Key": "step",
+      "Value": "1"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 540,
+    "Name": "集計対局の制限",
+    "Types": {
+      "Setting": 51,
+      "Render": 1,
+      "Contents": 4
+    },
+    "Description": "集計する対局数に上限を設定できます。\nONの場合、上限を超えて行われた対局のスコアやトップ回数は集計対象になりません。\n<color=#9B99A6>※集計対象外の場合でも、対局を行うことはできます。</color>\nランキングタイプが「トータルスコア」「トップ回数」の場合のみ設定できます。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 550,
+    "Name": "集計対局数設定",
+    "Types": {
+      "Setting": 53,
+      "Render": 3,
+      "Contents": 4
+    },
+    "Description": "集計対象とする対局数を設定できます。\n「集計対局の制限」がONの場合にのみ設定できます。",
+    "Default": "1",
+    "Param1": {
+      "Key": "min",
+      "Value": "1"
+    },
+    "Param2": {
+      "Key": "max",
+      "Value": "20"
+    },
+    "Param3": {
+      "Key": "step",
+      "Value": "1"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 560,
+    "Name": "対戦時間制限設定",
+    "Types": {
+      "Setting": 54,
+      "Render": 1,
+      "Contents": 4
+    },
+    "Description": "対局に制限時間を設けるかを設定できます。\n設定をONにした場合、\n制限時間を迎えた時点での局をオーラスとし、\n流局もしくはアガリで対局が終了します。",
+    "Default": "False",
+    "Param1": null,
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 570,
+    "Name": "対戦時間設定",
+    "Types": {
+      "Setting": 55,
+      "Render": 2,
+      "Contents": 4
+    },
+    "Description": "制限時間を設定できます。\n「対戦時間制限設定」がONの場合のみ設定できます。",
+    "Default": "5400",
+    "Param1": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCH_TIME_RESTRICTION_TYPE_1",
+      "Value": "1800"
+    },
+    "Param2": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCH_TIME_RESTRICTION_TYPE_2",
+      "Value": "3600"
+    },
+    "Param3": {
+      "Key": "MAHJONG_RULE_SETTING_CHAMPIONSHIP_MATCH_TIME_RESTRICTION_TYPE_3",
+      "Value": "5400"
+    },
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 580,
+    "Name": "参加期間開始日時設定",
+    "Types": {
+      "Setting": 46,
+      "Render": 6,
+      "Contents": 4
+    },
+    "Description": "参加者が大会に参加できる期間の開始日時です。\n現在時刻が参加期間開始日時を迎えるまでは、\n日時の変更ができます。\n参加期間終了日時や対局期間開始日時より、\n早い日時を設定する必要があります。",
+    "Default": "",
+    "Param1": {
+      "Key": "maximum_date",
+      "Value": "365"
+    },
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 590,
+    "Name": "参加期間終了日時設定",
+    "Types": {
+      "Setting": 47,
+      "Render": 6,
+      "Contents": 4
+    },
+    "Description": "参加者が大会に参加できる期間の終了日時です。\n現在時刻が参加期間終了日時を迎えるまでは、\n日時の変更ができます。",
+    "Default": "",
+    "Param1": {
+      "Key": "maximum_date",
+      "Value": "365"
+    },
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 600,
+    "Name": "対局期間開始日時設定",
+    "Types": {
+      "Setting": 48,
+      "Render": 6,
+      "Contents": 4
+    },
+    "Description": "参加者が大会で対局できる期間の開始日時です。\n現在時刻が対局期間開始日時を迎えるまでは、\n日時の変更ができます。\n対局期間終了日時より、\n早い日時を設定する必要があります。",
+    "Default": "",
+    "Param1": {
+      "Key": "maximum_date",
+      "Value": "365"
+    },
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  },
+  {
+    "Id": 610,
+    "Name": "対局期間終了日時設定",
+    "Types": {
+      "Setting": 49,
+      "Render": 6,
+      "Contents": 4
+    },
+    "Description": "参加者が大会で対局できる期間の終了日時です。\n現在時刻が対局期間終了日時を迎えるまでは、\n日時の変更ができます。",
+    "Default": "",
+    "Param1": {
+      "Key": "maximum_date",
+      "Value": "365"
+    },
+    "Param2": null,
+    "Param3": null,
+    "Param4": null,
+    "Param5": null,
+    "Param6": null,
+    "Param7": null,
+    "Param8": null,
+    "Param9": null,
+    "Param10": null,
+    "Param11": null,
+    "Param12": null,
+    "Param13": null,
+    "Param14": null,
+    "Param15": null,
+    "IsEditable": true
+  }
+]

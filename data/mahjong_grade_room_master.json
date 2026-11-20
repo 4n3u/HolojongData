@@ -1,0 +1,898 @@
+[
+  {
+    "RoomCode": 1,
+    "Grade": 1,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -5
+  },
+  {
+    "RoomCode": 1,
+    "Grade": 2,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -5
+  },
+  {
+    "RoomCode": 1,
+    "Grade": 3,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -10
+  },
+  {
+    "RoomCode": 1,
+    "Grade": 4,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -15
+  },
+  {
+    "RoomCode": 1,
+    "Grade": 5,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -15
+  },
+  {
+    "RoomCode": 1,
+    "Grade": 6,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -20
+  },
+  {
+    "RoomCode": 2,
+    "Grade": 4,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 15,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": -25
+  },
+  {
+    "RoomCode": 2,
+    "Grade": 5,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 15,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": -25
+  },
+  {
+    "RoomCode": 2,
+    "Grade": 6,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 15,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": -30
+  },
+  {
+    "RoomCode": 2,
+    "Grade": 7,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 15,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": -30
+  },
+  {
+    "RoomCode": 2,
+    "Grade": 8,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 15,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": -30
+  },
+  {
+    "RoomCode": 2,
+    "Grade": 9,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 15,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": -35
+  },
+  {
+    "RoomCode": 3,
+    "Grade": 7,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -40
+  },
+  {
+    "RoomCode": 3,
+    "Grade": 8,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -40
+  },
+  {
+    "RoomCode": 3,
+    "Grade": 9,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -50
+  },
+  {
+    "RoomCode": 3,
+    "Grade": 10,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -50
+  },
+  {
+    "RoomCode": 3,
+    "Grade": 11,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -50
+  },
+  {
+    "RoomCode": 3,
+    "Grade": 12,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -60
+  },
+  {
+    "RoomCode": 4,
+    "Grade": 10,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": -60
+  },
+  {
+    "RoomCode": 4,
+    "Grade": 11,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": -60
+  },
+  {
+    "RoomCode": 4,
+    "Grade": 12,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": -70
+  },
+  {
+    "RoomCode": 4,
+    "Grade": 13,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": -70
+  },
+  {
+    "RoomCode": 4,
+    "Grade": 14,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": -70
+  },
+  {
+    "RoomCode": 4,
+    "Grade": 15,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": -80
+  },
+  {
+    "RoomCode": 5,
+    "Grade": 13,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -90
+  },
+  {
+    "RoomCode": 5,
+    "Grade": 14,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -90
+  },
+  {
+    "RoomCode": 5,
+    "Grade": 15,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -90
+  },
+  {
+    "RoomCode": 5,
+    "Grade": 16,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": -50
+  },
+  {
+    "RoomCode": 11,
+    "Grade": 1,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -10
+  },
+  {
+    "RoomCode": 11,
+    "Grade": 2,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -10
+  },
+  {
+    "RoomCode": 11,
+    "Grade": 3,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -15
+  },
+  {
+    "RoomCode": 11,
+    "Grade": 4,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -30
+  },
+  {
+    "RoomCode": 11,
+    "Grade": 5,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -30
+  },
+  {
+    "RoomCode": 11,
+    "Grade": 6,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": 0,
+    "RankFourthBasePoint": -40
+  },
+  {
+    "RoomCode": 12,
+    "Grade": 4,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 30,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -50
+  },
+  {
+    "RoomCode": 12,
+    "Grade": 5,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 30,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -50
+  },
+  {
+    "RoomCode": 12,
+    "Grade": 6,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 30,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -60
+  },
+  {
+    "RoomCode": 12,
+    "Grade": 7,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 30,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -60
+  },
+  {
+    "RoomCode": 12,
+    "Grade": 8,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 30,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -60
+  },
+  {
+    "RoomCode": 12,
+    "Grade": 9,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 30,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": -70
+  },
+  {
+    "RoomCode": 13,
+    "Grade": 7,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": -80
+  },
+  {
+    "RoomCode": 13,
+    "Grade": 8,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": -80
+  },
+  {
+    "RoomCode": 13,
+    "Grade": 9,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": -100
+  },
+  {
+    "RoomCode": 13,
+    "Grade": 10,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": -100
+  },
+  {
+    "RoomCode": 13,
+    "Grade": 11,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": -100
+  },
+  {
+    "RoomCode": 13,
+    "Grade": 12,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": -120
+  },
+  {
+    "RoomCode": 14,
+    "Grade": 10,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -120
+  },
+  {
+    "RoomCode": 14,
+    "Grade": 11,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -120
+  },
+  {
+    "RoomCode": 14,
+    "Grade": 12,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -140
+  },
+  {
+    "RoomCode": 14,
+    "Grade": 13,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -140
+  },
+  {
+    "RoomCode": 14,
+    "Grade": 14,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -140
+  },
+  {
+    "RoomCode": 14,
+    "Grade": 15,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -160
+  },
+  {
+    "RoomCode": 15,
+    "Grade": 13,
+    "RankFirstBasePoint": 200,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -120,
+    "RankFourthBasePoint": -180
+  },
+  {
+    "RoomCode": 15,
+    "Grade": 14,
+    "RankFirstBasePoint": 200,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -120,
+    "RankFourthBasePoint": -180
+  },
+  {
+    "RoomCode": 15,
+    "Grade": 15,
+    "RankFirstBasePoint": 200,
+    "RankSecondBasePoint": 40,
+    "RankThirdBasePoint": -120,
+    "RankFourthBasePoint": -180
+  },
+  {
+    "RoomCode": 15,
+    "Grade": 16,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": -100
+  },
+  {
+    "RoomCode": 101,
+    "Grade": 1,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 5,
+    "RankThirdBasePoint": -5,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 101,
+    "Grade": 2,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 5,
+    "RankThirdBasePoint": -5,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 101,
+    "Grade": 3,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 5,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 101,
+    "Grade": 4,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 5,
+    "RankThirdBasePoint": -15,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 101,
+    "Grade": 5,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 5,
+    "RankThirdBasePoint": -15,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 101,
+    "Grade": 6,
+    "RankFirstBasePoint": 20,
+    "RankSecondBasePoint": 5,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 102,
+    "Grade": 4,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -25,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 102,
+    "Grade": 5,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -25,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 102,
+    "Grade": 6,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 102,
+    "Grade": 7,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 102,
+    "Grade": 8,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 102,
+    "Grade": 9,
+    "RankFirstBasePoint": 35,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -35,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 103,
+    "Grade": 7,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 103,
+    "Grade": 8,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 103,
+    "Grade": 9,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -50,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 103,
+    "Grade": 10,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -50,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 103,
+    "Grade": 11,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -50,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 103,
+    "Grade": 12,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 104,
+    "Grade": 10,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": -10,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 104,
+    "Grade": 11,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": -10,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 104,
+    "Grade": 12,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": -10,
+    "RankThirdBasePoint": -70,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 104,
+    "Grade": 13,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": -10,
+    "RankThirdBasePoint": -70,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 104,
+    "Grade": 14,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": -10,
+    "RankThirdBasePoint": -70,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 104,
+    "Grade": 15,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": -10,
+    "RankThirdBasePoint": -80,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 105,
+    "Grade": 13,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": -30,
+    "RankThirdBasePoint": -90,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 105,
+    "Grade": 14,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": -30,
+    "RankThirdBasePoint": -90,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 105,
+    "Grade": 15,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": -30,
+    "RankThirdBasePoint": -90,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 105,
+    "Grade": 16,
+    "RankFirstBasePoint": 50,
+    "RankSecondBasePoint": -20,
+    "RankThirdBasePoint": -50,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 111,
+    "Grade": 1,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 111,
+    "Grade": 2,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -10,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 111,
+    "Grade": 3,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -20,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 111,
+    "Grade": 4,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 111,
+    "Grade": 5,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -30,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 111,
+    "Grade": 6,
+    "RankFirstBasePoint": 40,
+    "RankSecondBasePoint": 10,
+    "RankThirdBasePoint": -40,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 112,
+    "Grade": 4,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -50,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 112,
+    "Grade": 5,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -50,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 112,
+    "Grade": 6,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 112,
+    "Grade": 7,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 112,
+    "Grade": 8,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -60,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 112,
+    "Grade": 9,
+    "RankFirstBasePoint": 70,
+    "RankSecondBasePoint": 20,
+    "RankThirdBasePoint": -70,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 113,
+    "Grade": 7,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -80,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 113,
+    "Grade": 8,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -80,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 113,
+    "Grade": 9,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -100,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 113,
+    "Grade": 10,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -100,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 113,
+    "Grade": 11,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -100,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 113,
+    "Grade": 12,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": 0,
+    "RankThirdBasePoint": -120,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 114,
+    "Grade": 10,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": -20,
+    "RankThirdBasePoint": -120,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 114,
+    "Grade": 11,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": -20,
+    "RankThirdBasePoint": -120,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 114,
+    "Grade": 12,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": -20,
+    "RankThirdBasePoint": -140,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 114,
+    "Grade": 13,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": -20,
+    "RankThirdBasePoint": -140,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 114,
+    "Grade": 14,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": -20,
+    "RankThirdBasePoint": -140,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 114,
+    "Grade": 15,
+    "RankFirstBasePoint": 140,
+    "RankSecondBasePoint": -20,
+    "RankThirdBasePoint": -160,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 115,
+    "Grade": 13,
+    "RankFirstBasePoint": 200,
+    "RankSecondBasePoint": -60,
+    "RankThirdBasePoint": -180,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 115,
+    "Grade": 14,
+    "RankFirstBasePoint": 200,
+    "RankSecondBasePoint": -60,
+    "RankThirdBasePoint": -180,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 115,
+    "Grade": 15,
+    "RankFirstBasePoint": 200,
+    "RankSecondBasePoint": -60,
+    "RankThirdBasePoint": -180,
+    "RankFourthBasePoint": 0
+  },
+  {
+    "RoomCode": 115,
+    "Grade": 16,
+    "RankFirstBasePoint": 100,
+    "RankSecondBasePoint": -40,
+    "RankThirdBasePoint": -100,
+    "RankFourthBasePoint": 0
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "Group": 101,
+    "ItemCode": 110100001,
+    "Amount": 100000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221240003,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221240002,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221240001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221210013,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221210012,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221210011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221210003,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221210002,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221210001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210012,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210010,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210009,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210008,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210007,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210006,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210005,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210004,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210003,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210002,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211210001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110026,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110025,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110024,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110023,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221240004,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221320011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221320012,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221320013,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311102011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311101011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311092011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311091011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311082011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311081011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311062011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311061011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311052011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311051011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311032011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311031011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110022,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311022021,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311021021,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311012021,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311012011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311011021,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221350001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221340007,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221340006,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221340005,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221340004,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221340003,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221340002,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 221340001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311022011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110021,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110016,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110015,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300041,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300033,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300032,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300031,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300023,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300022,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300021,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300013,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300012,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 920060001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300042,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 920050001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 920000003,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 920000002,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 920000001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 903000031,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 903000021,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 903000011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 902000011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 901000011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 900000011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 990000001,
+    "Amount": 100000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 999000000,
+    "Amount": 100000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110100002,
+    "Amount": 100000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 920040001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311111011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110300043,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110014,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110013,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110012,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110006,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110005,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110004,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110003,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110002,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 211110001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110900001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110800001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110700001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110400001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310043,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310042,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310041,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310033,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310032,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310031,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310023,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310022,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310021,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310013,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110310012,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 110500001,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  },
+  {
+    "Group": 101,
+    "ItemCode": 311112011,
+    "Amount": 5000000,
+    "IsJustAmount": false
+  }
+]

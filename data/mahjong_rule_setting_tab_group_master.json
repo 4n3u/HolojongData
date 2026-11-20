@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 1,
+    "Name": "基本ルール",
+    "Slot": 2,
+    "Conditions": []
+  },
+  {
+    "Id": 2,
+    "Name": "カスタムルール",
+    "Slot": 3,
+    "Conditions": [
+      {
+        "Id": 70,
+        "Value": "2"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "マニアックルール",
+    "Slot": 3,
+    "Conditions": [
+      {
+        "Id": 70,
+        "Value": "3"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "大会ルール",
+    "Slot": 1,
+    "Conditions": []
+  }
+]

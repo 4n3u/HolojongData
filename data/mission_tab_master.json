@@ -1,0 +1,98 @@
+[
+  {
+    "Code": 1100101,
+    "MissionShowScreenType": 1,
+    "TabName": "デイリー",
+    "ImageAddress": "UI_Textures_Sprites_Mission_MissionTab_Daily",
+    "CompleteMissionCode": 0,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 1100201,
+    "MissionShowScreenType": 1,
+    "TabName": "ウィークリー",
+    "ImageAddress": "UI_Textures_Sprites_Mission_MissionTab_Weekly",
+    "CompleteMissionCode": 0,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 2100101,
+    "MissionShowScreenType": 1,
+    "TabName": "初心者",
+    "ImageAddress": "UI_Textures_Sprites_Mission_MissionTab_Beginner",
+    "CompleteMissionCode": 0,
+    "HideForCompleted": true
+  },
+  {
+    "Code": 3010101,
+    "MissionShowScreenType": 2,
+    "TabName": "初級",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon001",
+    "CompleteMissionCode": 3999999001,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 3010201,
+    "MissionShowScreenType": 2,
+    "TabName": "中級",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon002",
+    "CompleteMissionCode": 3999999002,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 3010301,
+    "MissionShowScreenType": 2,
+    "TabName": "上級",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon003",
+    "CompleteMissionCode": 3999999003,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 3010401,
+    "MissionShowScreenType": 2,
+    "TabName": "常連",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon004",
+    "CompleteMissionCode": 3999999004,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 3010501,
+    "MissionShowScreenType": 2,
+    "TabName": "アクセサリー",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon005",
+    "CompleteMissionCode": 3999999005,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 3010601,
+    "MissionShowScreenType": 2,
+    "TabName": "サポーター",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon006",
+    "CompleteMissionCode": 3999999006,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 3010701,
+    "MissionShowScreenType": 2,
+    "TabName": "対局",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon007",
+    "CompleteMissionCode": 3999999007,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 3010801,
+    "MissionShowScreenType": 2,
+    "TabName": "成立役",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon008",
+    "CompleteMissionCode": 3999999008,
+    "HideForCompleted": false
+  },
+  {
+    "Code": 3010901,
+    "MissionShowScreenType": 2,
+    "TabName": "役満",
+    "ImageAddress": "UI_Textures_Sprites_Achivement_AchievementIcon009",
+    "CompleteMissionCode": 3999999009,
+    "HideForCompleted": false
+  }
+]

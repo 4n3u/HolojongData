@@ -1,0 +1,65 @@
+[
+  {
+    "Code": 110001,
+    "BonusPoint": 30,
+    "RewardCode": 11000101,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_930000002"
+  },
+  {
+    "Code": 110001,
+    "BonusPoint": 200,
+    "RewardCode": 11000102,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_930000001"
+  },
+  {
+    "Code": 110010,
+    "BonusPoint": 30,
+    "RewardCode": 11001001,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_930000002"
+  },
+  {
+    "Code": 110010,
+    "BonusPoint": 200,
+    "RewardCode": 11001002,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_930000001"
+  },
+  {
+    "Code": 110011,
+    "BonusPoint": 30,
+    "RewardCode": 11001001,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_930000002"
+  },
+  {
+    "Code": 110011,
+    "BonusPoint": 200,
+    "RewardCode": 11001102,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_930000001"
+  },
+  {
+    "Code": 110012,
+    "BonusPoint": 30,
+    "RewardCode": 11001201,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_930000002"
+  },
+  {
+    "Code": 110012,
+    "BonusPoint": 200,
+    "RewardCode": 11001202,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_930000001"
+  },
+  {
+    "Code": 810001,
+    "BonusPoint": 200,
+    "RewardCode": 81000101,
+    "IsRecommended": true,
+    "RewardResourceAddress": "UI_Textures_Images_Icon_SmallIcon_SMI_210000001"
+  }
+]

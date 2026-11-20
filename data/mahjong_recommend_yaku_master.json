@@ -1,0 +1,555 @@
+[
+  {
+    "Code": 1,
+    "YakuMasterCode": 5,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 34,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 35,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 36,
+    "Priority": 30,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 37,
+    "Priority": 30,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 38,
+    "Priority": 20,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 39,
+    "Priority": 20,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 40,
+    "Priority": 15,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 41,
+    "Priority": 10,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1003,
+    "Priority": 5,
+    "Group": 2,
+    "RecommendThreshold": 4
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1005,
+    "Priority": 10,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1007,
+    "Priority": 5,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1008,
+    "Priority": 5,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1009,
+    "Priority": 1,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1010,
+    "Priority": 1,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1011,
+    "Priority": 5,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1012,
+    "Priority": 1,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1013,
+    "Priority": 1,
+    "Group": 1,
+    "RecommendThreshold": 1
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 33,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 32,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 1014,
+    "Priority": 1,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 30,
+    "Priority": 30,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 6,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 7,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 8,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 9,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 10,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 31,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 13,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 14,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 12,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 16,
+    "Priority": 45,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 17,
+    "Priority": 45,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 18,
+    "Priority": 45,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 25,
+    "Priority": 100,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 26,
+    "Priority": 35,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 27,
+    "Priority": 34,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 28,
+    "Priority": 30,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 29,
+    "Priority": 30,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 1,
+    "YakuMasterCode": 15,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 34,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 35,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 36,
+    "Priority": 30,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 37,
+    "Priority": 30,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 38,
+    "Priority": 20,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 39,
+    "Priority": 20,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 40,
+    "Priority": 15,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1012,
+    "Priority": 1,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1003,
+    "Priority": 5,
+    "Group": 2,
+    "RecommendThreshold": 4
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1005,
+    "Priority": 10,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1007,
+    "Priority": 5,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1008,
+    "Priority": 5,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1009,
+    "Priority": 1,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1010,
+    "Priority": 1,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1011,
+    "Priority": 5,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 33,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 41,
+    "Priority": 10,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 32,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 16,
+    "Priority": 45,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 30,
+    "Priority": 30,
+    "Group": 2,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1013,
+    "Priority": 1,
+    "Group": 1,
+    "RecommendThreshold": 1
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 5,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 6,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 7,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 8,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 9,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 10,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 12,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 13,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 14,
+    "Priority": 50,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 17,
+    "Priority": 45,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 18,
+    "Priority": 45,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 25,
+    "Priority": 100,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 26,
+    "Priority": 35,
+    "Group": 2,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 27,
+    "Priority": 34,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 28,
+    "Priority": 30,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 29,
+    "Priority": 30,
+    "Group": 0,
+    "RecommendThreshold": 2
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 31,
+    "Priority": 30,
+    "Group": 1,
+    "RecommendThreshold": 3
+  },
+  {
+    "Code": 2,
+    "YakuMasterCode": 1014,
+    "Priority": 1,
+    "Group": 2,
+    "RecommendThreshold": 3
+  }
+]

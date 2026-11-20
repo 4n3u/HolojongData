@@ -1,0 +1,30 @@
+[
+  {
+    "Code": 101,
+    "InviteType": 1,
+    "ScheduleCode": "",
+    "InvitedUserStatus": 0,
+    "Unlocks": [
+      {
+        "TargetCount": 99999,
+        "Type": 39,
+        "Params": []
+      }
+    ],
+    "LimitDays": 0
+  },
+  {
+    "Code": 201,
+    "InviteType": 2,
+    "ScheduleCode": "",
+    "InvitedUserStatus": 1,
+    "Unlocks": [
+      {
+        "TargetCount": 99999,
+        "Type": 39,
+        "Params": []
+      }
+    ],
+    "LimitDays": 7
+  }
+]

@@ -1,0 +1,1361 @@
+[
+  {
+    "EventPointCode": 4,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 5,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": false,
+    "EventToken": "dqrzd2"
+  },
+  {
+    "EventPointCode": 5,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 30,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "at5p9t"
+  },
+  {
+    "EventPointCode": 6,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 24,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "2yput5"
+  },
+  {
+    "EventPointCode": 7,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 8,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "wsa093"
+  },
+  {
+    "EventPointCode": 8,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 9,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "b7cdjt"
+  },
+  {
+    "EventPointCode": 9,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 10,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "dxu82y"
+  },
+  {
+    "EventPointCode": 10,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 33,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "ueqh5p"
+  },
+  {
+    "EventPointCode": 11,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 26,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "28y5s6"
+  },
+  {
+    "EventPointCode": 12,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 34,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "lq7ri2"
+  },
+  {
+    "EventPointCode": 13,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 35,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "6uvq6r"
+  },
+  {
+    "EventPointCode": 14,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 36,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "ph6gwp"
+  },
+  {
+    "EventPointCode": 15,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 37,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "82l56e"
+  },
+  {
+    "EventPointCode": 16,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 38,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "uyifqh"
+  },
+  {
+    "EventPointCode": 17,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 39,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "osz9gl"
+  },
+  {
+    "EventPointCode": 18,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 40,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "ypwrmr"
+  },
+  {
+    "EventPointCode": 19,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 41,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "6oc6ka"
+  },
+  {
+    "EventPointCode": 20,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 42,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": false,
+    "EventToken": "irrr1u"
+  },
+  {
+    "EventPointCode": 21,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 43,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "vdqnvh"
+  },
+  {
+    "EventPointCode": 22,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 31,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "1npsgf"
+  },
+  {
+    "EventPointCode": 23,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 19,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "azfnbo"
+  },
+  {
+    "EventPointCode": 24,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 20,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "gmzv0m"
+  },
+  {
+    "EventPointCode": 25,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 18,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": false,
+    "EventToken": "l11z7f"
+  },
+  {
+    "EventPointCode": 26,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 44,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "55rp1g"
+  },
+  {
+    "EventPointCode": 27,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 45,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "1axz2q"
+  },
+  {
+    "EventPointCode": 28,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 46,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "q1yne4"
+  },
+  {
+    "EventPointCode": 29,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 47,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "o38lv3"
+  },
+  {
+    "EventPointCode": 31,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 21,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": false,
+    "EventToken": "yrw37x"
+  },
+  {
+    "EventPointCode": 32,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 22,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": false,
+    "EventToken": "wyl18v"
+  },
+  {
+    "EventPointCode": 33,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 48,
+    "TargetCode": 2100101,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "374ked"
+  },
+  {
+    "EventPointCode": 34,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 48,
+    "TargetCode": 2100102,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "rsy17l"
+  },
+  {
+    "EventPointCode": 35,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 48,
+    "TargetCode": 2100103,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "o3nfqc"
+  },
+  {
+    "EventPointCode": 36,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 48,
+    "TargetCode": 2100104,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "kptl6i"
+  },
+  {
+    "EventPointCode": 37,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 48,
+    "TargetCode": 2100105,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "f64rs3"
+  },
+  {
+    "EventPointCode": 38,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 48,
+    "TargetCode": 2100106,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "7kh7h9"
+  },
+  {
+    "EventPointCode": 39,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 48,
+    "TargetCode": 2100107,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "81qmck"
+  },
+  {
+    "EventPointCode": 40,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 49,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "dd4mwn"
+  },
+  {
+    "EventPointCode": 41,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 50,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "10kkfw"
+  },
+  {
+    "EventPointCode": 42,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 53,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "4ijkfk"
+  },
+  {
+    "EventPointCode": 43,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 54,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "84sjte"
+  },
+  {
+    "EventPointCode": 44,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 55,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "u63c3d"
+  },
+  {
+    "EventPointCode": 45,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 59,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "z19yww"
+  },
+  {
+    "EventPointCode": 46,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 56,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "9clmdl"
+  },
+  {
+    "EventPointCode": 47,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 57,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "3hgfnt"
+  },
+  {
+    "EventPointCode": 48,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 58,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "r62av0"
+  },
+  {
+    "EventPointCode": 49,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 60,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "rwu9rt"
+  },
+  {
+    "EventPointCode": 50,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 61,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "4wp9oi"
+  },
+  {
+    "EventPointCode": 51,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 62,
+    "TargetCode": 1,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "k5ud95"
+  },
+  {
+    "EventPointCode": 52,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 62,
+    "TargetCode": 2,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "e6qm5t"
+  },
+  {
+    "EventPointCode": 53,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 62,
+    "TargetCode": 3,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "9n76zd"
+  },
+  {
+    "EventPointCode": 54,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 62,
+    "TargetCode": 4,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "gemcoq"
+  },
+  {
+    "EventPointCode": 55,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 62,
+    "TargetCode": 5,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "4nwo05"
+  },
+  {
+    "EventPointCode": 56,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 63,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "oc6m1d"
+  },
+  {
+    "EventPointCode": 57,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 64,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "buz90n"
+  },
+  {
+    "EventPointCode": 58,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 65,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "q0o778"
+  },
+  {
+    "EventPointCode": 59,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 66,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "u2r1v8"
+  },
+  {
+    "EventPointCode": 60,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 67,
+    "TargetCode": 2,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "p5217e"
+  },
+  {
+    "EventPointCode": 61,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 67,
+    "TargetCode": 3,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "6olkir"
+  },
+  {
+    "EventPointCode": 62,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 67,
+    "TargetCode": 4,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "tak8os"
+  },
+  {
+    "EventPointCode": 63,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 67,
+    "TargetCode": 5,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "j46t6y"
+  },
+  {
+    "EventPointCode": 64,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 67,
+    "TargetCode": 6,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "hexq8u"
+  },
+  {
+    "EventPointCode": 65,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 68,
+    "TargetCode": 5,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "7pcpnc"
+  },
+  {
+    "EventPointCode": 66,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 68,
+    "TargetCode": 10,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "xmt1o7"
+  },
+  {
+    "EventPointCode": 67,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 68,
+    "TargetCode": 30,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "7o06tz"
+  },
+  {
+    "EventPointCode": 68,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 68,
+    "TargetCode": 50,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "hjyegr"
+  },
+  {
+    "EventPointCode": 69,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 68,
+    "TargetCode": 100,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "sqwtuc"
+  },
+  {
+    "EventPointCode": 70,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 69,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "7x5ogi"
+  },
+  {
+    "EventPointCode": 71,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 70,
+    "TargetCode": 0,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "1h8dzz"
+  },
+  {
+    "EventPointCode": 11001,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1001,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "kviuu0"
+  },
+  {
+    "EventPointCode": 11002,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1002,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "rw1uny"
+  },
+  {
+    "EventPointCode": 11003,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1003,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "n0yxeg"
+  },
+  {
+    "EventPointCode": 11004,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1004,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "devo6o"
+  },
+  {
+    "EventPointCode": 11006,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1006,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "ckup9e"
+  },
+  {
+    "EventPointCode": 11007,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1007,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "b71wm1"
+  },
+  {
+    "EventPointCode": 11008,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1008,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "md7koh"
+  },
+  {
+    "EventPointCode": 11009,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1009,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "hsu6lg"
+  },
+  {
+    "EventPointCode": 11011,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1011,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "vbg5cy"
+  },
+  {
+    "EventPointCode": 11012,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1012,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "sr6h3c"
+  },
+  {
+    "EventPointCode": 11013,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1013,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "hiqfsb"
+  },
+  {
+    "EventPointCode": 11015,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1015,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "cfqxqa"
+  },
+  {
+    "EventPointCode": 11016,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1016,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "teirpm"
+  },
+  {
+    "EventPointCode": 11017,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1017,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "64edt9"
+  },
+  {
+    "EventPointCode": 11018,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1018,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "k5ryj0"
+  },
+  {
+    "EventPointCode": 11020,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1020,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "qo5p3c"
+  },
+  {
+    "EventPointCode": 11021,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1021,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "k9xq2g"
+  },
+  {
+    "EventPointCode": 11022,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1022,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "uekr53"
+  },
+  {
+    "EventPointCode": 11024,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1024,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "6b4sm8"
+  },
+  {
+    "EventPointCode": 11025,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1025,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "ym9m7z"
+  },
+  {
+    "EventPointCode": 11026,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1026,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "fybajx"
+  },
+  {
+    "EventPointCode": 11027,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1027,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "9mmez7"
+  },
+  {
+    "EventPointCode": 11028,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1028,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "arp5cr"
+  },
+  {
+    "EventPointCode": 11029,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1029,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "3adkeh"
+  },
+  {
+    "EventPointCode": 11031,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1031,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "tg2z5b"
+  },
+  {
+    "EventPointCode": 11032,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1032,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "7s1eci"
+  },
+  {
+    "EventPointCode": 11033,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1033,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "8vmusj"
+  },
+  {
+    "EventPointCode": 11035,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1035,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "z8gev5"
+  },
+  {
+    "EventPointCode": 11037,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1037,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "w6v4kd"
+  },
+  {
+    "EventPointCode": 11038,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1038,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "n3tq9g"
+  },
+  {
+    "EventPointCode": 11039,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1039,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "rqvbou"
+  },
+  {
+    "EventPointCode": 11040,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1040,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "up9wby"
+  },
+  {
+    "EventPointCode": 11041,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1041,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "lmepq8"
+  },
+  {
+    "EventPointCode": 11042,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1042,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "w5m838"
+  },
+  {
+    "EventPointCode": 11043,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1043,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "e2w3ck"
+  },
+  {
+    "EventPointCode": 11044,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1044,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "dnpfw3"
+  },
+  {
+    "EventPointCode": 11045,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 51,
+    "TargetCode": 1045,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "my5h2b"
+  },
+  {
+    "EventPointCode": 21001,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1001,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "6a65hg"
+  },
+  {
+    "EventPointCode": 21002,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1002,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "ff028u"
+  },
+  {
+    "EventPointCode": 21003,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1003,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "5yomk8"
+  },
+  {
+    "EventPointCode": 21004,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1004,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "lq32ux"
+  },
+  {
+    "EventPointCode": 21006,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1006,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "b29g9v"
+  },
+  {
+    "EventPointCode": 21007,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1007,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "mz2fy5"
+  },
+  {
+    "EventPointCode": 21008,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1008,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "hp4dwa"
+  },
+  {
+    "EventPointCode": 21009,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1009,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "adu4t7"
+  },
+  {
+    "EventPointCode": 21011,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1011,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "f5rjuf"
+  },
+  {
+    "EventPointCode": 21012,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1012,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "450vxh"
+  },
+  {
+    "EventPointCode": 21013,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1013,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "p3129h"
+  },
+  {
+    "EventPointCode": 21015,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1015,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "cp1s2z"
+  },
+  {
+    "EventPointCode": 21016,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1016,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "tx45e5"
+  },
+  {
+    "EventPointCode": 21017,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1017,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "r9nljs"
+  },
+  {
+    "EventPointCode": 21018,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1018,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "gozop6"
+  },
+  {
+    "EventPointCode": 21020,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1020,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "73gwtz"
+  },
+  {
+    "EventPointCode": 21021,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1021,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "g5d152"
+  },
+  {
+    "EventPointCode": 21022,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1022,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "iy2k6b"
+  },
+  {
+    "EventPointCode": 21024,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1024,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "qt8vy3"
+  },
+  {
+    "EventPointCode": 21025,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1025,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "kgrm1r"
+  },
+  {
+    "EventPointCode": 21026,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1026,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "hsgbhc"
+  },
+  {
+    "EventPointCode": 21027,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1027,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "l01hwv"
+  },
+  {
+    "EventPointCode": 21028,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1028,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "5ldhzt"
+  },
+  {
+    "EventPointCode": 21029,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1029,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "aoainr"
+  },
+  {
+    "EventPointCode": 21031,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1031,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "g6ako0"
+  },
+  {
+    "EventPointCode": 21032,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1032,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "4ln7yl"
+  },
+  {
+    "EventPointCode": 21033,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1033,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "idaw88"
+  },
+  {
+    "EventPointCode": 21035,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1035,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "2vhypz"
+  },
+  {
+    "EventPointCode": 21037,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1037,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "u07tuc"
+  },
+  {
+    "EventPointCode": 21038,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1038,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "td5bbo"
+  },
+  {
+    "EventPointCode": 21039,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1039,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "l75bx2"
+  },
+  {
+    "EventPointCode": 21040,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1040,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "jpcyxr"
+  },
+  {
+    "EventPointCode": 21041,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1041,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "knnyzo"
+  },
+  {
+    "EventPointCode": 21042,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1042,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "exo1bw"
+  },
+  {
+    "EventPointCode": 21043,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1043,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "2s00jf"
+  },
+  {
+    "EventPointCode": 21044,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1044,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "z54kjk"
+  },
+  {
+    "EventPointCode": 21045,
+    "AdServiceCode": 1,
+    "MeasurementCategory": 52,
+    "TargetCode": 1045,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "g16gzn"
+  },
+  {
+    "EventPointCode": 30001,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 71,
+    "TargetCode": 2100101002,
+    "TargetCount": 1,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQAA"
+  },
+  {
+    "EventPointCode": 30002,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 71,
+    "TargetCode": 30002001,
+    "TargetCount": 1,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQAQ"
+  },
+  {
+    "EventPointCode": 30003,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 71,
+    "TargetCode": 2100101001,
+    "TargetCount": 1,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQAg"
+  },
+  {
+    "EventPointCode": 30004,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 71,
+    "TargetCode": 30004001,
+    "TargetCount": 1,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQAw"
+  },
+  {
+    "EventPointCode": 30005,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 71,
+    "TargetCode": 30005001,
+    "TargetCount": 10,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQBA"
+  },
+  {
+    "EventPointCode": 30006,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 71,
+    "TargetCode": 30006001,
+    "TargetCount": 1,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQBQ"
+  },
+  {
+    "EventPointCode": 30007,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 71,
+    "TargetCode": 30007001,
+    "TargetCount": 1,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQBg"
+  },
+  {
+    "EventPointCode": 30008,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 71,
+    "TargetCode": 30008001,
+    "TargetCount": 100,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQBw"
+  },
+  {
+    "EventPointCode": 30009,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 62,
+    "TargetCode": 3,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQCA"
+  },
+  {
+    "EventPointCode": 30010,
+    "AdServiceCode": 30,
+    "MeasurementCategory": 70,
+    "TargetCode": 1,
+    "TargetCount": 0,
+    "IsUnique": true,
+    "EventToken": "CgkI94mGiLsXEAIQCQ"
+  }
+]

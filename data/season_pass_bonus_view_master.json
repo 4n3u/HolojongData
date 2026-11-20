@@ -1,0 +1,58 @@
+[
+  {
+    "SeasonPassCode": 1,
+    "Type": 1,
+    "BonusInventoryType": 2,
+    "BonusItemCode": 720010003,
+    "ShowPriority": 1
+  },
+  {
+    "SeasonPassCode": 1,
+    "Type": 1,
+    "BonusInventoryType": 2,
+    "BonusItemCode": 720020001,
+    "ShowPriority": 2
+  },
+  {
+    "SeasonPassCode": 1,
+    "Type": 1,
+    "BonusInventoryType": 2,
+    "BonusItemCode": 100010001,
+    "ShowPriority": 3
+  },
+  {
+    "SeasonPassCode": 1,
+    "Type": 2,
+    "BonusInventoryType": 12,
+    "BonusItemCode": 100401000005,
+    "ShowPriority": 1
+  },
+  {
+    "SeasonPassCode": 1,
+    "Type": 2,
+    "BonusInventoryType": 12,
+    "BonusItemCode": 101301000005,
+    "ShowPriority": 2
+  },
+  {
+    "SeasonPassCode": 1,
+    "Type": 2,
+    "BonusInventoryType": 12,
+    "BonusItemCode": 102801000005,
+    "ShowPriority": 3
+  },
+  {
+    "SeasonPassCode": 1,
+    "Type": 2,
+    "BonusInventoryType": 2,
+    "BonusItemCode": 500000001,
+    "ShowPriority": 4
+  },
+  {
+    "SeasonPassCode": 1,
+    "Type": 2,
+    "BonusInventoryType": 2,
+    "BonusItemCode": 200000001,
+    "ShowPriority": 5
+  }
+]

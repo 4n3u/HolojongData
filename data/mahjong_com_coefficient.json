@@ -1,0 +1,290 @@
+[
+  {
+    "Type": "HudePaiBonus_Per_Pai",
+    "Value": "1500"
+  },
+  {
+    "Type": "Hudepaicount_Rate",
+    "Value": "150"
+  },
+  {
+    "Type": "JudgmentNoiseAccuracyThreshold",
+    "Value": "0.85"
+  },
+  {
+    "Type": "MaxDangerLevel",
+    "Value": "2"
+  },
+  {
+    "Type": "MaxJudgmentNoise",
+    "Value": "0.3"
+  },
+  {
+    "Type": "MaxScorePushPullSwing",
+    "Value": "0.3"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_1",
+    "Value": "2500"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_2",
+    "Value": "4000"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_3",
+    "Value": "5500"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_4",
+    "Value": "6500"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_5",
+    "Value": "6500"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_6",
+    "Value": "6500"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_7",
+    "Value": "5500"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_8",
+    "Value": "4000"
+  },
+  {
+    "Type": "NumberWeixianChengduScore_9",
+    "Value": "2500"
+  },
+  {
+    "Type": "PUSH_PULL_0",
+    "Value": "0.6"
+  },
+  {
+    "Type": "PUSH_PULL_1",
+    "Value": "0.8"
+  },
+  {
+    "Type": "PUSH_PULL_2",
+    "Value": "1"
+  },
+  {
+    "Type": "PUSH_PULL_3",
+    "Value": "1.5"
+  },
+  {
+    "Type": "PUSH_PULL_4",
+    "Value": "2"
+  },
+  {
+    "Type": "Score_Baopai_Per_Pai",
+    "Value": "1000"
+  },
+  {
+    "Type": "Score_Chanta_No_Chuntyan_Bonus",
+    "Value": "5000"
+  },
+  {
+    "Type": "Score_Chanta_Per_Yaotyu",
+    "Value": "100"
+  },
+  {
+    "Type": "Score_Fanpai_Per_1",
+    "Value": "50"
+  },
+  {
+    "Type": "Score_Fanpai_Per_2",
+    "Value": "1000"
+  },
+  {
+    "Type": "Score_Fanpai_Per_3",
+    "Value": "2000"
+  },
+  {
+    "Type": "Score_Fanpai_Per_4",
+    "Value": "2000"
+  },
+  {
+    "Type": "Score_Numbers_1",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Numbers_2",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Numbers_3",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Numbers_4",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Numbers_5",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Numbers_6",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Numbers_7",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Numbers_8",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Numbers_9",
+    "Value": "150"
+  },
+  {
+    "Type": "Score_Shuntu_Per_Kantyan",
+    "Value": "100"
+  },
+  {
+    "Type": "Score_Shuntu_Per_Mentu",
+    "Value": "1000"
+  },
+  {
+    "Type": "Score_Shuntu_Per_Pentyan",
+    "Value": "50"
+  },
+  {
+    "Type": "Score_Shuntu_Per_Ryanmen",
+    "Value": "300"
+  },
+  {
+    "Type": "Score_Some_Imen_Bonus",
+    "Value": "4000"
+  },
+  {
+    "Type": "Score_Some_Per_Pai",
+    "Value": "200"
+  },
+  {
+    "Type": "Score_Some_Zi_Per_Pai",
+    "Value": "100"
+  },
+  {
+    "Type": "Score_Tanyao_Per_Pai",
+    "Value": "250"
+  },
+  {
+    "Type": "Score_Toitu_Per_Kotu",
+    "Value": "1000"
+  },
+  {
+    "Type": "Score_Toitu_Per_Toitu",
+    "Value": "400"
+  },
+  {
+    "Type": "ValuableLizhiHanThreshold",
+    "Value": "3"
+  },
+  {
+    "Type": "WeixianRate_Baopai",
+    "Value": "2.5"
+  },
+  {
+    "Type": "WeixianRate_Fangpai",
+    "Value": "2.2"
+  },
+  {
+    "Type": "WeixianRate_Genbutu",
+    "Value": "0"
+  },
+  {
+    "Type": "WeixianRate_No_Match",
+    "Value": "1.5"
+  },
+  {
+    "Type": "WeixianRate_Suji_Inner",
+    "Value": "0.8"
+  },
+  {
+    "Type": "WeixianRate_Suji_Outer",
+    "Value": "0.4"
+  },
+  {
+    "Type": "WeixianRate_Xianjia",
+    "Value": "1.5"
+  },
+  {
+    "Type": "XiangtingBonusTable_0",
+    "Value": "10000"
+  },
+  {
+    "Type": "XiangtingBonusTable_1",
+    "Value": "5000"
+  },
+  {
+    "Type": "XiangtingBonusTable_2",
+    "Value": "2000"
+  },
+  {
+    "Type": "XiangtingBonusTable_3",
+    "Value": "0"
+  },
+  {
+    "Type": "XiangtingBonusTable_4",
+    "Value": "-500"
+  },
+  {
+    "Type": "XiangtingBonusTable_5",
+    "Value": "-1500"
+  },
+  {
+    "Type": "XiangtingBonusTable_Burst",
+    "Value": "-1500"
+  },
+  {
+    "Type": "XiantingPenaltyTable_0",
+    "Value": "0"
+  },
+  {
+    "Type": "XiantingPenaltyTable_1",
+    "Value": "-2000"
+  },
+  {
+    "Type": "XiantingPenaltyTable_2",
+    "Value": "-4000"
+  },
+  {
+    "Type": "XiantingPenaltyTable_3",
+    "Value": "-8000"
+  },
+  {
+    "Type": "XiantingPenaltyTable_4",
+    "Value": "-24000"
+  },
+  {
+    "Type": "XiantingPenaltyTable_5",
+    "Value": "-48000"
+  },
+  {
+    "Type": "ZhuangBonusRate",
+    "Value": "1.5"
+  },
+  {
+    "Type": "ZiWeixianChengduScore_0",
+    "Value": "8000"
+  },
+  {
+    "Type": "ZiWeixianChengduScore_1",
+    "Value": "3000"
+  },
+  {
+    "Type": "ZiWeixianChengduScore_2",
+    "Value": "500"
+  },
+  {
+    "Type": "ZiWeixianChengduScore_3",
+    "Value": "100"
+  }
+]

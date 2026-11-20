@@ -1,0 +1,578 @@
+[
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "ai_fulou_dapai",
+    "milsec": 1300,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "ai_zimo_dapai",
+    "milsec": 300,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "babei",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "babei_gangzimo",
+    "milsec": 1300,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "daopai",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "dapai",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "dapai_fulou",
+    "milsec": 200,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "dapai_pingju",
+    "milsec": 1500,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "dapai_zimo",
+    "milsec": 700,
+    "JitterMin": 0,
+    "JitterMax": 10,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "fulou",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "fulou_dapai",
+    "milsec": 150,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "gang",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "gang_gangzimo",
+    "milsec": 1300,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "gangzimo",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "huangpai",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "hule",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "jieju",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "kaiju",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "lizhi_dapai_",
+    "milsec": 500,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "pingju",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "pingju_jieju",
+    "milsec": 500,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "pingju_qipai",
+    "milsec": 500,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "qipai",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "zimo",
+    "milsec": 0,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "zimo_dapai",
+    "milsec": 100,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "delay",
+    "KeyName": "zimo_dapai*",
+    "milsec": 100,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "babei",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "daopai",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "dapai",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "fulou",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "gang",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "gangzimo",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "huangpai",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "hule",
+    "milsec": 45000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "hules",
+    "milsec": 45000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "jieju",
+    "milsec": 120000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "kaiju",
+    "milsec": 50000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "pingju",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "player_hule",
+    "milsec": 45000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "player_kaiju",
+    "milsec": 45000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "player_pingju",
+    "milsec": 40000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "player_qipai",
+    "milsec": 40000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "qipai",
+    "milsec": 50000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 0,
+    "PrefixName": "timeout",
+    "KeyName": "zimo",
+    "milsec": 60000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "delay",
+    "KeyName": "babei_gangzimo",
+    "milsec": 1500,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "delay",
+    "KeyName": "dapai_fulou",
+    "milsec": 300,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "delay",
+    "KeyName": "dapai_zimo",
+    "milsec": 300,
+    "JitterMin": 0,
+    "JitterMax": 10,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "delay",
+    "KeyName": "gang_gangzimo",
+    "milsec": 1500,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "babei",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "daopai",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "dapai",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "fulou",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "gang",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "gangzimo",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "huangpai",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "hule",
+    "milsec": 45000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "hules",
+    "milsec": 45000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "jieju",
+    "milsec": 120000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "kaiju",
+    "milsec": 50000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "pingju",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "qipai",
+    "milsec": 50000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 1,
+    "PrefixName": "timeout",
+    "KeyName": "zimo",
+    "milsec": 30000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 1
+  },
+  {
+    "SetNo": 99,
+    "PrefixName": "delay",
+    "KeyName": "babei_gangzimo",
+    "milsec": 60000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  },
+  {
+    "SetNo": 99,
+    "PrefixName": "delay",
+    "KeyName": "gang_gangzimo",
+    "milsec": 60000,
+    "JitterMin": 0,
+    "JitterMax": 0,
+    "AutoAdjust": 0
+  }
+]

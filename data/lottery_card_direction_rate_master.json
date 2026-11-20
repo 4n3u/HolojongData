@@ -1,0 +1,50 @@
+[
+  {
+    "Code": 1,
+    "HitType": 1,
+    "DirectionType": 1,
+    "Weight": 80
+  },
+  {
+    "Code": 1,
+    "HitType": 1,
+    "DirectionType": 6,
+    "Weight": 10
+  },
+  {
+    "Code": 1,
+    "HitType": 1,
+    "DirectionType": 7,
+    "Weight": 10
+  },
+  {
+    "Code": 1,
+    "HitType": 2,
+    "DirectionType": 1,
+    "Weight": 130
+  },
+  {
+    "Code": 1,
+    "HitType": 2,
+    "DirectionType": 4,
+    "Weight": 15
+  },
+  {
+    "Code": 1,
+    "HitType": 2,
+    "DirectionType": 5,
+    "Weight": 15
+  },
+  {
+    "Code": 1,
+    "HitType": 2,
+    "DirectionType": 6,
+    "Weight": 20
+  },
+  {
+    "Code": 1,
+    "HitType": 2,
+    "DirectionType": 7,
+    "Weight": 20
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "MissionCategory": 5,
+    "MissionSubCategory": 9,
+    "BackGroundImageAddress": "UI_InviteFriend_InviteFriendImage_3000001",
+    "TextImageAddress": "UI_InviteFriend_InviteFriendImage_3000001_1"
+  },
+  {
+    "MissionCategory": 6,
+    "MissionSubCategory": 9,
+    "BackGroundImageAddress": "UI_InviteFriend_InviteFriendImage_3000002",
+    "TextImageAddress": "UI_InviteFriend_InviteFriendImage_3000002_1"
+  }
+]

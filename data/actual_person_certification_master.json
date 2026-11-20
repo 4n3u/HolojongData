@@ -1,0 +1,298 @@
+[
+  {
+    "Code": 1001,
+    "Name": "ときのそら",
+    "GroupName": "0期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1001",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1001"
+  },
+  {
+    "Code": 1002,
+    "Name": "ロボ子さん",
+    "GroupName": "0期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1002",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1002"
+  },
+  {
+    "Code": 1003,
+    "Name": "AZKi",
+    "GroupName": "0期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1003",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1003"
+  },
+  {
+    "Code": 1004,
+    "Name": "さくらみこ",
+    "GroupName": "0期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1004",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1004"
+  },
+  {
+    "Code": 1006,
+    "Name": "アキ・ローゼンタール",
+    "GroupName": "1期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1006",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1006"
+  },
+  {
+    "Code": 1007,
+    "Name": "赤井はあと",
+    "GroupName": "1期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1007",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1007"
+  },
+  {
+    "Code": 1008,
+    "Name": "白上フブキ",
+    "GroupName": "1期生/ゲーマーズ",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1008",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1008"
+  },
+  {
+    "Code": 1009,
+    "Name": "夏色まつり",
+    "GroupName": "1期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1009",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1009"
+  },
+  {
+    "Code": 1011,
+    "Name": "百鬼あやめ",
+    "GroupName": "2期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1011",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1011"
+  },
+  {
+    "Code": 1012,
+    "Name": "癒月ちょこ",
+    "GroupName": "2期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1012",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1012"
+  },
+  {
+    "Code": 1013,
+    "Name": "大空スバル",
+    "GroupName": "2期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1013",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1013"
+  },
+  {
+    "Code": 1015,
+    "Name": "兎田ぺこら",
+    "GroupName": "3期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1015",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1015"
+  },
+  {
+    "Code": 1016,
+    "Name": "不知火フレア",
+    "GroupName": "3期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1016",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1016"
+  },
+  {
+    "Code": 1017,
+    "Name": "白銀ノエル",
+    "GroupName": "3期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1017",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1017"
+  },
+  {
+    "Code": 1018,
+    "Name": "宝鐘マリン",
+    "GroupName": "3期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1018",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1018"
+  },
+  {
+    "Code": 1020,
+    "Name": "角巻わため",
+    "GroupName": "4期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1020",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1020"
+  },
+  {
+    "Code": 1021,
+    "Name": "常闇トワ",
+    "GroupName": "4期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1021",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1021"
+  },
+  {
+    "Code": 1022,
+    "Name": "姫森ルーナ",
+    "GroupName": "4期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1022",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1022"
+  },
+  {
+    "Code": 1024,
+    "Name": "雪花ラミィ",
+    "GroupName": "5期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1024",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1024"
+  },
+  {
+    "Code": 1025,
+    "Name": "桃鈴ねね",
+    "GroupName": "5期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1025",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1025"
+  },
+  {
+    "Code": 1026,
+    "Name": "獅白ぼたん",
+    "GroupName": "5期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1026",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1026"
+  },
+  {
+    "Code": 1027,
+    "Name": "尾丸ポルカ",
+    "GroupName": "5期生",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1027",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1027"
+  },
+  {
+    "Code": 1028,
+    "Name": "大神ミオ",
+    "GroupName": "ゲーマーズ",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1028",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1028"
+  },
+  {
+    "Code": 1029,
+    "Name": "猫又おかゆ",
+    "GroupName": "ゲーマーズ",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1029",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1029"
+  },
+  {
+    "Code": 1031,
+    "Name": "ラプラス・ダークネス",
+    "GroupName": "秘密結社holoX",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1031",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1031"
+  },
+  {
+    "Code": 1032,
+    "Name": "鷹嶺ルイ",
+    "GroupName": "秘密結社holoX",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1032",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1032"
+  },
+  {
+    "Code": 1033,
+    "Name": "博衣こより",
+    "GroupName": "秘密結社holoX",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1033",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1033"
+  },
+  {
+    "Code": 1035,
+    "Name": "風真いろは",
+    "GroupName": "秘密結社holoX",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1035",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1035"
+  },
+  {
+    "Code": 1037,
+    "Name": "音乃瀬奏",
+    "GroupName": "ReGLOSS",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1037",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1037"
+  },
+  {
+    "Code": 1038,
+    "Name": "一条莉々華",
+    "GroupName": "ReGLOSS",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1038",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1038"
+  },
+  {
+    "Code": 1039,
+    "Name": "儒烏風亭らでん",
+    "GroupName": "ReGLOSS",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1039",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1039"
+  },
+  {
+    "Code": 1040,
+    "Name": "轟はじめ",
+    "GroupName": "ReGLOSS",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1040",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1040"
+  },
+  {
+    "Code": 1041,
+    "Name": "響咲リオナ",
+    "GroupName": "FLOW GLOW",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1041",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1041"
+  },
+  {
+    "Code": 1042,
+    "Name": "虎金妃笑虎",
+    "GroupName": "FLOW GLOW",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1042",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1042"
+  },
+  {
+    "Code": 1043,
+    "Name": "水宮枢",
+    "GroupName": "FLOW GLOW",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1043",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1043"
+  },
+  {
+    "Code": 1044,
+    "Name": "輪堂千速",
+    "GroupName": "FLOW GLOW",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1044",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1044"
+  },
+  {
+    "Code": 1045,
+    "Name": "綺々羅々ヴィヴィ",
+    "GroupName": "FLOW GLOW",
+    "IsTalent": true,
+    "SignImageAddress": "UI_Textures_Images_Sign_SGN_1045",
+    "CharacterPortraitAddress": "UI_Textures_Images_TalentImage_CertificationImage_APC_1045"
+  }
+]

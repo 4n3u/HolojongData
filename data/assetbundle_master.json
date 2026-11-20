@@ -1,0 +1,62 @@
+[
+  {
+    "Path": "Assets/CRIMW/CriAddressables/Runtime/"
+  },
+  {
+    "Path": "Assets/ExternalResources/AddressableData/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Adv/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Camera/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Chara/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Fx/"
+  },
+  {
+    "Path": "Assets/ExternalResources/InApp/UI/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Mahjong/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Masters/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Movie/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Props/"
+  },
+  {
+    "Path": "Assets/ExternalResources/ScriptableObjects/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Sounds/"
+  },
+  {
+    "Path": "Assets/ExternalResources/Stamp/"
+  },
+  {
+    "Path": "Assets/ExternalResources/UI/"
+  },
+  {
+    "Path": "Assets/ExternalResources/volume/"
+  },
+  {
+    "Path": "Assets/R25/Renderer/Shaders/"
+  },
+  {
+    "Path": "Assets/R25/Shaders/"
+  },
+  {
+    "Path": "Assets/Suzume/Shaders/"
+  },
+  {
+    "Path": "Assets/TextMesh Pro/Shaders/"
+  }
+]

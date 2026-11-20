@@ -1,0 +1,197 @@
+[
+  {
+    "InventoryType": 8,
+    "CharacterCode": 0,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_000001"
+  },
+  {
+    "InventoryType": 9,
+    "CharacterCode": 0,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_000101"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1001,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_100101"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1002,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_100201"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1003,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_100301"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1004,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_100401"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1006,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_100601"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1007,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_100701"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1008,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_100801"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1009,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_100901"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1011,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_101101"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1012,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_101201"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1013,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_101301"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1015,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_101501"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1016,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_101601"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1017,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_101701"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1018,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_101801"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1020,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102001"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1021,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102101"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1022,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102201"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1024,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102401"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1025,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102501"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1026,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102601"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1027,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102701"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1028,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102801"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1029,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_102901"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1031,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_103101"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1032,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_103201"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1033,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_103301"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1035,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_103501"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1037,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_103701"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1038,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_103801"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1039,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_103901"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1040,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_104001"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1041,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_104101"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1042,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_104201"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1043,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_104301"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1044,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_104401"
+  },
+  {
+    "InventoryType": 11,
+    "CharacterCode": 1045,
+    "IconAddress": "UI_Textures_Images_Icon_ScratchIcon_GSI_104501"
+  }
+]

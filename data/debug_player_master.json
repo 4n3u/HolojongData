@@ -1,0 +1,16 @@
+[
+  {
+    "Code": 1,
+    "Name": "アリーナ対戦相手１",
+    "CharacterCode": 11012011,
+    "Level": 1,
+    "LastLoggedInAt": [
+      "2024-01-01T00:00:00+00:00",
+      540
+    ],
+    "HonorCode": 0,
+    "VipRank": 1,
+    "DebugCharacterGroupCode": 3001,
+    "DebugPartyGroupCode": 3001
+  }
+]

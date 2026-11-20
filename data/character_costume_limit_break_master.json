@@ -1,0 +1,557 @@
+[
+  {
+    "CostumeCode": 100101,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 100101,
+    "LimitBreakCount": 2,
+    "RewardCode": 43100101002
+  },
+  {
+    "CostumeCode": 100101,
+    "LimitBreakCount": 3,
+    "RewardCode": 43100101003
+  },
+  {
+    "CostumeCode": 100201,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 100201,
+    "LimitBreakCount": 2,
+    "RewardCode": 43100201002
+  },
+  {
+    "CostumeCode": 100201,
+    "LimitBreakCount": 3,
+    "RewardCode": 43100201003
+  },
+  {
+    "CostumeCode": 100301,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 100301,
+    "LimitBreakCount": 2,
+    "RewardCode": 43100301002
+  },
+  {
+    "CostumeCode": 100301,
+    "LimitBreakCount": 3,
+    "RewardCode": 43100301003
+  },
+  {
+    "CostumeCode": 100401,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 100401,
+    "LimitBreakCount": 2,
+    "RewardCode": 43100401002
+  },
+  {
+    "CostumeCode": 100401,
+    "LimitBreakCount": 3,
+    "RewardCode": 43100401003
+  },
+  {
+    "CostumeCode": 100601,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 100601,
+    "LimitBreakCount": 2,
+    "RewardCode": 43100601002
+  },
+  {
+    "CostumeCode": 100601,
+    "LimitBreakCount": 3,
+    "RewardCode": 43100601003
+  },
+  {
+    "CostumeCode": 100701,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 100701,
+    "LimitBreakCount": 2,
+    "RewardCode": 43100701002
+  },
+  {
+    "CostumeCode": 100701,
+    "LimitBreakCount": 3,
+    "RewardCode": 43100701003
+  },
+  {
+    "CostumeCode": 100801,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 100801,
+    "LimitBreakCount": 2,
+    "RewardCode": 43100801002
+  },
+  {
+    "CostumeCode": 100801,
+    "LimitBreakCount": 3,
+    "RewardCode": 43100801003
+  },
+  {
+    "CostumeCode": 100901,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 100901,
+    "LimitBreakCount": 2,
+    "RewardCode": 43100901002
+  },
+  {
+    "CostumeCode": 100901,
+    "LimitBreakCount": 3,
+    "RewardCode": 43100901003
+  },
+  {
+    "CostumeCode": 101101,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 101101,
+    "LimitBreakCount": 2,
+    "RewardCode": 43101101002
+  },
+  {
+    "CostumeCode": 101101,
+    "LimitBreakCount": 3,
+    "RewardCode": 43101101003
+  },
+  {
+    "CostumeCode": 101201,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 101201,
+    "LimitBreakCount": 2,
+    "RewardCode": 43101201002
+  },
+  {
+    "CostumeCode": 101201,
+    "LimitBreakCount": 3,
+    "RewardCode": 43101201003
+  },
+  {
+    "CostumeCode": 101301,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 101301,
+    "LimitBreakCount": 2,
+    "RewardCode": 43101301002
+  },
+  {
+    "CostumeCode": 101301,
+    "LimitBreakCount": 3,
+    "RewardCode": 43101301003
+  },
+  {
+    "CostumeCode": 101501,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 101501,
+    "LimitBreakCount": 2,
+    "RewardCode": 43101501002
+  },
+  {
+    "CostumeCode": 101501,
+    "LimitBreakCount": 3,
+    "RewardCode": 43101501003
+  },
+  {
+    "CostumeCode": 101601,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 101601,
+    "LimitBreakCount": 2,
+    "RewardCode": 43101601002
+  },
+  {
+    "CostumeCode": 101601,
+    "LimitBreakCount": 3,
+    "RewardCode": 43101601003
+  },
+  {
+    "CostumeCode": 101701,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 101701,
+    "LimitBreakCount": 2,
+    "RewardCode": 43101701002
+  },
+  {
+    "CostumeCode": 101701,
+    "LimitBreakCount": 3,
+    "RewardCode": 43101701003
+  },
+  {
+    "CostumeCode": 101801,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 101801,
+    "LimitBreakCount": 2,
+    "RewardCode": 43101801002
+  },
+  {
+    "CostumeCode": 101801,
+    "LimitBreakCount": 3,
+    "RewardCode": 43101801003
+  },
+  {
+    "CostumeCode": 102001,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102001,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102001002
+  },
+  {
+    "CostumeCode": 102001,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102001003
+  },
+  {
+    "CostumeCode": 102101,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102101,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102101002
+  },
+  {
+    "CostumeCode": 102101,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102101003
+  },
+  {
+    "CostumeCode": 102201,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102201,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102201002
+  },
+  {
+    "CostumeCode": 102201,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102201003
+  },
+  {
+    "CostumeCode": 102401,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102401,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102401002
+  },
+  {
+    "CostumeCode": 102401,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102401003
+  },
+  {
+    "CostumeCode": 102501,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102501,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102501002
+  },
+  {
+    "CostumeCode": 102501,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102501003
+  },
+  {
+    "CostumeCode": 102601,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102601,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102601002
+  },
+  {
+    "CostumeCode": 102601,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102601003
+  },
+  {
+    "CostumeCode": 102701,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102701,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102701002
+  },
+  {
+    "CostumeCode": 102701,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102701003
+  },
+  {
+    "CostumeCode": 102801,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102801,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102801002
+  },
+  {
+    "CostumeCode": 102801,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102801003
+  },
+  {
+    "CostumeCode": 102901,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 102901,
+    "LimitBreakCount": 2,
+    "RewardCode": 43102901002
+  },
+  {
+    "CostumeCode": 102901,
+    "LimitBreakCount": 3,
+    "RewardCode": 43102901003
+  },
+  {
+    "CostumeCode": 103101,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 103101,
+    "LimitBreakCount": 2,
+    "RewardCode": 43103101002
+  },
+  {
+    "CostumeCode": 103101,
+    "LimitBreakCount": 3,
+    "RewardCode": 43103101003
+  },
+  {
+    "CostumeCode": 103201,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 103201,
+    "LimitBreakCount": 2,
+    "RewardCode": 43103201002
+  },
+  {
+    "CostumeCode": 103201,
+    "LimitBreakCount": 3,
+    "RewardCode": 43103201003
+  },
+  {
+    "CostumeCode": 103301,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 103301,
+    "LimitBreakCount": 2,
+    "RewardCode": 43103301002
+  },
+  {
+    "CostumeCode": 103301,
+    "LimitBreakCount": 3,
+    "RewardCode": 43103301003
+  },
+  {
+    "CostumeCode": 103501,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 103501,
+    "LimitBreakCount": 2,
+    "RewardCode": 43103501002
+  },
+  {
+    "CostumeCode": 103501,
+    "LimitBreakCount": 3,
+    "RewardCode": 43103501003
+  },
+  {
+    "CostumeCode": 103701,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 103701,
+    "LimitBreakCount": 2,
+    "RewardCode": 43103701002
+  },
+  {
+    "CostumeCode": 103701,
+    "LimitBreakCount": 3,
+    "RewardCode": 43103701003
+  },
+  {
+    "CostumeCode": 103801,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 103801,
+    "LimitBreakCount": 2,
+    "RewardCode": 43103801002
+  },
+  {
+    "CostumeCode": 103801,
+    "LimitBreakCount": 3,
+    "RewardCode": 43103801003
+  },
+  {
+    "CostumeCode": 103901,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 103901,
+    "LimitBreakCount": 2,
+    "RewardCode": 43103901002
+  },
+  {
+    "CostumeCode": 103901,
+    "LimitBreakCount": 3,
+    "RewardCode": 43103901003
+  },
+  {
+    "CostumeCode": 104001,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 104001,
+    "LimitBreakCount": 2,
+    "RewardCode": 43104001002
+  },
+  {
+    "CostumeCode": 104001,
+    "LimitBreakCount": 3,
+    "RewardCode": 43104001003
+  },
+  {
+    "CostumeCode": 104101,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 104101,
+    "LimitBreakCount": 2,
+    "RewardCode": 43104101002
+  },
+  {
+    "CostumeCode": 104101,
+    "LimitBreakCount": 3,
+    "RewardCode": 43104101003
+  },
+  {
+    "CostumeCode": 104201,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 104201,
+    "LimitBreakCount": 2,
+    "RewardCode": 43104201002
+  },
+  {
+    "CostumeCode": 104201,
+    "LimitBreakCount": 3,
+    "RewardCode": 43104201003
+  },
+  {
+    "CostumeCode": 104301,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 104301,
+    "LimitBreakCount": 2,
+    "RewardCode": 43104301002
+  },
+  {
+    "CostumeCode": 104301,
+    "LimitBreakCount": 3,
+    "RewardCode": 43104301003
+  },
+  {
+    "CostumeCode": 104401,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 104401,
+    "LimitBreakCount": 2,
+    "RewardCode": 43104401002
+  },
+  {
+    "CostumeCode": 104401,
+    "LimitBreakCount": 3,
+    "RewardCode": 43104401003
+  },
+  {
+    "CostumeCode": 104501,
+    "LimitBreakCount": 1,
+    "RewardCode": 0
+  },
+  {
+    "CostumeCode": 104501,
+    "LimitBreakCount": 2,
+    "RewardCode": 43104501002
+  },
+  {
+    "CostumeCode": 104501,
+    "LimitBreakCount": 3,
+    "RewardCode": 43104501003
+  }
+]

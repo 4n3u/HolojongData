@@ -1,0 +1,7856 @@
+[
+  {
+    "Code": 30002001,
+    "Type": 76,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 30004001,
+    "Type": 39,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 30005001,
+    "Type": 201,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 30006001,
+    "Type": 95,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 30007001,
+    "Type": 87,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 30008001,
+    "Type": 75,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101001,
+    "Type": 124,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101002,
+    "Type": 125,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101003,
+    "Type": 126,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101004,
+    "Type": 127,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101005,
+    "Type": 128,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101006,
+    "Type": 129,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101007,
+    "Type": 130,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101008,
+    "Type": 131,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101009,
+    "Type": 132,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101010,
+    "Type": 133,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101011,
+    "Type": 134,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101012,
+    "Type": 135,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101013,
+    "Type": 136,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101014,
+    "Type": 137,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101015,
+    "Type": 138,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101016,
+    "Type": 139,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101017,
+    "Type": 140,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101018,
+    "Type": 141,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101019,
+    "Type": 142,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101020,
+    "Type": 143,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101021,
+    "Type": 144,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101022,
+    "Type": 145,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101023,
+    "Type": 146,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101024,
+    "Type": 147,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101025,
+    "Type": 148,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101026,
+    "Type": 149,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101027,
+    "Type": 150,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101028,
+    "Type": 151,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101029,
+    "Type": 152,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101030,
+    "Type": 153,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101031,
+    "Type": 154,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101032,
+    "Type": 155,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101033,
+    "Type": 156,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101034,
+    "Type": 157,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101035,
+    "Type": 158,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101036,
+    "Type": 159,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101037,
+    "Type": 160,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101038,
+    "Type": 161,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101039,
+    "Type": 162,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101040,
+    "Type": 163,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101041,
+    "Type": 179,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101042,
+    "Type": 180,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101043,
+    "Type": 181,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101044,
+    "Type": 182,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101045,
+    "Type": 183,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101059,
+    "Type": 122,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210101060,
+    "Type": 123,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102001,
+    "Type": 124,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102002,
+    "Type": 125,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102003,
+    "Type": 126,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102004,
+    "Type": 127,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102005,
+    "Type": 128,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102006,
+    "Type": 129,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102007,
+    "Type": 130,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102008,
+    "Type": 131,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102009,
+    "Type": 132,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102010,
+    "Type": 133,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102011,
+    "Type": 134,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102012,
+    "Type": 135,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102013,
+    "Type": 136,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102014,
+    "Type": 137,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102015,
+    "Type": 138,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102016,
+    "Type": 139,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102017,
+    "Type": 140,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102018,
+    "Type": 141,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102019,
+    "Type": 142,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102020,
+    "Type": 143,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102021,
+    "Type": 144,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102022,
+    "Type": 145,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102023,
+    "Type": 146,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102024,
+    "Type": 147,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102025,
+    "Type": 148,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102026,
+    "Type": 149,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102027,
+    "Type": 150,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102028,
+    "Type": 151,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102029,
+    "Type": 152,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102030,
+    "Type": 153,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102031,
+    "Type": 154,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102032,
+    "Type": 155,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102033,
+    "Type": 156,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102034,
+    "Type": 157,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102035,
+    "Type": 158,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102036,
+    "Type": 159,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102037,
+    "Type": 160,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102038,
+    "Type": 161,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102039,
+    "Type": 162,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102040,
+    "Type": 163,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102041,
+    "Type": 179,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102042,
+    "Type": 180,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102043,
+    "Type": 181,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102044,
+    "Type": 182,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102045,
+    "Type": 183,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102059,
+    "Type": 122,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210102060,
+    "Type": 123,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201001,
+    "Type": 124,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201002,
+    "Type": 125,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201003,
+    "Type": 126,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201004,
+    "Type": 127,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201005,
+    "Type": 128,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201006,
+    "Type": 129,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201007,
+    "Type": 130,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201008,
+    "Type": 131,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201009,
+    "Type": 132,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201010,
+    "Type": 133,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201011,
+    "Type": 134,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201012,
+    "Type": 135,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201013,
+    "Type": 136,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201014,
+    "Type": 137,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201015,
+    "Type": 138,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201016,
+    "Type": 139,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201017,
+    "Type": 140,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201018,
+    "Type": 141,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201019,
+    "Type": 142,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201020,
+    "Type": 143,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201021,
+    "Type": 144,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201022,
+    "Type": 145,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201023,
+    "Type": 146,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201024,
+    "Type": 147,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201025,
+    "Type": 148,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201026,
+    "Type": 149,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201027,
+    "Type": 150,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201028,
+    "Type": 151,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201029,
+    "Type": 152,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201030,
+    "Type": 153,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201031,
+    "Type": 154,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201032,
+    "Type": 155,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201033,
+    "Type": 156,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201034,
+    "Type": 157,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201035,
+    "Type": 158,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201036,
+    "Type": 159,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201037,
+    "Type": 160,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201038,
+    "Type": 161,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201039,
+    "Type": 162,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201040,
+    "Type": 163,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201041,
+    "Type": 179,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201042,
+    "Type": 180,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201043,
+    "Type": 181,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201044,
+    "Type": 182,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201045,
+    "Type": 183,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201046,
+    "Type": 188,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201047,
+    "Type": 189,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201048,
+    "Type": 190,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201049,
+    "Type": 191,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201050,
+    "Type": 192,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201051,
+    "Type": 193,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201052,
+    "Type": 194,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201053,
+    "Type": 195,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201054,
+    "Type": 196,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201055,
+    "Type": 197,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201056,
+    "Type": 198,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201057,
+    "Type": 185,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201058,
+    "Type": 186,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201059,
+    "Type": 122,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210201060,
+    "Type": 123,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202001,
+    "Type": 124,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202002,
+    "Type": 125,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202003,
+    "Type": 126,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202004,
+    "Type": 127,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202005,
+    "Type": 128,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202006,
+    "Type": 129,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202007,
+    "Type": 130,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202008,
+    "Type": 131,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202009,
+    "Type": 132,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202010,
+    "Type": 133,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202011,
+    "Type": 134,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202012,
+    "Type": 135,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202013,
+    "Type": 136,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202014,
+    "Type": 137,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202015,
+    "Type": 138,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202016,
+    "Type": 139,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202017,
+    "Type": 140,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202018,
+    "Type": 141,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202019,
+    "Type": 142,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202020,
+    "Type": 143,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202021,
+    "Type": 144,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202022,
+    "Type": 145,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202023,
+    "Type": 146,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202024,
+    "Type": 147,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202025,
+    "Type": 148,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202026,
+    "Type": 149,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202027,
+    "Type": 150,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202028,
+    "Type": 151,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202029,
+    "Type": 152,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202030,
+    "Type": 153,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202031,
+    "Type": 154,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202032,
+    "Type": 155,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202033,
+    "Type": 156,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202034,
+    "Type": 157,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202035,
+    "Type": 158,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202036,
+    "Type": 159,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202037,
+    "Type": 160,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202038,
+    "Type": 161,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202039,
+    "Type": 162,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202040,
+    "Type": 163,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202041,
+    "Type": 179,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202042,
+    "Type": 180,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202043,
+    "Type": 181,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202044,
+    "Type": 182,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202045,
+    "Type": 183,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202046,
+    "Type": 188,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202047,
+    "Type": 189,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202048,
+    "Type": 190,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202049,
+    "Type": 191,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202050,
+    "Type": 192,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202051,
+    "Type": 193,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202052,
+    "Type": 194,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202053,
+    "Type": 195,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202054,
+    "Type": 196,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202055,
+    "Type": 197,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202056,
+    "Type": 198,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202057,
+    "Type": 185,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202058,
+    "Type": 186,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202059,
+    "Type": 122,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210202060,
+    "Type": 123,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301001,
+    "Type": 124,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301002,
+    "Type": 125,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301003,
+    "Type": 126,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301004,
+    "Type": 127,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301005,
+    "Type": 128,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301006,
+    "Type": 129,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301007,
+    "Type": 130,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301008,
+    "Type": 131,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301009,
+    "Type": 132,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301010,
+    "Type": 133,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301011,
+    "Type": 134,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301012,
+    "Type": 135,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301013,
+    "Type": 136,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301014,
+    "Type": 137,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301015,
+    "Type": 138,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301016,
+    "Type": 139,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301017,
+    "Type": 140,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301018,
+    "Type": 141,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301019,
+    "Type": 142,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301020,
+    "Type": 143,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301021,
+    "Type": 144,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301022,
+    "Type": 145,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301023,
+    "Type": 146,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301024,
+    "Type": 147,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301025,
+    "Type": 148,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301026,
+    "Type": 149,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301027,
+    "Type": 150,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301028,
+    "Type": 151,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301029,
+    "Type": 152,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301030,
+    "Type": 153,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301031,
+    "Type": 154,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301032,
+    "Type": 155,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301033,
+    "Type": 156,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301034,
+    "Type": 157,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301035,
+    "Type": 158,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301036,
+    "Type": 159,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301037,
+    "Type": 160,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301038,
+    "Type": 161,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301039,
+    "Type": 162,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301040,
+    "Type": 163,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301041,
+    "Type": 179,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301042,
+    "Type": 180,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301043,
+    "Type": 181,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301044,
+    "Type": 182,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301045,
+    "Type": 183,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301046,
+    "Type": 188,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301047,
+    "Type": 189,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301048,
+    "Type": 190,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301049,
+    "Type": 191,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301050,
+    "Type": 192,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301051,
+    "Type": 193,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301052,
+    "Type": 194,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301053,
+    "Type": 195,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301054,
+    "Type": 196,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301055,
+    "Type": 197,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301056,
+    "Type": 198,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301057,
+    "Type": 185,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301058,
+    "Type": 186,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301059,
+    "Type": 122,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210301060,
+    "Type": 123,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302001,
+    "Type": 124,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302002,
+    "Type": 125,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302003,
+    "Type": 126,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302004,
+    "Type": 127,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302005,
+    "Type": 128,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302006,
+    "Type": 129,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302007,
+    "Type": 130,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302008,
+    "Type": 131,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302009,
+    "Type": 132,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302010,
+    "Type": 133,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302011,
+    "Type": 134,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302012,
+    "Type": 135,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302013,
+    "Type": 136,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302014,
+    "Type": 137,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302015,
+    "Type": 138,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302016,
+    "Type": 139,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302017,
+    "Type": 140,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302018,
+    "Type": 141,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302019,
+    "Type": 142,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302020,
+    "Type": 143,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302021,
+    "Type": 144,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302022,
+    "Type": 145,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302023,
+    "Type": 146,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302024,
+    "Type": 147,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302025,
+    "Type": 148,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302026,
+    "Type": 149,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302027,
+    "Type": 150,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302028,
+    "Type": 151,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302029,
+    "Type": 152,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302030,
+    "Type": 153,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302031,
+    "Type": 154,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302032,
+    "Type": 155,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302033,
+    "Type": 156,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302034,
+    "Type": 157,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302035,
+    "Type": 158,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302036,
+    "Type": 159,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302037,
+    "Type": 160,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302038,
+    "Type": 161,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302039,
+    "Type": 162,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302040,
+    "Type": 163,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302041,
+    "Type": 179,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302042,
+    "Type": 180,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302043,
+    "Type": 181,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302044,
+    "Type": 182,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302045,
+    "Type": 183,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302046,
+    "Type": 188,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302047,
+    "Type": 189,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302048,
+    "Type": 190,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302049,
+    "Type": 191,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302050,
+    "Type": 192,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302051,
+    "Type": 193,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302052,
+    "Type": 194,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302053,
+    "Type": 195,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302054,
+    "Type": 196,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302055,
+    "Type": 197,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302056,
+    "Type": 198,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302057,
+    "Type": 185,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302058,
+    "Type": 186,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302059,
+    "Type": 122,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 210302060,
+    "Type": 123,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101001,
+    "Type": 168,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101002,
+    "Type": 169,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101003,
+    "Type": 166,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101004,
+    "Type": 167,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101005,
+    "Type": 164,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101006,
+    "Type": 165,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101007,
+    "Type": 170,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101008,
+    "Type": 177,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101009,
+    "Type": 178,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101010,
+    "Type": 173,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101011,
+    "Type": 174,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101012,
+    "Type": 175,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101013,
+    "Type": 171,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101014,
+    "Type": 172,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220101015,
+    "Type": 176,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102001,
+    "Type": 168,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102002,
+    "Type": 169,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102003,
+    "Type": 166,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102004,
+    "Type": 167,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102005,
+    "Type": 164,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102006,
+    "Type": 165,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102007,
+    "Type": 170,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102008,
+    "Type": 177,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102009,
+    "Type": 178,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102010,
+    "Type": 173,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102011,
+    "Type": 174,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102012,
+    "Type": 175,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102013,
+    "Type": 171,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102014,
+    "Type": 172,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220102015,
+    "Type": 176,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201001,
+    "Type": 168,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201002,
+    "Type": 169,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201003,
+    "Type": 166,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201004,
+    "Type": 167,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201005,
+    "Type": 164,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201006,
+    "Type": 165,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201007,
+    "Type": 170,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201008,
+    "Type": 177,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201009,
+    "Type": 178,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201010,
+    "Type": 173,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201011,
+    "Type": 174,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201012,
+    "Type": 175,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201013,
+    "Type": 171,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201014,
+    "Type": 172,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201015,
+    "Type": 176,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220201020,
+    "Type": 187,
+    "Values": [
+      "Friend",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202001,
+    "Type": 168,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202002,
+    "Type": 169,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202003,
+    "Type": 166,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202004,
+    "Type": 167,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202005,
+    "Type": 164,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202006,
+    "Type": 165,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202007,
+    "Type": 170,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202008,
+    "Type": 177,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202009,
+    "Type": 178,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202010,
+    "Type": 173,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202011,
+    "Type": 174,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202012,
+    "Type": 175,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202013,
+    "Type": 171,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202014,
+    "Type": 172,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202015,
+    "Type": 176,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220202020,
+    "Type": 187,
+    "Values": [
+      "Friend",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301001,
+    "Type": 168,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301002,
+    "Type": 169,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301003,
+    "Type": 166,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301004,
+    "Type": 167,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301005,
+    "Type": 164,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301006,
+    "Type": 165,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301007,
+    "Type": 170,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301008,
+    "Type": 177,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301009,
+    "Type": 178,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301010,
+    "Type": 173,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301011,
+    "Type": 174,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301012,
+    "Type": 175,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301013,
+    "Type": 171,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301014,
+    "Type": 172,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301015,
+    "Type": 176,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220301020,
+    "Type": 187,
+    "Values": [
+      "Other",
+      "FourPlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302001,
+    "Type": 168,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302002,
+    "Type": 169,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302003,
+    "Type": 166,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302004,
+    "Type": 167,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302005,
+    "Type": 164,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302006,
+    "Type": 165,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302007,
+    "Type": 170,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302008,
+    "Type": 177,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302009,
+    "Type": 178,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302010,
+    "Type": 173,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302011,
+    "Type": 174,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302012,
+    "Type": 175,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302013,
+    "Type": 171,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302014,
+    "Type": 172,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302015,
+    "Type": 176,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 220302020,
+    "Type": 187,
+    "Values": [
+      "Other",
+      "ThreePlayer",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 230101001,
+    "Type": 75,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "True"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910010008,
+    "Type": 199,
+    "Values": [
+      "1001"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910010101,
+    "Type": 200,
+    "Values": [
+      "100101"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910020008,
+    "Type": 199,
+    "Values": [
+      "1002"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910020101,
+    "Type": 200,
+    "Values": [
+      "100201"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910030008,
+    "Type": 199,
+    "Values": [
+      "1003"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910030101,
+    "Type": 200,
+    "Values": [
+      "100301"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910040008,
+    "Type": 199,
+    "Values": [
+      "1004"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910040101,
+    "Type": 200,
+    "Values": [
+      "100401"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910060008,
+    "Type": 199,
+    "Values": [
+      "1006"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910060101,
+    "Type": 200,
+    "Values": [
+      "100601"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910070008,
+    "Type": 199,
+    "Values": [
+      "1007"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910070101,
+    "Type": 200,
+    "Values": [
+      "100701"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910080008,
+    "Type": 199,
+    "Values": [
+      "1008"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910080101,
+    "Type": 200,
+    "Values": [
+      "100801"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910090008,
+    "Type": 199,
+    "Values": [
+      "1009"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910090101,
+    "Type": 200,
+    "Values": [
+      "100901"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910110008,
+    "Type": 199,
+    "Values": [
+      "1011"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910110101,
+    "Type": 200,
+    "Values": [
+      "101101"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910120008,
+    "Type": 199,
+    "Values": [
+      "1012"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910120101,
+    "Type": 200,
+    "Values": [
+      "101201"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910130008,
+    "Type": 199,
+    "Values": [
+      "1013"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910130101,
+    "Type": 200,
+    "Values": [
+      "101301"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910150008,
+    "Type": 199,
+    "Values": [
+      "1015"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910150101,
+    "Type": 200,
+    "Values": [
+      "101501"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910160008,
+    "Type": 199,
+    "Values": [
+      "1016"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910160101,
+    "Type": 200,
+    "Values": [
+      "101601"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910170008,
+    "Type": 199,
+    "Values": [
+      "1017"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910170101,
+    "Type": 200,
+    "Values": [
+      "101701"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910180008,
+    "Type": 199,
+    "Values": [
+      "1018"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910180101,
+    "Type": 200,
+    "Values": [
+      "101801"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910200008,
+    "Type": 199,
+    "Values": [
+      "1020"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910200101,
+    "Type": 200,
+    "Values": [
+      "102001"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910210008,
+    "Type": 199,
+    "Values": [
+      "1021"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910210101,
+    "Type": 200,
+    "Values": [
+      "102101"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910220008,
+    "Type": 199,
+    "Values": [
+      "1022"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910220101,
+    "Type": 200,
+    "Values": [
+      "102201"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910240008,
+    "Type": 199,
+    "Values": [
+      "1024"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910240101,
+    "Type": 200,
+    "Values": [
+      "102401"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910250008,
+    "Type": 199,
+    "Values": [
+      "1025"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910250101,
+    "Type": 200,
+    "Values": [
+      "102501"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910260008,
+    "Type": 199,
+    "Values": [
+      "1026"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910260101,
+    "Type": 200,
+    "Values": [
+      "102601"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910270008,
+    "Type": 199,
+    "Values": [
+      "1027"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910270101,
+    "Type": 200,
+    "Values": [
+      "102701"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910280008,
+    "Type": 199,
+    "Values": [
+      "1028"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910280101,
+    "Type": 200,
+    "Values": [
+      "102801"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910290008,
+    "Type": 199,
+    "Values": [
+      "1029"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910290101,
+    "Type": 200,
+    "Values": [
+      "102901"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910310008,
+    "Type": 199,
+    "Values": [
+      "1031"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910310101,
+    "Type": 200,
+    "Values": [
+      "103101"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910320008,
+    "Type": 199,
+    "Values": [
+      "1032"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910320101,
+    "Type": 200,
+    "Values": [
+      "103201"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910330008,
+    "Type": 199,
+    "Values": [
+      "1033"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910330101,
+    "Type": 200,
+    "Values": [
+      "103301"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910350008,
+    "Type": 199,
+    "Values": [
+      "1035"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910350101,
+    "Type": 200,
+    "Values": [
+      "103501"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910370008,
+    "Type": 199,
+    "Values": [
+      "1037"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910370101,
+    "Type": 200,
+    "Values": [
+      "103701"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910380008,
+    "Type": 199,
+    "Values": [
+      "1038"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910380101,
+    "Type": 200,
+    "Values": [
+      "103801"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910390008,
+    "Type": 199,
+    "Values": [
+      "1039"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910390101,
+    "Type": 200,
+    "Values": [
+      "103901"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910400008,
+    "Type": 199,
+    "Values": [
+      "1040"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910400101,
+    "Type": 200,
+    "Values": [
+      "104001"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910410008,
+    "Type": 199,
+    "Values": [
+      "1041"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910410101,
+    "Type": 200,
+    "Values": [
+      "104101"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910420008,
+    "Type": 199,
+    "Values": [
+      "1042"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910420101,
+    "Type": 200,
+    "Values": [
+      "104201"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910430008,
+    "Type": 199,
+    "Values": [
+      "1043"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910430101,
+    "Type": 200,
+    "Values": [
+      "104301"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910440008,
+    "Type": 199,
+    "Values": [
+      "1044"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910440101,
+    "Type": 200,
+    "Values": [
+      "104401"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910450008,
+    "Type": 199,
+    "Values": [
+      "1045"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 910450101,
+    "Type": 200,
+    "Values": [
+      "104501"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 1100101001,
+    "Type": 69,
+    "Values": [],
+    "ResetType": 1,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 1100101002,
+    "Type": 205,
+    "Values": [],
+    "ResetType": 1,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 1100101006,
+    "Type": 104,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 1,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 1100101007,
+    "Type": 76,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 1,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 1100201001,
+    "Type": 75,
+    "Values": [
+      "Rank,Friend,Championship,Single",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 2,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 1100201002,
+    "Type": 95,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "True",
+      "0",
+      "2"
+    ],
+    "ResetType": 2,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 1100201003,
+    "Type": 76,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 2,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 1100201004,
+    "Type": 36,
+    "Values": [
+      "1100201"
+    ],
+    "ResetType": 2,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100101001,
+    "Type": 73,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100101002,
+    "Type": 75,
+    "Values": [
+      "Rank,Friend,Championship,Single",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100101003,
+    "Type": 5,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100101005,
+    "Type": 36,
+    "Values": [
+      "2100101"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100102003,
+    "Type": 53,
+    "Values": [
+      "CharacterDetail"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100102005,
+    "Type": 36,
+    "Values": [
+      "2100102"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100103005,
+    "Type": 36,
+    "Values": [
+      "2100103"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100104003,
+    "Type": 53,
+    "Values": [
+      "GachaTop"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100104005,
+    "Type": 36,
+    "Values": [
+      "2100104"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100105003,
+    "Type": 203,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100105005,
+    "Type": 36,
+    "Values": [
+      "2100105"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100106002,
+    "Type": 53,
+    "Values": [
+      "ShopTop"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100106003,
+    "Type": 44,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100106005,
+    "Type": 36,
+    "Values": [
+      "2100106"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100107001,
+    "Type": 69,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100107003,
+    "Type": 53,
+    "Values": [
+      "RankingTop"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2100107005,
+    "Type": 36,
+    "Values": [
+      "2100107"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010101001,
+    "Type": 49,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010101002,
+    "Type": 125,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010101003,
+    "Type": 88,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010101004,
+    "Type": 89,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010101005,
+    "Type": 108,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010101006,
+    "Type": 107,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010101007,
+    "Type": 95,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010101008,
+    "Type": 87,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010201001,
+    "Type": 127,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010201002,
+    "Type": 111,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010201003,
+    "Type": 150,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010201004,
+    "Type": 117,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010201005,
+    "Type": 153,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010201006,
+    "Type": 93,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0",
+      "Manguan"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010201007,
+    "Type": 109,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010301001,
+    "Type": 101,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010301002,
+    "Type": 110,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010301003,
+    "Type": 112,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010301004,
+    "Type": 115,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010301005,
+    "Type": 107,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0",
+      "3"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010301007,
+    "Type": 93,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0",
+      "BeiManguan"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010401001,
+    "Type": 1,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010401014,
+    "Type": 37,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010401018,
+    "Type": 41,
+    "Values": [
+      "AllShop"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701001,
+    "Type": 71,
+    "Values": [
+      "FourPlayer",
+      "4"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701002,
+    "Type": 71,
+    "Values": [
+      "FourPlayer",
+      "7"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701003,
+    "Type": 71,
+    "Values": [
+      "FourPlayer",
+      "10"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701004,
+    "Type": 71,
+    "Values": [
+      "FourPlayer",
+      "13"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701005,
+    "Type": 71,
+    "Values": [
+      "FourPlayer",
+      "16"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701006,
+    "Type": 71,
+    "Values": [
+      "ThreePlayer",
+      "4"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701007,
+    "Type": 71,
+    "Values": [
+      "ThreePlayer",
+      "7"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701008,
+    "Type": 71,
+    "Values": [
+      "ThreePlayer",
+      "10"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701009,
+    "Type": 71,
+    "Values": [
+      "ThreePlayer",
+      "13"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701010,
+    "Type": 71,
+    "Values": [
+      "ThreePlayer",
+      "16"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701011,
+    "Type": 75,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701015,
+    "Type": 75,
+    "Values": [
+      "Rank,Friend,Championship,Single",
+      "FourPlayer",
+      "EastOnly",
+      "True",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701019,
+    "Type": 75,
+    "Values": [
+      "Rank,Friend,Championship,Single",
+      "FourPlayer",
+      "EastAndSouth",
+      "True",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701023,
+    "Type": 75,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701027,
+    "Type": 75,
+    "Values": [
+      "Rank,Friend,Championship,Single",
+      "ThreePlayer",
+      "EastOnly",
+      "True",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701031,
+    "Type": 75,
+    "Values": [
+      "Rank,Friend,Championship,Single",
+      "ThreePlayer",
+      "EastAndSouth",
+      "True",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701035,
+    "Type": 75,
+    "Values": [
+      "Friend",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701037,
+    "Type": 77,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "EastOnly",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701041,
+    "Type": 78,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "EastOnly",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701045,
+    "Type": 95,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "EastOnly",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701049,
+    "Type": 93,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "EastOnly",
+      "False",
+      "0",
+      "Manguan"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701053,
+    "Type": 77,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "EastAndSouth",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701057,
+    "Type": 78,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "EastAndSouth",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701061,
+    "Type": 95,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "EastAndSouth",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701065,
+    "Type": 93,
+    "Values": [
+      "Rank",
+      "FourPlayer",
+      "EastAndSouth",
+      "False",
+      "0",
+      "Manguan"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701069,
+    "Type": 77,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastOnly",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701073,
+    "Type": 78,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastOnly",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701077,
+    "Type": 95,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastOnly",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701081,
+    "Type": 93,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastOnly",
+      "False",
+      "0",
+      "Manguan"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701085,
+    "Type": 99,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastOnly",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701086,
+    "Type": 184,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastOnly",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701089,
+    "Type": 77,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastAndSouth",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701093,
+    "Type": 78,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastAndSouth",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701097,
+    "Type": 95,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastAndSouth",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701101,
+    "Type": 93,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastAndSouth",
+      "False",
+      "0",
+      "Manguan"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701105,
+    "Type": 99,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastAndSouth",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701106,
+    "Type": 184,
+    "Values": [
+      "Rank",
+      "ThreePlayer",
+      "EastAndSouth",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701109,
+    "Type": 107,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "4"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701110,
+    "Type": 107,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "8"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701111,
+    "Type": 107,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "12"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701112,
+    "Type": 98,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "2"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701113,
+    "Type": 98,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "3"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701114,
+    "Type": 106,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701117,
+    "Type": 96,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "50000"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701120,
+    "Type": 96,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "60000"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701123,
+    "Type": 96,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "70000"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701124,
+    "Type": 96,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "100000"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010701126,
+    "Type": 113,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801004,
+    "Type": 125,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801007,
+    "Type": 126,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801009,
+    "Type": 127,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801012,
+    "Type": 128,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801015,
+    "Type": 129,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801018,
+    "Type": 130,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801021,
+    "Type": 118,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801024,
+    "Type": 119,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801027,
+    "Type": 120,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801030,
+    "Type": 121,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801033,
+    "Type": 139,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801036,
+    "Type": 140,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801039,
+    "Type": 143,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801042,
+    "Type": 144,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801045,
+    "Type": 145,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801048,
+    "Type": 146,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801050,
+    "Type": 147,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801053,
+    "Type": 148,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801056,
+    "Type": 149,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801059,
+    "Type": 150,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801062,
+    "Type": 151,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801065,
+    "Type": 152,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801068,
+    "Type": 153,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801071,
+    "Type": 154,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801074,
+    "Type": 155,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801077,
+    "Type": 156,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801078,
+    "Type": 157,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801079,
+    "Type": 158,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801081,
+    "Type": 159,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801084,
+    "Type": 160,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801087,
+    "Type": 161,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801090,
+    "Type": 162,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801091,
+    "Type": 163,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010801094,
+    "Type": 179,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901001,
+    "Type": 168,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901002,
+    "Type": 169,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901003,
+    "Type": 166,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901004,
+    "Type": 167,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901005,
+    "Type": 164,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901006,
+    "Type": 165,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901007,
+    "Type": 170,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901008,
+    "Type": 177,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901009,
+    "Type": 178,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901010,
+    "Type": 173,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901011,
+    "Type": 174,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901012,
+    "Type": 175,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901013,
+    "Type": 171,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901014,
+    "Type": 172,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901015,
+    "Type": 176,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901016,
+    "Type": 92,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "YìManguan"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901017,
+    "Type": 93,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "DaManguan"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901019,
+    "Type": 94,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "2"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3010901020,
+    "Type": 94,
+    "Values": [
+      "Rank",
+      "None",
+      "None",
+      "False",
+      "0",
+      "3"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 4100101001,
+    "Type": 75,
+    "Values": [
+      "Rank,Friend,Championship,Single",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 1,
+    "ScheduleCode": "100030001"
+  },
+  {
+    "Code": 4100102001,
+    "Type": 75,
+    "Values": [
+      "Rank,Friend,Championship,Single",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": "100030001"
+  },
+  {
+    "Code": 4100102011,
+    "Type": 76,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": "100030001"
+  },
+  {
+    "Code": 4100102016,
+    "Type": 125,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": "100030001"
+  },
+  {
+    "Code": 4100102021,
+    "Type": 107,
+    "Values": [
+      "Rank,Friend,Championship",
+      "None",
+      "None",
+      "False",
+      "0",
+      "1"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": "100030001"
+  },
+  {
+    "Code": 5000101001,
+    "Type": 67,
+    "Values": [
+      "5000201003"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 5000101004,
+    "Type": 67,
+    "Values": [
+      "5000201005"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 5000101007,
+    "Type": 67,
+    "Values": [
+      "5000201006"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 5000101027,
+    "Type": 67,
+    "Values": [
+      "5000201007"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 5000101047,
+    "Type": 72,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 5000201007,
+    "Type": 76,
+    "Values": [
+      "Friend",
+      "None",
+      "None",
+      "True",
+      "0"
+    ],
+    "ResetType": 0,
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 6100012101,
+    "Type": 1,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": "100012"
+  },
+  {
+    "Code": 6300011101,
+    "Type": 1,
+    "Values": [],
+    "ResetType": 0,
+    "ScheduleCode": "300011"
+  }
+]

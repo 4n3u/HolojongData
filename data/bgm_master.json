@@ -1,0 +1,206 @@
+[
+  {
+    "Code": 71100000,
+    "Address": "Sounds_Bgm_71100000_default_mahjong_bgm",
+    "CueSheetName": "Sounds/Bgm/71100000_default_mahjong_bgm",
+    "CueName": "71100000_default_mahjong_bgm"
+  },
+  {
+    "Code": 71100001,
+    "Address": "Sounds_Bgm_71100001_shiny_smily_story",
+    "CueSheetName": "Sounds/Bgm/71100001_shiny_smily_story",
+    "CueName": "71100001_shiny_smily_story"
+  },
+  {
+    "Code": 71100002,
+    "Address": "Sounds_Bgm_71100002_yumemiru_sorae",
+    "CueSheetName": "Sounds/Bgm/71100002_yumemiru_sorae",
+    "CueName": "71100002_yumemiru_sorae"
+  },
+  {
+    "Code": 71100003,
+    "Address": "Sounds_Bgm_71100003_kirameki_rider",
+    "CueSheetName": "Sounds/Bgm/71100003_kirameki_rider",
+    "CueName": "71100003_kirameki_rider"
+  },
+  {
+    "Code": 71100005,
+    "Address": "Sounds_Bgm_71100005_our_bright_parade",
+    "CueSheetName": "Sounds/Bgm/71100005_our_bright_parade",
+    "CueName": "71100005_our_bright_parade"
+  },
+  {
+    "Code": 71100006,
+    "Address": "Sounds_Bgm_71100006_capture_the_moment",
+    "CueSheetName": "Sounds/Bgm/71100006_capture_the_moment",
+    "CueName": "71100006_capture_the_moment"
+  },
+  {
+    "Code": 71100007,
+    "Address": "Sounds_Bgm_71100007_color_rise_harmony",
+    "CueSheetName": "Sounds/Bgm/71100007_color_rise_harmony",
+    "CueName": "71100007_color_rise_harmony"
+  },
+  {
+    "Code": 71100008,
+    "Address": "Sounds_Bgm_71100008_seishun_archive",
+    "CueSheetName": "Sounds/Bgm/71100008_seishun_archive",
+    "CueName": "71100008_seishun_archive"
+  },
+  {
+    "Code": 71100009,
+    "Address": "Sounds_Bgm_71100009_tondek_hololive_summer",
+    "CueSheetName": "Sounds/Bgm/71100009_tondek_hololive_summer",
+    "CueName": "71100009_tondek_hololive_summer"
+  },
+  {
+    "Code": 71100010,
+    "Address": "Sounds_Bgm_71100010_ridin_on_dreams",
+    "CueSheetName": "Sounds/Bgm/71100010_ridin_on_dreams",
+    "CueName": "71100010_ridin_on_dreams"
+  },
+  {
+    "Code": 72100000,
+    "Address": "Sounds_Bgm_72100000_default_reach_bgm",
+    "CueSheetName": "Sounds/Bgm/72100000_default_reach_bgm",
+    "CueName": "72100000_default_reach_bgm"
+  },
+  {
+    "Code": 72100001,
+    "Address": "Sounds_Bgm_72100001_reach_shiny_smily_story",
+    "CueSheetName": "Sounds/Bgm/72100001_reach_shiny_smily_story",
+    "CueName": "72100001_reach_shiny_smily_story"
+  },
+  {
+    "Code": 72100002,
+    "Address": "Sounds_Bgm_72100002_reach_yumemiru_sorae",
+    "CueSheetName": "Sounds/Bgm/72100002_reach_yumemiru_sorae",
+    "CueName": "72100002_reach_yumemiru_sorae"
+  },
+  {
+    "Code": 72100003,
+    "Address": "Sounds_Bgm_72100003_reach_kirameki_rider",
+    "CueSheetName": "Sounds/Bgm/72100003_reach_kirameki_rider",
+    "CueName": "72100003_reach_kirameki_rider"
+  },
+  {
+    "Code": 72100005,
+    "Address": "Sounds_Bgm_72100005_reach_our_bright_parade",
+    "CueSheetName": "Sounds/Bgm/72100005_reach_our_bright_parade",
+    "CueName": "72100005_reach_our_bright_parade"
+  },
+  {
+    "Code": 72100006,
+    "Address": "Sounds_Bgm_72100006_reach_capture_the_moment",
+    "CueSheetName": "Sounds/Bgm/72100006_reach_capture_the_moment",
+    "CueName": "72100006_reach_capture_the_moment"
+  },
+  {
+    "Code": 72100007,
+    "Address": "Sounds_Bgm_72100007_reach_color_rise_harmony",
+    "CueSheetName": "Sounds/Bgm/72100007_reach_color_rise_harmony",
+    "CueName": "72100007_reach_color_rise_harmony"
+  },
+  {
+    "Code": 72100008,
+    "Address": "Sounds_Bgm_72100008_reach_seishun_archive",
+    "CueSheetName": "Sounds/Bgm/72100008_reach_seishun_archive",
+    "CueName": "72100008_reach_seishun_archive"
+  },
+  {
+    "Code": 72100009,
+    "Address": "Sounds_Bgm_72100009_reach_tondek_hololive_summer",
+    "CueSheetName": "Sounds/Bgm/72100009_reach_tondek_hololive_summer",
+    "CueName": "72100009_reach_tondek_hololive_summer"
+  },
+  {
+    "Code": 72100010,
+    "Address": "Sounds_Bgm_72100010_reach_ridin_on_dreams",
+    "CueSheetName": "Sounds/Bgm/72100010_reach_ridin_on_dreams",
+    "CueName": "72100010_reach_ridin_on_dreams"
+  },
+  {
+    "Code": 73000001,
+    "Address": "",
+    "CueSheetName": "Sounds/Bgm/73000001_maintheme",
+    "CueName": "73000001_maintheme"
+  },
+  {
+    "Code": 73000002,
+    "Address": "Sounds_Bgm_73000002_home",
+    "CueSheetName": "Sounds/Bgm/73000002_home",
+    "CueName": "73000002_home"
+  },
+  {
+    "Code": 73000003,
+    "Address": "Sounds_Bgm_73000003_talent_select",
+    "CueSheetName": "Sounds/Bgm/73000003_talent_select",
+    "CueName": "73000003_talent_select"
+  },
+  {
+    "Code": 73000004,
+    "Address": "Sounds_Bgm_73000004_gacha_screen",
+    "CueSheetName": "Sounds/Bgm/73000004_gacha_screen",
+    "CueName": "73000004_gacha_screen"
+  },
+  {
+    "Code": 73000005,
+    "Address": "Sounds_Bgm_73000005_gacha_direction",
+    "CueSheetName": "Sounds/Bgm/73000005_gacha_direction",
+    "CueName": "73000005_gacha_direction"
+  },
+  {
+    "Code": 73000006,
+    "Address": "Sounds_Bgm_73000006_singlemode",
+    "CueSheetName": "Sounds/Bgm/73000006_singlemode",
+    "CueName": "73000006_singlemode"
+  },
+  {
+    "Code": 73000008,
+    "Address": "Sounds_Bgm_73000008_gacha_kakutei",
+    "CueSheetName": "Sounds/Bgm/73000008_gacha_kakutei",
+    "CueName": "73000008_gacha_kakutei"
+  },
+  {
+    "Code": 74000001,
+    "Address": "Sounds_Bgm_74000001_bgm_adv_enjoylife",
+    "CueSheetName": "Sounds/Bgm/74000001_bgm_adv_enjoylife",
+    "CueName": "74000001_bgm_adv_enjoylife"
+  },
+  {
+    "Code": 74000002,
+    "Address": "Sounds_Bgm_74000002_bgm_adv_lively",
+    "CueSheetName": "Sounds/Bgm/74000002_bgm_adv_lively",
+    "CueName": "74000002_bgm_adv_lively"
+  },
+  {
+    "Code": 74000003,
+    "Address": "Sounds_Bgm_74000003_bgm_adv_sadness",
+    "CueSheetName": "Sounds/Bgm/74000003_bgm_adv_sadness",
+    "CueName": "74000003_bgm_adv_sadness"
+  },
+  {
+    "Code": 74000004,
+    "Address": "Sounds_Bgm_74000004_bgm_adv_serious",
+    "CueSheetName": "Sounds/Bgm/74000004_bgm_adv_serious",
+    "CueName": "74000004_bgm_adv_serious"
+  },
+  {
+    "Code": 74000005,
+    "Address": "Sounds_Bgm_74000005_bgm_adv_passion",
+    "CueSheetName": "Sounds/Bgm/74000005_bgm_adv_passion",
+    "CueName": "74000005_bgm_adv_passion"
+  },
+  {
+    "Code": 74000006,
+    "Address": "Sounds_Bgm_74000006_bgm_adv_comical",
+    "CueSheetName": "Sounds/Bgm/74000006_bgm_adv_comical",
+    "CueName": "74000006_bgm_adv_comical"
+  },
+  {
+    "Code": 74000007,
+    "Address": "Sounds_Bgm_74000007_bgm_adv_reversal",
+    "CueSheetName": "Sounds/Bgm/74000007_bgm_adv_reversal",
+    "CueName": "74000007_bgm_adv_reversal"
+  }
+]

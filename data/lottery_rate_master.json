@@ -1,0 +1,212 @@
+[
+  {
+    "Code": 110001,
+    "Category": 1,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 2,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 3,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 4,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 6,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 7,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 8,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 9,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 13,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 110001,
+    "Category": 14,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 430001,
+    "Category": 3,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 1,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 2,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 3,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 4,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 6,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 7,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 8,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 9,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 13,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  },
+  {
+    "Code": 810001,
+    "Category": 14,
+    "LottoARate": 0,
+    "LottoAPickUp1Rate": 0,
+    "LottoAPickUp2Rate": 0,
+    "LottoBRate": 0,
+    "LottoBPickUp1Rate": 0,
+    "LottoBPickUp2Rate": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "PaymentGroupCode": 10010001,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010002,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010003,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010004,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010005,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010006,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010007,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010008,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010009,
+    "PurchaseLimit": 1,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010010,
+    "PurchaseLimit": 1,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010011,
+    "PurchaseLimit": 1,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10010012,
+    "PurchaseLimit": 1,
+    "ResetCycleType": 0
+  },
+  {
+    "PaymentGroupCode": 10030001,
+    "PurchaseLimit": 0,
+    "ResetCycleType": 0
+  }
+]

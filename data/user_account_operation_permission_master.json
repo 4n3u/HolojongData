@@ -1,0 +1,92 @@
+[
+  {
+    "UserAccountType": 10,
+    "UserAccountPermissionType": 1,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 10,
+    "UserAccountPermissionType": 2,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 10,
+    "UserAccountPermissionType": 3,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 20,
+    "UserAccountPermissionType": 1,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 20,
+    "UserAccountPermissionType": 2,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 20,
+    "UserAccountPermissionType": 3,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 21,
+    "UserAccountPermissionType": 1,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 21,
+    "UserAccountPermissionType": 2,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 21,
+    "UserAccountPermissionType": 3,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 30,
+    "UserAccountPermissionType": 1,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 30,
+    "UserAccountPermissionType": 2,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 30,
+    "UserAccountPermissionType": 3,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 40,
+    "UserAccountPermissionType": 1,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 40,
+    "UserAccountPermissionType": 2,
+    "IsAllowed": false
+  },
+  {
+    "UserAccountType": 40,
+    "UserAccountPermissionType": 3,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 99,
+    "UserAccountPermissionType": 1,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 99,
+    "UserAccountPermissionType": 2,
+    "IsAllowed": true
+  },
+  {
+    "UserAccountType": 99,
+    "UserAccountPermissionType": 3,
+    "IsAllowed": true
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "Destination": 1,
+    "GroupCode": 1,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 1,
+    "GroupCode": 98,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 1,
+    "GroupCode": 99,
+    "Weight": 2,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 2,
+    "GroupCode": 2,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 2,
+    "GroupCode": 98,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 2,
+    "GroupCode": 99,
+    "Weight": 2,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 3,
+    "GroupCode": 3,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 3,
+    "GroupCode": 98,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 3,
+    "GroupCode": 99,
+    "Weight": 2,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 4,
+    "GroupCode": 4,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 4,
+    "GroupCode": 98,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 4,
+    "GroupCode": 99,
+    "Weight": 2,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 5,
+    "GroupCode": 99,
+    "Weight": 2,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 5,
+    "GroupCode": 98,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 5,
+    "GroupCode": 5,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 6,
+    "GroupCode": 6,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 6,
+    "GroupCode": 98,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 6,
+    "GroupCode": 99,
+    "Weight": 2,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 7,
+    "GroupCode": 7,
+    "Weight": 1,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 8,
+    "GroupCode": 99,
+    "Weight": 1,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 9,
+    "GroupCode": 8,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 9,
+    "GroupCode": 98,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 9,
+    "GroupCode": 99,
+    "Weight": 2,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 10,
+    "GroupCode": 9,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 10,
+    "GroupCode": 98,
+    "Weight": 4,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 10,
+    "GroupCode": 99,
+    "Weight": 2,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  },
+  {
+    "Destination": 13,
+    "GroupCode": 100,
+    "Weight": 1,
+    "UseStamp": true,
+    "ImageGroupCode": 1
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "SeriesCode": "101",
+    "Name": "カラオケの鉄人コラボ シリアルコード報酬",
+    "TimeLimit": "2027-12-31T14:59:59+00:00",
+    "RewardCode": [
+      101
+    ]
+  },
+  {
+    "SeriesCode": "102",
+    "Name": "カラオケの鉄人コラボ シリアルコード報酬",
+    "TimeLimit": "2027-12-31T14:59:59+00:00",
+    "RewardCode": [
+      102
+    ]
+  },
+  {
+    "SeriesCode": "103",
+    "Name": "先行プレイ シリアルコード報酬",
+    "TimeLimit": "2027-12-31T14:59:59+00:00",
+    "RewardCode": [
+      103
+    ]
+  },
+  {
+    "SeriesCode": "104",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      104
+    ]
+  },
+  {
+    "SeriesCode": "105",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      105
+    ]
+  },
+  {
+    "SeriesCode": "106",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      106
+    ]
+  },
+  {
+    "SeriesCode": "107",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      107
+    ]
+  },
+  {
+    "SeriesCode": "108",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      108
+    ]
+  },
+  {
+    "SeriesCode": "109",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      109
+    ]
+  },
+  {
+    "SeriesCode": "110",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      110
+    ]
+  },
+  {
+    "SeriesCode": "111",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      111
+    ]
+  },
+  {
+    "SeriesCode": "112",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      112
+    ]
+  },
+  {
+    "SeriesCode": "113",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      113
+    ]
+  },
+  {
+    "SeriesCode": "114",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      114
+    ]
+  },
+  {
+    "SeriesCode": "115",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      115
+    ]
+  },
+  {
+    "SeriesCode": "116",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      116
+    ]
+  },
+  {
+    "SeriesCode": "117",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      117
+    ]
+  },
+  {
+    "SeriesCode": "118",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      118
+    ]
+  },
+  {
+    "SeriesCode": "119",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      119
+    ]
+  },
+  {
+    "SeriesCode": "120",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      120
+    ]
+  },
+  {
+    "SeriesCode": "121",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      121
+    ]
+  },
+  {
+    "SeriesCode": "122",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      122
+    ]
+  },
+  {
+    "SeriesCode": "123",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      123
+    ]
+  },
+  {
+    "SeriesCode": "124",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      124
+    ]
+  },
+  {
+    "SeriesCode": "125",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      125
+    ]
+  },
+  {
+    "SeriesCode": "126",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      126
+    ]
+  },
+  {
+    "SeriesCode": "127",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      127
+    ]
+  },
+  {
+    "SeriesCode": "128",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      128
+    ]
+  },
+  {
+    "SeriesCode": "129",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      129
+    ]
+  },
+  {
+    "SeriesCode": "130",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      130
+    ]
+  },
+  {
+    "SeriesCode": "131",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      131
+    ]
+  },
+  {
+    "SeriesCode": "132",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      132
+    ]
+  },
+  {
+    "SeriesCode": "133",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      133
+    ]
+  },
+  {
+    "SeriesCode": "134",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      134
+    ]
+  },
+  {
+    "SeriesCode": "135",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      135
+    ]
+  },
+  {
+    "SeriesCode": "136",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      136
+    ]
+  },
+  {
+    "SeriesCode": "137",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      137
+    ]
+  },
+  {
+    "SeriesCode": "138",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      138
+    ]
+  },
+  {
+    "SeriesCode": "139",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      139
+    ]
+  },
+  {
+    "SeriesCode": "140",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      140
+    ]
+  },
+  {
+    "SeriesCode": "141",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      141
+    ]
+  },
+  {
+    "SeriesCode": "142",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      142
+    ]
+  },
+  {
+    "SeriesCode": "143",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      143
+    ]
+  },
+  {
+    "SeriesCode": "144",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      144
+    ]
+  },
+  {
+    "SeriesCode": "145",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      145
+    ]
+  },
+  {
+    "SeriesCode": "146",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      146
+    ]
+  },
+  {
+    "SeriesCode": "147",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      147
+    ]
+  },
+  {
+    "SeriesCode": "148",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      148
+    ]
+  },
+  {
+    "SeriesCode": "149",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      149
+    ]
+  },
+  {
+    "SeriesCode": "150",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      150
+    ]
+  },
+  {
+    "SeriesCode": "151",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      151
+    ]
+  },
+  {
+    "SeriesCode": "152",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      152
+    ]
+  },
+  {
+    "SeriesCode": "153",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      153
+    ]
+  },
+  {
+    "SeriesCode": "154",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      154
+    ]
+  },
+  {
+    "SeriesCode": "155",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      155
+    ]
+  },
+  {
+    "SeriesCode": "156",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      156
+    ]
+  },
+  {
+    "SeriesCode": "157",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      157
+    ]
+  },
+  {
+    "SeriesCode": "158",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      158
+    ]
+  },
+  {
+    "SeriesCode": "159",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      159
+    ]
+  },
+  {
+    "SeriesCode": "160",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      160
+    ]
+  },
+  {
+    "SeriesCode": "161",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      161
+    ]
+  },
+  {
+    "SeriesCode": "162",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      162
+    ]
+  },
+  {
+    "SeriesCode": "163",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      163
+    ]
+  },
+  {
+    "SeriesCode": "164",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      164
+    ]
+  },
+  {
+    "SeriesCode": "165",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      165
+    ]
+  },
+  {
+    "SeriesCode": "166",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      166
+    ]
+  },
+  {
+    "SeriesCode": "167",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      167
+    ]
+  },
+  {
+    "SeriesCode": "168",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      168
+    ]
+  },
+  {
+    "SeriesCode": "169",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      169
+    ]
+  },
+  {
+    "SeriesCode": "170",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      170
+    ]
+  },
+  {
+    "SeriesCode": "171",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      171
+    ]
+  },
+  {
+    "SeriesCode": "172",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      172
+    ]
+  },
+  {
+    "SeriesCode": "173",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      173
+    ]
+  },
+  {
+    "SeriesCode": "174",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      174
+    ]
+  },
+  {
+    "SeriesCode": "175",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      175
+    ]
+  },
+  {
+    "SeriesCode": "176",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      176
+    ]
+  },
+  {
+    "SeriesCode": "177",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      177
+    ]
+  },
+  {
+    "SeriesCode": "178",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      178
+    ]
+  },
+  {
+    "SeriesCode": "179",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      179
+    ]
+  },
+  {
+    "SeriesCode": "180",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      180
+    ]
+  },
+  {
+    "SeriesCode": "181",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      181
+    ]
+  },
+  {
+    "SeriesCode": "182",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      182
+    ]
+  },
+  {
+    "SeriesCode": "183",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      183
+    ]
+  },
+  {
+    "SeriesCode": "184",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      184
+    ]
+  },
+  {
+    "SeriesCode": "185",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      185
+    ]
+  },
+  {
+    "SeriesCode": "186",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      186
+    ]
+  },
+  {
+    "SeriesCode": "187",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      187
+    ]
+  },
+  {
+    "SeriesCode": "188",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      188
+    ]
+  },
+  {
+    "SeriesCode": "189",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      189
+    ]
+  },
+  {
+    "SeriesCode": "190",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      190
+    ]
+  },
+  {
+    "SeriesCode": "191",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      191
+    ]
+  },
+  {
+    "SeriesCode": "192",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      192
+    ]
+  },
+  {
+    "SeriesCode": "193",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      193
+    ]
+  },
+  {
+    "SeriesCode": "194",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      194
+    ]
+  },
+  {
+    "SeriesCode": "195",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      195
+    ]
+  },
+  {
+    "SeriesCode": "196",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      196
+    ]
+  },
+  {
+    "SeriesCode": "197",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      197
+    ]
+  },
+  {
+    "SeriesCode": "198",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      198
+    ]
+  },
+  {
+    "SeriesCode": "199",
+    "Name": "仮登録 シリアルコード報酬",
+    "TimeLimit": null,
+    "RewardCode": [
+      199
+    ]
+  }
+]

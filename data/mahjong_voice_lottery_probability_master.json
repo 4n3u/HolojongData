@@ -1,0 +1,174 @@
+[
+  {
+    "ActionType": 0,
+    "Probability": 100
+  },
+  {
+    "ActionType": 1,
+    "Probability": 100
+  },
+  {
+    "ActionType": 2,
+    "Probability": 100
+  },
+  {
+    "ActionType": 3,
+    "Probability": 100
+  },
+  {
+    "ActionType": 4,
+    "Probability": 100
+  },
+  {
+    "ActionType": 5,
+    "Probability": 100
+  },
+  {
+    "ActionType": 6,
+    "Probability": 100
+  },
+  {
+    "ActionType": 7,
+    "Probability": 100
+  },
+  {
+    "ActionType": 8,
+    "Probability": 30
+  },
+  {
+    "ActionType": 9,
+    "Probability": 40
+  },
+  {
+    "ActionType": 10,
+    "Probability": 100
+  },
+  {
+    "ActionType": 11,
+    "Probability": 20
+  },
+  {
+    "ActionType": 12,
+    "Probability": 50
+  },
+  {
+    "ActionType": 13,
+    "Probability": 50
+  },
+  {
+    "ActionType": 14,
+    "Probability": 100
+  },
+  {
+    "ActionType": 15,
+    "Probability": 100
+  },
+  {
+    "ActionType": 16,
+    "Probability": 100
+  },
+  {
+    "ActionType": 17,
+    "Probability": 100
+  },
+  {
+    "ActionType": 18,
+    "Probability": 100
+  },
+  {
+    "ActionType": 19,
+    "Probability": 100
+  },
+  {
+    "ActionType": 20,
+    "Probability": 50
+  },
+  {
+    "ActionType": 21,
+    "Probability": 100
+  },
+  {
+    "ActionType": 22,
+    "Probability": 100
+  },
+  {
+    "ActionType": 23,
+    "Probability": 100
+  },
+  {
+    "ActionType": 24,
+    "Probability": 100
+  },
+  {
+    "ActionType": 25,
+    "Probability": 100
+  },
+  {
+    "ActionType": 26,
+    "Probability": 100
+  },
+  {
+    "ActionType": 27,
+    "Probability": 100
+  },
+  {
+    "ActionType": 28,
+    "Probability": 100
+  },
+  {
+    "ActionType": 29,
+    "Probability": 100
+  },
+  {
+    "ActionType": 30,
+    "Probability": 100
+  },
+  {
+    "ActionType": 31,
+    "Probability": 100
+  },
+  {
+    "ActionType": 32,
+    "Probability": 100
+  },
+  {
+    "ActionType": 33,
+    "Probability": 50
+  },
+  {
+    "ActionType": 34,
+    "Probability": 100
+  },
+  {
+    "ActionType": 35,
+    "Probability": 100
+  },
+  {
+    "ActionType": 36,
+    "Probability": 100
+  },
+  {
+    "ActionType": 37,
+    "Probability": 100
+  },
+  {
+    "ActionType": 38,
+    "Probability": 100
+  },
+  {
+    "ActionType": 39,
+    "Probability": 100
+  },
+  {
+    "ActionType": 40,
+    "Probability": 100
+  },
+  {
+    "ActionType": 41,
+    "Probability": 100
+  },
+  {
+    "ActionType": 42,
+    "Probability": 100
+  }
+]

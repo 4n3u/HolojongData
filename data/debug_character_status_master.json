@@ -1,0 +1,170 @@
+[
+  {
+    "Group": 1001,
+    "CharacterCode": 11011021,
+    "Level": 100,
+    "LimitBreak": 0,
+    "Exceed": 0,
+    "ClosenessLevel": 30,
+    "Skill1Grade": 9,
+    "Skill2Grade": 9,
+    "PassiveSkillGrade": 9,
+    "SpSkillGrade": 9,
+    "IsEquipAsPossible": false,
+    "AccessoryItems": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Group": 1001,
+    "CharacterCode": 11012011,
+    "Level": 100,
+    "LimitBreak": 0,
+    "Exceed": 0,
+    "ClosenessLevel": 30,
+    "Skill1Grade": 9,
+    "Skill2Grade": 9,
+    "PassiveSkillGrade": 9,
+    "SpSkillGrade": 9,
+    "IsEquipAsPossible": false,
+    "AccessoryItems": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Group": 1001,
+    "CharacterCode": 11021021,
+    "Level": 100,
+    "LimitBreak": 0,
+    "Exceed": 0,
+    "ClosenessLevel": 30,
+    "Skill1Grade": 9,
+    "Skill2Grade": 9,
+    "PassiveSkillGrade": 9,
+    "SpSkillGrade": 9,
+    "IsEquipAsPossible": false,
+    "AccessoryItems": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Group": 1001,
+    "CharacterCode": 11022011,
+    "Level": 100,
+    "LimitBreak": 0,
+    "Exceed": 0,
+    "ClosenessLevel": 30,
+    "Skill1Grade": 9,
+    "Skill2Grade": 9,
+    "PassiveSkillGrade": 9,
+    "SpSkillGrade": 9,
+    "IsEquipAsPossible": false,
+    "AccessoryItems": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Group": 3001,
+    "CharacterCode": 11011021,
+    "Level": 10,
+    "LimitBreak": 0,
+    "Exceed": 0,
+    "ClosenessLevel": 1,
+    "Skill1Grade": 1,
+    "Skill2Grade": 1,
+    "PassiveSkillGrade": 1,
+    "SpSkillGrade": 1,
+    "IsEquipAsPossible": false,
+    "AccessoryItems": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Group": 3001,
+    "CharacterCode": 11012011,
+    "Level": 10,
+    "LimitBreak": 0,
+    "Exceed": 0,
+    "ClosenessLevel": 1,
+    "Skill1Grade": 1,
+    "Skill2Grade": 1,
+    "PassiveSkillGrade": 1,
+    "SpSkillGrade": 1,
+    "IsEquipAsPossible": false,
+    "AccessoryItems": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Group": 3001,
+    "CharacterCode": 11021021,
+    "Level": 10,
+    "LimitBreak": 0,
+    "Exceed": 0,
+    "ClosenessLevel": 1,
+    "Skill1Grade": 1,
+    "Skill2Grade": 1,
+    "PassiveSkillGrade": 1,
+    "SpSkillGrade": 1,
+    "IsEquipAsPossible": false,
+    "AccessoryItems": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Group": 3001,
+    "CharacterCode": 11022011,
+    "Level": 10,
+    "LimitBreak": 0,
+    "Exceed": 0,
+    "ClosenessLevel": 1,
+    "Skill1Grade": 1,
+    "Skill2Grade": 1,
+    "PassiveSkillGrade": 1,
+    "SpSkillGrade": 1,
+    "IsEquipAsPossible": false,
+    "AccessoryItems": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

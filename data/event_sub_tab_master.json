@@ -1,0 +1,24 @@
+[
+  {
+    "Code": 300011,
+    "EventTabCode": 30001,
+    "BannerImage": "UI_Textures_Images_EventLogo_ELO_30001",
+    "TabImage": "UI_Textures_Sprites_EventPortal_Event_TabIconTop01",
+    "DisplayType": 0,
+    "LinkedCode": "",
+    "ScheduleCode": 300011,
+    "ScheduleValue": true,
+    "SortOrder": 101
+  },
+  {
+    "Code": 300012,
+    "EventTabCode": 30001,
+    "BannerImage": "UI_Textures_Images_EventLogo_ELO_30001",
+    "TabImage": "UI_Textures_Sprites_EventPortal_Event_TabIconLoginBonus01",
+    "DisplayType": 1,
+    "LinkedCode": "300011",
+    "ScheduleCode": 300011,
+    "ScheduleValue": true,
+    "SortOrder": 102
+  }
+]

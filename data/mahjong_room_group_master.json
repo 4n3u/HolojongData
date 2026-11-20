@@ -1,0 +1,37 @@
+[
+  {
+    "Code": 1,
+    "RoomType": 1,
+    "GroupName": "ブロンズ",
+    "ButtonImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_MatchingButton01",
+    "RoomSymbolImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_ButtonIcon01"
+  },
+  {
+    "Code": 2,
+    "RoomType": 2,
+    "GroupName": "シルバー",
+    "ButtonImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_MatchingButton02",
+    "RoomSymbolImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_ButtonIcon02"
+  },
+  {
+    "Code": 3,
+    "RoomType": 3,
+    "GroupName": "ゴールド",
+    "ButtonImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_MatchingButton03",
+    "RoomSymbolImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_ButtonIcon03"
+  },
+  {
+    "Code": 4,
+    "RoomType": 4,
+    "GroupName": "プラチナ",
+    "ButtonImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_MatchingButton04",
+    "RoomSymbolImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_ButtonIcon04"
+  },
+  {
+    "Code": 5,
+    "RoomType": 5,
+    "GroupName": "ラディアンス",
+    "ButtonImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_MatchingButton05",
+    "RoomSymbolImageAddress": "UI_Textures_Sprites_Mahjong_RankMatch_RankMatch_ButtonIcon05"
+  }
+]

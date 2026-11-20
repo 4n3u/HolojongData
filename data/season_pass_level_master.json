@@ -1,0 +1,512 @@
+[
+  {
+    "SeasonPassCode": 1,
+    "Level": 0,
+    "RequiredPoint": 0,
+    "NormalRewardCode": 0,
+    "SpecialRewardCode": 0,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 0
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 27,
+    "RequiredPoint": 27000,
+    "NormalRewardCode": 10001027,
+    "SpecialRewardCode": 10002027,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 28,
+    "RequiredPoint": 28000,
+    "NormalRewardCode": 10001028,
+    "SpecialRewardCode": 10002028,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 29,
+    "RequiredPoint": 29000,
+    "NormalRewardCode": 10001029,
+    "SpecialRewardCode": 10002029,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 30,
+    "RequiredPoint": 30000,
+    "NormalRewardCode": 10001030,
+    "SpecialRewardCode": 10002030,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 31,
+    "RequiredPoint": 31000,
+    "NormalRewardCode": 10001031,
+    "SpecialRewardCode": 10002031,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 32,
+    "RequiredPoint": 32000,
+    "NormalRewardCode": 10001032,
+    "SpecialRewardCode": 10002032,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 33,
+    "RequiredPoint": 33000,
+    "NormalRewardCode": 10001033,
+    "SpecialRewardCode": 10002033,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 34,
+    "RequiredPoint": 34000,
+    "NormalRewardCode": 10001034,
+    "SpecialRewardCode": 10002034,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 35,
+    "RequiredPoint": 35000,
+    "NormalRewardCode": 10001035,
+    "SpecialRewardCode": 10002035,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 36,
+    "RequiredPoint": 36000,
+    "NormalRewardCode": 10001036,
+    "SpecialRewardCode": 10002036,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 26,
+    "RequiredPoint": 26000,
+    "NormalRewardCode": 10001026,
+    "SpecialRewardCode": 10002026,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 37,
+    "RequiredPoint": 37000,
+    "NormalRewardCode": 10001037,
+    "SpecialRewardCode": 10002037,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 39,
+    "RequiredPoint": 39000,
+    "NormalRewardCode": 10001039,
+    "SpecialRewardCode": 10002039,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 40,
+    "RequiredPoint": 40000,
+    "NormalRewardCode": 10001040,
+    "SpecialRewardCode": 10002040,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 41,
+    "RequiredPoint": 41000,
+    "NormalRewardCode": 10001041,
+    "SpecialRewardCode": 10002041,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 42,
+    "RequiredPoint": 42000,
+    "NormalRewardCode": 10001042,
+    "SpecialRewardCode": 10002042,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 43,
+    "RequiredPoint": 43000,
+    "NormalRewardCode": 10001043,
+    "SpecialRewardCode": 10002043,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 44,
+    "RequiredPoint": 44000,
+    "NormalRewardCode": 10001044,
+    "SpecialRewardCode": 10002044,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 45,
+    "RequiredPoint": 45000,
+    "NormalRewardCode": 10001045,
+    "SpecialRewardCode": 10002045,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 46,
+    "RequiredPoint": 46000,
+    "NormalRewardCode": 10001046,
+    "SpecialRewardCode": 10002046,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 47,
+    "RequiredPoint": 47000,
+    "NormalRewardCode": 10001047,
+    "SpecialRewardCode": 10002047,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 48,
+    "RequiredPoint": 48000,
+    "NormalRewardCode": 10001048,
+    "SpecialRewardCode": 10002048,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 38,
+    "RequiredPoint": 38000,
+    "NormalRewardCode": 10001038,
+    "SpecialRewardCode": 10002038,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 49,
+    "RequiredPoint": 49000,
+    "NormalRewardCode": 10001049,
+    "SpecialRewardCode": 10002049,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 25,
+    "RequiredPoint": 25000,
+    "NormalRewardCode": 10001025,
+    "SpecialRewardCode": 10002025,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 23,
+    "RequiredPoint": 23000,
+    "NormalRewardCode": 10001023,
+    "SpecialRewardCode": 10002023,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 1,
+    "RequiredPoint": 1000,
+    "NormalRewardCode": 10001001,
+    "SpecialRewardCode": 10002001,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 2,
+    "RequiredPoint": 2000,
+    "NormalRewardCode": 10001002,
+    "SpecialRewardCode": 10002002,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 3,
+    "RequiredPoint": 3000,
+    "NormalRewardCode": 10001003,
+    "SpecialRewardCode": 10002003,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 4,
+    "RequiredPoint": 4000,
+    "NormalRewardCode": 10001004,
+    "SpecialRewardCode": 10002004,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 5,
+    "RequiredPoint": 5000,
+    "NormalRewardCode": 10001005,
+    "SpecialRewardCode": 10002005,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 6,
+    "RequiredPoint": 6000,
+    "NormalRewardCode": 10001006,
+    "SpecialRewardCode": 10002006,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 7,
+    "RequiredPoint": 7000,
+    "NormalRewardCode": 10001007,
+    "SpecialRewardCode": 10002007,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 8,
+    "RequiredPoint": 8000,
+    "NormalRewardCode": 10001008,
+    "SpecialRewardCode": 10002008,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 9,
+    "RequiredPoint": 9000,
+    "NormalRewardCode": 10001009,
+    "SpecialRewardCode": 10002009,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 10,
+    "RequiredPoint": 10000,
+    "NormalRewardCode": 10001010,
+    "SpecialRewardCode": 10002010,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 24,
+    "RequiredPoint": 24000,
+    "NormalRewardCode": 10001024,
+    "SpecialRewardCode": 10002024,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 11,
+    "RequiredPoint": 11000,
+    "NormalRewardCode": 10001011,
+    "SpecialRewardCode": 10002011,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 13,
+    "RequiredPoint": 13000,
+    "NormalRewardCode": 10001013,
+    "SpecialRewardCode": 10002013,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 14,
+    "RequiredPoint": 14000,
+    "NormalRewardCode": 10001014,
+    "SpecialRewardCode": 10002014,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 15,
+    "RequiredPoint": 15000,
+    "NormalRewardCode": 10001015,
+    "SpecialRewardCode": 10002015,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 16,
+    "RequiredPoint": 16000,
+    "NormalRewardCode": 10001016,
+    "SpecialRewardCode": 10002016,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 17,
+    "RequiredPoint": 17000,
+    "NormalRewardCode": 10001017,
+    "SpecialRewardCode": 10002017,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 18,
+    "RequiredPoint": 18000,
+    "NormalRewardCode": 10001018,
+    "SpecialRewardCode": 10002018,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 19,
+    "RequiredPoint": 19000,
+    "NormalRewardCode": 10001019,
+    "SpecialRewardCode": 10002019,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 20,
+    "RequiredPoint": 20000,
+    "NormalRewardCode": 10001020,
+    "SpecialRewardCode": 10002020,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 21,
+    "RequiredPoint": 21000,
+    "NormalRewardCode": 10001021,
+    "SpecialRewardCode": 10002021,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 22,
+    "RequiredPoint": 22000,
+    "NormalRewardCode": 10001022,
+    "SpecialRewardCode": 10002022,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 12,
+    "RequiredPoint": 12000,
+    "NormalRewardCode": 10001012,
+    "SpecialRewardCode": 10002012,
+    "IsFeatured": false,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  },
+  {
+    "SeasonPassCode": 1,
+    "Level": 50,
+    "RequiredPoint": 50000,
+    "NormalRewardCode": 10001050,
+    "SpecialRewardCode": 10002050,
+    "IsFeatured": true,
+    "LevelUpCurrencyCode": 100000002,
+    "LevelUpPrice": 160
+  }
+]

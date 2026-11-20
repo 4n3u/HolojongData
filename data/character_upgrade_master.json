@@ -1,0 +1,964 @@
+[
+  {
+    "CharacterCode": 1001,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030003,
+        "Count": 10
+      },
+      {
+        "Code": 400020003,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44100100001
+  },
+  {
+    "CharacterCode": 1002,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 400030007,
+        "Count": 10
+      },
+      {
+        "Code": 400020007,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44100200001
+  },
+  {
+    "CharacterCode": 1003,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030005,
+        "Count": 10
+      },
+      {
+        "Code": 400020005,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44100300001
+  },
+  {
+    "CharacterCode": 1004,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030001,
+        "Count": 10
+      },
+      {
+        "Code": 400020001,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44100400001
+  },
+  {
+    "CharacterCode": 1006,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 400030004,
+        "Count": 10
+      },
+      {
+        "Code": 400020004,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44100600001
+  },
+  {
+    "CharacterCode": 1007,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030008,
+        "Count": 10
+      },
+      {
+        "Code": 400020008,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44100700001
+  },
+  {
+    "CharacterCode": 1008,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 400030006,
+        "Count": 10
+      },
+      {
+        "Code": 400020006,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44100800001
+  },
+  {
+    "CharacterCode": 1009,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 400030005,
+        "Count": 10
+      },
+      {
+        "Code": 400020005,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44100900001
+  },
+  {
+    "CharacterCode": 1011,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030003,
+        "Count": 10
+      },
+      {
+        "Code": 400020003,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44101100001
+  },
+  {
+    "CharacterCode": 1012,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030007,
+        "Count": 10
+      },
+      {
+        "Code": 400020007,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44101200001
+  },
+  {
+    "CharacterCode": 1013,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030005,
+        "Count": 10
+      },
+      {
+        "Code": 400020005,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44101300001
+  },
+  {
+    "CharacterCode": 1015,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 400030002,
+        "Count": 10
+      },
+      {
+        "Code": 400020002,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44101500001
+  },
+  {
+    "CharacterCode": 1016,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 400030001,
+        "Count": 10
+      },
+      {
+        "Code": 400020001,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44101600001
+  },
+  {
+    "CharacterCode": 1017,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030008,
+        "Count": 10
+      },
+      {
+        "Code": 400020008,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44101700001
+  },
+  {
+    "CharacterCode": 1018,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030004,
+        "Count": 10
+      },
+      {
+        "Code": 400020004,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44101800001
+  },
+  {
+    "CharacterCode": 1020,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030006,
+        "Count": 10
+      },
+      {
+        "Code": 400020006,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102000001
+  },
+  {
+    "CharacterCode": 1021,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 400030004,
+        "Count": 10
+      },
+      {
+        "Code": 400020004,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102100001
+  },
+  {
+    "CharacterCode": 1022,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030001,
+        "Count": 10
+      },
+      {
+        "Code": 400020001,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102200001
+  },
+  {
+    "CharacterCode": 1024,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030002,
+        "Count": 10
+      },
+      {
+        "Code": 400020002,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102400001
+  },
+  {
+    "CharacterCode": 1025,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030001,
+        "Count": 10
+      },
+      {
+        "Code": 400020001,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102500001
+  },
+  {
+    "CharacterCode": 1026,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030004,
+        "Count": 10
+      },
+      {
+        "Code": 400020004,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102600001
+  },
+  {
+    "CharacterCode": 1027,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030007,
+        "Count": 10
+      },
+      {
+        "Code": 400020007,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102700001
+  },
+  {
+    "CharacterCode": 1028,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030006,
+        "Count": 10
+      },
+      {
+        "Code": 400020006,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102800001
+  },
+  {
+    "CharacterCode": 1029,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030003,
+        "Count": 10
+      },
+      {
+        "Code": 400020003,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44102900001
+  },
+  {
+    "CharacterCode": 1031,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030008,
+        "Count": 10
+      },
+      {
+        "Code": 400020008,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44103100001
+  },
+  {
+    "CharacterCode": 1032,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030002,
+        "Count": 10
+      },
+      {
+        "Code": 400020002,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44103200001
+  },
+  {
+    "CharacterCode": 1033,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030006,
+        "Count": 10
+      },
+      {
+        "Code": 400020006,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44103300001
+  },
+  {
+    "CharacterCode": 1035,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030003,
+        "Count": 10
+      },
+      {
+        "Code": 400020003,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44103500001
+  },
+  {
+    "CharacterCode": 1037,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 400030005,
+        "Count": 10
+      },
+      {
+        "Code": 400020005,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44103700001
+  },
+  {
+    "CharacterCode": 1038,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 400030008,
+        "Count": 10
+      },
+      {
+        "Code": 400020008,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44103800001
+  },
+  {
+    "CharacterCode": 1039,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 400030002,
+        "Count": 10
+      },
+      {
+        "Code": 400020002,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44103900001
+  },
+  {
+    "CharacterCode": 1040,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 400030001,
+        "Count": 10
+      },
+      {
+        "Code": 400020001,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44104000001
+  },
+  {
+    "CharacterCode": 1041,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010004,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030003,
+        "Count": 10
+      },
+      {
+        "Code": 400020003,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44104100001
+  },
+  {
+    "CharacterCode": 1042,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 400030002,
+        "Count": 10
+      },
+      {
+        "Code": 400020002,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44104200001
+  },
+  {
+    "CharacterCode": 1043,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030006,
+        "Count": 10
+      },
+      {
+        "Code": 400020006,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44104300001
+  },
+  {
+    "CharacterCode": 1044,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010001,
+        "Count": 10
+      },
+      {
+        "Code": 500010005,
+        "Count": 10
+      },
+      {
+        "Code": 400030004,
+        "Count": 10
+      },
+      {
+        "Code": 400020004,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44104400001
+  },
+  {
+    "CharacterCode": 1045,
+    "Items": [
+      {
+        "Code": 500000001,
+        "Count": 10
+      },
+      {
+        "Code": 500010002,
+        "Count": 10
+      },
+      {
+        "Code": 500010003,
+        "Count": 10
+      },
+      {
+        "Code": 400030007,
+        "Count": 10
+      },
+      {
+        "Code": 400020007,
+        "Count": 50
+      }
+    ],
+    "RewardCode": 44104500001
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "1",
+    "IsSunday": true,
+    "IsMonday": true,
+    "IsTuesday": false,
+    "IsWednesday": false,
+    "IsThursday": false,
+    "IsFriday": true,
+    "IsSaturday": false
+  },
+  {
+    "Code": "2",
+    "IsSunday": true,
+    "IsMonday": false,
+    "IsTuesday": true,
+    "IsWednesday": false,
+    "IsThursday": false,
+    "IsFriday": false,
+    "IsSaturday": true
+  },
+  {
+    "Code": "3",
+    "IsSunday": true,
+    "IsMonday": false,
+    "IsTuesday": false,
+    "IsWednesday": true,
+    "IsThursday": false,
+    "IsFriday": true,
+    "IsSaturday": false
+  },
+  {
+    "Code": "4",
+    "IsSunday": true,
+    "IsMonday": false,
+    "IsTuesday": false,
+    "IsWednesday": false,
+    "IsThursday": true,
+    "IsFriday": false,
+    "IsSaturday": true
+  }
+]

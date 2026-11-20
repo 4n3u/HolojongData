@@ -1,0 +1,13 @@
+[
+  {
+    "Index": 1,
+    "UserDataForUnlock": {
+      "Type": 1,
+      "Params": [
+        30006001
+      ]
+    },
+    "TargetCount": 1,
+    "ImageAddress": "UI_Textures_Images_ReviewImage_StoreReviewGuideImage"
+  }
+]

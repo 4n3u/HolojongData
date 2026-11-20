@@ -1,0 +1,2333 @@
+[
+  {
+    "Code": 400000001,
+    "SortOrder": 400000001,
+    "Name": "新米サポーター",
+    "Description": "サポーターの道を歩み始めた証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400000001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030001,
+    "SortOrder": 400030001,
+    "Name": "初心者卒業",
+    "Description": "実績「初級」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030002,
+    "SortOrder": 400030002,
+    "Name": "麻雀有識者",
+    "Description": "実績「中級」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030003,
+    "SortOrder": 400030003,
+    "Name": "スーパーサポーター",
+    "Description": "実績「上級」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030004,
+    "SortOrder": 400030004,
+    "Name": "常連さん",
+    "Description": "実績「常連」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030005,
+    "SortOrder": 400030005,
+    "Name": "推しを求めて",
+    "Description": "実績「アクセサリー」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030006,
+    "SortOrder": 400030006,
+    "Name": "絆の物語",
+    "Description": "実績「サポーター」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030006",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030007,
+    "SortOrder": 400030007,
+    "Name": "対局の心得",
+    "Description": "実績「対局」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030007",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030008,
+    "SortOrder": 400030008,
+    "Name": "千変万化の役録",
+    "Description": "実績「成立役」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030008",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030009,
+    "SortOrder": 400030009,
+    "Name": "神話の領域",
+    "Description": "実績「役満」を全て達成した\nサポーターに与えられる証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030009",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400030010,
+    "SortOrder": 400030010,
+    "Name": "語り継がれる伝説",
+    "Description": "ランクマッチにて持ち点100,000点\n以上で終局した証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400030010",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400040001,
+    "SortOrder": 400040001,
+    "Name": "飛将・一騎当千",
+    "Description": "四暗刻単騎を成立させた証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400040001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400040002,
+    "SortOrder": 400040002,
+    "Name": "十三牌の刺客",
+    "Description": "国士無双十三面待ちを成立させた証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400040002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400040003,
+    "SortOrder": 400040003,
+    "Name": "ザ・グレイテスト・ナイン",
+    "Description": "純正九蓮宝燈を成立させた証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400040003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 400040004,
+    "SortOrder": 400040004,
+    "Name": "四風神、揃い踏み。",
+    "Description": "大四喜を成立させた証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_400040004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000101,
+    "SortOrder": 410000101,
+    "Name": "ホロライブ0期生",
+    "Description": "0期生のキャラクター全員と歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000102,
+    "SortOrder": 410000102,
+    "Name": "ホロライブ1期生",
+    "Description": "1期生のキャラクター全員と歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000102",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000103,
+    "SortOrder": 410000103,
+    "Name": "ホロライブ2期生",
+    "Description": "2期生のキャラクター全員と歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000103",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000104,
+    "SortOrder": 410000104,
+    "Name": "ホロライブ3期生",
+    "Description": "3期生のキャラクター全員と歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000104",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000105,
+    "SortOrder": 410000105,
+    "Name": "ホロライブ4期生",
+    "Description": "4期生のキャラクター全員と歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000105",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000106,
+    "SortOrder": 410000106,
+    "Name": "ホロライブ5期生",
+    "Description": "5期生のキャラクター全員と歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000106",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000107,
+    "SortOrder": 410000107,
+    "Name": "ホロライブゲーマーズ",
+    "Description": "ゲーマーズのキャラクター全員と\n歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000107",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000108,
+    "SortOrder": 410000108,
+    "Name": "秘密結社holoX",
+    "Description": "秘密結社holoXのキャラクター全員と\n歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000108",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000109,
+    "SortOrder": 410000109,
+    "Name": "ReGLOSS",
+    "Description": "ReGLOSSのキャラクター全員と\n歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000109",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410000110,
+    "SortOrder": 410000110,
+    "Name": "FLOW GLOW",
+    "Description": "FLOW GLOWのキャラクター全員と\n歩んだ証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410000110",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410010001,
+    "SortOrder": 410010001,
+    "Name": "ときのそらとの出会い",
+    "Description": "ときのそらとともに\n歩み出した証。",
+    "CharacterCode": 1001,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410010001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410010002,
+    "SortOrder": 410010002,
+    "Name": "ときのそら推し",
+    "Description": "ときのそらと交流し\n親密度を3にした証。",
+    "CharacterCode": 1001,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410010002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410010003,
+    "SortOrder": 410010003,
+    "Name": "そらとも",
+    "Description": "ときのそらを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1001,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410010003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410010004,
+    "SortOrder": 410010004,
+    "Name": "ときのそら一筋",
+    "Description": "ときのそらとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1001,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410010004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410010005,
+    "SortOrder": 410010005,
+    "Name": "ときのそらしか勝たん",
+    "Description": "ときのそらとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1001,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410010005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410010101,
+    "SortOrder": 410010101,
+    "Name": "ときのそらこそが至高",
+    "Description": "0期生　ときのそらを\nスターランク3にした証。",
+    "CharacterCode": 1001,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410010101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410020001,
+    "SortOrder": 410020001,
+    "Name": "ロボ子さんとの出会い",
+    "Description": "ロボ子さんとともに\n歩み出した証。",
+    "CharacterCode": 1002,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410020001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410020002,
+    "SortOrder": 410020002,
+    "Name": "ロボ子さん推し",
+    "Description": "ロボ子さんと交流し\n親密度を3にした証。",
+    "CharacterCode": 1002,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410020002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410020003,
+    "SortOrder": 410020003,
+    "Name": "ろぼさー",
+    "Description": "ロボ子さんを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1002,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410020003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410020004,
+    "SortOrder": 410020004,
+    "Name": "ロボ子さん一筋",
+    "Description": "ロボ子さんとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1002,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410020004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410020005,
+    "SortOrder": 410020005,
+    "Name": "ロボ子さんしか勝たん",
+    "Description": "ロボ子さんとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1002,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410020005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410020101,
+    "SortOrder": 410020101,
+    "Name": "ロボ子さんこそが至高",
+    "Description": "0期生　ロボ子さんを\nスターランク3にした証。",
+    "CharacterCode": 1002,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410020101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410030001,
+    "SortOrder": 410120001,
+    "Name": "AZKiとの出会い",
+    "Description": "AZKiとともに\n歩み出した証。",
+    "CharacterCode": 1003,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410030001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410030002,
+    "SortOrder": 410120002,
+    "Name": "AZKi推し",
+    "Description": "AZKiと交流し\n親密度を3にした証。",
+    "CharacterCode": 1003,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410030002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410030003,
+    "SortOrder": 410120003,
+    "Name": "開拓者",
+    "Description": "AZKiを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1003,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410030003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410030004,
+    "SortOrder": 410120004,
+    "Name": "AZKi一筋",
+    "Description": "AZKiとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1003,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410030004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410030005,
+    "SortOrder": 410120005,
+    "Name": "AZKiしか勝たん",
+    "Description": "AZKiとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1003,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410030005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410030101,
+    "SortOrder": 410120101,
+    "Name": "AZKiこそが至高",
+    "Description": "0期生　AZKiを\nスターランク3にした証。",
+    "CharacterCode": 1003,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410030101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410040001,
+    "SortOrder": 410140001,
+    "Name": "さくらみことの出会い",
+    "Description": "さくらみことともに\n歩み出した証。",
+    "CharacterCode": 1004,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410040001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410040002,
+    "SortOrder": 410140002,
+    "Name": "さくらみこ推し",
+    "Description": "さくらみこと交流し\n親密度を3にした証。",
+    "CharacterCode": 1004,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410040002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410040003,
+    "SortOrder": 410140003,
+    "Name": "35P",
+    "Description": "さくらみこを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1004,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410040003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410040004,
+    "SortOrder": 410140004,
+    "Name": "さくらみこ一筋",
+    "Description": "さくらみことともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1004,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410040004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410040005,
+    "SortOrder": 410140005,
+    "Name": "さくらみこしか勝たん",
+    "Description": "さくらみことともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1004,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410040005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410040101,
+    "SortOrder": 410140101,
+    "Name": "さくらみここそが至高",
+    "Description": "0期生　さくらみこを\nスターランク3にした証。",
+    "CharacterCode": 1004,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410040101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410060001,
+    "SortOrder": 410030001,
+    "Name": "アキ・ローゼンタールとの出会い",
+    "Description": "アキ・ローゼンタールとともに\n歩み出した証。",
+    "CharacterCode": 1006,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410060001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410060002,
+    "SortOrder": 410030002,
+    "Name": "アキ・ローゼンタール推し",
+    "Description": "アキ・ローゼンタールと交流し\n親密度を3にした証。",
+    "CharacterCode": 1006,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410060002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410060003,
+    "SortOrder": 410030003,
+    "Name": "ロゼ隊",
+    "Description": "アキ・ローゼンタールを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1006,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410060003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410060004,
+    "SortOrder": 410030004,
+    "Name": "アキ・ローゼンタール一筋",
+    "Description": "アキ・ローゼンタールとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1006,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410060004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410060005,
+    "SortOrder": 410030005,
+    "Name": "アキ・ローゼンタールしか勝たん",
+    "Description": "アキ・ローゼンタールとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1006,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410060005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410060101,
+    "SortOrder": 410030101,
+    "Name": "アキ・ローゼンタールこそが至高",
+    "Description": "1期生　アキ・ローゼンタールを\nスターランク3にした証。",
+    "CharacterCode": 1006,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410060101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410070001,
+    "SortOrder": 410040001,
+    "Name": "赤井はあととの出会い",
+    "Description": "赤井はあととともに\n歩み出した証。",
+    "CharacterCode": 1007,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410070001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410070002,
+    "SortOrder": 410040002,
+    "Name": "赤井はあと推し",
+    "Description": "赤井はあとと交流し\n親密度を3にした証。",
+    "CharacterCode": 1007,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410070002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410070003,
+    "SortOrder": 410040003,
+    "Name": "はあとん",
+    "Description": "赤井はあとを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1007,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410070003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410070004,
+    "SortOrder": 410040004,
+    "Name": "赤井はあと一筋",
+    "Description": "赤井はあととともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1007,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410070004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410070005,
+    "SortOrder": 410040005,
+    "Name": "赤井はあとしか勝たん",
+    "Description": "赤井はあととともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1007,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410070005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410070101,
+    "SortOrder": 410040101,
+    "Name": "赤井はあとこそが至高",
+    "Description": "1期生　赤井はあとを\nスターランク3にした証。",
+    "CharacterCode": 1007,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410070101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410080001,
+    "SortOrder": 410050001,
+    "Name": "白上フブキとの出会い",
+    "Description": "白上フブキとともに\n歩み出した証。",
+    "CharacterCode": 1008,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410080001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410080002,
+    "SortOrder": 410050002,
+    "Name": "白上フブキ推し",
+    "Description": "白上フブキと交流し\n親密度を3にした証。",
+    "CharacterCode": 1008,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410080002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410080003,
+    "SortOrder": 410050003,
+    "Name": "すこん部",
+    "Description": "白上フブキを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1008,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410080003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410080004,
+    "SortOrder": 410050004,
+    "Name": "白上フブキ一筋",
+    "Description": "白上フブキとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1008,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410080004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410080005,
+    "SortOrder": 410050005,
+    "Name": "白上フブキしか勝たん",
+    "Description": "白上フブキとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1008,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410080005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410080101,
+    "SortOrder": 410050101,
+    "Name": "白上フブキこそが至高",
+    "Description": "1期生/ゲーマーズ\n白上フブキをスターランク3にした証。",
+    "CharacterCode": 1008,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410080101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410089901,
+    "SortOrder": 410059901,
+    "Name": "字一色四暗コーンじゃい!!",
+    "Description": "『【新発見！】牌源郷の謎に迫る！』配信記念\n白上フブキ考案の特別な証。",
+    "CharacterCode": 1008,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410089901",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410090001,
+    "SortOrder": 410060001,
+    "Name": "夏色まつりとの出会い",
+    "Description": "夏色まつりとともに\n歩み出した証。",
+    "CharacterCode": 1009,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410090001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410090002,
+    "SortOrder": 410060002,
+    "Name": "夏色まつり推し",
+    "Description": "夏色まつりと交流し\n親密度を3にした証。",
+    "CharacterCode": 1009,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410090002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410090003,
+    "SortOrder": 410060003,
+    "Name": "まつりす",
+    "Description": "夏色まつりを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1009,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410090003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410090004,
+    "SortOrder": 410060004,
+    "Name": "夏色まつり一筋",
+    "Description": "夏色まつりとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1009,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410090004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410090005,
+    "SortOrder": 410060005,
+    "Name": "夏色まつりしか勝たん",
+    "Description": "夏色まつりとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1009,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410090005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410090101,
+    "SortOrder": 410060101,
+    "Name": "夏色まつりこそが至高",
+    "Description": "1期生　夏色まつりを\nスターランク3にした証。",
+    "CharacterCode": 1009,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410090101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410110001,
+    "SortOrder": 410090001,
+    "Name": "百鬼あやめとの出会い",
+    "Description": "百鬼あやめとともに\n歩み出した証。",
+    "CharacterCode": 1011,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410110001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410110002,
+    "SortOrder": 410090002,
+    "Name": "百鬼あやめ推し",
+    "Description": "百鬼あやめと交流し\n親密度を3にした証。",
+    "CharacterCode": 1011,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410110002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410110003,
+    "SortOrder": 410090003,
+    "Name": "百鬼組",
+    "Description": "百鬼あやめを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1011,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410110003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410110004,
+    "SortOrder": 410090004,
+    "Name": "百鬼あやめ一筋",
+    "Description": "百鬼あやめとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1011,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410110004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410110005,
+    "SortOrder": 410090005,
+    "Name": "百鬼あやめしか勝たん",
+    "Description": "百鬼あやめとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1011,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410110005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410110101,
+    "SortOrder": 410090101,
+    "Name": "百鬼あやめこそが至高",
+    "Description": "2期生　百鬼あやめを\nスターランク3にした証。",
+    "CharacterCode": 1011,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410110101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410120001,
+    "SortOrder": 410100001,
+    "Name": "癒月ちょことの出会い",
+    "Description": "癒月ちょことともに\n歩み出した証。",
+    "CharacterCode": 1012,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410120001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410120002,
+    "SortOrder": 410100002,
+    "Name": "癒月ちょこ推し",
+    "Description": "癒月ちょこと交流し\n親密度を3にした証。",
+    "CharacterCode": 1012,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410120002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410120003,
+    "SortOrder": 410100003,
+    "Name": "ちょこめいと",
+    "Description": "癒月ちょこを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1012,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410120003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410120004,
+    "SortOrder": 410100004,
+    "Name": "癒月ちょこ一筋",
+    "Description": "癒月ちょことともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1012,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410120004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410120005,
+    "SortOrder": 410100005,
+    "Name": "癒月ちょこしか勝たん",
+    "Description": "癒月ちょことともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1012,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410120005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410120101,
+    "SortOrder": 410100101,
+    "Name": "癒月ちょここそが至高",
+    "Description": "2期生　癒月ちょこを\nスターランク3にした証。",
+    "CharacterCode": 1012,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410120101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410130001,
+    "SortOrder": 410110001,
+    "Name": "大空スバルとの出会い",
+    "Description": "大空スバルとともに\n歩み出した証。",
+    "CharacterCode": 1013,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410130001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410130002,
+    "SortOrder": 410110002,
+    "Name": "大空スバル推し",
+    "Description": "大空スバルと交流し\n親密度を3にした証。",
+    "CharacterCode": 1013,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410130002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410130003,
+    "SortOrder": 410110003,
+    "Name": "スバ友",
+    "Description": "大空スバルを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1013,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410130003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410130004,
+    "SortOrder": 410110004,
+    "Name": "大空スバル一筋",
+    "Description": "大空スバルとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1013,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410130004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410130005,
+    "SortOrder": 410110005,
+    "Name": "大空スバルしか勝たん",
+    "Description": "大空スバルとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1013,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410130005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410130101,
+    "SortOrder": 410110101,
+    "Name": "大空スバルこそが至高",
+    "Description": "2期生　大空スバルを\nスターランク3にした証。",
+    "CharacterCode": 1013,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410130101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410150001,
+    "SortOrder": 410180001,
+    "Name": "兎田ぺこらとの出会い",
+    "Description": "兎田ぺこらとともに\n歩み出した証。",
+    "CharacterCode": 1015,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410150001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410150002,
+    "SortOrder": 410180002,
+    "Name": "兎田ぺこら推し",
+    "Description": "兎田ぺこらと交流し\n親密度を3にした証。",
+    "CharacterCode": 1015,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410150002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410150003,
+    "SortOrder": 410180003,
+    "Name": "野うさぎ同盟",
+    "Description": "兎田ぺこらを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1015,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410150003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410150004,
+    "SortOrder": 410180004,
+    "Name": "兎田ぺこら一筋",
+    "Description": "兎田ぺこらとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1015,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410150004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410150005,
+    "SortOrder": 410180005,
+    "Name": "兎田ぺこらしか勝たん",
+    "Description": "兎田ぺこらとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1015,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410150005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410150101,
+    "SortOrder": 410180101,
+    "Name": "兎田ぺこらこそが至高",
+    "Description": "3期生　兎田ぺこらを\nスターランク3にした証。",
+    "CharacterCode": 1015,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410150101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410160001,
+    "SortOrder": 410190001,
+    "Name": "不知火フレアとの出会い",
+    "Description": "不知火フレアとともに\n歩み出した証。",
+    "CharacterCode": 1016,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410160001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410160002,
+    "SortOrder": 410190002,
+    "Name": "不知火フレア推し",
+    "Description": "不知火フレアと交流し\n親密度を3にした証。",
+    "CharacterCode": 1016,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410160002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410160003,
+    "SortOrder": 410190003,
+    "Name": "エルフレンド",
+    "Description": "不知火フレアを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1016,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410160003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410160004,
+    "SortOrder": 410190004,
+    "Name": "不知火フレア一筋",
+    "Description": "不知火フレアとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1016,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410160004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410160005,
+    "SortOrder": 410190005,
+    "Name": "不知火フレアしか勝たん",
+    "Description": "不知火フレアとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1016,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410160005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410160101,
+    "SortOrder": 410190101,
+    "Name": "不知火フレアこそが至高",
+    "Description": "3期生　不知火フレアを\nスターランク3にした証。",
+    "CharacterCode": 1016,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410160101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410170001,
+    "SortOrder": 410200001,
+    "Name": "白銀ノエルとの出会い",
+    "Description": "白銀ノエルとともに\n歩み出した証。",
+    "CharacterCode": 1017,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410170001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410170002,
+    "SortOrder": 410200002,
+    "Name": "白銀ノエル推し",
+    "Description": "白銀ノエルと交流し\n親密度を3にした証。",
+    "CharacterCode": 1017,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410170002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410170003,
+    "SortOrder": 410200003,
+    "Name": "白銀聖騎士団",
+    "Description": "白銀ノエルを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1017,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410170003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410170004,
+    "SortOrder": 410200004,
+    "Name": "白銀ノエル一筋",
+    "Description": "白銀ノエルとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1017,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410170004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410170005,
+    "SortOrder": 410200005,
+    "Name": "白銀ノエルしか勝たん",
+    "Description": "白銀ノエルとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1017,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410170005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410170101,
+    "SortOrder": 410200101,
+    "Name": "白銀ノエルこそが至高",
+    "Description": "3期生　白銀ノエルを\nスターランク3にした証。",
+    "CharacterCode": 1017,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410170101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410180001,
+    "SortOrder": 410210001,
+    "Name": "宝鐘マリンとの出会い",
+    "Description": "宝鐘マリンとともに\n歩み出した証。",
+    "CharacterCode": 1018,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410180001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410180002,
+    "SortOrder": 410210002,
+    "Name": "宝鐘マリン推し",
+    "Description": "宝鐘マリンと交流し\n親密度を3にした証。",
+    "CharacterCode": 1018,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410180002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410180003,
+    "SortOrder": 410210003,
+    "Name": "宝鐘の一味",
+    "Description": "宝鐘マリンを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1018,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410180003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410180004,
+    "SortOrder": 410210004,
+    "Name": "宝鐘マリン一筋",
+    "Description": "宝鐘マリンとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1018,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410180004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410180005,
+    "SortOrder": 410210005,
+    "Name": "宝鐘マリンしか勝たん",
+    "Description": "宝鐘マリンとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1018,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410180005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410180101,
+    "SortOrder": 410210101,
+    "Name": "宝鐘マリンこそが至高",
+    "Description": "3期生　宝鐘マリンを\nスターランク3にした証。",
+    "CharacterCode": 1018,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410180101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410200001,
+    "SortOrder": 410240001,
+    "Name": "角巻わためとの出会い",
+    "Description": "角巻わためとともに\n歩み出した証。",
+    "CharacterCode": 1020,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410200001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410200002,
+    "SortOrder": 410240002,
+    "Name": "角巻わため推し",
+    "Description": "角巻わためと交流し\n親密度を3にした証。",
+    "CharacterCode": 1020,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410200002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410200003,
+    "SortOrder": 410240003,
+    "Name": "わためいと",
+    "Description": "角巻わためを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1020,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410200003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410200004,
+    "SortOrder": 410240004,
+    "Name": "角巻わため一筋",
+    "Description": "角巻わためとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1020,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410200004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410200005,
+    "SortOrder": 410240005,
+    "Name": "角巻わためしか勝たん",
+    "Description": "角巻わためとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1020,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410200005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410200101,
+    "SortOrder": 410240101,
+    "Name": "角巻わためこそが至高",
+    "Description": "4期生　角巻わためを\nスターランク3にした証。",
+    "CharacterCode": 1020,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410200101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410210001,
+    "SortOrder": 410250001,
+    "Name": "常闇トワとの出会い",
+    "Description": "常闇トワとともに\n歩み出した証。",
+    "CharacterCode": 1021,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410210001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410210002,
+    "SortOrder": 410250002,
+    "Name": "常闇トワ推し",
+    "Description": "常闇トワと交流し\n親密度を3にした証。",
+    "CharacterCode": 1021,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410210002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410210003,
+    "SortOrder": 410250003,
+    "Name": "常闇眷属",
+    "Description": "常闇トワを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1021,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410210003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410210004,
+    "SortOrder": 410250004,
+    "Name": "常闇トワ一筋",
+    "Description": "常闇トワとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1021,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410210004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410210005,
+    "SortOrder": 410250005,
+    "Name": "常闇トワしか勝たん",
+    "Description": "常闇トワとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1021,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410210005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410210101,
+    "SortOrder": 410250101,
+    "Name": "常闇トワこそが至高",
+    "Description": "4期生　常闇トワを\nスターランク3にした証。",
+    "CharacterCode": 1021,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410210101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410220001,
+    "SortOrder": 410260001,
+    "Name": "姫森ルーナとの出会い",
+    "Description": "姫森ルーナとともに\n歩み出した証。",
+    "CharacterCode": 1022,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410220001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410220002,
+    "SortOrder": 410260002,
+    "Name": "姫森ルーナ推し",
+    "Description": "姫森ルーナと交流し\n親密度を3にした証。",
+    "CharacterCode": 1022,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410220002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410220003,
+    "SortOrder": 410260003,
+    "Name": "ルーナイト",
+    "Description": "姫森ルーナを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1022,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410220003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410220004,
+    "SortOrder": 410260004,
+    "Name": "姫森ルーナ一筋",
+    "Description": "姫森ルーナとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1022,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410220004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410220005,
+    "SortOrder": 410260005,
+    "Name": "姫森ルーナしか勝たん",
+    "Description": "姫森ルーナとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1022,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410220005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410220101,
+    "SortOrder": 410260101,
+    "Name": "姫森ルーナこそが至高",
+    "Description": "4期生　姫森ルーナを\nスターランク3にした証。",
+    "CharacterCode": 1022,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410220101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410240001,
+    "SortOrder": 410270001,
+    "Name": "雪花ラミィとの出会い",
+    "Description": "雪花ラミィとともに\n歩み出した証。",
+    "CharacterCode": 1024,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410240001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410240002,
+    "SortOrder": 410270002,
+    "Name": "雪花ラミィ推し",
+    "Description": "雪花ラミィと交流し\n親密度を3にした証。",
+    "CharacterCode": 1024,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410240002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410240003,
+    "SortOrder": 410270003,
+    "Name": "雪民",
+    "Description": "雪花ラミィを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1024,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410240003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410240004,
+    "SortOrder": 410270004,
+    "Name": "雪花ラミィ一筋",
+    "Description": "雪花ラミィとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1024,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410240004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410240005,
+    "SortOrder": 410270005,
+    "Name": "雪花ラミィしか勝たん",
+    "Description": "雪花ラミィとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1024,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410240005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410240101,
+    "SortOrder": 410270101,
+    "Name": "雪花ラミィこそが至高",
+    "Description": "5期生　雪花ラミィを\nスターランク3にした証。",
+    "CharacterCode": 1024,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410240101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410250001,
+    "SortOrder": 410280001,
+    "Name": "桃鈴ねねとの出会い",
+    "Description": "桃鈴ねねとともに\n歩み出した証。",
+    "CharacterCode": 1025,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410250001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410250002,
+    "SortOrder": 410280002,
+    "Name": "桃鈴ねね推し",
+    "Description": "桃鈴ねねと交流し\n親密度を3にした証。",
+    "CharacterCode": 1025,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410250002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410250003,
+    "SortOrder": 410280003,
+    "Name": "ねっ子",
+    "Description": "桃鈴ねねを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1025,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410250003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410250004,
+    "SortOrder": 410280004,
+    "Name": "桃鈴ねね一筋",
+    "Description": "桃鈴ねねとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1025,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410250004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410250005,
+    "SortOrder": 410280005,
+    "Name": "桃鈴ねねしか勝たん",
+    "Description": "桃鈴ねねとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1025,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410250005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410250101,
+    "SortOrder": 410280101,
+    "Name": "桃鈴ねねこそが至高",
+    "Description": "5期生　桃鈴ねねを\nスターランク3にした証。",
+    "CharacterCode": 1025,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410250101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410260001,
+    "SortOrder": 410290001,
+    "Name": "獅白ぼたんとの出会い",
+    "Description": "獅白ぼたんとともに\n歩み出した証。",
+    "CharacterCode": 1026,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410260001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410260002,
+    "SortOrder": 410290002,
+    "Name": "獅白ぼたん推し",
+    "Description": "獅白ぼたんと交流し\n親密度を3にした証。",
+    "CharacterCode": 1026,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410260002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410260003,
+    "SortOrder": 410290003,
+    "Name": "SSRB",
+    "Description": "獅白ぼたんを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1026,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410260003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410260004,
+    "SortOrder": 410290004,
+    "Name": "獅白ぼたん一筋",
+    "Description": "獅白ぼたんとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1026,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410260004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410260005,
+    "SortOrder": 410290005,
+    "Name": "獅白ぼたんしか勝たん",
+    "Description": "獅白ぼたんとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1026,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410260005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410260101,
+    "SortOrder": 410290101,
+    "Name": "獅白ぼたんこそが至高",
+    "Description": "通常　獅白ぼたんを\nスターランク3にした証。",
+    "CharacterCode": 1026,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410260101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410270001,
+    "SortOrder": 410300001,
+    "Name": "尾丸ポルカとの出会い",
+    "Description": "尾丸ポルカとともに\n歩み出した証。",
+    "CharacterCode": 1027,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410270001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410270002,
+    "SortOrder": 410300002,
+    "Name": "尾丸ポルカ推し",
+    "Description": "尾丸ポルカと交流し\n親密度を3にした証。",
+    "CharacterCode": 1027,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410270002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410270003,
+    "SortOrder": 410300003,
+    "Name": "座員",
+    "Description": "尾丸ポルカを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1027,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410270003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410270004,
+    "SortOrder": 410300004,
+    "Name": "尾丸ポルカ一筋",
+    "Description": "尾丸ポルカとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1027,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410270004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410270005,
+    "SortOrder": 410300005,
+    "Name": "尾丸ポルカしか勝たん",
+    "Description": "尾丸ポルカとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1027,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410270005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410270101,
+    "SortOrder": 410300101,
+    "Name": "尾丸ポルカこそが至高",
+    "Description": "5期生　尾丸ポルカを\nスターランク3にした証。",
+    "CharacterCode": 1027,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410270101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410280001,
+    "SortOrder": 410130001,
+    "Name": "大神ミオとの出会い",
+    "Description": "大神ミオとともに\n歩み出した証。",
+    "CharacterCode": 1028,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410280001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410280002,
+    "SortOrder": 410130002,
+    "Name": "大神ミオ推し",
+    "Description": "大神ミオと交流し\n親密度を3にした証。",
+    "CharacterCode": 1028,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410280002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410280003,
+    "SortOrder": 410130003,
+    "Name": "ミオファ",
+    "Description": "大神ミオを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1028,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410280003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410280004,
+    "SortOrder": 410130004,
+    "Name": "大神ミオ一筋",
+    "Description": "大神ミオとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1028,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410280004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410280005,
+    "SortOrder": 410130005,
+    "Name": "大神ミオしか勝たん",
+    "Description": "大神ミオとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1028,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410280005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410280101,
+    "SortOrder": 410130101,
+    "Name": "大神ミオこそが至高",
+    "Description": "ゲーマーズ　大神ミオを\nスターランク3にした証。",
+    "CharacterCode": 1028,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410280101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410289901,
+    "SortOrder": 410139901,
+    "Name": "タンヤオピンフドラドラみおーん",
+    "Description": "『【新発見！】牌源郷の謎に迫る！』配信記念\n大神ミオ考案の特別な証。",
+    "CharacterCode": 1028,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410289901",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410290001,
+    "SortOrder": 410150001,
+    "Name": "猫又おかゆとの出会い",
+    "Description": "猫又おかゆとともに\n歩み出した証。",
+    "CharacterCode": 1029,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410290001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410290002,
+    "SortOrder": 410150002,
+    "Name": "猫又おかゆ推し",
+    "Description": "猫又おかゆと交流し\n親密度を3にした証。",
+    "CharacterCode": 1029,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410290002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410290003,
+    "SortOrder": 410150003,
+    "Name": "おにぎりゃー",
+    "Description": "猫又おかゆを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1029,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410290003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410290004,
+    "SortOrder": 410150004,
+    "Name": "猫又おかゆ一筋",
+    "Description": "猫又おかゆとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1029,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410290004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410290005,
+    "SortOrder": 410150005,
+    "Name": "猫又おかゆしか勝たん",
+    "Description": "猫又おかゆとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1029,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410290005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410290101,
+    "SortOrder": 410150101,
+    "Name": "猫又おかゆこそが至高",
+    "Description": "ゲーマーズ　猫又おかゆを\nスターランク3にした証。",
+    "CharacterCode": 1029,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410290101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410310001,
+    "SortOrder": 410310001,
+    "Name": "ラプラス・ダークネスとの出会い",
+    "Description": "ラプラス・ダークネスとともに\n歩み出した証。",
+    "CharacterCode": 1031,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410310001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410310002,
+    "SortOrder": 410310002,
+    "Name": "ラプラス・ダークネス推し",
+    "Description": "ラプラス・ダークネスと交流し\n親密度を3にした証。",
+    "CharacterCode": 1031,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410310002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410310003,
+    "SortOrder": 410310003,
+    "Name": "ぷらすめいと",
+    "Description": "ラプラス・ダークネスを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1031,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410310003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410310004,
+    "SortOrder": 410310004,
+    "Name": "ラプラス・ダークネス一筋",
+    "Description": "ラプラス・ダークネスとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1031,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410310004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410310005,
+    "SortOrder": 410310005,
+    "Name": "ラプラス・ダークネスしか勝たん",
+    "Description": "ラプラス・ダークネスとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1031,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410310005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410310101,
+    "SortOrder": 410310101,
+    "Name": "ラプラス・ダークネスこそが至高",
+    "Description": "秘密結社holoX　ラプラス・ダークネスを\nスターランク3にした証。",
+    "CharacterCode": 1031,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410310101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410320001,
+    "SortOrder": 410320001,
+    "Name": "鷹嶺ルイとの出会い",
+    "Description": "鷹嶺ルイとともに\n歩み出した証。",
+    "CharacterCode": 1032,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410320001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410320002,
+    "SortOrder": 410320002,
+    "Name": "鷹嶺ルイ推し",
+    "Description": "鷹嶺ルイと交流し\n親密度を3にした証。",
+    "CharacterCode": 1032,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410320002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410320003,
+    "SortOrder": 410320003,
+    "Name": "ルイ友",
+    "Description": "鷹嶺ルイを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1032,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410320003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410320004,
+    "SortOrder": 410320004,
+    "Name": "鷹嶺ルイ一筋",
+    "Description": "鷹嶺ルイとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1032,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410320004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410320005,
+    "SortOrder": 410320005,
+    "Name": "鷹嶺ルイしか勝たん",
+    "Description": "鷹嶺ルイとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1032,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410320005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410320101,
+    "SortOrder": 410320101,
+    "Name": "鷹嶺ルイこそが至高",
+    "Description": "秘密結社holoX　鷹嶺ルイを\nスターランク3にした証。",
+    "CharacterCode": 1032,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410320101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410330001,
+    "SortOrder": 410330001,
+    "Name": "博衣こよりとの出会い",
+    "Description": "博衣こよりとともに\n歩み出した証。",
+    "CharacterCode": 1033,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410330001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410330002,
+    "SortOrder": 410330002,
+    "Name": "博衣こより推し",
+    "Description": "博衣こよりと交流し\n親密度を3にした証。",
+    "CharacterCode": 1033,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410330002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410330003,
+    "SortOrder": 410330003,
+    "Name": "こよりの助手くん",
+    "Description": "博衣こよりを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1033,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410330003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410330004,
+    "SortOrder": 410330004,
+    "Name": "博衣こより一筋",
+    "Description": "博衣こよりとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1033,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410330004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410330005,
+    "SortOrder": 410330005,
+    "Name": "博衣こよりしか勝たん",
+    "Description": "博衣こよりとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1033,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410330005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410330101,
+    "SortOrder": 410330101,
+    "Name": "博衣こよりこそが至高",
+    "Description": "秘密結社holoX　博衣こよりを\nスターランク3にした証。",
+    "CharacterCode": 1033,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410330101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410350001,
+    "SortOrder": 410350001,
+    "Name": "風真いろはとの出会い",
+    "Description": "風真いろはとともに\n歩み出した証。",
+    "CharacterCode": 1035,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410350001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410350002,
+    "SortOrder": 410350002,
+    "Name": "風真いろは推し",
+    "Description": "風真いろはと交流し\n親密度を3にした証。",
+    "CharacterCode": 1035,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410350002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410350003,
+    "SortOrder": 410350003,
+    "Name": "かざま隊",
+    "Description": "風真いろはを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1035,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410350003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410350004,
+    "SortOrder": 410350004,
+    "Name": "風真いろは一筋",
+    "Description": "風真いろはとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1035,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410350004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410350005,
+    "SortOrder": 410350005,
+    "Name": "風真いろはしか勝たん",
+    "Description": "風真いろはとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1035,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410350005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410350101,
+    "SortOrder": 410350101,
+    "Name": "風真いろはこそが至高",
+    "Description": "秘密結社holoX　風真いろはを\nスターランク3にした証。",
+    "CharacterCode": 1035,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410350101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410370001,
+    "SortOrder": 410370001,
+    "Name": "音乃瀬奏との出会い",
+    "Description": "音乃瀬奏とともに\n歩み出した証。",
+    "CharacterCode": 1037,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410370001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410370002,
+    "SortOrder": 410370002,
+    "Name": "音乃瀬奏推し",
+    "Description": "音乃瀬奏と交流し\n親密度を3にした証。",
+    "CharacterCode": 1037,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410370002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410370003,
+    "SortOrder": 410370003,
+    "Name": "音の勢",
+    "Description": "音乃瀬奏を最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1037,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410370003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410370004,
+    "SortOrder": 410370004,
+    "Name": "音乃瀬奏一筋",
+    "Description": "音乃瀬奏とともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1037,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410370004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410370005,
+    "SortOrder": 410370005,
+    "Name": "音乃瀬奏しか勝たん",
+    "Description": "音乃瀬奏とともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1037,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410370005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410370101,
+    "SortOrder": 410370101,
+    "Name": "音乃瀬奏こそが至高",
+    "Description": "ReGLOSS　音乃瀬奏を\nスターランク3にした証。",
+    "CharacterCode": 1037,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410370101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410379901,
+    "SortOrder": 410379901,
+    "Name": "おまえら（非公式）",
+    "Description": "『ReGLOSS麻雀最強化計画』配信記念\n音乃瀬奏考案の特別な証。",
+    "CharacterCode": 1037,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410379901",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410380001,
+    "SortOrder": 410380001,
+    "Name": "一条莉々華との出会い",
+    "Description": "一条莉々華とともに\n歩み出した証。",
+    "CharacterCode": 1038,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410380001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410380002,
+    "SortOrder": 410380002,
+    "Name": "一条莉々華推し",
+    "Description": "一条莉々華と交流し\n親密度を3にした証。",
+    "CharacterCode": 1038,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410380002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410380003,
+    "SortOrder": 410380003,
+    "Name": "秘書見習い",
+    "Description": "一条莉々華を最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1038,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410380003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410380004,
+    "SortOrder": 410380004,
+    "Name": "一条莉々華一筋",
+    "Description": "一条莉々華とともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1038,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410380004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410380005,
+    "SortOrder": 410380005,
+    "Name": "一条莉々華しか勝たん",
+    "Description": "一条莉々華とともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1038,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410380005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410380101,
+    "SortOrder": 410380101,
+    "Name": "一条莉々華こそが至高",
+    "Description": "ReGLOSS　一条莉々華を\nスターランク3にした証。",
+    "CharacterCode": 1038,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410380101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410389901,
+    "SortOrder": 410389901,
+    "Name": "限界ジーニアス",
+    "Description": "『ReGLOSS麻雀最強化計画』配信記念\n一条莉々華考案の特別な証。",
+    "CharacterCode": 1038,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410389901",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410390001,
+    "SortOrder": 410390001,
+    "Name": "儒烏風亭らでんとの出会い",
+    "Description": "儒烏風亭らでんとともに\n歩み出した証。",
+    "CharacterCode": 1039,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410390001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410390002,
+    "SortOrder": 410390002,
+    "Name": "儒烏風亭らでん推し",
+    "Description": "儒烏風亭らでんと交流し\n親密度を3にした証。",
+    "CharacterCode": 1039,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410390002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410390003,
+    "SortOrder": 410390003,
+    "Name": "でん同士",
+    "Description": "儒烏風亭らでんを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1039,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410390003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410390004,
+    "SortOrder": 410390004,
+    "Name": "儒烏風亭らでん一筋",
+    "Description": "儒烏風亭らでんとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1039,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410390004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410390005,
+    "SortOrder": 410390005,
+    "Name": "儒烏風亭らでんしか勝たん",
+    "Description": "儒烏風亭らでんとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1039,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410390005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410390101,
+    "SortOrder": 410390101,
+    "Name": "儒烏風亭らでんこそが至高",
+    "Description": "ReGLOSS　儒烏風亭らでんを\nスターランク3にした証。",
+    "CharacterCode": 1039,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410390101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410399901,
+    "SortOrder": 410399901,
+    "Name": "あがり亭かてん",
+    "Description": "『ReGLOSS麻雀最強化計画』配信記念\n儒烏風亭らでん考案の特別な証。",
+    "CharacterCode": 1039,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410399901",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410400001,
+    "SortOrder": 410400001,
+    "Name": "轟はじめとの出会い",
+    "Description": "轟はじめとともに\n歩み出した証。",
+    "CharacterCode": 1040,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410400001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410400002,
+    "SortOrder": 410400002,
+    "Name": "轟はじめ推し",
+    "Description": "轟はじめと交流し\n親密度を3にした証。",
+    "CharacterCode": 1040,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410400002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410400003,
+    "SortOrder": 410400003,
+    "Name": "真っす組",
+    "Description": "轟はじめを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1040,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410400003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410400004,
+    "SortOrder": 410400004,
+    "Name": "轟はじめ一筋",
+    "Description": "轟はじめとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1040,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410400004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410400005,
+    "SortOrder": 410400005,
+    "Name": "轟はじめしか勝たん",
+    "Description": "轟はじめとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1040,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410400005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410400101,
+    "SortOrder": 410400101,
+    "Name": "轟はじめこそが至高",
+    "Description": "ReGLOSS　轟はじめを\nスターランク3にした証。",
+    "CharacterCode": 1040,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410400101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410409901,
+    "SortOrder": 410409901,
+    "Name": "番長無双",
+    "Description": "『ReGLOSS麻雀最強化計画』配信記念\n轟はじめ考案の特別な証。",
+    "CharacterCode": 1040,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410409901",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410410001,
+    "SortOrder": 410410001,
+    "Name": "響咲リオナとの出会い",
+    "Description": "響咲リオナとともに\n歩み出した証。",
+    "CharacterCode": 1041,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410410001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410410002,
+    "SortOrder": 410410002,
+    "Name": "響咲リオナ推し",
+    "Description": "響咲リオナと交流し\n親密度を3にした証。",
+    "CharacterCode": 1041,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410410002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410410003,
+    "SortOrder": 410410003,
+    "Name": "響咲連合",
+    "Description": "響咲リオナを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1041,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410410003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410410004,
+    "SortOrder": 410410004,
+    "Name": "響咲リオナ一筋",
+    "Description": "響咲リオナとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1041,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410410004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410410005,
+    "SortOrder": 410410005,
+    "Name": "響咲リオナしか勝たん",
+    "Description": "響咲リオナとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1041,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410410005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410410101,
+    "SortOrder": 410410101,
+    "Name": "響咲リオナこそが至高",
+    "Description": "FLOW GLOW\n響咲リオナを\nスターランク3にした証。",
+    "CharacterCode": 1041,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410410101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410420001,
+    "SortOrder": 410420001,
+    "Name": "虎金妃笑虎との出会い",
+    "Description": "虎金妃笑虎とともに\n歩み出した証。",
+    "CharacterCode": 1042,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410420001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410420002,
+    "SortOrder": 410420002,
+    "Name": "虎金妃笑虎推し",
+    "Description": "虎金妃笑虎と交流し\n親密度を3にした証。",
+    "CharacterCode": 1042,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410420002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410420003,
+    "SortOrder": 410420003,
+    "Name": "ニコ担",
+    "Description": "虎金妃笑虎を最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1042,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410420003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410420004,
+    "SortOrder": 410420004,
+    "Name": "虎金妃笑虎一筋",
+    "Description": "虎金妃笑虎とともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1042,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410420004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410420005,
+    "SortOrder": 410420005,
+    "Name": "虎金妃笑虎しか勝たん",
+    "Description": "虎金妃笑虎とともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1042,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410420005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410420101,
+    "SortOrder": 410420101,
+    "Name": "虎金妃笑虎こそが至高",
+    "Description": "FLOW GLOW\n虎金妃笑虎を\nスターランク3にした証。",
+    "CharacterCode": 1042,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410420101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410430001,
+    "SortOrder": 410430001,
+    "Name": "水宮枢との出会い",
+    "Description": "水宮枢とともに\n歩み出した証。",
+    "CharacterCode": 1043,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410430001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410430002,
+    "SortOrder": 410430002,
+    "Name": "水宮枢推し",
+    "Description": "水宮枢と交流し\n親密度を3にした証。",
+    "CharacterCode": 1043,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410430002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410430003,
+    "SortOrder": 410430003,
+    "Name": "すうりす",
+    "Description": "水宮枢を最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1043,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410430003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410430004,
+    "SortOrder": 410430004,
+    "Name": "水宮枢一筋",
+    "Description": "水宮枢とともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1043,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410430004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410430005,
+    "SortOrder": 410430005,
+    "Name": "水宮枢しか勝たん",
+    "Description": "水宮枢とともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1043,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410430005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410430101,
+    "SortOrder": 410430101,
+    "Name": "水宮枢こそが至高",
+    "Description": "FLOW GLOW\n水宮枢を\nスターランク3にした証。",
+    "CharacterCode": 1043,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410430101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410440001,
+    "SortOrder": 410440001,
+    "Name": "輪堂千速との出会い",
+    "Description": "輪堂千速とともに\n歩み出した証。",
+    "CharacterCode": 1044,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410440001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410440002,
+    "SortOrder": 410440002,
+    "Name": "輪堂千速推し",
+    "Description": "輪堂千速と交流し\n親密度を3にした証。",
+    "CharacterCode": 1044,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410440002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410440003,
+    "SortOrder": 410440003,
+    "Name": "ちはニック",
+    "Description": "輪堂千速を最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1044,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410440003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410440004,
+    "SortOrder": 410440004,
+    "Name": "輪堂千速一筋",
+    "Description": "輪堂千速とともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1044,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410440004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410440005,
+    "SortOrder": 410440005,
+    "Name": "輪堂千速しか勝たん",
+    "Description": "輪堂千速とともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1044,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410440005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410440101,
+    "SortOrder": 410440101,
+    "Name": "輪堂千速こそが至高",
+    "Description": "FLOW GLOW\n輪堂千速を\nスターランク3にした証。",
+    "CharacterCode": 1044,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410440101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410450001,
+    "SortOrder": 410450001,
+    "Name": "綺々羅々ヴィヴィとの出会い",
+    "Description": "綺々羅々ヴィヴィとともに\n歩み出した証。",
+    "CharacterCode": 1045,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410450001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410450002,
+    "SortOrder": 410450002,
+    "Name": "綺々羅々ヴィヴィ推し",
+    "Description": "綺々羅々ヴィヴィと交流し\n親密度を3にした証。",
+    "CharacterCode": 1045,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410450002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410450003,
+    "SortOrder": 410450003,
+    "Name": "vivid",
+    "Description": "綺々羅々ヴィヴィを最前線で\nサポートしている一流の証。",
+    "CharacterCode": 1045,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410450003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410450004,
+    "SortOrder": 410450004,
+    "Name": "綺々羅々ヴィヴィ一筋",
+    "Description": "綺々羅々ヴィヴィとともに\n対局を100回遊んだ証。",
+    "CharacterCode": 1045,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410450004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410450005,
+    "SortOrder": 410450005,
+    "Name": "綺々羅々ヴィヴィしか勝たん",
+    "Description": "綺々羅々ヴィヴィとともに\n対局を1000回遊んだ証。",
+    "CharacterCode": 1045,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410450005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 410450101,
+    "SortOrder": 410450101,
+    "Name": "綺々羅々ヴィヴィこそが至高",
+    "Description": "FLOW GLOW\n綺々羅々ヴィヴィを\nスターランク3にした証。",
+    "CharacterCode": 1045,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_410450101",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 490000001,
+    "SortOrder": 490000001,
+    "Name": "スーパープレミアムサポーター",
+    "Description": "プレミアムサポーターポイントを\n最大まで貯めた証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_490000001",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 490000002,
+    "SortOrder": 490000002,
+    "Name": "サポーターの導き手",
+    "Description": "フレンドとフレンドマッチをプレイして\n友達招待報酬を獲得した証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_490000002",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 490000003,
+    "SortOrder": 490000003,
+    "Name": "サポーターの一歩",
+    "Description": "フレンドとフレンドマッチをプレイして\n招待ミッション報酬を獲得した証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_490000003",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 490000004,
+    "SortOrder": 490000004,
+    "Name": "カラ鉄パーティ",
+    "Description": "ReGLOSS × カラオケの鉄人\nコラボイベント前半に参加した証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_490000004",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 490000005,
+    "SortOrder": 490000005,
+    "Name": "推し活の鉄人",
+    "Description": "ReGLOSS × カラオケの鉄人\nコラボイベント後半に参加した証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_490000005",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 490000006,
+    "SortOrder": 490000006,
+    "Name": "牌源郷 第一村人",
+    "Description": "いち早く牌源郷に足を踏み入れた証。",
+    "CharacterCode": 0,
+    "ResourceAddress": "UI_Textures_Images_Icon_HonorBanner_HOB_490000006",
+    "ScheduleCode": ""
+  }
+]

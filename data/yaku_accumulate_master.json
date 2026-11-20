@@ -1,0 +1,2210 @@
+[
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1001,
+    "AccumulateCode": 210101005
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1002,
+    "AccumulateCode": 210101006
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1003,
+    "AccumulateCode": 210101007
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1004,
+    "AccumulateCode": 210101008
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1005,
+    "AccumulateCode": 210101009
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1006,
+    "AccumulateCode": 210101010
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1007,
+    "AccumulateCode": 210101011
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1008,
+    "AccumulateCode": 210101012
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1009,
+    "AccumulateCode": 210101013
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1010,
+    "AccumulateCode": 210101014
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1011,
+    "AccumulateCode": 210101015
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1012,
+    "AccumulateCode": 210101016
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1013,
+    "AccumulateCode": 210101017
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1014,
+    "AccumulateCode": 210101018
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1015,
+    "AccumulateCode": 210101019
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1016,
+    "AccumulateCode": 210101024
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1017,
+    "AccumulateCode": 210101025
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1018,
+    "AccumulateCode": 210101026
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1019,
+    "AccumulateCode": 210101027
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1020,
+    "AccumulateCode": 210101028
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1021,
+    "AccumulateCode": 210101029
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1022,
+    "AccumulateCode": 210101030
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1023,
+    "AccumulateCode": 210101031
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1024,
+    "AccumulateCode": 210101032
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1025,
+    "AccumulateCode": 210101033
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1026,
+    "AccumulateCode": 210101034
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1027,
+    "AccumulateCode": 210101035
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1028,
+    "AccumulateCode": 210101036
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1029,
+    "AccumulateCode": 210101037
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1030,
+    "AccumulateCode": 210101038
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1031,
+    "AccumulateCode": 210101039
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 1032,
+    "AccumulateCode": 210101040
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2001,
+    "AccumulateCode": 210101001
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2002,
+    "AccumulateCode": 210101002
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2003,
+    "AccumulateCode": 210101003
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2004,
+    "AccumulateCode": 210101004
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2005,
+    "AccumulateCode": 210101020
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2006,
+    "AccumulateCode": 210101021
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2007,
+    "AccumulateCode": 210101022
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2009,
+    "AccumulateCode": 210101023
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 2010,
+    "AccumulateCode": 210101041
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3000,
+    "AccumulateCode": 220101003
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3001,
+    "AccumulateCode": 220101004
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3002,
+    "AccumulateCode": 220101001
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3003,
+    "AccumulateCode": 220101002
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3004,
+    "AccumulateCode": 220101007
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3005,
+    "AccumulateCode": 220101013
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3006,
+    "AccumulateCode": 220101014
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3007,
+    "AccumulateCode": 220101010
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3008,
+    "AccumulateCode": 220101011
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3009,
+    "AccumulateCode": 220101012
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3010,
+    "AccumulateCode": 220101015
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3011,
+    "AccumulateCode": 220101008
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3012,
+    "AccumulateCode": 220101009
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3013,
+    "AccumulateCode": 220101005
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 3014,
+    "AccumulateCode": 220101006
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 10000,
+    "AccumulateCode": 210101042
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 10001,
+    "AccumulateCode": 210101043
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 10002,
+    "AccumulateCode": 210101044
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 1,
+    "YakuType": 10003,
+    "AccumulateCode": 210101045
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1001,
+    "AccumulateCode": 210102005
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1002,
+    "AccumulateCode": 210102006
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1003,
+    "AccumulateCode": 210102007
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1004,
+    "AccumulateCode": 210102008
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1005,
+    "AccumulateCode": 210102009
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1006,
+    "AccumulateCode": 210102010
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1007,
+    "AccumulateCode": 210102011
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1008,
+    "AccumulateCode": 210102012
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1009,
+    "AccumulateCode": 210102013
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1010,
+    "AccumulateCode": 210102014
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1011,
+    "AccumulateCode": 210102015
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1012,
+    "AccumulateCode": 210102016
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1013,
+    "AccumulateCode": 210102017
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1014,
+    "AccumulateCode": 210102018
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1015,
+    "AccumulateCode": 210102019
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1016,
+    "AccumulateCode": 210102024
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1017,
+    "AccumulateCode": 210102025
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1018,
+    "AccumulateCode": 210102026
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1019,
+    "AccumulateCode": 210102027
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1020,
+    "AccumulateCode": 210102028
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1021,
+    "AccumulateCode": 210102029
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1022,
+    "AccumulateCode": 210102030
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1023,
+    "AccumulateCode": 210102031
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1024,
+    "AccumulateCode": 210102032
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1025,
+    "AccumulateCode": 210102033
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1026,
+    "AccumulateCode": 210102034
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1027,
+    "AccumulateCode": 210102035
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1028,
+    "AccumulateCode": 210102036
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1029,
+    "AccumulateCode": 210102037
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1030,
+    "AccumulateCode": 210102038
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1031,
+    "AccumulateCode": 210102039
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 1032,
+    "AccumulateCode": 210102040
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2001,
+    "AccumulateCode": 210102001
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2002,
+    "AccumulateCode": 210102002
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2003,
+    "AccumulateCode": 210102003
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2004,
+    "AccumulateCode": 210102004
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2005,
+    "AccumulateCode": 210102020
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2006,
+    "AccumulateCode": 210102021
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2007,
+    "AccumulateCode": 210102022
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2009,
+    "AccumulateCode": 210102023
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 2010,
+    "AccumulateCode": 210102041
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3000,
+    "AccumulateCode": 220102003
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3001,
+    "AccumulateCode": 220102004
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3002,
+    "AccumulateCode": 220102001
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3003,
+    "AccumulateCode": 220102002
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3004,
+    "AccumulateCode": 220102007
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3005,
+    "AccumulateCode": 220102013
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3006,
+    "AccumulateCode": 220102014
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3007,
+    "AccumulateCode": 220102010
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3008,
+    "AccumulateCode": 220102011
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3009,
+    "AccumulateCode": 220102012
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3010,
+    "AccumulateCode": 220102015
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3011,
+    "AccumulateCode": 220102008
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3012,
+    "AccumulateCode": 220102009
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3013,
+    "AccumulateCode": 220102005
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 3014,
+    "AccumulateCode": 220102006
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 10000,
+    "AccumulateCode": 210102042
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 10001,
+    "AccumulateCode": 210102043
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 10002,
+    "AccumulateCode": 210102044
+  },
+  {
+    "GameType": 1,
+    "LobbyModeType": 2,
+    "YakuType": 10003,
+    "AccumulateCode": 210102045
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1001,
+    "AccumulateCode": 210201005
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1002,
+    "AccumulateCode": 210201006
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1003,
+    "AccumulateCode": 210201007
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1004,
+    "AccumulateCode": 210201008
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1005,
+    "AccumulateCode": 210201009
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1006,
+    "AccumulateCode": 210201010
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1007,
+    "AccumulateCode": 210201011
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1008,
+    "AccumulateCode": 210201012
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1009,
+    "AccumulateCode": 210201013
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1010,
+    "AccumulateCode": 210201014
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1011,
+    "AccumulateCode": 210201015
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1012,
+    "AccumulateCode": 210201016
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1013,
+    "AccumulateCode": 210201017
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1014,
+    "AccumulateCode": 210201018
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1015,
+    "AccumulateCode": 210201019
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1016,
+    "AccumulateCode": 210201024
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1017,
+    "AccumulateCode": 210201025
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1018,
+    "AccumulateCode": 210201026
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1019,
+    "AccumulateCode": 210201027
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1020,
+    "AccumulateCode": 210201028
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1021,
+    "AccumulateCode": 210201029
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1022,
+    "AccumulateCode": 210201030
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1023,
+    "AccumulateCode": 210201031
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1024,
+    "AccumulateCode": 210201032
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1025,
+    "AccumulateCode": 210201033
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1026,
+    "AccumulateCode": 210201034
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1027,
+    "AccumulateCode": 210201035
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1028,
+    "AccumulateCode": 210201036
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1029,
+    "AccumulateCode": 210201037
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1030,
+    "AccumulateCode": 210201038
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1031,
+    "AccumulateCode": 210201039
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 1032,
+    "AccumulateCode": 210201040
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2001,
+    "AccumulateCode": 210201001
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2002,
+    "AccumulateCode": 210201002
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2003,
+    "AccumulateCode": 210201003
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2004,
+    "AccumulateCode": 210201004
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2005,
+    "AccumulateCode": 210201020
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2006,
+    "AccumulateCode": 210201021
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2007,
+    "AccumulateCode": 210201022
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2009,
+    "AccumulateCode": 210201023
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 2010,
+    "AccumulateCode": 210201041
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3000,
+    "AccumulateCode": 220201003
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3001,
+    "AccumulateCode": 220201004
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3002,
+    "AccumulateCode": 220201001
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3003,
+    "AccumulateCode": 220201002
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3004,
+    "AccumulateCode": 220201007
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3005,
+    "AccumulateCode": 220201013
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3006,
+    "AccumulateCode": 220201014
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3007,
+    "AccumulateCode": 220201010
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3008,
+    "AccumulateCode": 220201011
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3009,
+    "AccumulateCode": 220201012
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3010,
+    "AccumulateCode": 220201015
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3011,
+    "AccumulateCode": 220201008
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3012,
+    "AccumulateCode": 220201009
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3013,
+    "AccumulateCode": 220201005
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3014,
+    "AccumulateCode": 220201006
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3015,
+    "AccumulateCode": 210201057
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 3024,
+    "AccumulateCode": 210201052
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 10000,
+    "AccumulateCode": 210201042
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 10001,
+    "AccumulateCode": 210201043
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 10002,
+    "AccumulateCode": 210201044
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 1,
+    "YakuType": 10003,
+    "AccumulateCode": 210201045
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1001,
+    "AccumulateCode": 210202005
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1002,
+    "AccumulateCode": 210202006
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1003,
+    "AccumulateCode": 210202007
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1004,
+    "AccumulateCode": 210202008
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1005,
+    "AccumulateCode": 210202009
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1006,
+    "AccumulateCode": 210202010
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1007,
+    "AccumulateCode": 210202011
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1008,
+    "AccumulateCode": 210202012
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1009,
+    "AccumulateCode": 210202013
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1010,
+    "AccumulateCode": 210202014
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1011,
+    "AccumulateCode": 210202015
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1012,
+    "AccumulateCode": 210202016
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1013,
+    "AccumulateCode": 210202017
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1014,
+    "AccumulateCode": 210202018
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1015,
+    "AccumulateCode": 210202019
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1016,
+    "AccumulateCode": 210202024
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1017,
+    "AccumulateCode": 210202025
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1018,
+    "AccumulateCode": 210202026
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1019,
+    "AccumulateCode": 210202027
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1020,
+    "AccumulateCode": 210202028
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1021,
+    "AccumulateCode": 210202029
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1022,
+    "AccumulateCode": 210202030
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1023,
+    "AccumulateCode": 210202031
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1024,
+    "AccumulateCode": 210202032
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1025,
+    "AccumulateCode": 210202033
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1026,
+    "AccumulateCode": 210202034
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1027,
+    "AccumulateCode": 210202035
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1028,
+    "AccumulateCode": 210202036
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1029,
+    "AccumulateCode": 210202037
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1030,
+    "AccumulateCode": 210202038
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1031,
+    "AccumulateCode": 210202039
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 1032,
+    "AccumulateCode": 210202040
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2001,
+    "AccumulateCode": 210202001
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2002,
+    "AccumulateCode": 210202002
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2003,
+    "AccumulateCode": 210202003
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2004,
+    "AccumulateCode": 210202004
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2005,
+    "AccumulateCode": 210202020
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2006,
+    "AccumulateCode": 210202021
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2007,
+    "AccumulateCode": 210202022
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2009,
+    "AccumulateCode": 210202023
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 2010,
+    "AccumulateCode": 210202041
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3000,
+    "AccumulateCode": 220202003
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3001,
+    "AccumulateCode": 220202004
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3002,
+    "AccumulateCode": 220202001
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3003,
+    "AccumulateCode": 220202002
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3004,
+    "AccumulateCode": 220202007
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3005,
+    "AccumulateCode": 220202013
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3006,
+    "AccumulateCode": 220202014
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3007,
+    "AccumulateCode": 220202010
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3008,
+    "AccumulateCode": 220202011
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3009,
+    "AccumulateCode": 220202012
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3010,
+    "AccumulateCode": 220202015
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3011,
+    "AccumulateCode": 220202008
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3012,
+    "AccumulateCode": 220202009
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3013,
+    "AccumulateCode": 220202005
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3014,
+    "AccumulateCode": 220202006
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3015,
+    "AccumulateCode": 210202057
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 3024,
+    "AccumulateCode": 210202052
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 10000,
+    "AccumulateCode": 210202042
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 10001,
+    "AccumulateCode": 210202043
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 10002,
+    "AccumulateCode": 210202044
+  },
+  {
+    "GameType": 2,
+    "LobbyModeType": 2,
+    "YakuType": 10003,
+    "AccumulateCode": 210202045
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1001,
+    "AccumulateCode": 210301005
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1002,
+    "AccumulateCode": 210301006
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1003,
+    "AccumulateCode": 210301007
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1004,
+    "AccumulateCode": 210301008
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1005,
+    "AccumulateCode": 210301009
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1006,
+    "AccumulateCode": 210301010
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1007,
+    "AccumulateCode": 210301011
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1008,
+    "AccumulateCode": 210301012
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1009,
+    "AccumulateCode": 210301013
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1010,
+    "AccumulateCode": 210301014
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1011,
+    "AccumulateCode": 210301015
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1012,
+    "AccumulateCode": 210301016
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1013,
+    "AccumulateCode": 210301017
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1014,
+    "AccumulateCode": 210301018
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1015,
+    "AccumulateCode": 210301019
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1016,
+    "AccumulateCode": 210301024
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1017,
+    "AccumulateCode": 210301025
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1018,
+    "AccumulateCode": 210301026
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1019,
+    "AccumulateCode": 210301027
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1020,
+    "AccumulateCode": 210301028
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1021,
+    "AccumulateCode": 210301029
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1022,
+    "AccumulateCode": 210301030
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1023,
+    "AccumulateCode": 210301031
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1024,
+    "AccumulateCode": 210301032
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1025,
+    "AccumulateCode": 210301033
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1026,
+    "AccumulateCode": 210301034
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1027,
+    "AccumulateCode": 210301035
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1028,
+    "AccumulateCode": 210301036
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1029,
+    "AccumulateCode": 210301037
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1030,
+    "AccumulateCode": 210301038
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1031,
+    "AccumulateCode": 210301039
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 1032,
+    "AccumulateCode": 210301040
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2001,
+    "AccumulateCode": 210301001
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2002,
+    "AccumulateCode": 210301002
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2003,
+    "AccumulateCode": 210301003
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2004,
+    "AccumulateCode": 210301004
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2005,
+    "AccumulateCode": 210301020
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2006,
+    "AccumulateCode": 210301021
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2007,
+    "AccumulateCode": 210301022
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2009,
+    "AccumulateCode": 210301023
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 2010,
+    "AccumulateCode": 210301041
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3000,
+    "AccumulateCode": 220301003
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3001,
+    "AccumulateCode": 220301004
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3002,
+    "AccumulateCode": 220301001
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3003,
+    "AccumulateCode": 220301002
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3004,
+    "AccumulateCode": 220301007
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3005,
+    "AccumulateCode": 220301013
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3006,
+    "AccumulateCode": 220301014
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3007,
+    "AccumulateCode": 220301010
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3008,
+    "AccumulateCode": 220301011
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3009,
+    "AccumulateCode": 220301012
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3010,
+    "AccumulateCode": 220301015
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3011,
+    "AccumulateCode": 220301008
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3012,
+    "AccumulateCode": 220301009
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3013,
+    "AccumulateCode": 220301005
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3014,
+    "AccumulateCode": 220301006
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3015,
+    "AccumulateCode": 210301057
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 3024,
+    "AccumulateCode": 210301052
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 10000,
+    "AccumulateCode": 210301042
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 10001,
+    "AccumulateCode": 210301043
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 10002,
+    "AccumulateCode": 210301044
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 1,
+    "YakuType": 10003,
+    "AccumulateCode": 210301045
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1001,
+    "AccumulateCode": 210302005
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1002,
+    "AccumulateCode": 210302006
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1003,
+    "AccumulateCode": 210302007
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1004,
+    "AccumulateCode": 210302008
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1005,
+    "AccumulateCode": 210302009
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1006,
+    "AccumulateCode": 210302010
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1007,
+    "AccumulateCode": 210302011
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1008,
+    "AccumulateCode": 210302012
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1009,
+    "AccumulateCode": 210302013
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1010,
+    "AccumulateCode": 210302014
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1011,
+    "AccumulateCode": 210302015
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1012,
+    "AccumulateCode": 210302016
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1013,
+    "AccumulateCode": 210302017
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1014,
+    "AccumulateCode": 210302018
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1015,
+    "AccumulateCode": 210302019
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1016,
+    "AccumulateCode": 210302024
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1017,
+    "AccumulateCode": 210302025
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1018,
+    "AccumulateCode": 210302026
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1019,
+    "AccumulateCode": 210302027
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1020,
+    "AccumulateCode": 210302028
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1021,
+    "AccumulateCode": 210302029
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1022,
+    "AccumulateCode": 210302030
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1023,
+    "AccumulateCode": 210302031
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1024,
+    "AccumulateCode": 210302032
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1025,
+    "AccumulateCode": 210302033
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1026,
+    "AccumulateCode": 210302034
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1027,
+    "AccumulateCode": 210302035
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1028,
+    "AccumulateCode": 210302036
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1029,
+    "AccumulateCode": 210302037
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1030,
+    "AccumulateCode": 210302038
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1031,
+    "AccumulateCode": 210302039
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 1032,
+    "AccumulateCode": 210302040
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2001,
+    "AccumulateCode": 210302001
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2002,
+    "AccumulateCode": 210302002
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2003,
+    "AccumulateCode": 210302003
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2004,
+    "AccumulateCode": 210302004
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2005,
+    "AccumulateCode": 210302020
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2006,
+    "AccumulateCode": 210302021
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2007,
+    "AccumulateCode": 210302022
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2009,
+    "AccumulateCode": 210302023
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 2010,
+    "AccumulateCode": 210302041
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3000,
+    "AccumulateCode": 220302003
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3001,
+    "AccumulateCode": 220302004
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3002,
+    "AccumulateCode": 220302001
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3003,
+    "AccumulateCode": 220302002
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3004,
+    "AccumulateCode": 220302007
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3005,
+    "AccumulateCode": 220302013
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3006,
+    "AccumulateCode": 220302014
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3007,
+    "AccumulateCode": 220302010
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3008,
+    "AccumulateCode": 220302011
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3009,
+    "AccumulateCode": 220302012
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3010,
+    "AccumulateCode": 220302015
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3011,
+    "AccumulateCode": 220302008
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3012,
+    "AccumulateCode": 220302009
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3013,
+    "AccumulateCode": 220302005
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3014,
+    "AccumulateCode": 220302006
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3015,
+    "AccumulateCode": 210302057
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 3024,
+    "AccumulateCode": 210302052
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 10000,
+    "AccumulateCode": 210302042
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 10001,
+    "AccumulateCode": 210302043
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 10002,
+    "AccumulateCode": 210302044
+  },
+  {
+    "GameType": 3,
+    "LobbyModeType": 2,
+    "YakuType": 10003,
+    "AccumulateCode": 210302045
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "GroupCode": 900010,
+    "Strength": 1,
+    "ComThinkingCode": 900011
+  },
+  {
+    "GroupCode": 900010,
+    "Strength": 2,
+    "ComThinkingCode": 900012
+  },
+  {
+    "GroupCode": 900010,
+    "Strength": 3,
+    "ComThinkingCode": 900013
+  },
+  {
+    "GroupCode": 900020,
+    "Strength": 1,
+    "ComThinkingCode": 900021
+  },
+  {
+    "GroupCode": 900020,
+    "Strength": 2,
+    "ComThinkingCode": 900022
+  },
+  {
+    "GroupCode": 900020,
+    "Strength": 3,
+    "ComThinkingCode": 900023
+  },
+  {
+    "GroupCode": 900030,
+    "Strength": 1,
+    "ComThinkingCode": 900031
+  },
+  {
+    "GroupCode": 900030,
+    "Strength": 2,
+    "ComThinkingCode": 900032
+  },
+  {
+    "GroupCode": 900030,
+    "Strength": 3,
+    "ComThinkingCode": 900033
+  }
+]

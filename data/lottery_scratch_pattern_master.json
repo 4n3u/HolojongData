@@ -1,0 +1,83 @@
+[
+  {
+    "Code": 1,
+    "PickupTalentWeight": 25,
+    "TalentAWeight": 25,
+    "TalentBWeight": 25,
+    "TalentCWeight": 25,
+    "AccessoryWeight": 0,
+    "GiftWeight": 0
+  },
+  {
+    "Code": 2,
+    "PickupTalentWeight": 4,
+    "TalentAWeight": 3,
+    "TalentBWeight": 3,
+    "TalentCWeight": 0,
+    "AccessoryWeight": 45,
+    "GiftWeight": 45
+  },
+  {
+    "Code": 3,
+    "PickupTalentWeight": 4,
+    "TalentAWeight": 3,
+    "TalentBWeight": 3,
+    "TalentCWeight": 0,
+    "AccessoryWeight": 45,
+    "GiftWeight": 45
+  },
+  {
+    "Code": 4,
+    "PickupTalentWeight": 0,
+    "TalentAWeight": 33,
+    "TalentBWeight": 33,
+    "TalentCWeight": 33,
+    "AccessoryWeight": 0,
+    "GiftWeight": 0
+  },
+  {
+    "Code": 5,
+    "PickupTalentWeight": 0,
+    "TalentAWeight": 4,
+    "TalentBWeight": 3,
+    "TalentCWeight": 3,
+    "AccessoryWeight": 45,
+    "GiftWeight": 45
+  },
+  {
+    "Code": 6,
+    "PickupTalentWeight": 0,
+    "TalentAWeight": 4,
+    "TalentBWeight": 3,
+    "TalentCWeight": 3,
+    "AccessoryWeight": 45,
+    "GiftWeight": 45
+  },
+  {
+    "Code": 7,
+    "PickupTalentWeight": 20,
+    "TalentAWeight": 20,
+    "TalentBWeight": 20,
+    "TalentCWeight": 20,
+    "AccessoryWeight": 20,
+    "GiftWeight": 20
+  },
+  {
+    "Code": 8,
+    "PickupTalentWeight": 20,
+    "TalentAWeight": 20,
+    "TalentBWeight": 20,
+    "TalentCWeight": 20,
+    "AccessoryWeight": 0,
+    "GiftWeight": 20
+  },
+  {
+    "Code": 9,
+    "PickupTalentWeight": 20,
+    "TalentAWeight": 20,
+    "TalentBWeight": 20,
+    "TalentCWeight": 20,
+    "AccessoryWeight": 20,
+    "GiftWeight": 0
+  }
+]

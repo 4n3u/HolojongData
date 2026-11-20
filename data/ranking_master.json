@@ -1,0 +1,27 @@
+[
+  {
+    "Code": 1001,
+    "RankingCategoryName": "ランク",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 2001,
+    "RankingCategoryName": "トップ回数",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 3001,
+    "RankingCategoryName": "総点数",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 4001,
+    "RankingCategoryName": "役満",
+    "ScheduleCode": ""
+  },
+  {
+    "Code": 5001,
+    "RankingCategoryName": "和了数",
+    "ScheduleCode": ""
+  }
+]

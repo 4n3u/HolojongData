@@ -1,0 +1,3996 @@
+[
+  {
+    "Code": 10010001,
+    "RankingCode": 1001,
+    "RankingName": "ランクマッチランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 1,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "",
+    "LastAggregationScheduleCode": "",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/rankmatch"
+  },
+  {
+    "Code": 10010002,
+    "RankingCode": 1001,
+    "RankingName": "ランクマッチランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 1,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "",
+    "LastAggregationScheduleCode": "",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/rankmatch"
+  },
+  {
+    "Code": 20010001,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010002,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010003,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010001,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010004,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010002,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010005,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010003,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010006,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010004,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010007,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010005,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010008,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010006,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010009,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010007,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010010,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010008,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010011,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010009,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010012,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010010,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010013,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010011,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010014,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010012,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010015,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010013,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010016,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010014,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010017,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010015,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010018,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010016,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010019,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010017,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010020,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010018,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010021,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010019,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010022,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010020,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010023,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010021,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010024,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010022,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010025,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010023,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010026,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010024,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010027,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010025,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010028,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010026,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010029,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010027,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010030,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010028,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010031,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010029,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010032,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010030,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010033,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010031,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010034,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010032,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010035,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010033,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010036,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010034,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010037,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010035,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 20010038,
+    "RankingCode": 2001,
+    "RankingName": "トップ回数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 2,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 20010036,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/top"
+  },
+  {
+    "Code": 30010001,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010002,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010003,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010004,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010005,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010001,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010006,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010002,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010007,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010003,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010008,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010004,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010009,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010005,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010010,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010006,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010011,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010007,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010012,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010008,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010013,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010009,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010014,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010010,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010015,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010011,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010016,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010012,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010017,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010013,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010018,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010014,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010019,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010015,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010020,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010016,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010021,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010017,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010022,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010018,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010023,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010019,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010024,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010020,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010025,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010021,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010026,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010022,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010027,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010023,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010028,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010024,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010029,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010025,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010030,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010026,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010031,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010027,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010032,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010028,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010033,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010029,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010034,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010030,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010035,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010031,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010036,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010032,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010037,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010033,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010038,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010034,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010039,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010035,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010040,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010036,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010041,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010037,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010042,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010038,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010043,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010039,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010044,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010040,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010045,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010041,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010046,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010042,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010047,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010043,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010048,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010044,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010049,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010045,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010050,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010046,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010051,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010047,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010052,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010048,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010053,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010049,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010054,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010050,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010055,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010051,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010056,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010052,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010057,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010053,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010058,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010054,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010059,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010055,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010060,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010056,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010061,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010057,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010062,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010058,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010063,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010059,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010064,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010060,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010065,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010061,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010066,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010062,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010067,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010063,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010068,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010064,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010069,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010065,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010070,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010066,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010071,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010067,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010072,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010068,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010073,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010069,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010074,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "四人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010070,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010075,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人東風",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2
+    ],
+    "PreviousRankingSeasonCode": 30010071,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 30010076,
+    "RankingCode": 3001,
+    "RankingName": "総点数ランキング",
+    "RankingTabName": "三人半荘",
+    "TotallingScore": 3,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      3
+    ],
+    "PreviousRankingSeasonCode": 30010072,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/totalpoint"
+  },
+  {
+    "Code": 40010001,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010002,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010003,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010001,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010004,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010002,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010005,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010003,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010006,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010004,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010007,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010005,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010008,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010006,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010009,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010007,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010010,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010008,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010011,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010009,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010012,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010010,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010013,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010011,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010014,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010012,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010015,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010013,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010016,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010014,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010017,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010015,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010018,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010016,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010019,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010017,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010020,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010018,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010021,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010019,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010022,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010020,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010023,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010021,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010024,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010022,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010025,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010023,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010026,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010024,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010027,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010025,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010028,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010026,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010029,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010027,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010030,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010028,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010031,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010029,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010032,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010030,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010033,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010031,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010034,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010032,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010035,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010033,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010036,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010034,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010037,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      1
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010035,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 40010038,
+    "RankingCode": 4001,
+    "RankingName": "役満ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 4,
+    "ReferenceParams": [
+      1,
+      2
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 40010036,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/yakuman"
+  },
+  {
+    "Code": 50010001,
+    "RankingCode": 5001,
+    "RankingName": "七対子和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      31
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010002,
+    "RankingCode": 5001,
+    "RankingName": "七対子和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      31
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 0,
+    "ScheduleCode": "100070001",
+    "LastAggregationScheduleCode": "100070002",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010003,
+    "RankingCode": 5001,
+    "RankingName": "純全帯幺九和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      39
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010001,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010004,
+    "RankingCode": 5001,
+    "RankingName": "純全帯幺九和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      39
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010002,
+    "ScheduleCode": "100070003",
+    "LastAggregationScheduleCode": "100070004",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010005,
+    "RankingCode": 5001,
+    "RankingName": "三暗刻和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      33
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010003,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010006,
+    "RankingCode": 5001,
+    "RankingName": "三暗刻和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      33
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010004,
+    "ScheduleCode": "100070005",
+    "LastAggregationScheduleCode": "100070006",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010007,
+    "RankingCode": 5001,
+    "RankingName": "海底撈月和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      20
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010005,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010008,
+    "RankingCode": 5001,
+    "RankingName": "海底撈月和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      20
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010006,
+    "ScheduleCode": "100070007",
+    "LastAggregationScheduleCode": "100070008",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010009,
+    "RankingCode": 5001,
+    "RankingName": "ダブル立直和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      3
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010007,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010010,
+    "RankingCode": 5001,
+    "RankingName": "ダブル立直和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      3
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010008,
+    "ScheduleCode": "100070009",
+    "LastAggregationScheduleCode": "100070010",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010011,
+    "RankingCode": 5001,
+    "RankingName": "清一色和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      41
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010009,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010012,
+    "RankingCode": 5001,
+    "RankingName": "清一色和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      41
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010010,
+    "ScheduleCode": "100070011",
+    "LastAggregationScheduleCode": "100070012",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010013,
+    "RankingCode": 5001,
+    "RankingName": "七対子和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      31
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010011,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010014,
+    "RankingCode": 5001,
+    "RankingName": "七対子和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      31
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010012,
+    "ScheduleCode": "100070013",
+    "LastAggregationScheduleCode": "100070014",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010015,
+    "RankingCode": 5001,
+    "RankingName": "純全帯幺九和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      39
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010013,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010016,
+    "RankingCode": 5001,
+    "RankingName": "純全帯幺九和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      39
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010014,
+    "ScheduleCode": "100070015",
+    "LastAggregationScheduleCode": "100070016",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010017,
+    "RankingCode": 5001,
+    "RankingName": "三暗刻和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      33
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010015,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010018,
+    "RankingCode": 5001,
+    "RankingName": "三暗刻和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      33
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010016,
+    "ScheduleCode": "100070017",
+    "LastAggregationScheduleCode": "100070018",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010019,
+    "RankingCode": 5001,
+    "RankingName": "海底撈月和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      20
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010017,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010020,
+    "RankingCode": 5001,
+    "RankingName": "海底撈月和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      20
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010018,
+    "ScheduleCode": "100070019",
+    "LastAggregationScheduleCode": "100070020",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010021,
+    "RankingCode": 5001,
+    "RankingName": "ダブル立直和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      3
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010019,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010022,
+    "RankingCode": 5001,
+    "RankingName": "ダブル立直和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      3
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010020,
+    "ScheduleCode": "100070021",
+    "LastAggregationScheduleCode": "100070022",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010023,
+    "RankingCode": 5001,
+    "RankingName": "清一色和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      41
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010021,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010024,
+    "RankingCode": 5001,
+    "RankingName": "清一色和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      41
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010022,
+    "ScheduleCode": "100070023",
+    "LastAggregationScheduleCode": "100070024",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010025,
+    "RankingCode": 5001,
+    "RankingName": "七対子和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      31
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010023,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010026,
+    "RankingCode": 5001,
+    "RankingName": "七対子和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      31
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010024,
+    "ScheduleCode": "100070025",
+    "LastAggregationScheduleCode": "100070026",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010027,
+    "RankingCode": 5001,
+    "RankingName": "純全帯幺九和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      39
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010025,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010028,
+    "RankingCode": 5001,
+    "RankingName": "純全帯幺九和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      39
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010026,
+    "ScheduleCode": "100070027",
+    "LastAggregationScheduleCode": "100070028",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010029,
+    "RankingCode": 5001,
+    "RankingName": "三暗刻和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      33
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010027,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010030,
+    "RankingCode": 5001,
+    "RankingName": "三暗刻和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      33
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010028,
+    "ScheduleCode": "100070029",
+    "LastAggregationScheduleCode": "100070030",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010031,
+    "RankingCode": 5001,
+    "RankingName": "海底撈月和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      20
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010029,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010032,
+    "RankingCode": 5001,
+    "RankingName": "海底撈月和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      20
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010030,
+    "ScheduleCode": "100070031",
+    "LastAggregationScheduleCode": "100070032",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010033,
+    "RankingCode": 5001,
+    "RankingName": "ダブル立直和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      3
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010031,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010034,
+    "RankingCode": 5001,
+    "RankingName": "ダブル立直和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      3
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010032,
+    "ScheduleCode": "100070033",
+    "LastAggregationScheduleCode": "100070034",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010035,
+    "RankingCode": 5001,
+    "RankingName": "清一色和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      41
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010033,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010036,
+    "RankingCode": 5001,
+    "RankingName": "清一色和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      41
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010034,
+    "ScheduleCode": "100070035",
+    "LastAggregationScheduleCode": "100070036",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010037,
+    "RankingCode": 5001,
+    "RankingName": "七対子和了数ランキング",
+    "RankingTabName": "四人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      1,
+      31
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010035,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  },
+  {
+    "Code": 50010038,
+    "RankingCode": 5001,
+    "RankingName": "七対子和了数ランキング",
+    "RankingTabName": "三人麻雀",
+    "TotallingScore": 5,
+    "ReferenceParams": [
+      1,
+      2,
+      31
+    ],
+    "RoundNumberParams": [
+      2,
+      3
+    ],
+    "PreviousRankingSeasonCode": 50010036,
+    "ScheduleCode": "100070037",
+    "LastAggregationScheduleCode": "100070038",
+    "ParticipationPrizeScheduleCode": "",
+    "RankingRewardCode": 0,
+    "WebUrl": "help/ranking/winning"
+  }
+]
