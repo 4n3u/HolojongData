@@ -21179,14 +21179,14 @@
     "Code": 3010101008,
     "GroupCode": 3010101,
     "Title": "ロンさせないよ",
-    "Description": "1回も放銃せず1戦を終了する。\n（シングルモードは除く）",
+    "Description": "累計4局で放銃しない。\n（シングルモードは除く）",
     "UserDataReference": {
       "Type": 1,
       "Params": [
         3010101008
       ]
     },
-    "TargetCount": 1,
+    "TargetCount": 4,
     "RewardCode": 3010101008,
     "MissionCodeForUnlock": 0,
     "UserDataReferenceForUnlock": {
@@ -21206,8 +21206,8 @@
   {
     "Code": 3010201001,
     "GroupCode": 3010201,
-    "Title": "一発ツモ！",
-    "Description": "リーチ一発でツモアガリする。\n（シングルモードは除く）",
+    "Title": "一発！",
+    "Description": "リーチ一発でアガる。\n（シングルモードは除く）",
     "UserDataReference": {
       "Type": 1,
       "Params": [
@@ -25943,7 +25943,7 @@
     "Code": 3010701085,
     "GroupCode": 3010701,
     "Title": "三人東風：北風の加護",
-    "Description": "ランクマッチ三人東風で\n一局中に北抜きを4回達成する。",
+    "Description": "ランクマッチ三人東風で一局中に\n4回北抜きしてアガる。",
     "UserDataReference": {
       "Type": 1,
       "Params": [
@@ -26503,7 +26503,7 @@
     "Code": 3010701105,
     "GroupCode": 3010701,
     "Title": "三人半荘：北風の加護",
-    "Description": "ランクマッチ三人半荘で一局中に\n北抜きを4回同時に達成してアガる。",
+    "Description": "ランクマッチ三人半荘で一局中に\n4回北抜きしてアガる。",
     "UserDataReference": {
       "Type": 1,
       "Params": [
@@ -27095,7 +27095,7 @@
     "UserDataReference": {
       "Type": 1,
       "Params": [
-        210101001
+        3010801001
       ]
     },
     "TargetCount": 50,
@@ -27123,7 +27123,7 @@
     "UserDataReference": {
       "Type": 1,
       "Params": [
-        210101001
+        3010801001
       ]
     },
     "TargetCount": 200,
@@ -27151,7 +27151,7 @@
     "UserDataReference": {
       "Type": 1,
       "Params": [
-        210101001
+        3010801001
       ]
     },
     "TargetCount": 500,
